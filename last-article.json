@@ -1,7 +1,7 @@
 {
-  "runCount": 96,
-  "lastTitle": "చిన్న ప్రయత్నాలు",
-  "lastDate": "2026-09-07T07:03:57.878Z",
+  "runCount": 97,
+  "lastTitle": "సందేహం ఆలోచన",
+  "lastDate": "2026-09-07T07:20:53.104Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -464,6 +464,12 @@
       "screen": "స్వల్ప ప్రయత్నాలు రోజూ చేస్తే, మన మనసులో ధైర్యం పెరుగుతుంది, ఆ బలం మనకు కొత్త మార్గాలు చూపిస్తుంది, చివరికి విజయం మనకు వస్తుంది.",
       "image": "a sunrise over a quiet forest path, a lone figure walking with a small backpack, camera angle low, cinematic 9:16 vertical framing, warm golden light, subtle mist, conveying a sense of calm determination",
       "topLabel": "BE BRAVE 🦁"
+    },
+    {
+      "title": "సందేహం ఆలోచన",
+      "screen": "సందేహం వచ్చినప్పుడు, మనము ఆగి ఆలోచిస్తే, ఆ ఆలోచన మనకు కొత్త శక్తిని ఇస్తుంది, ఆ శక్తి వల్ల మనము కొత్త దిశను కనుగొంటాం.",
+      "image": "a contemplative young person standing at a crossroads under a clear sky, holding a small lantern, cinematic vertical shot with soft golden hour lighting, reflecting a moment of pause and decision",
+      "topLabel": "TRUE WORDS ⏳"
     }
   ],
   "usedBg": [
@@ -486,7 +492,8 @@
     "37763334",
     "27100093",
     "36207178",
-    "9928858"
+    "9928858",
+    "13723991"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -506,7 +513,8 @@
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
