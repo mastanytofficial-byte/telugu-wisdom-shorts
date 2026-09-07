@@ -1,7 +1,7 @@
 {
-  "runCount": 97,
-  "lastTitle": "సందేహం ఆలోచన",
-  "lastDate": "2026-09-07T07:20:53.104Z",
+  "runCount": 98,
+  "lastTitle": "సవాలుల శక్తి",
+  "lastDate": "2026-09-07T07:29:01.694Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -470,6 +470,12 @@
       "screen": "సందేహం వచ్చినప్పుడు, మనము ఆగి ఆలోచిస్తే, ఆ ఆలోచన మనకు కొత్త శక్తిని ఇస్తుంది, ఆ శక్తి వల్ల మనము కొత్త దిశను కనుగొంటాం.",
       "image": "a contemplative young person standing at a crossroads under a clear sky, holding a small lantern, cinematic vertical shot with soft golden hour lighting, reflecting a moment of pause and decision",
       "topLabel": "TRUE WORDS ⏳"
+    },
+    {
+      "title": "సవాలుల శక్తి",
+      "screen": "ప్రతిరోజూ చిన్న సవాలు మనలను మెరుగుపరుస్తుంది, అది మనలోని బలాన్ని పెంచుతుంది, ఆ బలం వల్ల మన లక్ష్యాన్ని చేరుకునే మార్గం వేగంగా జరుగుతుంది.",
+      "image": "A young adult standing on a cliff at sunrise, looking toward distant mountains, with a subtle golden glow highlighting determination, cinematic vertical composition, dramatic sky, wide lens.",
+      "topLabel": "REALITY OF LIFE 💯"
     }
   ],
   "usedBg": [
@@ -493,7 +499,8 @@
     "27100093",
     "36207178",
     "9928858",
-    "13723991"
+    "13723991",
+    "35259662"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -514,7 +521,8 @@
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
