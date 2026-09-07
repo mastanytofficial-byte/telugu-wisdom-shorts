@@ -1,7 +1,7 @@
 {
-  "runCount": 103,
-  "lastTitle": "స్వప్నాల రహస్యం",
-  "lastDate": "2026-09-07T19:08:40.544Z",
+  "runCount": 104,
+  "lastTitle": "సవాళ్ల పరుగు",
+  "lastDate": "2026-09-07T20:35:30.604Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -506,6 +506,12 @@
       "screen": "విధి అనిశ్చితంగా అనిపించినప్పుడూ, మనసులోని ఆశ నీడను తొలగించి, మనం ముందుకు సాగితే, కొత్త అవకాశాలు తెరుచుకుంటాయి, మనకు స్ఫూర్తి ఇచ్చే బలం కూడా లభిస్తుంది.",
       "image": "A lone figure standing on a cliff at sunrise, looking over a vast landscape, with a subtle glow around them, cinematic vertical composition, warm golden hour lighting, dramatic clouds, capturing a sense of hope and determination.",
       "topLabel": "LIFE LESSON 💡"
+    },
+    {
+      "title": "సవాళ్ల పరుగు",
+      "screen": "సవాళ్లు ఎదురైనప్పుడు మనము ధైర్యాన్ని పెంచుకుంటాం, ఆ బలం మన భవిష్యత్తుని మార్చుతుంది, ఎందుకంటే ప్రతిరోజూ చిన్న ప్రయత్నాలు మనలో సహనాన్ని పెంచుతాయి, అది చివరికి మన విజయాన్ని నడిపిస్తుంది.",
+      "image": "A lone person standing at the edge of a misty cliff at sunrise, looking toward a distant horizon with a hopeful expression, cinematic vertical composition, warm golden light, soft clouds, dramatic sky, high resolution, 9:16 aspect ratio.",
+      "topLabel": "KEEP GROWING 🌱"
     }
   ],
   "usedBg": [
@@ -535,7 +541,8 @@
     "37046244",
     "28651224",
     "10239722",
-    "27660237"
+    "27660237",
+    "14108822"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -562,7 +569,8 @@
     "INNER POWER 🔥",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
