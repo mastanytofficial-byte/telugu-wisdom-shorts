@@ -1,7 +1,7 @@
 {
-  "runCount": 98,
-  "lastTitle": "సవాలుల శక్తి",
-  "lastDate": "2026-09-07T07:29:01.694Z",
+  "runCount": 99,
+  "lastTitle": "చిన్న అడుగులు",
+  "lastDate": "2026-09-07T07:37:42.732Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -476,6 +476,12 @@
       "screen": "ప్రతిరోజూ చిన్న సవాలు మనలను మెరుగుపరుస్తుంది, అది మనలోని బలాన్ని పెంచుతుంది, ఆ బలం వల్ల మన లక్ష్యాన్ని చేరుకునే మార్గం వేగంగా జరుగుతుంది.",
       "image": "A young adult standing on a cliff at sunrise, looking toward distant mountains, with a subtle golden glow highlighting determination, cinematic vertical composition, dramatic sky, wide lens.",
       "topLabel": "REALITY OF LIFE 💯"
+    },
+    {
+      "title": "చిన్న అడుగులు",
+      "screen": "చిన్న అడుగులు వేస్తే, ప్రతి రోజు కొత్త సహనం పెరుగుతుంది, ఆ సహనం వలన మనము ఎదుగుతూ విజయం సాధిస్తాం, దారి మనకు చూపిస్తుంది.",
+      "image": "A lone person walking on a misty mountain path at sunrise, low camera angle, cinematic vertical composition, warm golden light highlighting the path ahead, soft clouds in the background, subtle focus on the steps.",
+      "topLabel": "MINDSET 🧠"
     }
   ],
   "usedBg": [
@@ -500,7 +506,8 @@
     "36207178",
     "9928858",
     "13723991",
-    "35259662"
+    "35259662",
+    "34078238"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -522,7 +529,8 @@
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
