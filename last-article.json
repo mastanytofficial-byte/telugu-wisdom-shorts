@@ -1,7 +1,7 @@
 {
-  "runCount": 99,
-  "lastTitle": "చిన్న అడుగులు",
-  "lastDate": "2026-09-07T07:37:42.732Z",
+  "runCount": 100,
+  "lastTitle": "చిన్న లక్ష్యం",
+  "lastDate": "2026-09-07T13:43:16.618Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -482,6 +482,12 @@
       "screen": "చిన్న అడుగులు వేస్తే, ప్రతి రోజు కొత్త సహనం పెరుగుతుంది, ఆ సహనం వలన మనము ఎదుగుతూ విజయం సాధిస్తాం, దారి మనకు చూపిస్తుంది.",
       "image": "A lone person walking on a misty mountain path at sunrise, low camera angle, cinematic vertical composition, warm golden light highlighting the path ahead, soft clouds in the background, subtle focus on the steps.",
       "topLabel": "MINDSET 🧠"
+    },
+    {
+      "title": "చిన్న లక్ష్యం",
+      "screen": "ప్రతి సాయంత్రం చిన్న లక్ష్యాన్ని పూర్తి చేస్తే, ఆ విజయపు భావన ధైర్యాన్ని పెంచుతుంది, దానివల్ల మన అంతరంగపు వృద్ధి బలంగా మారుతుంది, అప్పుడే కొత్త అవకాశాలు తలుపు తట్టుతాయి.",
+      "image": "a lone individual on a quiet balcony at sunset, city lights beginning to glow, soft golden light illuminating their thoughtful face, cinematic vertical 9:16 composition, shallow depth of field, emphasizing inner strength and personal growth, no text or watermarks",
+      "topLabel": "INNER POWER 🔥"
     }
   ],
   "usedBg": [
@@ -507,7 +513,8 @@
     "9928858",
     "13723991",
     "35259662",
-    "34078238"
+    "34078238",
+    "37046244"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -530,7 +537,8 @@
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
