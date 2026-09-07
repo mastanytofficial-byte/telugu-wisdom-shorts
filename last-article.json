@@ -1,7 +1,7 @@
 {
-  "runCount": 94,
-  "lastTitle": "స్థిరమైన అడుగులు",
-  "lastDate": "2026-09-06T17:25:32.476Z",
+  "runCount": 95,
+  "lastTitle": "కొత్త సవాలు",
+  "lastDate": "2026-09-07T06:05:30.187Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -452,6 +452,12 @@
       "screen": "ఒకేసారి పెద్ద మార్పు తీసుకురావాలని ప్రయత్నించే బదులు, ప్రతి రోజూ చిన్న స్థిరమైన అడుగులు వేస్తే, ఆ నిలకడే దీర్ఘకాలంలో అసలైన మార్పును తీసుకువస్తుంది.",
       "image": "small green sprout growing beside a stone step, morning dew, cinematic vertical photography",
       "topLabel": "KEEP GROWING 🌱"
+    },
+    {
+      "title": "కొత్త సవాలు",
+      "screen": "కొత్త సవాలు తీసుకుంటే, మన అంతరాత్మలోని ఆశలు పునరుజ్జీవితమవుతాయి, పునరుజ్జీవిత ఆశలు మనకు కొత్త బలాన్ని అందిస్తాయి, ఆ బలం మనకు కొత్త సాహసాన్ని చూపిస్తుంది.",
+      "image": "A lone figure standing at the edge of a misty cliff under a golden sunrise, looking forward with a hopeful expression, cinematic 9:16 composition, dramatic sky, subtle light, high detail, atmospheric mood.",
+      "topLabel": "STAY CALM 🍃"
     }
   ],
   "usedBg": [
@@ -472,7 +478,8 @@
     "38182932",
     "28903401",
     "37763334",
-    "27100093"
+    "27100093",
+    "36207178"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -490,7 +497,8 @@
     "SILENT POWER 🤫",
     "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
