@@ -1,7 +1,7 @@
 {
-  "runCount": 106,
-  "lastTitle": "విశ్వాసం శక్తి",
-  "lastDate": "2026-09-08T07:22:41.233Z",
+  "runCount": 107,
+  "lastTitle": "సహనం దారి",
+  "lastDate": "2026-09-08T12:16:25.178Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -524,6 +524,12 @@
       "screen": "విశ్వాసం లేకుండా మనసు నిరుత్సాహంగా ఉంటుంది, సాహసాన్ని పెంచితే మనకు కొత్త శక్తి లభిస్తుంది, అది మనలను నిజంగా ముందుకు నడిపిస్తుంది.",
       "image": "A solitary figure standing on a rocky cliff at dawn, gazing over a misty valley, cinematic vertical composition, soft golden sunrise light illuminating the horizon, dramatic sky, high detail, realistic lighting.",
       "topLabel": "SILENT POWER 🤫"
+    },
+    {
+      "title": "సహనం దారి",
+      "screen": "సహనం వలనే మనం మనసులోని అనుమానాలను తొలగించగలుగుతాం, ఆ అనుమానాలు తొలగితే మనకు స్పష్టమైన దారిని చూపుతుంది, అదే దారి మనకు కొత్త సాహసాన్ని ఇస్తుంది.",
+      "image": "A lone figure walking slowly along a sunlit forest trail, mist curling around ancient trees, cinematic vertical framing, soft golden hour lighting, evoking calm perseverance",
+      "topLabel": "STAY CALM 🍃"
     }
   ],
   "usedBg": [
@@ -556,7 +562,8 @@
     "27660237",
     "14108822",
     "35843651",
-    "32320020"
+    "32320020",
+    "3775897"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -586,7 +593,8 @@
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
