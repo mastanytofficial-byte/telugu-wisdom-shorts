@@ -1,7 +1,7 @@
 {
-  "runCount": 107,
-  "lastTitle": "సహనం దారి",
-  "lastDate": "2026-09-08T12:16:25.178Z",
+  "runCount": 108,
+  "lastTitle": "సవాళ్ల హృదయం",
+  "lastDate": "2026-09-08T18:04:10.372Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -530,6 +530,12 @@
       "screen": "సహనం వలనే మనం మనసులోని అనుమానాలను తొలగించగలుగుతాం, ఆ అనుమానాలు తొలగితే మనకు స్పష్టమైన దారిని చూపుతుంది, అదే దారి మనకు కొత్త సాహసాన్ని ఇస్తుంది.",
       "image": "A lone figure walking slowly along a sunlit forest trail, mist curling around ancient trees, cinematic vertical framing, soft golden hour lighting, evoking calm perseverance",
       "topLabel": "STAY CALM 🍃"
+    },
+    {
+      "title": "సవాళ్ల హృదయం",
+      "screen": "సవాళ్లు ఎదురైనప్పుడు మనం భయపడటానికి బదులుగా బలాన్ని పెంచుకోవాలి, ఎందుకంటే సహనాన్ని పెంచితే మన హృదయంలో నిలకడైన ధైర్యం పుడుతుంది, అది మన ప్రయాణాన్ని సులభతరం చేస్తుంది.",
+      "image": "A lone person standing on a cliff at sunrise, looking toward a horizon of rolling hills, with a calm yet determined expression, cinematic lighting, 9:16 aspect ratio.",
+      "topLabel": "BE BRAVE 🦁"
     }
   ],
   "usedBg": [
@@ -563,7 +569,8 @@
     "14108822",
     "35843651",
     "32320020",
-    "3775897"
+    "3775897",
+    "36906486"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -594,7 +601,8 @@
     "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
