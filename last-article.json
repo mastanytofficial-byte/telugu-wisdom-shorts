@@ -1,7 +1,7 @@
 {
-  "runCount": 109,
-  "lastTitle": "సంకల్పం పెంచు",
-  "lastDate": "2026-09-09T07:31:57.550Z",
+  "runCount": 110,
+  "lastTitle": "సంకల్పం శక్తి",
+  "lastDate": "2026-09-09T12:27:47.670Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -542,6 +542,12 @@
       "screen": "అభ్యాసం వల్ల మనసు పటిష్టమై, అందువల్ల దృష్టి స్పష్టమై, అప్పుడు మన లక్ష్యాన్ని చేరుకునే మార్గం సులభమవుతుంది, తద్వారా ఆ స్పష్టత మనకు స్థిరమైన సంకల్పాన్ని ఇస్తుంది, చివరికి అది మన ప్రయాణాన్ని పట్టుదల తో నడిపిస్తుంది.",
       "image": "A lone figure standing at the edge of a misty cliff at sunrise, holding a notebook, looking determined, cinematic vertical composition, warm golden light, soft focus, dramatic sky, subtle motion blur.",
       "topLabel": "MINDSET 🧠"
+    },
+    {
+      "title": "సంకల్పం శక్తి",
+      "screen": "ప్రతి ఉదయం నూతన సంకల్పం కలిగితే, మన ఆత్మవిశ్వాసం పెరుగుతుంది, ఆ పట్టుదల మనకు సాధ్యమైన లక్ష్యాలను చేరుకునే మార్గాన్ని చూపుతుంది.",
+      "image": "a cinematic 9:16 vertical composition of a sunrise over a quiet city skyline, a lone figure standing on a rooftop, gazing toward the horizon with a hopeful expression, dramatic lighting, high dynamic range, cinematic style.",
+      "topLabel": "INNER POWER 🔥"
     }
   ],
   "usedBg": [
@@ -577,7 +583,8 @@
     "32320020",
     "3775897",
     "36906486",
-    "37986701"
+    "37986701",
+    "29567291"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -610,7 +617,8 @@
     "SILENT POWER 🤫",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
