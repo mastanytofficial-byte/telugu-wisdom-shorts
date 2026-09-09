@@ -1,7 +1,7 @@
 {
-  "runCount": 108,
-  "lastTitle": "సవాళ్ల హృదయం",
-  "lastDate": "2026-09-08T18:04:10.372Z",
+  "runCount": 109,
+  "lastTitle": "సంకల్పం పెంచు",
+  "lastDate": "2026-09-09T07:31:57.550Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -536,6 +536,12 @@
       "screen": "సవాళ్లు ఎదురైనప్పుడు మనం భయపడటానికి బదులుగా బలాన్ని పెంచుకోవాలి, ఎందుకంటే సహనాన్ని పెంచితే మన హృదయంలో నిలకడైన ధైర్యం పుడుతుంది, అది మన ప్రయాణాన్ని సులభతరం చేస్తుంది.",
       "image": "A lone person standing on a cliff at sunrise, looking toward a horizon of rolling hills, with a calm yet determined expression, cinematic lighting, 9:16 aspect ratio.",
       "topLabel": "BE BRAVE 🦁"
+    },
+    {
+      "title": "సంకల్పం పెంచు",
+      "screen": "అభ్యాసం వల్ల మనసు పటిష్టమై, అందువల్ల దృష్టి స్పష్టమై, అప్పుడు మన లక్ష్యాన్ని చేరుకునే మార్గం సులభమవుతుంది, తద్వారా ఆ స్పష్టత మనకు స్థిరమైన సంకల్పాన్ని ఇస్తుంది, చివరికి అది మన ప్రయాణాన్ని పట్టుదల తో నడిపిస్తుంది.",
+      "image": "A lone figure standing at the edge of a misty cliff at sunrise, holding a notebook, looking determined, cinematic vertical composition, warm golden light, soft focus, dramatic sky, subtle motion blur.",
+      "topLabel": "MINDSET 🧠"
     }
   ],
   "usedBg": [
@@ -570,7 +576,8 @@
     "35843651",
     "32320020",
     "3775897",
-    "36906486"
+    "36906486",
+    "37986701"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -602,7 +609,8 @@
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
     "STAY CALM 🍃",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
