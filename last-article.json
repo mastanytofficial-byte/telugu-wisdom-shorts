@@ -1,7 +1,7 @@
 {
-  "runCount": 111,
-  "lastTitle": "సంకల్పం వృద్ధి",
-  "lastDate": "2026-09-10T07:31:28.940Z",
+  "runCount": 112,
+  "lastTitle": "ధైర్యపు అడుగు",
+  "lastDate": "2026-09-10T07:53:36.918Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -554,6 +554,12 @@
       "screen": "పట్టుదల వల్ల మన లక్ష్యాన్ని సూటిగా గుర్తించగలుగుతుంది, తద్వారా సంకల్పం పెరుగుతుంది, అందువల్ల స్పష్టత మన చర్యలను సరిచేయుతుంది, ఫలితంగా మన ప్రయాణం సులభమవుతుంది.",
       "image": "A lone figure standing at a sunrise-lit crossroads, gazing toward a bright, clear path ahead, with subtle rays of light illuminating the path, cinematic vertical composition, dramatic lighting.",
       "topLabel": "KEEP GROWING 🌱"
+    },
+    {
+      "title": "ధైర్యపు అడుగు",
+      "screen": "భయం పూర్తిగా పోయే వరకు ఆగితే, మనం ఎప్పటికీ ముందుకు అడుగు వేయలేము, భయంతోనే ముందుకు సాగడమే అసలైన ధైర్యం అనిపించుకుంటుంది.",
+      "image": "person stepping forward onto a rope bridge over a misty canyon, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁"
     }
   ],
   "usedBg": [
@@ -591,7 +597,8 @@
     "36906486",
     "37986701",
     "29567291",
-    "30133842"
+    "30133842",
+    "27469578"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -626,7 +633,8 @@
     "BE BRAVE 🦁",
     "MINDSET 🧠",
     "INNER POWER 🔥",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
