@@ -1,7 +1,7 @@
 {
-  "runCount": 112,
-  "lastTitle": "ధైర్యపు అడుగు",
-  "lastDate": "2026-09-10T07:53:36.918Z",
+  "runCount": 113,
+  "lastTitle": "సంకల్పం నిబద్ధత",
+  "lastDate": "2026-09-10T12:21:11.233Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -560,6 +560,12 @@
       "screen": "భయం పూర్తిగా పోయే వరకు ఆగితే, మనం ఎప్పటికీ ముందుకు అడుగు వేయలేము, భయంతోనే ముందుకు సాగడమే అసలైన ధైర్యం అనిపించుకుంటుంది.",
       "image": "person stepping forward onto a rope bridge over a misty canyon, cinematic vertical photography",
       "topLabel": "BE BRAVE 🦁"
+    },
+    {
+      "title": "సంకల్పం నిబద్ధత",
+      "screen": "ఎప్పుడూ ముందుకు సాగితే, మనలోని సంకల్పం స్వయంగా నడుస్తుంది, అది మనకు నిబద్ధత ను ఇస్తుంది, ఆ నిబద్ధత మనకు లక్ష్యాన్ని సాధించడానికి శక్తిని అందిస్తుంది.",
+      "image": "A lone figure standing on a cliff edge at sunrise, silhouette against a dramatic sky, golden light illuminating the horizon, cinematic vertical 9:16 framing, subtle mountain backdrop.",
+      "topLabel": "NEW BEGINNING 🌅"
     }
   ],
   "usedBg": [
@@ -598,7 +604,8 @@
     "37986701",
     "29567291",
     "30133842",
-    "27469578"
+    "27469578",
+    "36369292"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -634,7 +641,8 @@
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "KEEP GROWING 🌱",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
