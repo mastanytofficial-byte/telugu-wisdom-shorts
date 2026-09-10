@@ -1,7 +1,7 @@
 {
-  "runCount": 113,
-  "lastTitle": "సంకల్పం నిబద్ధత",
-  "lastDate": "2026-09-10T12:21:11.233Z",
+  "runCount": 114,
+  "lastTitle": "పట్టుదల స్పష్టత",
+  "lastDate": "2026-09-10T17:54:51.285Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -566,6 +566,12 @@
       "screen": "ఎప్పుడూ ముందుకు సాగితే, మనలోని సంకల్పం స్వయంగా నడుస్తుంది, అది మనకు నిబద్ధత ను ఇస్తుంది, ఆ నిబద్ధత మనకు లక్ష్యాన్ని సాధించడానికి శక్తిని అందిస్తుంది.",
       "image": "A lone figure standing on a cliff edge at sunrise, silhouette against a dramatic sky, golden light illuminating the horizon, cinematic vertical 9:16 framing, subtle mountain backdrop.",
       "topLabel": "NEW BEGINNING 🌅"
+    },
+    {
+      "title": "పట్టుదల స్పష్టత",
+      "screen": "సవాలు వస్తే పట్టుదల పెరుగుతుంది, దాంతో మనలో స్పష్టత వస్తుంది, ఆ స్పష్టత నిర్ణయాలను బలపరచి, లక్ష్యాన్ని త్వరగా చేరే దారి సులభం చేస్తుంది.",
+      "image": "a determined young person standing on a cliff at sunrise, wind blowing, looking ahead over a misty valley, cinematic vertical 9:16 shot, high contrast, dramatic lighting, no text or watermark.",
+      "topLabel": "REALITY OF LIFE 💯"
     }
   ],
   "usedBg": [
@@ -605,7 +611,8 @@
     "29567291",
     "30133842",
     "27469578",
-    "36369292"
+    "36369292",
+    "34451675"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -642,7 +649,8 @@
     "INNER POWER 🔥",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
