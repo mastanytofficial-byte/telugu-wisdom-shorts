@@ -1,7 +1,7 @@
 {
-  "runCount": 110,
-  "lastTitle": "సంకల్పం శక్తి",
-  "lastDate": "2026-09-09T12:27:47.670Z",
+  "runCount": 111,
+  "lastTitle": "సంకల్పం వృద్ధి",
+  "lastDate": "2026-09-10T07:31:28.940Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -548,6 +548,12 @@
       "screen": "ప్రతి ఉదయం నూతన సంకల్పం కలిగితే, మన ఆత్మవిశ్వాసం పెరుగుతుంది, ఆ పట్టుదల మనకు సాధ్యమైన లక్ష్యాలను చేరుకునే మార్గాన్ని చూపుతుంది.",
       "image": "a cinematic 9:16 vertical composition of a sunrise over a quiet city skyline, a lone figure standing on a rooftop, gazing toward the horizon with a hopeful expression, dramatic lighting, high dynamic range, cinematic style.",
       "topLabel": "INNER POWER 🔥"
+    },
+    {
+      "title": "సంకల్పం వృద్ధి",
+      "screen": "పట్టుదల వల్ల మన లక్ష్యాన్ని సూటిగా గుర్తించగలుగుతుంది, తద్వారా సంకల్పం పెరుగుతుంది, అందువల్ల స్పష్టత మన చర్యలను సరిచేయుతుంది, ఫలితంగా మన ప్రయాణం సులభమవుతుంది.",
+      "image": "A lone figure standing at a sunrise-lit crossroads, gazing toward a bright, clear path ahead, with subtle rays of light illuminating the path, cinematic vertical composition, dramatic lighting.",
+      "topLabel": "KEEP GROWING 🌱"
     }
   ],
   "usedBg": [
@@ -584,7 +590,8 @@
     "3775897",
     "36906486",
     "37986701",
-    "29567291"
+    "29567291",
+    "30133842"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -618,7 +625,8 @@
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
