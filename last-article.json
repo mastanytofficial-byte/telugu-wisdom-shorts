@@ -1,7 +1,7 @@
 {
-  "runCount": 118,
-  "lastTitle": "విశ్వాసపు ప్రయాణం",
-  "lastDate": "2026-09-11T12:21:51.455Z",
+  "runCount": 119,
+  "lastTitle": "స్పష్ట దృష్టి",
+  "lastDate": "2026-09-11T17:56:38.261Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -596,10 +596,15 @@
       "screen": "స్వీయ నమ్మకాన్ని పెంచుకుంటూ ముందుకు సాగితే, ప్రతి అడ్డంకి ఒక కొత్త స్పష్టతగా మారుతుంది, అప్పుడే మన ప్రయాణం పట్టుదలతో నిండుతుంది, చివరికి మన లక్ష్యాన్ని సాధించగలుగుతాం.",
       "image": "A lone person standing at the edge of a misty cliff at dawn, looking out over a vast, serene landscape, with soft sunrise light casting long shadows, cinematic 9:16 composition, high depth of field.",
       "topLabel": "STAY CALM 🍃"
+    },
+    {
+      "title": "స్పష్ట దృష్టి",
+      "screen": "ప్రతి చిన్న చర్య లక్ష్యం వైపు దారితీస్తుంది, ఆ దారి స్పష్టంగా కనిపించినప్పుడు స్వీయనమ్మకం పెరుగుతుంది, పెరిగిన నమ్మకం మరింత కృషిని ప్రేరేపిస్తుంది.",
+      "image": "a lone figure walking confidently along a misty mountain path at sunrise, soft golden light illuminating the trail, cinematic vertical 9:16 composition, shallow depth of field, atmospheric clouds, no text or watermarks",
+      "topLabel": "MINDSET 🧠"
     }
   ],
   "usedBg": [
-    "28074817",
     "38288040",
     "4762374",
     "35451292",
@@ -638,10 +643,10 @@
     "37039836",
     "38399156",
     "33850206",
-    "26793258"
+    "26793258",
+    "37907229"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "INNER POWER 🔥",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
@@ -680,7 +685,8 @@
     "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
