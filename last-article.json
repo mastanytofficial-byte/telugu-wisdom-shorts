@@ -1,7 +1,7 @@
 {
-  "runCount": 117,
-  "lastTitle": "స్పష్టత పట్టుదల",
-  "lastDate": "2026-09-11T07:29:41.630Z",
+  "runCount": 118,
+  "lastTitle": "విశ్వాసపు ప్రయాణం",
+  "lastDate": "2026-09-11T12:21:51.455Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -590,10 +590,15 @@
       "screen": "చిన్న లక్ష్యాన్ని స్పష్టంగా నిర్వచించినప్పుడు, దానికి అవసరమైన పట్టుదల పెరుగుతుంది, ఆ పట్టుదల దారిలోని ప్రతి సవాలు దూరంగా కనిపిస్తుంది, దాంతో మీ స్పష్టత మరింత బలపడుతుంది.",
       "image": "a solitary figure on a quiet balcony at sunrise, gazing at a distant city skyline while holding a notebook, cinematic vertical 9:16 shot with soft golden light and shallow depth of field, no text",
       "topLabel": "LIFE LESSON 💡"
+    },
+    {
+      "title": "విశ్వాసపు ప్రయాణం",
+      "screen": "స్వీయ నమ్మకాన్ని పెంచుకుంటూ ముందుకు సాగితే, ప్రతి అడ్డంకి ఒక కొత్త స్పష్టతగా మారుతుంది, అప్పుడే మన ప్రయాణం పట్టుదలతో నిండుతుంది, చివరికి మన లక్ష్యాన్ని సాధించగలుగుతాం.",
+      "image": "A lone person standing at the edge of a misty cliff at dawn, looking out over a vast, serene landscape, with soft sunrise light casting long shadows, cinematic 9:16 composition, high depth of field.",
+      "topLabel": "STAY CALM 🍃"
     }
   ],
   "usedBg": [
-    "26536165",
     "28074817",
     "38288040",
     "4762374",
@@ -632,7 +637,8 @@
     "34451675",
     "37039836",
     "38399156",
-    "33850206"
+    "33850206",
+    "26793258"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -673,7 +679,8 @@
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
