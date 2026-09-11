@@ -1,7 +1,7 @@
 {
-  "runCount": 116,
-  "lastTitle": "నమ్మకం స్పష్టత",
-  "lastDate": "2026-09-11T05:29:52.051Z",
+  "runCount": 117,
+  "lastTitle": "స్పష్టత పట్టుదల",
+  "lastDate": "2026-09-11T07:29:41.630Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -584,10 +584,15 @@
       "screen": "నీ స్వీయనమ్మకం పెరిగితే, ప్రతి చిన్న సవాలు నీకు స్పష్టత ఇస్తుంది, ఆ స్పష్టత నీ లక్ష్యం వైపు అడుగు వేయడానికి శక్తిని పెంచుతుంది.",
       "image": "a solitary figure standing on a misty mountain ridge at sunrise, gazing confidently toward a distant horizon, soft golden light illuminating the scene, cinematic vertical 9:16 composition, high detail, dramatic clouds, no text or watermark.",
       "topLabel": "TRUE WORDS ⏳"
+    },
+    {
+      "title": "స్పష్టత పట్టుదల",
+      "screen": "చిన్న లక్ష్యాన్ని స్పష్టంగా నిర్వచించినప్పుడు, దానికి అవసరమైన పట్టుదల పెరుగుతుంది, ఆ పట్టుదల దారిలోని ప్రతి సవాలు దూరంగా కనిపిస్తుంది, దాంతో మీ స్పష్టత మరింత బలపడుతుంది.",
+      "image": "a solitary figure on a quiet balcony at sunrise, gazing at a distant city skyline while holding a notebook, cinematic vertical 9:16 shot with soft golden light and shallow depth of field, no text",
+      "topLabel": "LIFE LESSON 💡"
     }
   ],
   "usedBg": [
-    "27636293",
     "26536165",
     "28074817",
     "38288040",
@@ -626,7 +631,8 @@
     "36369292",
     "34451675",
     "37039836",
-    "38399156"
+    "38399156",
+    "33850206"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -666,7 +672,8 @@
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
