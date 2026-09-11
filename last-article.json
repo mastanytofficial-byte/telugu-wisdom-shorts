@@ -1,7 +1,7 @@
 {
-  "runCount": 115,
-  "lastTitle": "స్వప్న మార్గం",
-  "lastDate": "2026-09-11T03:59:30.189Z",
+  "runCount": 116,
+  "lastTitle": "నమ్మకం స్పష్టత",
+  "lastDate": "2026-09-11T05:29:52.051Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -578,6 +578,12 @@
       "screen": "ప్రతి ఉదయం కొత్త స్వప్నాన్ని తీసుకుని, మనం పరిశ్రమ తో ఆరంభిస్తే, ఆ సమయం మనకు అచంచలమైన ఫలితాన్ని ఇస్తుంది, అది మన జీవితాన్ని కొత్తగా తీర్చిదిద్దుతుంది.",
       "image": "A lone figure walking toward a sunrise over a quiet meadow, soft warm light illuminating the path, cinematic 9:16 vertical composition, subtle shadows, inspirational mood.",
       "topLabel": "SILENT POWER 🤫"
+    },
+    {
+      "title": "నమ్మకం స్పష్టత",
+      "screen": "నీ స్వీయనమ్మకం పెరిగితే, ప్రతి చిన్న సవాలు నీకు స్పష్టత ఇస్తుంది, ఆ స్పష్టత నీ లక్ష్యం వైపు అడుగు వేయడానికి శక్తిని పెంచుతుంది.",
+      "image": "a solitary figure standing on a misty mountain ridge at sunrise, gazing confidently toward a distant horizon, soft golden light illuminating the scene, cinematic vertical 9:16 composition, high detail, dramatic clouds, no text or watermark.",
+      "topLabel": "TRUE WORDS ⏳"
     }
   ],
   "usedBg": [
@@ -619,7 +625,8 @@
     "27469578",
     "36369292",
     "34451675",
-    "37039836"
+    "37039836",
+    "38399156"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -658,7 +665,8 @@
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
