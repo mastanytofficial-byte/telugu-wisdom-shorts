@@ -1,7 +1,7 @@
 {
-  "runCount": 114,
-  "lastTitle": "పట్టుదల స్పష్టత",
-  "lastDate": "2026-09-10T17:54:51.285Z",
+  "runCount": 115,
+  "lastTitle": "స్వప్న మార్గం",
+  "lastDate": "2026-09-11T03:59:30.189Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -572,6 +572,12 @@
       "screen": "సవాలు వస్తే పట్టుదల పెరుగుతుంది, దాంతో మనలో స్పష్టత వస్తుంది, ఆ స్పష్టత నిర్ణయాలను బలపరచి, లక్ష్యాన్ని త్వరగా చేరే దారి సులభం చేస్తుంది.",
       "image": "a determined young person standing on a cliff at sunrise, wind blowing, looking ahead over a misty valley, cinematic vertical 9:16 shot, high contrast, dramatic lighting, no text or watermark.",
       "topLabel": "REALITY OF LIFE 💯"
+    },
+    {
+      "title": "స్వప్న మార్గం",
+      "screen": "ప్రతి ఉదయం కొత్త స్వప్నాన్ని తీసుకుని, మనం పరిశ్రమ తో ఆరంభిస్తే, ఆ సమయం మనకు అచంచలమైన ఫలితాన్ని ఇస్తుంది, అది మన జీవితాన్ని కొత్తగా తీర్చిదిద్దుతుంది.",
+      "image": "A lone figure walking toward a sunrise over a quiet meadow, soft warm light illuminating the path, cinematic 9:16 vertical composition, subtle shadows, inspirational mood.",
+      "topLabel": "SILENT POWER 🤫"
     }
   ],
   "usedBg": [
@@ -612,7 +618,8 @@
     "30133842",
     "27469578",
     "36369292",
-    "34451675"
+    "34451675",
+    "37039836"
   ],
   "themeHistory": [
     "MINDSET 🧠",
@@ -650,7 +657,8 @@
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
