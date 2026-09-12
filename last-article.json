@@ -1,7 +1,7 @@
 {
-  "runCount": 120,
-  "lastTitle": "నమ్మకపు మార్గం",
-  "lastDate": "2026-09-12T07:18:22.921Z",
+  "runCount": 121,
+  "lastTitle": "మనసు నియంత్రణ",
+  "lastDate": "2026-09-12T11:47:29.715Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -609,10 +609,16 @@
       "image": "A lone figure walking up a misty mountain trail at dawn, the sky glowing with soft orange and pink hues, cinematic 9:16 vertical framing, capturing a sense of purpose and calm determination.",
       "topLabel": "INNER POWER 🔥",
       "hook": "స్వీయ నమ్మకం లేకుండా లక్ష్యాన్ని సాధించగలరా?"
+    },
+    {
+      "title": "మనసు నియంత్రణ",
+      "screen": "బయటి పరిస్థితులను మనం మార్చలేకపోవచ్చు, కానీ వాటికి మనసు ఎలా స్పందిస్తుందో మాత్రం మనమే నిర్ణయించగలం, అదే మనకు నిజమైన స్వేచ్ఛను ఇస్తుంది.",
+      "image": "person sitting calmly in meditation pose on a quiet hilltop at dawn, misty valley below, cinematic vertical photography",
+      "topLabel": "MINDSET 🧠",
+      "hook": "పరిస్థితులు కాదు, నిజంగా మనల్ని నియంత్రించేది ఏమిటో తెలుసా?"
     }
   ],
   "usedBg": [
-    "4762374",
     "35451292",
     "30512846",
     "27694678",
@@ -651,10 +657,10 @@
     "33850206",
     "26793258",
     "37907229",
-    "30639171"
+    "30639171",
+    "39481864"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
@@ -693,7 +699,8 @@
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "MINDSET 🧠",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
