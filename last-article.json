@@ -1,7 +1,7 @@
 {
-  "runCount": 119,
-  "lastTitle": "స్పష్ట దృష్టి",
-  "lastDate": "2026-09-11T17:56:38.261Z",
+  "runCount": 120,
+  "lastTitle": "నమ్మకపు మార్గం",
+  "lastDate": "2026-09-12T07:18:22.921Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -602,10 +602,16 @@
       "screen": "ప్రతి చిన్న చర్య లక్ష్యం వైపు దారితీస్తుంది, ఆ దారి స్పష్టంగా కనిపించినప్పుడు స్వీయనమ్మకం పెరుగుతుంది, పెరిగిన నమ్మకం మరింత కృషిని ప్రేరేపిస్తుంది.",
       "image": "a lone figure walking confidently along a misty mountain path at sunrise, soft golden light illuminating the trail, cinematic vertical 9:16 composition, shallow depth of field, atmospheric clouds, no text or watermarks",
       "topLabel": "MINDSET 🧠"
+    },
+    {
+      "title": "నమ్మకపు మార్గం",
+      "screen": "స్వీయ నమ్మకం పెంచుకోవడం వల్ల మనము ఏ పరిస్థితినైనా ఎదుర్కొనగలము, ఆ నమ్మకం మనకు స్పష్టమైన సంకల్పాన్ని ఇస్తుంది, అది మన చర్యలలో పట్టుదలను పెంచుతుంది.",
+      "image": "A lone figure walking up a misty mountain trail at dawn, the sky glowing with soft orange and pink hues, cinematic 9:16 vertical framing, capturing a sense of purpose and calm determination.",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "స్వీయ నమ్మకం లేకుండా లక్ష్యాన్ని సాధించగలరా?"
     }
   ],
   "usedBg": [
-    "38288040",
     "4762374",
     "35451292",
     "30512846",
@@ -644,10 +650,10 @@
     "38399156",
     "33850206",
     "26793258",
-    "37907229"
+    "37907229",
+    "30639171"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
@@ -686,7 +692,8 @@
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
