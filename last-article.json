@@ -1,7 +1,7 @@
 {
-  "runCount": 124,
-  "lastTitle": "చిన్న అలవాట్లు",
-  "lastDate": "2026-09-13T12:53:18.325Z",
+  "runCount": 125,
+  "lastTitle": "కొత్త దారి",
+  "lastDate": "2026-09-13T17:41:39.195Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -637,10 +637,16 @@
       "image": "a close-up of a hand gently planting a tiny seed in rich soil at sunrise, the seed quickly sprouting into a sapling that grows into a towering tree, vertical 9:16 cinematic shot with soft warm lighting and a serene background",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "చిన్న అలవాట్లు మీ లక్ష్యాన్ని ఎలా సులభం చేస్తాయో తెలుసా?"
+    },
+    {
+      "title": "కొత్త దారి",
+      "screen": "పాత దారులు మూసుకుపోయినప్పుడు నిరాశ చెందాల్సిన పని లేదు, ప్రతి ముగింపు వెనుక ఒక కొత్త దారి మొదలవుతుంది, దాన్ని కనిపెట్టే ధైర్యం మనకు కావాలి.",
+      "image": "single open door glowing with sunrise light at the end of a dark hallway, cinematic vertical photography",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "ఒక దారి మూసుకుపోతే, జీవితం అక్కడితో ఆగిపోతుందా?"
     }
   ],
   "usedBg": [
-    "30068609",
     "10352141",
     "39268112",
     "12213707",
@@ -679,10 +685,10 @@
     "39481864",
     "11265172",
     "37468856",
-    "20515518"
+    "20515518",
+    "33789741"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "BE BRAVE 🦁",
@@ -721,7 +727,8 @@
     "MINDSET 🧠",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
