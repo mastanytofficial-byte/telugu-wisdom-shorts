@@ -1,7 +1,7 @@
 {
-  "runCount": 122,
-  "lastTitle": "సంకల్పం ఏకాగ్రత నిబద్ధత",
-  "lastDate": "2026-09-12T17:28:07.605Z",
+  "runCount": 123,
+  "lastTitle": "ప్రశాంతత శక్తి",
+  "lastDate": "2026-09-13T07:41:35.977Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -623,10 +623,16 @@
       "image": "A close-up of a person meditating in a tranquil forest at dawn, soft golden light filtering through tall trees, cinematic vertical 9:16 composition",
       "topLabel": "LIFE LESSON 💡",
       "hook": "సంకల్పం కలిగితే మీ ఏకాగ్రత ఎంత మెరుగుపడుతుందో ఎప్పుడైనా అనుభవించారా?"
+    },
+    {
+      "title": "ప్రశాంతత శక్తి",
+      "screen": "ప్రతి సమస్యకూ కంగారుగా స్పందించాల్సిన అవసరం లేదు, ప్రశాంతంగా ఆలోచించే మనసు మాత్రమే సరైన పరిష్కారాన్ని కనిపెడుతుంది, అదే నిజమైన తెలివి.",
+      "image": "still lake reflecting mountains at sunrise with soft mist, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "కంగారు కాదు ప్రశాంతతే నిజమైన శక్తి అని మీకు అనిపించిందా?"
     }
   ],
   "usedBg": [
-    "30512846",
     "27694678",
     "30068609",
     "10352141",
@@ -665,10 +671,10 @@
     "37907229",
     "30639171",
     "39481864",
-    "11265172"
+    "11265172",
+    "37468856"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
@@ -707,7 +713,8 @@
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "MINDSET 🧠",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
