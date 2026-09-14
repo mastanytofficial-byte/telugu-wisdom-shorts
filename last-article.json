@@ -1,7 +1,7 @@
 {
-  "runCount": 126,
-  "lastTitle": "గత తప్పులు",
-  "lastDate": "2026-09-14T08:08:22.773Z",
+  "runCount": 127,
+  "lastTitle": "సమయం విలువ",
+  "lastDate": "2026-09-14T14:25:07.969Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -651,10 +651,16 @@
       "image": "torn page floating away from an open journal in soft wind, cinematic vertical photography",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "పాత తప్పులే మిమ్మల్ని ఇంకా ఆపుతున్నాయా, మీరు గమనించారా?"
+    },
+    {
+      "title": "సమయం విలువ",
+      "screen": "గడిచిన సమయం ఎప్పటికీ తిరిగి రాదు, అందుకే ప్రతి క్షణాన్ని జాగ్రత్తగా ఎలా ఉపయోగిస్తామో, అదే మన భవిష్యత్తుని నిజంగా నిర్ణయిస్తుంది.",
+      "image": "hourglass with golden sand on a wooden desk beside a window, soft daylight, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "మీరు ప్రతి రోజు సమయాన్ని ఎలా ఉపయోగిస్తున్నారో గమనించారా?"
     }
   ],
   "usedBg": [
-    "39268112",
     "12213707",
     "32206531",
     "31643898",
@@ -693,10 +699,10 @@
     "37468856",
     "20515518",
     "33789741",
-    "37592292"
+    "37592292",
+    "37357038"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
     "INNER POWER 🔥",
@@ -735,7 +741,8 @@
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
