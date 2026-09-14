@@ -1,7 +1,7 @@
 {
-  "runCount": 127,
-  "lastTitle": "సమయం విలువ",
-  "lastDate": "2026-09-14T14:25:07.969Z",
+  "runCount": 128,
+  "lastTitle": "సంకల్ప మార్గం",
+  "lastDate": "2026-09-14T19:34:58.486Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -658,10 +658,16 @@
       "image": "hourglass with golden sand on a wooden desk beside a window, soft daylight, cinematic vertical photography",
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "మీరు ప్రతి రోజు సమయాన్ని ఎలా ఉపయోగిస్తున్నారో గమనించారా?"
+    },
+    {
+      "title": "సంకల్ప మార్గం",
+      "screen": "ప్రతి అడ్డంకి మన సంకల్పాన్ని పెంచుతుంది, అప్పుడు మన స్పష్టత పెరిగి, మన పట్టుదల లక్ష్యాన్ని చేరుకునే కొత్త దారిని చూపుతుంది.",
+      "image": "A lone person standing at a crossroads in a misty forest at dawn, silhouette against soft sunrise light, cinematic vertical composition, subtle focus on the path ahead, muted color palette.",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "అడ్డంకులు ఎదిరించినప్పుడు మీ సంకల్పం ఎలా మారుతుందో తెలుసుకోవాలనుకుంటున్నారా?"
     }
   ],
   "usedBg": [
-    "12213707",
     "32206531",
     "31643898",
     "38182932",
@@ -700,10 +706,10 @@
     "20515518",
     "33789741",
     "37592292",
-    "37357038"
+    "37357038",
+    "36805627"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "SILENT POWER 🤫",
@@ -742,7 +748,8 @@
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
