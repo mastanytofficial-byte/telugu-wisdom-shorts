@@ -1,7 +1,7 @@
 {
-  "runCount": 125,
-  "lastTitle": "కొత్త దారి",
-  "lastDate": "2026-09-13T17:41:39.195Z",
+  "runCount": 126,
+  "lastTitle": "గత తప్పులు",
+  "lastDate": "2026-09-14T08:08:22.773Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -644,10 +644,16 @@
       "image": "single open door glowing with sunrise light at the end of a dark hallway, cinematic vertical photography",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "ఒక దారి మూసుకుపోతే, జీవితం అక్కడితో ఆగిపోతుందా?"
+    },
+    {
+      "title": "గత తప్పులు",
+      "screen": "గతంలో చేసిన తప్పులను పదేపదే గుర్తుచేసుకుంటూ బాధపడే బదులు, వాటి నుండి నేర్చుకున్న పాఠాన్ని రేపటి కోసం ఉపయోగించుకోవడమే నిజంగా తెలివైన మార్గం.",
+      "image": "torn page floating away from an open journal in soft wind, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "పాత తప్పులే మిమ్మల్ని ఇంకా ఆపుతున్నాయా, మీరు గమనించారా?"
     }
   ],
   "usedBg": [
-    "10352141",
     "39268112",
     "12213707",
     "32206531",
@@ -686,10 +692,10 @@
     "11265172",
     "37468856",
     "20515518",
-    "33789741"
+    "33789741",
+    "37592292"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
@@ -728,7 +734,8 @@
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
