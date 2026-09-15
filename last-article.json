@@ -1,7 +1,7 @@
 {
-  "runCount": 128,
-  "lastTitle": "సంకల్ప మార్గం",
-  "lastDate": "2026-09-14T19:34:58.486Z",
+  "runCount": 129,
+  "lastTitle": "ధైర్యపు క్షణం",
+  "lastDate": "2026-09-15T08:02:22.565Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -665,10 +665,16 @@
       "image": "A lone person standing at a crossroads in a misty forest at dawn, silhouette against soft sunrise light, cinematic vertical composition, subtle focus on the path ahead, muted color palette.",
       "topLabel": "SILENT POWER 🤫",
       "hook": "అడ్డంకులు ఎదిరించినప్పుడు మీ సంకల్పం ఎలా మారుతుందో తెలుసుకోవాలనుకుంటున్నారా?"
+    },
+    {
+      "title": "ధైర్యపు క్షణం",
+      "screen": "భయపడే ప్రతి క్షణంలోనూ ఒక ఎంపిక దాగి ఉంటుంది, ఆగిపోవాలా లేదా ముందుకు సాగాలా అని, ఆ ఎంపికే మన నిజమైన ధైర్యాన్ని నిర్ణయిస్తుంది.",
+      "image": "silhouette of a person standing at the edge of a cliff facing a bright sunrise, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "భయం మరియు ధైర్యం మధ్య ఉన్న ఆ ఒక్క క్షణం ఏమిటో తెలుసా?"
     }
   ],
   "usedBg": [
-    "32206531",
     "31643898",
     "38182932",
     "28903401",
@@ -707,10 +713,10 @@
     "33789741",
     "37592292",
     "37357038",
-    "36805627"
+    "36805627",
+    "27469577"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "INNER POWER 🔥",
     "SILENT POWER 🤫",
     "LIFE LESSON 💡",
@@ -749,7 +755,8 @@
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
