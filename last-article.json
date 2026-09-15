@@ -1,7 +1,7 @@
 {
-  "runCount": 129,
-  "lastTitle": "ధైర్యపు క్షణం",
-  "lastDate": "2026-09-15T08:02:22.565Z",
+  "runCount": 130,
+  "lastTitle": "లోపలి వెలుగు",
+  "lastDate": "2026-09-15T12:55:09.801Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -672,10 +672,16 @@
       "image": "silhouette of a person standing at the edge of a cliff facing a bright sunrise, cinematic vertical photography",
       "topLabel": "BE BRAVE 🦁",
       "hook": "భయం మరియు ధైర్యం మధ్య ఉన్న ఆ ఒక్క క్షణం ఏమిటో తెలుసా?"
+    },
+    {
+      "title": "లోపలి వెలుగు",
+      "screen": "బయటి చీకటి ఎంత ఉన్నా, లోపల వెలుగుతున్న నమ్మకం మాత్రం ఆరిపోదు, ఆ చిన్న వెలుగే మనల్ని సరైన దారిలో ముందుకు నడిపిస్తుంది.",
+      "image": "single candle flame glowing steadily in a dark room near a window, cinematic vertical photography",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "బయట ఎంత చీకటిగా ఉన్నా, లోపల ఏం ఆరదో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "31643898",
     "38182932",
     "28903401",
     "37763334",
@@ -714,10 +720,10 @@
     "37592292",
     "37357038",
     "36805627",
-    "27469577"
+    "27469577",
+    "32285455"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "SILENT POWER 🤫",
     "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
@@ -756,7 +762,8 @@
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
