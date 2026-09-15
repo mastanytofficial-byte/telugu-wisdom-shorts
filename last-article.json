@@ -1,7 +1,7 @@
 {
-  "runCount": 130,
-  "lastTitle": "లోపలి వెలుగు",
-  "lastDate": "2026-09-15T12:55:09.801Z",
+  "runCount": 131,
+  "lastTitle": "నమ్మకపు బలం",
+  "lastDate": "2026-09-15T18:30:05.371Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -679,10 +679,16 @@
       "image": "single candle flame glowing steadily in a dark room near a window, cinematic vertical photography",
       "topLabel": "INNER POWER 🔥",
       "hook": "బయట ఎంత చీకటిగా ఉన్నా, లోపల ఏం ఆరదో మీకు తెలుసా?"
+    },
+    {
+      "title": "నమ్మకపు బలం",
+      "screen": "పరిస్థితులు పూర్తిగా మారేవరకు నిస్సహాయంగా ఎదురుచూసే బదులు, తనపై తనకున్న గట్టి నమ్మకమే మనిషిని ముందుకు నడిపించే అసలైన శక్తిగా మారుతుంది.",
+      "image": "person walking confidently across a long bridge into golden sunlight, cinematic vertical photography",
+      "topLabel": "MINDSET 🧠",
+      "hook": "పరిస్థితులు కాదు, మనిషిని ముందుకు నడిపించేది ఏమిటో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "38182932",
     "28903401",
     "37763334",
     "27100093",
@@ -721,10 +727,10 @@
     "37357038",
     "36805627",
     "27469577",
-    "32285455"
+    "32285455",
+    "11995873"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
@@ -763,7 +769,8 @@
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "BE BRAVE 🦁",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
