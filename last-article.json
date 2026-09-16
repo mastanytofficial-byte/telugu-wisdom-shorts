@@ -1,7 +1,7 @@
 {
-  "runCount": 133,
-  "lastTitle": "శక్తి మూలం",
-  "lastDate": "2026-09-16T12:46:30.359Z",
+  "runCount": 134,
+  "lastTitle": "ఒంటరి బలం",
+  "lastDate": "2026-09-16T18:27:12.188Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -700,10 +700,16 @@
       "image": "A lone figure standing at the edge of a cliff at sunrise, looking out over a misty valley, with a sense of determination, cinematic vertical composition, high detail, dramatic lighting",
       "topLabel": "LIFE LESSON 💡",
       "hook": "ఏకాగ్రత, పట్టుదల, నిబద్ధత కలిపితే నీలో ఏ శక్తి పుడుతుందో తెలుసుకున్నావా?"
+    },
+    {
+      "title": "ఒంటరి బలం",
+      "screen": "ఒంటరిగా నడవాల్సిన సమయాలు జీవితంలో వస్తాయి, ఆ సమయంలో మనలో పెరిగే ధైర్యం ఎవరూ ఇవ్వలేని బలంగా మారుతుంది, అదే మనల్ని నిలబెడుతుంది.",
+      "image": "lone figure walking through a quiet forest path with light filtering through trees, cinematic vertical photography",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "ఒంటరితనం మనకి ఏ బలాన్ని నేర్పిస్తుందో ఎప్పుడైనా అనిపించిందా?"
     }
   ],
   "usedBg": [
-    "27100093",
     "36207178",
     "9928858",
     "13723991",
@@ -742,10 +748,10 @@
     "32285455",
     "11995873",
     "36857034",
-    "38935930"
+    "38935930",
+    "35000900"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
@@ -784,7 +790,8 @@
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "SILENT POWER 🤫",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
