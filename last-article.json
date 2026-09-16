@@ -1,7 +1,7 @@
 {
-  "runCount": 131,
-  "lastTitle": "నమ్మకపు బలం",
-  "lastDate": "2026-09-15T18:30:05.371Z",
+  "runCount": 132,
+  "lastTitle": "మౌన శక్తి",
+  "lastDate": "2026-09-16T07:56:42.609Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -686,10 +686,16 @@
       "image": "person walking confidently across a long bridge into golden sunlight, cinematic vertical photography",
       "topLabel": "MINDSET 🧠",
       "hook": "పరిస్థితులు కాదు, మనిషిని ముందుకు నడిపించేది ఏమిటో మీకు తెలుసా?"
+    },
+    {
+      "title": "మౌన శక్తి",
+      "screen": "ప్రతి సమాధానం మాటల్లోనే ఉండదు, కొన్నిసార్లు మౌనంగా ఉండటమే అత్యంత శక్తివంతమైన సమాధానంగా నిలుస్తుంది, అది ఎదుటివారికి ఆలోచించే అవకాశాన్ని ఇస్తుంది.",
+      "image": "person standing quietly by a foggy lake at dawn, arms calmly at sides, cinematic vertical photography",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "మాట్లాడకపోవడం కూడా ఒక శక్తివంతమైన సమాధానం అని మీకు అనిపించిందా?"
     }
   ],
   "usedBg": [
-    "28903401",
     "37763334",
     "27100093",
     "36207178",
@@ -728,10 +734,10 @@
     "36805627",
     "27469577",
     "32285455",
-    "11995873"
+    "11995873",
+    "36857034"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
@@ -770,7 +776,8 @@
     "SILENT POWER 🤫",
     "BE BRAVE 🦁",
     "INNER POWER 🔥",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
