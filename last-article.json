@@ -1,7 +1,7 @@
 {
-  "runCount": 132,
-  "lastTitle": "మౌన శక్తి",
-  "lastDate": "2026-09-16T07:56:42.609Z",
+  "runCount": 133,
+  "lastTitle": "శక్తి మూలం",
+  "lastDate": "2026-09-16T12:46:30.359Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -693,10 +693,16 @@
       "image": "person standing quietly by a foggy lake at dawn, arms calmly at sides, cinematic vertical photography",
       "topLabel": "SILENT POWER 🤫",
       "hook": "మాట్లాడకపోవడం కూడా ఒక శక్తివంతమైన సమాధానం అని మీకు అనిపించిందా?"
+    },
+    {
+      "title": "శక్తి మూలం",
+      "screen": "ఇప్పుడే ఏకాగ్రతను నిలబెట్టుకుంటే, లక్ష్యాన్ని స్పష్టంగా చూసి, పట్టుదలతో ముందుకు సాగితే, నిబద్ధతపట్ల విశ్వాసం పెరిగి, మనసులో కొత్త శక్తి ఉద్భవిస్తుంది.",
+      "image": "A lone figure standing at the edge of a cliff at sunrise, looking out over a misty valley, with a sense of determination, cinematic vertical composition, high detail, dramatic lighting",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "ఏకాగ్రత, పట్టుదల, నిబద్ధత కలిపితే నీలో ఏ శక్తి పుడుతుందో తెలుసుకున్నావా?"
     }
   ],
   "usedBg": [
-    "37763334",
     "27100093",
     "36207178",
     "9928858",
@@ -735,10 +741,10 @@
     "27469577",
     "32285455",
     "11995873",
-    "36857034"
+    "36857034",
+    "38935930"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
@@ -777,7 +783,8 @@
     "BE BRAVE 🦁",
     "INNER POWER 🔥",
     "MINDSET 🧠",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
