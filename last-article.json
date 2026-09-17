@@ -1,7 +1,7 @@
 {
-  "runCount": 135,
-  "lastTitle": "నేటి ప్రయత్నం",
-  "lastDate": "2026-09-17T08:00:00.630Z",
+  "runCount": 136,
+  "lastTitle": "నిదానం శక్తి",
+  "lastDate": "2026-09-17T12:49:12.293Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -714,10 +714,16 @@
       "image": "person planting a small sapling in early morning golden light, cinematic vertical photography",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "ఈరోజు మీరు వేసే అడుగు రేపటికి ఎలా మారుతుందో ఆలోచించారా?"
+    },
+    {
+      "title": "నిదానం శక్తి",
+      "screen": "తొందరపాటు తీసుకున్న ప్రతి నిర్ణయం మంచి ఫలితం ఇవ్వదు, నిదానంగా ఆలోచించినప్పుడే స్పష్టత వస్తుంది, ఆ స్పష్టతే సరైన దారిని చూపిస్తుంది.",
+      "image": "person sitting quietly by a calm lake at dawn, gentle mist rising, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "నిదానం ఎందుకు ఒక నిజమైన శక్తో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "9928858",
     "13723991",
     "35259662",
     "34078238",
@@ -756,10 +762,10 @@
     "36857034",
     "38935930",
     "35000900",
-    "27990177"
+    "27990177",
+    "18209691"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "MINDSET 🧠",
@@ -798,7 +804,8 @@
     "SILENT POWER 🤫",
     "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
