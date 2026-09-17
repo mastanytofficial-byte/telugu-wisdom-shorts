@@ -1,7 +1,7 @@
 {
-  "runCount": 136,
-  "lastTitle": "నిదానం శక్తి",
-  "lastDate": "2026-09-17T12:49:12.293Z",
+  "runCount": 137,
+  "lastTitle": "మనసు స్థిరత్వం",
+  "lastDate": "2026-09-17T18:34:48.923Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -721,10 +721,16 @@
       "image": "person sitting quietly by a calm lake at dawn, gentle mist rising, cinematic vertical photography",
       "topLabel": "STAY CALM 🍃",
       "hook": "నిదానం ఎందుకు ఒక నిజమైన శక్తో మీకు తెలుసా?"
+    },
+    {
+      "title": "మనసు స్థిరత్వం",
+      "screen": "బయట ఎన్ని మార్పులు వచ్చినా, మనసులో స్థిరత్వం ఉంటే ఏ పరిస్థితినైనా ఎదుర్కోగలం, ఆ స్థిరత్వమే లోపలి నుండి వస్తుంది, బయటి నుండి కాదు.",
+      "image": "person meditating peacefully on a quiet hilltop at sunrise, soft golden light, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "నిజమైన శాంతం ఎక్కడ నుండి వస్తుందో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "13723991",
     "35259662",
     "34078238",
     "37046244",
@@ -763,10 +769,10 @@
     "38935930",
     "35000900",
     "27990177",
-    "18209691"
+    "18209691",
+    "32705691"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "MINDSET 🧠",
     "INNER POWER 🔥",
@@ -805,7 +811,8 @@
     "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
