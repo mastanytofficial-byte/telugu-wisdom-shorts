@@ -3,13 +3,15 @@ name: Wisdom Quote Short
 on:
   workflow_dispatch:
   schedule:
-    # 3 runs/day at times when Telugu Shorts audience is typically most active:
-    # 02:30 UTC = 08:00 IST (morning commute/scroll)
-    # 07:30 UTC = 13:00 IST (lunch break)
-    # 14:30 UTC = 20:00 IST (evening prime time)
-    - cron: '30 2 * * *'
+    # 2 runs/day, aligned to actual YouTube Studio audience-activity heatmap
+    # (peak viewer windows: midday 12-6PM IST, strongest peak 6-9PM IST).
+    # Reduced from 3/day to 2/day per YouTube Studio Insights guidance
+    # (multiple same-day uploads competing with each other during the
+    # channel's early discovery window).
+    # 07:30 UTC = 13:00 IST (solid midday activity)
+    # 13:00 UTC = 18:30 IST (right at the start of peak evening window)
     - cron: '30 7 * * *'
-    - cron: '30 14 * * *'
+    - cron: '0 13 * * *'
 
 permissions:
   contents: write
