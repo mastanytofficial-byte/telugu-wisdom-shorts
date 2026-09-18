@@ -1,7 +1,7 @@
 {
-  "runCount": 139,
-  "lastTitle": "బంధాల విలువ",
-  "lastDate": "2026-09-18T12:25:47.270Z",
+  "runCount": 140,
+  "lastTitle": "స్పష్టత పెంపు",
+  "lastDate": "2026-09-18T17:53:16.358Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -742,10 +742,16 @@
       "image": "two hands clasped together at a wooden table with warm sunset light, cinematic vertical photography",
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "డబ్బు కంటే విలువైనది ఏమిటో మీరు ఎప్పుడైనా ఆలోచించారా?"
+    },
+    {
+      "title": "స్పష్టత పెంపు",
+      "screen": "చిన్నచిన్న విజయాలను గుర్తించడంతో మీ స్పష్టత పెరుగుతుంది, ఆ స్పష్టత మీ లక్ష్యాన్ని మరింత ఖచ్చితంగా చూపిస్తుంది, అప్పుడే మీరు సరైన వేగంతో ముందుకు సాగుతారు.",
+      "image": "a lone figure standing on a sunrise-lit cliff overlooking a vast horizon, subtle golden light surrounding them to symbolize inner clarity, cinematic vertical 9:16 composition, dramatic lighting, high detail, no text",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "చిన్న విజయాలు మీ దారిని ఎంత స్పష్టంగా చేస్తాయి?"
     }
   ],
   "usedBg": [
-    "37046244",
     "28651224",
     "10239722",
     "27660237",
@@ -784,10 +790,10 @@
     "18209691",
     "32705691",
     "15461514",
-    "33129394"
+    "33129394",
+    "38224672"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
@@ -826,7 +832,8 @@
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
