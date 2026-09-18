@@ -1,7 +1,7 @@
 {
-  "runCount": 137,
-  "lastTitle": "మనసు స్థిరత్వం",
-  "lastDate": "2026-09-17T18:34:48.923Z",
+  "runCount": 140,
+  "lastTitle": "స్పష్టత పెంపు",
+  "lastDate": "2026-09-18T17:53:16.358Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -728,12 +728,30 @@
       "image": "person meditating peacefully on a quiet hilltop at sunrise, soft golden light, cinematic vertical photography",
       "topLabel": "BE BRAVE 🦁",
       "hook": "నిజమైన శాంతం ఎక్కడ నుండి వస్తుందో మీకు తెలుసా?"
+    },
+    {
+      "title": "లోతైన అనుభవం",
+      "screen": "ప్రతి అనుభవం, అది మంచిదైనా చెడ్డదైనా, మనలో ఏదో ఒక పాఠాన్ని వదిలివెళ్తుంది, ఆ పాఠాలే కాలక్రమేణా మనల్ని పరిపక్వంగా మారుస్తాయి.",
+      "image": "person looking out over a vast valley from a mountain ridge at golden hour, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "జీవితం మనకి నేర్పే అతి పెద్ద పాఠం ఏమిటో తెలుసా?"
+    },
+    {
+      "title": "బంధాల విలువ",
+      "screen": "డబ్బు, పేరు సంపాదించడం సులభమే కావొచ్చు, కానీ నిజాయితీగా నిలబడే బంధాలను సంపాదించడం అంత సులభం కాదు, అవే జీవితానికి అసలైన బలం.",
+      "image": "two hands clasped together at a wooden table with warm sunset light, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "డబ్బు కంటే విలువైనది ఏమిటో మీరు ఎప్పుడైనా ఆలోచించారా?"
+    },
+    {
+      "title": "స్పష్టత పెంపు",
+      "screen": "చిన్నచిన్న విజయాలను గుర్తించడంతో మీ స్పష్టత పెరుగుతుంది, ఆ స్పష్టత మీ లక్ష్యాన్ని మరింత ఖచ్చితంగా చూపిస్తుంది, అప్పుడే మీరు సరైన వేగంతో ముందుకు సాగుతారు.",
+      "image": "a lone figure standing on a sunrise-lit cliff overlooking a vast horizon, subtle golden light surrounding them to symbolize inner clarity, cinematic vertical 9:16 composition, dramatic lighting, high detail, no text",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "చిన్న విజయాలు మీ దారిని ఎంత స్పష్టంగా చేస్తాయి?"
     }
   ],
   "usedBg": [
-    "35259662",
-    "34078238",
-    "37046244",
     "28651224",
     "10239722",
     "27660237",
@@ -770,12 +788,12 @@
     "35000900",
     "27990177",
     "18209691",
-    "32705691"
+    "32705691",
+    "15461514",
+    "33129394",
+    "38224672"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
-    "MINDSET 🧠",
-    "INNER POWER 🔥",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
@@ -812,7 +830,10 @@
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "TRUE WORDS ⏳",
+    "REALITY OF LIFE 💯",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
