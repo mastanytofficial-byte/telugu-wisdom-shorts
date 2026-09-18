@@ -1,7 +1,7 @@
 {
-  "runCount": 138,
-  "lastTitle": "లోతైన అనుభవం",
-  "lastDate": "2026-09-18T07:38:43.302Z",
+  "runCount": 139,
+  "lastTitle": "బంధాల విలువ",
+  "lastDate": "2026-09-18T12:25:47.270Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -735,10 +735,16 @@
       "image": "person looking out over a vast valley from a mountain ridge at golden hour, cinematic vertical photography",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "జీవితం మనకి నేర్పే అతి పెద్ద పాఠం ఏమిటో తెలుసా?"
+    },
+    {
+      "title": "బంధాల విలువ",
+      "screen": "డబ్బు, పేరు సంపాదించడం సులభమే కావొచ్చు, కానీ నిజాయితీగా నిలబడే బంధాలను సంపాదించడం అంత సులభం కాదు, అవే జీవితానికి అసలైన బలం.",
+      "image": "two hands clasped together at a wooden table with warm sunset light, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "డబ్బు కంటే విలువైనది ఏమిటో మీరు ఎప్పుడైనా ఆలోచించారా?"
     }
   ],
   "usedBg": [
-    "34078238",
     "37046244",
     "28651224",
     "10239722",
@@ -777,10 +783,10 @@
     "27990177",
     "18209691",
     "32705691",
-    "15461514"
+    "15461514",
+    "33129394"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "INNER POWER 🔥",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
@@ -819,7 +825,8 @@
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
