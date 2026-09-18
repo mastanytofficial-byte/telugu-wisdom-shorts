@@ -1,7 +1,7 @@
 {
-  "runCount": 137,
-  "lastTitle": "మనసు స్థిరత్వం",
-  "lastDate": "2026-09-17T18:34:48.923Z",
+  "runCount": 138,
+  "lastTitle": "లోతైన అనుభవం",
+  "lastDate": "2026-09-18T07:38:43.302Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -728,10 +728,16 @@
       "image": "person meditating peacefully on a quiet hilltop at sunrise, soft golden light, cinematic vertical photography",
       "topLabel": "BE BRAVE 🦁",
       "hook": "నిజమైన శాంతం ఎక్కడ నుండి వస్తుందో మీకు తెలుసా?"
+    },
+    {
+      "title": "లోతైన అనుభవం",
+      "screen": "ప్రతి అనుభవం, అది మంచిదైనా చెడ్డదైనా, మనలో ఏదో ఒక పాఠాన్ని వదిలివెళ్తుంది, ఆ పాఠాలే కాలక్రమేణా మనల్ని పరిపక్వంగా మారుస్తాయి.",
+      "image": "person looking out over a vast valley from a mountain ridge at golden hour, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "జీవితం మనకి నేర్పే అతి పెద్ద పాఠం ఏమిటో తెలుసా?"
     }
   ],
   "usedBg": [
-    "35259662",
     "34078238",
     "37046244",
     "28651224",
@@ -770,10 +776,10 @@
     "35000900",
     "27990177",
     "18209691",
-    "32705691"
+    "32705691",
+    "15461514"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "NEW BEGINNING 🌅",
@@ -812,7 +818,8 @@
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
