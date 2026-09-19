@@ -1,7 +1,7 @@
 {
-  "runCount": 140,
-  "lastTitle": "స్పష్టత పెంపు",
-  "lastDate": "2026-09-18T17:53:16.358Z",
+  "runCount": 141,
+  "lastTitle": "నిజాయితీ దారి",
+  "lastDate": "2026-09-19T12:05:41.714Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -749,10 +749,16 @@
       "image": "a lone figure standing on a sunrise-lit cliff overlooking a vast horizon, subtle golden light surrounding them to symbolize inner clarity, cinematic vertical 9:16 composition, dramatic lighting, high detail, no text",
       "topLabel": "INNER POWER 🔥",
       "hook": "చిన్న విజయాలు మీ దారిని ఎంత స్పష్టంగా చేస్తాయి?"
+    },
+    {
+      "title": "నిజాయితీ దారి",
+      "screen": "నిజాయితీగా నడిచే దారి కొన్నిసార్లు కష్టంగా అనిపించవచ్చు, కానీ ఆ దారిలో వచ్చే మనశ్శాంతి వేరే ఏ దారిలోనూ దొరకదు, అదే దాని అసలైన విలువ.",
+      "image": "person walking a straight clear path through golden wheat fields at sunset, cinematic vertical photography",
+      "topLabel": "MINDSET 🧠",
+      "hook": "నిజాయితీగా బతకడం వల్ల నిజంగా ఏం దొరుకుతుందో తెలుసా?"
     }
   ],
   "usedBg": [
-    "28651224",
     "10239722",
     "27660237",
     "14108822",
@@ -791,10 +797,10 @@
     "32705691",
     "15461514",
     "33129394",
-    "38224672"
+    "38224672",
+    "12834995"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
@@ -833,7 +839,8 @@
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
