@@ -1,7 +1,7 @@
 {
-  "runCount": 141,
-  "lastTitle": "నిజాయితీ దారి",
-  "lastDate": "2026-09-19T12:05:41.714Z",
+  "runCount": 142,
+  "lastTitle": "అనుభవం పాఠం",
+  "lastDate": "2026-09-19T16:16:02.388Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -756,10 +756,16 @@
       "image": "person walking a straight clear path through golden wheat fields at sunset, cinematic vertical photography",
       "topLabel": "MINDSET 🧠",
       "hook": "నిజాయితీగా బతకడం వల్ల నిజంగా ఏం దొరుకుతుందో తెలుసా?"
+    },
+    {
+      "title": "అనుభవం పాఠం",
+      "screen": "పుస్తకాల్లో ఎప్పటికీ దొరకని కొన్ని పాఠాలను జీవితమే మనకు స్వయంగా నేర్పిస్తుంది, ఆ పాఠాలను హృదయపూర్వకంగా స్వీకరించే మనసుకే నిజమైన ఎదుగుదల సాధ్యమవుతుంది.",
+      "image": "open book left on a park bench beside falling autumn leaves, cinematic vertical photography",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "పుస్తకాలు నేర్పలేని పాఠం జీవితం ఎలా నేర్పిస్తుందో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "10239722",
     "27660237",
     "14108822",
     "35843651",
@@ -798,10 +804,10 @@
     "15461514",
     "33129394",
     "38224672",
-    "12834995"
+    "12834995",
+    "38093495"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
@@ -840,7 +846,8 @@
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
