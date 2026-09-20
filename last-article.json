@@ -1,7 +1,7 @@
 {
-  "runCount": 142,
-  "lastTitle": "అనుభవం పాఠం",
-  "lastDate": "2026-09-19T16:16:02.388Z",
+  "runCount": 143,
+  "lastTitle": "గెలుపు నిర్వచనం",
+  "lastDate": "2026-09-20T12:40:00.298Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -763,10 +763,16 @@
       "image": "open book left on a park bench beside falling autumn leaves, cinematic vertical photography",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "పుస్తకాలు నేర్పలేని పాఠం జీవితం ఎలా నేర్పిస్తుందో మీకు తెలుసా?"
+    },
+    {
+      "title": "గెలుపు నిర్వచనం",
+      "screen": "అందరూ చూసే గెలుపు ఒక్కటే కాదు, ఎవరికి వారికి వారి స్వంత పోరాటంలో సాధించే చిన్న విజయాలే నిజమైన గెలుపుగా నిలుస్తాయి.",
+      "image": "runner alone on an empty track at sunrise, long shadow stretching ahead, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "అందరూ చూసే గెలుపు మాత్రమే నిజమైనదా, మీరు ఎప్పుడైనా ఆలోచించారా?"
     }
   ],
   "usedBg": [
-    "27660237",
     "14108822",
     "35843651",
     "32320020",
@@ -805,10 +811,10 @@
     "33129394",
     "38224672",
     "12834995",
-    "38093495"
+    "38093495",
+    "33897597"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
@@ -847,7 +853,8 @@
     "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
     "MINDSET 🧠",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
