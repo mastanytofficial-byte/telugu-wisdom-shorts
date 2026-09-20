@@ -1,7 +1,7 @@
 {
-  "runCount": 143,
-  "lastTitle": "గెలుపు నిర్వచనం",
-  "lastDate": "2026-09-20T12:40:00.298Z",
+  "runCount": 144,
+  "lastTitle": "సంకల్పం, పట్టుదల",
+  "lastDate": "2026-09-20T16:39:18.438Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -770,10 +770,16 @@
       "image": "runner alone on an empty track at sunrise, long shadow stretching ahead, cinematic vertical photography",
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "అందరూ చూసే గెలుపు మాత్రమే నిజమైనదా, మీరు ఎప్పుడైనా ఆలోచించారా?"
+    },
+    {
+      "title": "సంకల్పం, పట్టుదల",
+      "screen": "సంకల్పం లేకుండా ఏ లక్ష్యానికైనా చేరడం కష్టం, పట్టుదల తోనే ఆ సంకల్పాన్ని నిలుపుకుంటాం, నిబద్ధత వల్ల మన ప్రయాణం ఇప్పటికీ స్పష్టమవుతుంది.",
+      "image": "a person standing at a crossroads under a sunrise sky, holding a compass, symbolizing decision and clarity, cinematic vertical composition, dramatic lighting",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "సంకల్పం లేకుండా లక్ష్యాన్ని చేరలేకపోయారా? పట్టుదల, నిబద్ధత ఎలా సహాయపడతాయో తెలుసుకుందాం."
     }
   ],
   "usedBg": [
-    "14108822",
     "35843651",
     "32320020",
     "3775897",
@@ -812,10 +818,10 @@
     "38224672",
     "12834995",
     "38093495",
-    "33897597"
+    "33897597",
+    "8953693"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
     "STAY CALM 🍃",
@@ -854,7 +860,8 @@
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
