@@ -1,7 +1,7 @@
 {
-  "runCount": 145,
-  "lastTitle": "నిశ్శబ్ద అభివృద్ధి",
-  "lastDate": "2026-09-21T14:32:12.529Z",
+  "runCount": 146,
+  "lastTitle": "ఇప్పటి క్షణం",
+  "lastDate": "2026-09-21T18:31:11.742Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -784,10 +784,16 @@
       "image": "person working alone at a desk lit by a single lamp late at night, cinematic vertical photography",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "ఎవరూ చూడనప్పుడు మీరు చేసే పని ఎంత ముఖ్యమో తెలుసా?"
+    },
+    {
+      "title": "ఇప్పటి క్షణం",
+      "screen": "గతం గురించి చింతించడం, భవిష్యత్తు గురించి ఆందోళన చెందడం మానేసి, ఇప్పుడున్న ఈ క్షణాన్ని పూర్తిగా జీవించడమే నిజమైన ప్రశాంతతకు మార్గం చూపిస్తుంది.",
+      "image": "person sitting peacefully cross-legged on a wooden dock over calm water at sunrise, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "ప్రశాంతత కోసం అసలు ఏం చేయాలో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "32320020",
     "3775897",
     "36906486",
     "37986701",
@@ -826,10 +832,10 @@
     "38093495",
     "33897597",
     "8953693",
-    "10170855"
+    "10170855",
+    "37884190"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
@@ -868,7 +874,8 @@
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
