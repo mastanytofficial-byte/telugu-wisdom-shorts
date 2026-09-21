@@ -1,7 +1,7 @@
 {
-  "runCount": 144,
-  "lastTitle": "సంకల్పం, పట్టుదల",
-  "lastDate": "2026-09-20T16:39:18.438Z",
+  "runCount": 145,
+  "lastTitle": "నిశ్శబ్ద అభివృద్ధి",
+  "lastDate": "2026-09-21T14:32:12.529Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -777,10 +777,16 @@
       "image": "a person standing at a crossroads under a sunrise sky, holding a compass, symbolizing decision and clarity, cinematic vertical composition, dramatic lighting",
       "topLabel": "LIFE LESSON 💡",
       "hook": "సంకల్పం లేకుండా లక్ష్యాన్ని చేరలేకపోయారా? పట్టుదల, నిబద్ధత ఎలా సహాయపడతాయో తెలుసుకుందాం."
+    },
+    {
+      "title": "నిశ్శబ్ద అభివృద్ధి",
+      "screen": "ఎవరూ చూడనప్పుడు మనం నిశ్శబ్దంగా చేసే చిన్న ప్రయత్నాలే, రేపటి పెద్ద విజయానికి పునాది వేస్తాయి, ఆ నిశ్శబ్ద కృషినే అసలైన ఎదుగుదల అంటారు.",
+      "image": "person working alone at a desk lit by a single lamp late at night, cinematic vertical photography",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "ఎవరూ చూడనప్పుడు మీరు చేసే పని ఎంత ముఖ్యమో తెలుసా?"
     }
   ],
   "usedBg": [
-    "35843651",
     "32320020",
     "3775897",
     "36906486",
@@ -819,10 +825,10 @@
     "12834995",
     "38093495",
     "33897597",
-    "8953693"
+    "8953693",
+    "10170855"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
@@ -861,7 +867,8 @@
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
