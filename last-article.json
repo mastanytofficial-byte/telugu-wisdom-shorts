@@ -1,7 +1,7 @@
 {
-  "runCount": 147,
-  "lastTitle": "ధైర్యపు అడుగు",
-  "lastDate": "2026-09-22T12:51:37.672Z",
+  "runCount": 148,
+  "lastTitle": "ఏకాగ్రత శక్తి",
+  "lastDate": "2026-09-22T17:33:44.875Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -798,10 +798,16 @@
       "image": "person stepping forward onto a rope bridge over a misty canyon, cinematic vertical photography",
       "topLabel": "SILENT POWER 🤫",
       "hook": "ధైర్యం అంటే భయం లేకపోవడం కాదని మీకు తెలుసా?"
+    },
+    {
+      "title": "ఏకాగ్రత శక్తి",
+      "screen": "నిరంతరంగా ఏకాగ్రతను నిలుపుకోవడంతో చిన్న ప్రయత్నాలు సమూహంగా పెద్ద వికాసాన్ని సృష్టిస్తాయి, ఆ వికాసమే జీవితపు నూతన స్పష్టతని తెస్తుంది, అందువల్ల ప్రతి రోజు మీ లక్ష్యానికి ఒక అడుగు దగ్గరగా ఉంటుంది.",
+      "image": "a focused individual at a minimalist desk bathed in gentle sunrise light, eyes fixed on a notebook, soft shadows, cinematic vertical 9:16 composition, shallow depth of field, warm pastel tones, no text or watermarks",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "ఏకాగ్రత మీ లక్ష్యానికి ఎంత దగ్గర చేస్తుంది?"
     }
   ],
   "usedBg": [
-    "36906486",
     "37986701",
     "29567291",
     "30133842",
@@ -840,10 +846,10 @@
     "8953693",
     "10170855",
     "37884190",
-    "7235103"
+    "7235103",
+    "38580923"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "KEEP GROWING 🌱",
@@ -882,7 +888,8 @@
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
