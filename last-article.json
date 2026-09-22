@@ -1,7 +1,7 @@
 {
-  "runCount": 148,
-  "lastTitle": "ఏకాగ్రత శక్తి",
-  "lastDate": "2026-09-22T17:33:44.875Z",
+  "runCount": 149,
+  "lastTitle": "చిన్న కృషి",
+  "lastDate": "2026-09-22T18:41:56.094Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -805,10 +805,16 @@
       "image": "a focused individual at a minimalist desk bathed in gentle sunrise light, eyes fixed on a notebook, soft shadows, cinematic vertical 9:16 composition, shallow depth of field, warm pastel tones, no text or watermarks",
       "topLabel": "STAY CALM 🍃",
       "hook": "ఏకాగ్రత మీ లక్ష్యానికి ఎంత దగ్గర చేస్తుంది?"
+    },
+    {
+      "title": "చిన్న కృషి",
+      "screen": "ప్రతి రోజు కొద్దిగా చేసిన కృషి, దానిని నీకు అలవాటుగా చేసుకున్నప్పుడు, పెద్ద మార్పు తెస్తుంది, ఆ మార్పే నీ వికాసాన్ని వేగవంతం చేస్తుంది.",
+      "image": "a young adult sitting at a small wooden desk near a window at sunrise, quietly writing in a journal, soft golden light illuminating the scene, cinematic vertical 9:16 photography with shallow depth of field and warm tones, no text or watermarks",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "రోజు కొద్దిగా చేసే కృషి, నీ జీవితాన్ని ఎలా మార్చుతుంది?"
     }
   ],
   "usedBg": [
-    "37986701",
     "29567291",
     "30133842",
     "27469578",
@@ -847,10 +853,10 @@
     "10170855",
     "37884190",
     "7235103",
-    "38580923"
+    "38580923",
+    "39352887"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "INNER POWER 🔥",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
@@ -889,7 +895,8 @@
     "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
