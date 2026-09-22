@@ -1,7 +1,7 @@
 {
-  "runCount": 146,
-  "lastTitle": "ఇప్పటి క్షణం",
-  "lastDate": "2026-09-21T18:31:11.742Z",
+  "runCount": 147,
+  "lastTitle": "ధైర్యపు అడుగు",
+  "lastDate": "2026-09-22T12:51:37.672Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -791,10 +791,16 @@
       "image": "person sitting peacefully cross-legged on a wooden dock over calm water at sunrise, cinematic vertical photography",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "ప్రశాంతత కోసం అసలు ఏం చేయాలో మీకు తెలుసా?"
+    },
+    {
+      "title": "ధైర్యపు అడుగు",
+      "screen": "భయం పూర్తిగా పోయే వరకు ఆగితే, మనం ఎప్పటికీ ముందుకు అడుగు వేయలేము, భయంతోనే ముందుకు సాగడమే అసలైన ధైర్యం అనిపించుకుంటుంది.",
+      "image": "person stepping forward onto a rope bridge over a misty canyon, cinematic vertical photography",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "ధైర్యం అంటే భయం లేకపోవడం కాదని మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "3775897",
     "36906486",
     "37986701",
     "29567291",
@@ -833,10 +839,10 @@
     "33897597",
     "8953693",
     "10170855",
-    "37884190"
+    "37884190",
+    "7235103"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
     "INNER POWER 🔥",
@@ -875,7 +881,8 @@
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
