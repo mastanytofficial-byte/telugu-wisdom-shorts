@@ -1,7 +1,7 @@
 {
-  "runCount": 150,
-  "lastTitle": "నిశ్శబ్ద ప్రయాణం",
-  "lastDate": "2026-09-23T12:58:50.910Z",
+  "runCount": 151,
+  "lastTitle": "నిశ్శబ్ద శక్తి",
+  "lastDate": "2026-09-23T17:43:50.422Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -819,10 +819,16 @@
       "image": "lone figure walking silently through a misty forest path at dawn, cinematic vertical composition, subtle light filtering through trees, evoking calm focus",
       "topLabel": "INNER POWER 🔥",
       "hook": "నువ్వు ఎప్పుడైనా నిశ్శబ్దంగా ముందుకు సాగుతూ విజయాన్ని ఎలా కనుగొంటావో తెలుసుకున్నావా?"
+    },
+    {
+      "title": "నిశ్శబ్ద శక్తి",
+      "screen": "ప్రతి రోజు నిశ్శబ్దంగా చేసే చిన్న కృషి, అంతర్గతంగా పట్టుదలని పెంచుతుంది, దాంతో నిబద్ధత స్పష్టమవుతుంది, అప్పుడే జీవితం కొత్త దిశలో నడుస్తుంది.",
+      "image": "a solitary individual sitting at a simple wooden desk in a dimly lit room, early morning light filtering through a small window, focused on writing or sketching, cinematic depth of field, vertical composition, soft warm tones, subtle dust motes, conveying quiet perseverance",
+      "topLabel": "MINDSET 🧠",
+      "hook": "నిశ్శబ్దంగా రోజూ చిన్న పని చేస్తూ, నీ జీవితం ఏ దిశలో మారుతుందో చూసారా?"
     }
   ],
   "usedBg": [
-    "30133842",
     "27469578",
     "36369292",
     "34451675",
@@ -861,10 +867,10 @@
     "7235103",
     "38580923",
     "39352887",
-    "34807184"
+    "34807184",
+    "30719906"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
@@ -903,7 +909,8 @@
     "SILENT POWER 🤫",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
