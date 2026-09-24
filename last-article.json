@@ -1,7 +1,7 @@
 {
-  "runCount": 152,
-  "lastTitle": "సంకల్పం స్థైర్యం",
-  "lastDate": "2026-09-24T12:52:11.761Z",
+  "runCount": 153,
+  "lastTitle": "నిజమైన శక్తి",
+  "lastDate": "2026-09-24T17:44:15.427Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -833,10 +833,16 @@
       "image": "lone figure walking determinedly on a misty mountain trail after a storm, sunrise light breaking through clouds, cinematic vertical 9:16 composition",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "పరాజయం నీకు దారి చూపుతున్నప్పుడు, నువ్వు ఏది పెంచుకుంటావు?"
+    },
+    {
+      "title": "నిజమైన శక్తి",
+      "screen": "నీ స్వీయనమ్మకం దారిని వెలిగిస్తే, ప్రతి చిన్న ప్రయత్నం పట్టుదలకి ఇంధనం అవుతుంది, ఆ ఇంధనం నీ అంతర్గత వృద్ధిని వేగవంతం చేస్తుంది.",
+      "image": "a solitary person standing at the edge of a misty mountain ridge at sunrise, golden light spilling onto a winding path ahead, cinematic lighting, shallow depth of field, dramatic clouds, vertical 9:16 composition, high contrast, realistic style",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "నీ స్వీయనమ్మకం నీ మార్గాన్ని వెలిగిస్తుందా?"
     }
   ],
   "usedBg": [
-    "36369292",
     "34451675",
     "37039836",
     "38399156",
@@ -875,10 +881,10 @@
     "39352887",
     "34807184",
     "30719906",
-    "8195692"
+    "8195692",
+    "27660237"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
@@ -917,7 +923,8 @@
     "BE BRAVE 🦁",
     "INNER POWER 🔥",
     "MINDSET 🧠",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
