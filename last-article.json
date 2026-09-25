@@ -1,7 +1,7 @@
 {
-  "runCount": 153,
-  "lastTitle": "నిజమైన శక్తి",
-  "lastDate": "2026-09-24T17:44:15.427Z",
+  "runCount": 154,
+  "lastTitle": "కాలం పాఠం",
+  "lastDate": "2026-09-25T12:59:31.796Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -840,10 +840,16 @@
       "image": "a solitary person standing at the edge of a misty mountain ridge at sunrise, golden light spilling onto a winding path ahead, cinematic lighting, shallow depth of field, dramatic clouds, vertical 9:16 composition, high contrast, realistic style",
       "topLabel": "BE BRAVE 🦁",
       "hook": "నీ స్వీయనమ్మకం నీ మార్గాన్ని వెలిగిస్తుందా?"
+    },
+    {
+      "title": "కాలం పాఠం",
+      "screen": "కాలం మనకు కొన్ని సమాధానాలు మాటలతో ఇవ్వదు, అనుభవాల ద్వారా చూపిస్తుంది, అర్థం చేసుకున్న కొద్దీ జీవితం మీద మన దృష్టి మరింత స్పష్టమవుతుంది.",
+      "image": "old path through trees with morning mist and soft sunlight, cinematic vertical photography",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "కాలం మాటలు లేకుండా నేర్పే పాఠాలు ఏమిటో గమనించారా?"
     }
   ],
   "usedBg": [
-    "34451675",
     "37039836",
     "38399156",
     "33850206",
@@ -882,10 +888,10 @@
     "34807184",
     "30719906",
     "8195692",
-    "27660237"
+    "27660237",
+    "11267669"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
@@ -924,7 +930,8 @@
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "KEEP GROWING 🌱",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
