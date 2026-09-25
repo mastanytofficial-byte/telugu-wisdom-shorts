@@ -1,7 +1,7 @@
 {
-  "runCount": 154,
-  "lastTitle": "కాలం పాఠం",
-  "lastDate": "2026-09-25T12:59:31.796Z",
+  "runCount": 155,
+  "lastTitle": "స్పష్టత నిబద్ధత",
+  "lastDate": "2026-09-25T17:42:49.958Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -847,10 +847,16 @@
       "image": "old path through trees with morning mist and soft sunlight, cinematic vertical photography",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "కాలం మాటలు లేకుండా నేర్పే పాఠాలు ఏమిటో గమనించారా?"
+    },
+    {
+      "title": "స్పష్టత నిబద్ధత",
+      "screen": "నీ లక్ష్యాన్ని స్పష్టతతో నిర్వచించినప్పుడు, దానికి అవసరమైన నిబద్ధత పెరుగుతుంది, ఫలితంగా ప్రతి రోజు చేసే చిన్న చర్యలు కూడా స్థిరంగా నిలుస్తాయి.",
+      "image": "a solitary young adult sitting at a desk by a large window with soft sunrise light streaming in, writing goals in a notebook, determined expression, cinematic depth of field, vertical 9:16 portrait, subtle cityscape background, warm tones, realistic photography.",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "నీ లక్ష్యాన్ని స్పష్టంగా పెట్టి, నిబద్ధతను పెంచుకోవడానికి ఏం చేస్తావు?"
     }
   ],
   "usedBg": [
-    "37039836",
     "38399156",
     "33850206",
     "26793258",
@@ -889,10 +895,10 @@
     "30719906",
     "8195692",
     "27660237",
-    "11267669"
+    "11267669",
+    "17082576"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
@@ -931,7 +937,8 @@
     "MINDSET 🧠",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
