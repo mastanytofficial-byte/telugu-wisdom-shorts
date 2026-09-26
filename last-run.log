@@ -1,0 +1,186 @@
+[2026-09-26T16:50:18.242Z] quote attempt 1/12 (openai/gpt-oss-20b) REJECTED: reuses the same core word across at least 2 of the last 3 published quotes
+[2026-09-26T16:50:21.958Z] quote attempt 2/12 (openai/gpt-oss-20b) REJECTED: reuses the same core word across at least 2 of the last 3 published quotes
+[2026-09-26T16:50:57.046Z] quote attempt 3/12 (openai/gpt-oss-20b) REJECTED: DUPLICATE of existing title/screen/image (title="చిన్న ప్రయత్నం")
+[2026-09-26T16:51:42.258Z] quote attempt 4/12 (openai/gpt-oss-20b) API/network FAILED: Groq HTTP 429
+[2026-09-26T16:51:47.854Z] quote attempt 5/12 (openai/gpt-oss-20b) REJECTED: proofread: incorrect accusative form of noun ending with ం (నమ్మకంని should be నమ్మకాన్ని)
+[2026-09-26T16:52:05.154Z] quote attempt 6/12 (openai/gpt-oss-20b) REJECTED: DUPLICATE of existing title/screen/image (title="చిన్న ప్రయత్నాలు"); reuses the same core word across at least 2 of the last 3 published quotes
+[2026-09-26T16:52:08.525Z] quote attempt 7/12 (openai/gpt-oss-120b) REJECTED: reuses the same core word across at least 2 of the last 3 published quotes
+[2026-09-26T16:52:13.169Z] quote attempt 8/12 (openai/gpt-oss-120b) REJECTED: reuses the same core word across at least 2 of the last 3 published quotes; dangling 'ఆ విభాగం' has no earlier antecedent in SCREEN
+[2026-09-26T16:52:47.000Z] quote attempt 9/12 (openai/gpt-oss-120b) REJECTED: DUPLICATE of existing title/screen/image (title="మౌన శక్తి"); reuses the same core word across at least 2 of the last 3 published quotes; dangling 'ఆ పట్టుదల' has no earlier antecedent in SCREEN
+[2026-09-26T16:53:04.787Z] quote attempt 10/12 (openai/gpt-oss-120b) REJECTED: DUPLICATE of existing title/screen/image (title="చిన్న కృషి")
+[2026-09-26T16:53:39.107Z] quote attempt 11/12 (openai/gpt-oss-120b) REJECTED: reuses the same core word across at least 2 of the last 3 published quotes; dangling 'ఆ కేంద్రీకరణ' has no earlier antecedent in SCREEN
+[2026-09-26T16:54:14.143Z] quote attempt 12/12 (openai/gpt-oss-120b) REJECTED: reuses the same core word across at least 2 of the last 3 published quotes
+[2026-09-26T16:54:14.169Z] All 33 curated fallbacks already used; repeating least-recently-used one to minimize duplication
+[2026-09-26T16:54:14.170Z] SCREEN (17w): డబ్బు, పేరు సంపాదించడం సులభమే కావొచ్చు, కానీ నిజాయితీగా నిలబడే బంధాలను సంపాదించడం అంత సులభం కాదు, అవే జీవితానికి అసలైన బలం.
+[2026-09-26T16:54:14.170Z] HOOK: డబ్బు కంటే విలువైనది ఏమిటో మీరు ఎప్పుడైనా ఆలోచించారా?
+[2026-09-26T16:54:14.170Z] HIGHLIGHT: బంధాలను, బలం
+[2026-09-26T16:54:14.170Z] TOP LABEL: TRUE WORDS ⏳
+[2026-09-26T16:54:17.739Z] Using Pexels motion video background: /home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bg.mp4 (id=37915503)
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bg.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf62.12.101
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 6541 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt709, progressive), 1080x1920, 6537 kb/s, 59.94 fps, 59.94 tbr, 60k tbn (default)
+    Metadata:
+      handler_name    : Core Media Video
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc62.28.101 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> mjpeg (native))
+Press [q] to stop, [?] for help
+Output #0, image2, to '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bgframe.jpg':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf60.16.100
+  Stream #0:0(und): Video: mjpeg, yuvj420p(pc, bt709, progressive), 1080x1920, q=2-31, 200 kb/s, 59.94 fps, 59.94 tbn (default)
+    Metadata:
+      handler_name    : Core Media Video
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.31.102 mjpeg
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=4.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    [image2 @ 0x55c3911efac0] The specified filename '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bgframe.jpg' does not contain an image sequence pattern or a pattern is invalid.
+[image2 @ 0x55c3911efac0] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[out#0/image2 @ 0x55c3911ee5c0] video:37kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+frame=    1 fps=0.0 q=4.0 Lsize=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[2026-09-26T16:54:34.916Z] BGM: bgm-motivation.mp3
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bg.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf62.12.101
+  Duration: 00:00:36.04, start: 0.000000, bitrate: 6541 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt709, progressive), 1080x1920, 6537 kb/s, 59.94 fps, 59.94 tbr, 60k tbn (default)
+    Metadata:
+      handler_name    : Core Media Video
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc62.28.101 libx264
+Input #1, mp3, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/assets/bgm-motivation.mp3':
+  Metadata:
+    encoder         : Lavf62.3.100
+  Duration: 00:00:18.55, start: 0.023021, bitrate: 320 kb/s
+  Stream #1:0: Audio: mp3, 48000 Hz, stereo, fltp, 320 kb/s
+    Metadata:
+      encoder         : Lavc62.11
+Input #2, concat, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/frames/list.txt':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+  Stream #2:0: Video: png, rgba(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Stream mapping:
+  Stream #0:0 (h264) -> scale:default
+  Stream #1:0 (mp3float) -> volume:default
+  Stream #2:0 (png) -> overlay
+  overlay:default -> Stream #0:0 (libx264)
+  afade:default -> Stream #0:1 (aac)
+Press [q] to stop, [?] for help
+[swscaler @ 0x560f29e0fe00] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x560f29f2a300] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x560f29e70300] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 1 times
+[libx264 @ 0x560f29d1b980] using SAR=1/1
+[libx264 @ 0x560f29d1b980] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x560f29d1b980] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0x560f29d1b980] 264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=6 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf60.16.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 25 fps, 12800 tbn
+    Metadata:
+      encoder         : Lavc60.31.102 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+    Metadata:
+      encoder         : Lavc60.31.102 aac
+frame=    0 fps=0.0 q=0.0 size=       0kB time=N/A bitrate=N/A speed=N/A    frame=    0 fps=0.0 q=0.0 size=       0kB time=00:00:00.70 bitrate=   0.5kbits/s speed=1.07x    frame=   13 fps= 11 q=25.0 size=     256kB time=00:00:01.30 bitrate=1611.8kbits/s speed=1.12x    frame=   29 fps= 17 q=25.0 size=     512kB time=00:00:01.94 bitrate=2160.7kbits/s speed=1.15x    frame=   44 fps= 20 q=25.0 size=     768kB time=00:00:02.51 bitrate=2499.4kbits/s speed=1.15x    frame=   56 fps= 21 q=25.0 size=    1024kB time=00:00:03.05 bitrate=2749.9kbits/s speed=1.13x    frame=   70 fps= 22 q=25.0 size=    1280kB time=00:00:03.58 bitrate=2925.8kbits/s speed=1.12x    frame=   83 fps= 22 q=25.0 size=    1536kB time=00:00:04.09 bitrate=3072.1kbits/s speed= 1.1x    frame=   97 fps= 23 q=25.0 size=    1792kB time=00:00:04.62 bitrate=3171.2kbits/s speed=1.09x    frame=  109 fps= 23 q=25.0 size=    2048kB time=00:00:05.16 bitrate=3249.8kbits/s speed=1.09x    frame=  124 fps= 24 q=25.0 size=    2560kB time=00:00:05.71 bitrate=3668.1kbits/s speed=1.09x    frame=  136 fps= 24 q=25.0 size=    2816kB time=00:00:06.20 bitrate=3716.0kbits/s speed=1.08x    frame=  149 fps= 24 q=25.0 size=    3072kB time=00:00:06.76 bitrate=3721.3kbits/s speed=1.08x    frame=  163 fps= 24 q=25.0 size=    3328kB time=00:00:07.29 bitrate=3736.8kbits/s speed=1.07x    frame=  178 fps= 24 q=25.0 size=    3584kB time=00:00:07.87 bitrate=3729.7kbits/s speed=1.08x    frame=  190 fps= 24 q=25.0 size=    3840kB time=00:00:08.38 bitrate=3752.1kbits/s speed=1.07x    frame=  205 fps= 25 q=25.0 size=    4096kB time=00:00:08.96 bitrate=3745.0kbits/s speed=1.08x    frame=  220 fps= 25 q=25.0 size=    4352kB time=00:00:09.55 bitrate=3730.3kbits/s speed=1.08x    frame=  233 fps= 25 q=25.0 size=    4608kB time=00:00:10.15 bitrate=3717.4kbits/s speed=1.09x    frame=  249 fps= 25 q=25.0 size=    4864kB time=00:00:10.75 bitrate=3705.9kbits/s speed=1.09x    frame=  265 fps= 26 q=25.0 size=    5376kB time=00:00:11.37 bitrate=3873.2kbits/s speed= 1.1x    frame=  281 fps= 26 q=25.0 size=    5632kB time=00:00:11.98 bitrate=3848.2kbits/s speed= 1.1x    frame=  295 fps= 26 q=25.0 size=    5888kB time=00:00:12.60 bitrate=3825.7kbits/s speed=1.11x    frame=  311 fps= 26 q=25.0 size=    6144kB time=00:00:13.22 bitrate=3805.3kbits/s speed=1.12x    frame=  326 fps= 26 q=25.0 size=    6400kB time=00:00:13.84 bitrate=3786.8kbits/s speed=1.12x    frame=  343 fps= 27 q=25.0 size=    6656kB time=00:00:14.46 bitrate=3769.8kbits/s speed=1.12x    [out#0/mp4 @ 0x560f29d1a840] video:7245kB audio:236kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.168555%
+frame=  375 fps= 28 q=-1.0 Lsize=    7493kB time=00:00:15.01 bitrate=4087.4kbits/s speed=1.11x    
+[libx264 @ 0x560f29d1b980] frame I:2     Avg QP:15.70  size: 89790
+[libx264 @ 0x560f29d1b980] frame P:94    Avg QP:17.45  size: 27437
+[libx264 @ 0x560f29d1b980] frame B:279   Avg QP:18.10  size: 16700
+[libx264 @ 0x560f29d1b980] consecutive B-frames:  0.5%  0.5%  0.8% 98.1%
+[libx264 @ 0x560f29d1b980] mb I  I16..4: 32.8% 50.2% 17.0%
+[libx264 @ 0x560f29d1b980] mb P  I16..4: 23.4% 27.2%  1.7%  P16..4: 21.9%  8.5%  2.8%  0.0%  0.0%    skip:14.5%
+[libx264 @ 0x560f29d1b980] mb B  I16..4:  9.4% 10.4%  0.8%  B16..8: 23.2%  7.1%  0.3%  direct: 7.8%  skip:41.0%  L0:48.9% L1:48.6% BI: 2.5%
+[libx264 @ 0x560f29d1b980] 8x8 transform intra:51.1% inter:22.9%
+[libx264 @ 0x560f29d1b980] coded y,uvDC,uvAC intra: 29.0% 47.1% 1.7% inter: 3.5% 25.7% 0.0%
+[libx264 @ 0x560f29d1b980] i16 v,h,dc,p: 40% 27% 22% 11%
+[libx264 @ 0x560f29d1b980] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu: 34% 18% 29%  3%  3%  4%  2%  4%  3%
+[libx264 @ 0x560f29d1b980] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 41% 14% 12%  5%  5%  8%  4%  8%  3%
+[libx264 @ 0x560f29d1b980] i8c dc,h,v,p: 52% 20% 25%  3%
+[libx264 @ 0x560f29d1b980] Weighted P-Frames: Y:2.1% UV:0.0%
+[libx264 @ 0x560f29d1b980] kb/s:3956.20
+[aac @ 0x560f29d1d540] Qavg: 2918.975
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+Input #0, image2, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bgframe.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 7653 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, png_pipe, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumb_text.png':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (png) -> overlay
+  overlay:default -> Stream #0:0 (mjpeg)
+Press [q] to stop, [?] for help
+[swscaler @ 0x55c73ae4f340] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x55c73aec2900] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x55c73ae5d480] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 2 times
+[swscaler @ 0x55c73aed08c0] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x55c73aed0340] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x55c73aed0080] deprecated pixel format used, make sure you did set range correctly
+Output #0, image2, to '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumbnail.jpg':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Stream #0:0: Video: mjpeg, yuvj444p(pc, progressive), 1080x1920, q=2-31, 200 kb/s, 25 fps, 25 tbn
+    Metadata:
+      encoder         : Lavc60.31.102 mjpeg
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=2.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    [image2 @ 0x55c73ae23cc0] The specified filename '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumbnail.jpg' does not contain an image sequence pattern or a pattern is invalid.
+[image2 @ 0x55c73ae23cc0] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[out#0/image2 @ 0x55c73ae23bc0] video:108kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+frame=    1 fps=0.0 q=2.0 Lsize=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[2026-09-26T16:54:49.541Z] Thumbnail generated: /home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumbnail.jpg
+[2026-09-26T16:54:51.260Z] Uploaded and PUBLISHED: https://www.youtube.com/watch?v=VadmebHasoY
+[2026-09-26T16:54:54.226Z] Custom thumbnail set
