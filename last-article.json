@@ -1,7 +1,7 @@
 {
-  "runCount": 156,
-  "lastTitle": "అంతర్గత దారి",
-  "lastDate": "2026-09-26T12:23:39.020Z",
+  "runCount": 157,
+  "lastTitle": "బంధాల విలువ",
+  "lastDate": "2026-09-26T16:54:54.227Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -861,10 +861,16 @@
       "image": "a solitary figure walking up a misty mountain path at sunrise, holding a faint lantern, cinematic vertical 9:16 framing, soft golden light, dramatic clouds, high contrast, shallow depth of field, no text or watermarks",
       "topLabel": "SILENT POWER 🤫",
       "hook": "నీ సంకల్పం బలంగా ఉంటే, చిన్న ప్రయత్నాలు నిన్ను ఎలా మార్చుతాయో తెలుసా?"
+    },
+    {
+      "title": "బంధాల విలువ",
+      "screen": "డబ్బు, పేరు సంపాదించడం సులభమే కావొచ్చు, కానీ నిజాయితీగా నిలబడే బంధాలను సంపాదించడం అంత సులభం కాదు, అవే జీవితానికి అసలైన బలం.",
+      "image": "two hands clasped together at a wooden table with warm sunset light, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "డబ్బు కంటే విలువైనది ఏమిటో మీరు ఎప్పుడైనా ఆలోచించారా?"
     }
   ],
   "usedBg": [
-    "33850206",
     "26793258",
     "37907229",
     "30639171",
@@ -903,10 +909,10 @@
     "27660237",
     "11267669",
     "17082576",
-    "36805605"
+    "36805605",
+    "37915503"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "MINDSET 🧠",
     "INNER POWER 🔥",
@@ -945,7 +951,8 @@
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
