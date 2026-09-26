@@ -1,7 +1,7 @@
 {
-  "runCount": 155,
-  "lastTitle": "స్పష్టత నిబద్ధత",
-  "lastDate": "2026-09-25T17:42:49.958Z",
+  "runCount": 156,
+  "lastTitle": "అంతర్గత దారి",
+  "lastDate": "2026-09-26T12:23:39.020Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -854,10 +854,16 @@
       "image": "a solitary young adult sitting at a desk by a large window with soft sunrise light streaming in, writing goals in a notebook, determined expression, cinematic depth of field, vertical 9:16 portrait, subtle cityscape background, warm tones, realistic photography.",
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "నీ లక్ష్యాన్ని స్పష్టంగా పెట్టి, నిబద్ధతను పెంచుకోవడానికి ఏం చేస్తావు?"
+    },
+    {
+      "title": "అంతర్గత దారి",
+      "screen": "నీ సంకల్పం బలంగా ఉంటే, ప్రతి చిన్న ప్రయత్నం నిన్ను ముందుకు నడిపిస్తుంది; ఆ ప్రయత్నాలు సుదీర్ఘంగా నిలిచినప్పుడు నిబద్ధత పెరుగుతుంది, ఫలితంగా లక్ష్యం చేరుతుంది.",
+      "image": "a solitary figure walking up a misty mountain path at sunrise, holding a faint lantern, cinematic vertical 9:16 framing, soft golden light, dramatic clouds, high contrast, shallow depth of field, no text or watermarks",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "నీ సంకల్పం బలంగా ఉంటే, చిన్న ప్రయత్నాలు నిన్ను ఎలా మార్చుతాయో తెలుసా?"
     }
   ],
   "usedBg": [
-    "38399156",
     "33850206",
     "26793258",
     "37907229",
@@ -896,10 +902,10 @@
     "8195692",
     "27660237",
     "11267669",
-    "17082576"
+    "17082576",
+    "36805605"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "MINDSET 🧠",
@@ -938,7 +944,8 @@
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
