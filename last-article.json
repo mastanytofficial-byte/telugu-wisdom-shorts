@@ -1,7 +1,7 @@
 {
-  "runCount": 157,
-  "lastTitle": "బంధాల విలువ",
-  "lastDate": "2026-09-26T16:54:54.227Z",
+  "runCount": 158,
+  "lastTitle": "స్థిరమైన అడుగులు",
+  "lastDate": "2026-09-27T13:18:58.604Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -868,10 +868,16 @@
       "image": "two hands clasped together at a wooden table with warm sunset light, cinematic vertical photography",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "డబ్బు కంటే విలువైనది ఏమిటో మీరు ఎప్పుడైనా ఆలోచించారా?"
+    },
+    {
+      "title": "స్థిరమైన అడుగులు",
+      "screen": "ఒకేసారి పెద్ద మార్పు తీసుకురావాలని ప్రయత్నించే బదులు, ప్రతి రోజూ చిన్న స్థిరమైన అడుగులు వేస్తే, ఆ అడుగులే దీర్ఘకాలంలో అసలైన మార్పును తీసుకువస్తుంది.",
+      "image": "small green sprout growing beside a stone step, morning dew, cinematic vertical photography",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "పెద్ద మార్పు కోసం ఒక్క రోజు సరిపోతుందా, మీరు ఎప్పుడైనా ఆలోచించారా?"
     }
   ],
   "usedBg": [
-    "26793258",
     "37907229",
     "30639171",
     "39481864",
@@ -910,10 +916,10 @@
     "11267669",
     "17082576",
     "36805605",
-    "37915503"
+    "37915503",
+    "36107249"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -952,7 +958,8 @@
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
