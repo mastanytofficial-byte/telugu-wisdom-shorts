@@ -1,7 +1,7 @@
 {
-  "runCount": 159,
-  "lastTitle": "ఒంటరి బలం",
-  "lastDate": "2026-09-27T17:28:38.032Z",
+  "runCount": 160,
+  "lastTitle": "చిన్న అడుగు",
+  "lastDate": "2026-09-28T15:50:18.579Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -882,10 +882,16 @@
       "image": "lone figure walking through a quiet forest path with light filtering through trees, cinematic vertical photography",
       "topLabel": "STAY CALM 🍃",
       "hook": "ఒంటరితనం మనకి ఏ బలాన్ని నేర్పిస్తుందో ఎప్పుడైనా అనిపించిందా?"
+    },
+    {
+      "title": "చిన్న అడుగు",
+      "screen": "నువ్వు ప్రతి రోజూ చిన్న ప్రయత్నాన్ని చేస్తే, నమ్మకం పెరిగి, కృషి నీ ముందడుగును వేగంగా నడిపిస్తుంది, అది స్థిరత్వం ద్వారా సాధ్యమౌతుంది.",
+      "image": "A lone figure walking on a misty mountain path at dawn, silhouette against soft sunrise light, cinematic vertical composition, dramatic sky, subtle shadows, evoking perseverance and quiet strength",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "నీ చిన్న ప్రయత్నాలు నిజంగా నిన్ను ముందుకు తీసుకెళ్తాయా?"
     }
   ],
   "usedBg": [
-    "30639171",
     "39481864",
     "11265172",
     "37468856",
@@ -924,10 +930,10 @@
     "36805605",
     "37915503",
     "36107249",
-    "18089049"
+    "18089049",
+    "18223694"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
@@ -966,7 +972,8 @@
     "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
