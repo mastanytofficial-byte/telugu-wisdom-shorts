@@ -1,7 +1,7 @@
 {
-  "runCount": 160,
-  "lastTitle": "చిన్న అడుగు",
-  "lastDate": "2026-09-28T15:50:18.579Z",
+  "runCount": 161,
+  "lastTitle": "కొత్త దారి",
+  "lastDate": "2026-09-28T20:01:37.348Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -889,10 +889,16 @@
       "image": "A lone figure walking on a misty mountain path at dawn, silhouette against soft sunrise light, cinematic vertical composition, dramatic sky, subtle shadows, evoking perseverance and quiet strength",
       "topLabel": "INNER POWER 🔥",
       "hook": "నీ చిన్న ప్రయత్నాలు నిజంగా నిన్ను ముందుకు తీసుకెళ్తాయా?"
+    },
+    {
+      "title": "కొత్త దారి",
+      "screen": "పాత దారులు మూసుకుపోయినప్పుడు నిరాశ చెందాల్సిన పని లేదు, ప్రతి ముగింపు వెనుక ఒక కొత్త దారి మొదలవుతుంది, దాన్ని కనిపెట్టే ధైర్యం మనకు కావాలి.",
+      "image": "single open door glowing with sunrise light at the end of a dark hallway, cinematic vertical photography",
+      "topLabel": "MINDSET 🧠",
+      "hook": "ఒక దారి మూసుకుపోతే, జీవితం అక్కడితో ఆగిపోతుందా?"
     }
   ],
   "usedBg": [
-    "39481864",
     "11265172",
     "37468856",
     "20515518",
@@ -931,10 +937,10 @@
     "37915503",
     "36107249",
     "18089049",
-    "18223694"
+    "18223694",
+    "4536563"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
@@ -973,7 +979,8 @@
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
