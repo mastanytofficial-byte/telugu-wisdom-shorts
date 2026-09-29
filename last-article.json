@@ -1,7 +1,7 @@
 {
-  "runCount": 161,
-  "lastTitle": "కొత్త దారి",
-  "lastDate": "2026-09-28T20:01:37.348Z",
+  "runCount": 162,
+  "lastTitle": "సంకల్పంతో ముందుకు",
+  "lastDate": "2026-09-29T14:15:59.155Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -896,10 +896,16 @@
       "image": "single open door glowing with sunrise light at the end of a dark hallway, cinematic vertical photography",
       "topLabel": "MINDSET 🧠",
       "hook": "ఒక దారి మూసుకుపోతే, జీవితం అక్కడితో ఆగిపోతుందా?"
+    },
+    {
+      "title": "సంకల్పంతో ముందుకు",
+      "screen": "సంకల్పాన్ని కలిగి ఉంటే, ఏకాగ్రతను సులభంగా సాధించవచ్చు, స్థైర్యాన్ని పెంచితే అడ్డంకులు కూడా మెట్టు లాగా మారతాయి, అంతేకాకుండా మన గమ్యస్థానానికి చేరుకునే వేగం పెరుగుతుంది.",
+      "image": "lone figure walking determinedly up a steep mountain trail at sunrise, sky painted with warm hues, cinematic vertical composition, dramatic lighting, focus on the person's determined expression, subtle shadows, high contrast, 9:16 aspect ratio",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "సంకల్పం ఉన్నప్పటికీ, ఏకాగ్రతను ఎలా మెరుగు పరుచుకుంటావు?"
     }
   ],
   "usedBg": [
-    "11265172",
     "37468856",
     "20515518",
     "33789741",
@@ -938,10 +944,10 @@
     "36107249",
     "18089049",
     "18223694",
-    "4536563"
+    "4536563",
+    "33950667"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
@@ -980,7 +986,8 @@
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "INNER POWER 🔥",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
