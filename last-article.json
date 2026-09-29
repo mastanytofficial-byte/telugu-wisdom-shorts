@@ -1,7 +1,7 @@
 {
-  "runCount": 162,
-  "lastTitle": "సంకల్పంతో ముందుకు",
-  "lastDate": "2026-09-29T14:15:59.155Z",
+  "runCount": 163,
+  "lastTitle": "పట్టుదల మెట్లు",
+  "lastDate": "2026-09-29T18:26:30.679Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -903,10 +903,16 @@
       "image": "lone figure walking determinedly up a steep mountain trail at sunrise, sky painted with warm hues, cinematic vertical composition, dramatic lighting, focus on the person's determined expression, subtle shadows, high contrast, 9:16 aspect ratio",
       "topLabel": "BE BRAVE 🦁",
       "hook": "సంకల్పం ఉన్నప్పటికీ, ఏకాగ్రతను ఎలా మెరుగు పరుచుకుంటావు?"
+    },
+    {
+      "title": "పట్టుదల మెట్లు",
+      "screen": "పట్టుదలతో పని చేస్తే, అడ్డంకులు మెట్లు అవుతాయి, అది మనకు కొత్త సంకల్పాన్ని ఇస్తుంది, అదే వివేకాన్ని పెంచుతుంది, చివరికి మన లక్ష్యాన్ని చేరుస్తుంది.",
+      "image": "a solitary person standing on a cliff edge at dawn, gazing at a series of stone steps ascending into misty horizon, cinematic vertical composition 9:16.",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "అడ్డంకులను మెట్లు గా మార్చుకోవడాన్ని ఎప్పుడైనా ప్రయత్నించారా?"
     }
   ],
   "usedBg": [
-    "37468856",
     "20515518",
     "33789741",
     "37592292",
@@ -945,10 +951,10 @@
     "18089049",
     "18223694",
     "4536563",
-    "33950667"
+    "33950667",
+    "28075160"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
@@ -987,7 +993,8 @@
     "STAY CALM 🍃",
     "INNER POWER 🔥",
     "MINDSET 🧠",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
