@@ -1,7 +1,7 @@
 {
-  "runCount": 163,
-  "lastTitle": "పట్టుదల మెట్లు",
-  "lastDate": "2026-09-29T18:26:30.679Z",
+  "runCount": 164,
+  "lastTitle": "మౌనపు విజయం",
+  "lastDate": "2026-09-30T14:09:02.432Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -910,10 +910,16 @@
       "image": "a solitary person standing on a cliff edge at dawn, gazing at a series of stone steps ascending into misty horizon, cinematic vertical composition 9:16.",
       "topLabel": "LIFE LESSON 💡",
       "hook": "అడ్డంకులను మెట్లు గా మార్చుకోవడాన్ని ఎప్పుడైనా ప్రయత్నించారా?"
+    },
+    {
+      "title": "మౌనపు విజయం",
+      "screen": "నిశ్శబ్దంగా ప్రయత్నించిన ప్రతీ అడుగు నీ పట్టుదలని పెంచుతుంది, అది ఏకాగ్రతను మెరుగు పరుస్తుంది, అందువల్ల నీ లక్ష్యానికి చేరుకోవడంలో స్థైర్యం కలుగుతుంది.",
+      "image": "A lone figure sits at a desk in a dimly lit room, quietly writing by candlelight, surrounded by stacks of books, the glow casting soft shadows; cinematic vertical composition, 9:16 aspect ratio, subtle morning light filtering through a window, emphasizing focus and determination.",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "నిశ్శబ్దంగా ప్రయత్నించడం నీకు ఏ ప్రయోజనం ఇస్తుంది?"
     }
   ],
   "usedBg": [
-    "20515518",
     "33789741",
     "37592292",
     "37357038",
@@ -952,10 +958,10 @@
     "18223694",
     "4536563",
     "33950667",
-    "28075160"
+    "28075160",
+    "34078226"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
@@ -994,7 +1000,8 @@
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "BE BRAVE 🦁",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
