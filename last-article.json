@@ -1,7 +1,7 @@
 {
-  "runCount": 166,
-  "lastTitle": "లోపలి వెలుగు",
-  "lastDate": "2026-10-01T14:46:40.660Z",
+  "runCount": 167,
+  "lastTitle": "సంకల్పం నిలుపుకోవాలి",
+  "lastDate": "2026-10-01T18:41:00.571Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -931,10 +931,16 @@
       "image": "single candle flame glowing steadily in a dark room near a window, cinematic vertical photography",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "బయట ఎంత చీకటిగా ఉన్నా, లోపల ఏం ఆరదో మీకు తెలుసా?"
+    },
+    {
+      "title": "సంకల్పం నిలుపుకోవాలి",
+      "screen": "ఎవరైనా అడ్డంకులు ఎత్తినా, నీ సంకల్పం మిగిలి ఉంటే, నిబద్ధత ద్వారా నువ్వు వాటిని అధిగమిస్తావు, అది నీ స్వీయ గౌరవాన్ని పెంచుతుంది.",
+      "image": "a lone individual walking through a rain-soaked city alley, determined expression, rain droplets glistening, cinematic vertical composition, dramatic lighting, moody atmosphere, high contrast, subtle depth of field",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "ఎప్పుడూ అడ్డంకులు ఎదురైనా, నీ సంకల్పం ఎప్పుడూ నిలుస్తుందా?"
     }
   ],
   "usedBg": [
-    "37357038",
     "36805627",
     "27469577",
     "32285455",
@@ -973,10 +979,10 @@
     "28075160",
     "34078226",
     "9241315",
-    "30845604"
+    "30845604",
+    "35129342"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "BE BRAVE 🦁",
     "INNER POWER 🔥",
@@ -1015,7 +1021,8 @@
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
