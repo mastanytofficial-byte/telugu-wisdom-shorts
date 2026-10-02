@@ -1,7 +1,7 @@
 {
-  "runCount": 167,
-  "lastTitle": "సంకల్పం నిలుపుకోవాలి",
-  "lastDate": "2026-10-01T18:41:00.571Z",
+  "runCount": 168,
+  "lastTitle": "సరిహద్దు శక్తి",
+  "lastDate": "2026-10-02T14:07:32.572Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -938,10 +938,16 @@
       "image": "a lone individual walking through a rain-soaked city alley, determined expression, rain droplets glistening, cinematic vertical composition, dramatic lighting, moody atmosphere, high contrast, subtle depth of field",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "ఎప్పుడూ అడ్డంకులు ఎదురైనా, నీ సంకల్పం ఎప్పుడూ నిలుస్తుందా?"
+    },
+    {
+      "title": "సరిహద్దు శక్తి",
+      "screen": "నువ్వు స్పష్టమైన సరిహద్దులు పెట్టినప్పుడు, ఇతరుల అభ్యర్థనలు నీ శక్తిని తగ్గించవు, ఆ శక్తి నీ అభివృద్ధికి దారితీస్తుంది, అంతే కాదు, అది నీ పట్టుదల ని బలపరుస్తుంది, స్పష్టత నీకు కొత్త విశ్వాసాన్ని ఇస్తుంది.",
+      "image": "a lone young adult standing in a minimalist room, one hand gently closing a translucent doorway while warm sunrise light streams through the open side, cinematic vertical 9:16, soft focus, high contrast, dramatic lighting, subtle lens flare",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "నీ రోజువారీ జీవనంలో సరిహద్దు పెట్టడం ఎంత ప్రభావం చూపుతుందో గమనించారా?"
     }
   ],
   "usedBg": [
-    "36805627",
     "27469577",
     "32285455",
     "11995873",
@@ -980,10 +986,10 @@
     "34078226",
     "9241315",
     "30845604",
-    "35129342"
+    "35129342",
+    "7815051"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "BE BRAVE 🦁",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -1022,7 +1028,8 @@
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
