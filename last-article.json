@@ -1,7 +1,7 @@
 {
-  "runCount": 170,
-  "lastTitle": "లోతైన అనుభవం",
-  "lastDate": "2026-10-03T12:47:06.406Z",
+  "runCount": 171,
+  "lastTitle": "స్పష్టత శక్తి",
+  "lastDate": "2026-10-03T16:56:22.864Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -959,10 +959,16 @@
       "image": "person looking out over a vast valley from a mountain ridge at golden hour, cinematic vertical photography",
       "topLabel": "INNER POWER 🔥",
       "hook": "జీవితం మనకి నేర్పే అతి పెద్ద పాఠం ఏమిటో తెలుసా?"
+    },
+    {
+      "title": "స్పష్టత శక్తి",
+      "screen": "నీ అంతర్గత సంకల్పం స్పష్టతతో కలిసితే, దారి మీద వచ్చే అడ్డంకులు నెమ్మదిగా తొలగిపోతాయి, ఫలితంగా నీవు వేగంగా పరిణతి వైపు చేరుతావు.",
+      "image": "a lone young adult walking confidently on a narrow mountain trail at sunrise, mist clearing ahead, soft golden light illuminating the path, cinematic vertical 9:16 photography, dramatic atmosphere, no text",
+      "topLabel": "MINDSET 🧠",
+      "hook": "నీవు నిజంగా నీ సంకల్పాన్ని స్పష్టంగా చూసి, దారిని సులభం చేసుకోగలవా?"
     }
   ],
   "usedBg": [
-    "11995873",
     "36857034",
     "38935930",
     "35000900",
@@ -1001,10 +1007,10 @@
     "35129342",
     "7815051",
     "39266727",
-    "38242992"
+    "38242992",
+    "39192570"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "SILENT POWER 🤫",
     "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
@@ -1043,7 +1049,8 @@
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
