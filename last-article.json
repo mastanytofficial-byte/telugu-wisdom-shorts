@@ -1,7 +1,7 @@
 {
-  "runCount": 169,
-  "lastTitle": "ఒంటరి శక్తి",
-  "lastDate": "2026-10-02T18:10:24.311Z",
+  "runCount": 170,
+  "lastTitle": "లోతైన అనుభవం",
+  "lastDate": "2026-10-03T12:47:06.406Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -952,10 +952,16 @@
       "image": "A lone figure stands on a misty cliff at sunrise, gazing out over a vast horizon, with a subtle sunrise glow illuminating their silhouette, cinematic vertical composition, dramatic lighting, subtle shadows.",
       "topLabel": "SILENT POWER 🤫",
       "hook": "ఒంటరిగా పోరాడితే, మీ సంకల్పం ఎలా మారుతుందో తెలుసుకోవాలనుకుంటున్నారా?"
+    },
+    {
+      "title": "లోతైన అనుభవం",
+      "screen": "ప్రతి అనుభవం, అది మంచిదైనా చెడ్డదైనా, మనలో ఏదో ఒక పాఠాన్ని వదిలివెళ్తుంది, ఆ పాఠాలే కాలక్రమేణా మనల్ని పరిపక్వంగా మారుస్తాయి.",
+      "image": "person looking out over a vast valley from a mountain ridge at golden hour, cinematic vertical photography",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "జీవితం మనకి నేర్పే అతి పెద్ద పాఠం ఏమిటో తెలుసా?"
     }
   ],
   "usedBg": [
-    "32285455",
     "11995873",
     "36857034",
     "38935930",
@@ -994,10 +1000,10 @@
     "30845604",
     "35129342",
     "7815051",
-    "39266727"
+    "39266727",
+    "38242992"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "SILENT POWER 🤫",
     "LIFE LESSON 💡",
@@ -1036,7 +1042,8 @@
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
