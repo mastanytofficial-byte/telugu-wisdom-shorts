@@ -1,7 +1,7 @@
 {
-  "runCount": 172,
-  "lastTitle": "లక్ష్యం స్పష్టత",
-  "lastDate": "2026-10-04T13:27:18.727Z",
+  "runCount": 173,
+  "lastTitle": "మార్పు బలం",
+  "lastDate": "2026-10-04T17:18:45.094Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -973,10 +973,16 @@
       "image": "a solitary figure standing on a rocky cliff at sunrise, looking toward a distant clear horizon, soft golden light bathing the scene, cinematic vertical 9:16, high contrast, shallow depth of field, dramatic clouds, inspirational atmosphere, no text",
       "topLabel": "LIFE LESSON 💡",
       "hook": "లక్ష్యం స్పష్టంగా లేకపోతే, నీవు ఎలా ముందుకు వెళ్తావు?"
+    },
+    {
+      "title": "మార్పు బలం",
+      "screen": "మార్పు మొదట భయంగా అనిపించవచ్చు, కానీ దాన్ని స్వీకరించినప్పుడు మనలో కొత్త బలం మేల్కొంటుంది, అదే బలం ముందున్న దారిని సులభం చేస్తుంది.",
+      "image": "person stepping from a shadowed doorway into warm morning light, cinematic vertical photography",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "మార్పు మనలో దాచిన ఏ బలాన్ని బయటకు తెస్తుందో తెలుసా?"
     }
   ],
   "usedBg": [
-    "38935930",
     "35000900",
     "27990177",
     "18209691",
@@ -1015,10 +1021,10 @@
     "39266727",
     "38242992",
     "39192570",
-    "33129397"
+    "33129397",
+    "39707836"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
@@ -1057,7 +1063,8 @@
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MINDSET 🧠",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
