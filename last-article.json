@@ -1,7 +1,7 @@
 {
-  "runCount": 171,
-  "lastTitle": "స్పష్టత శక్తి",
-  "lastDate": "2026-10-03T16:56:22.864Z",
+  "runCount": 172,
+  "lastTitle": "లక్ష్యం స్పష్టత",
+  "lastDate": "2026-10-04T13:27:18.727Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -966,10 +966,16 @@
       "image": "a lone young adult walking confidently on a narrow mountain trail at sunrise, mist clearing ahead, soft golden light illuminating the path, cinematic vertical 9:16 photography, dramatic atmosphere, no text",
       "topLabel": "MINDSET 🧠",
       "hook": "నీవు నిజంగా నీ సంకల్పాన్ని స్పష్టంగా చూసి, దారిని సులభం చేసుకోగలవా?"
+    },
+    {
+      "title": "లక్ష్యం స్పష్టత",
+      "screen": "నీ లక్ష్యం ఏమిటో స్పష్టంగా చూసినప్పుడు, ఆ స్పష్టత నీ చర్యలను దారితీస్తుంది, దాంతో ప్రతి చిన్న కృషి నిబద్ధతను బలపరుస్తుంది, ఫలితంగా జీవితం మారుతుంది.",
+      "image": "a solitary figure standing on a rocky cliff at sunrise, looking toward a distant clear horizon, soft golden light bathing the scene, cinematic vertical 9:16, high contrast, shallow depth of field, dramatic clouds, inspirational atmosphere, no text",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "లక్ష్యం స్పష్టంగా లేకపోతే, నీవు ఎలా ముందుకు వెళ్తావు?"
     }
   ],
   "usedBg": [
-    "36857034",
     "38935930",
     "35000900",
     "27990177",
@@ -1008,10 +1014,10 @@
     "7815051",
     "39266727",
     "38242992",
-    "39192570"
+    "39192570",
+    "33129397"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "LIFE LESSON 💡",
     "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
@@ -1050,7 +1056,8 @@
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
