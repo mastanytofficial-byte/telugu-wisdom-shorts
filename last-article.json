@@ -1,7 +1,7 @@
 {
-  "runCount": 173,
-  "lastTitle": "మార్పు బలం",
-  "lastDate": "2026-10-04T17:18:45.094Z",
+  "runCount": 174,
+  "lastTitle": "పట్టుదల సంకల్పం",
+  "lastDate": "2026-10-05T16:21:19.556Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -980,10 +980,16 @@
       "image": "person stepping from a shadowed doorway into warm morning light, cinematic vertical photography",
       "topLabel": "SILENT POWER 🤫",
       "hook": "మార్పు మనలో దాచిన ఏ బలాన్ని బయటకు తెస్తుందో తెలుసా?"
+    },
+    {
+      "title": "పట్టుదల సంకల్పం",
+      "screen": "పట్టుదల లేకుండా ముందుకు సాగటం అసాధ్యమై, సంకల్పం ఉన్నపుడు అడ్డంకులు మాయమై, చివరికి మనం మన స్వీయ నమ్మకాన్ని నిజంగా పెంచుకుంటాం.",
+      "image": "a lone determined individual climbing a steep cliff under a sunrise sky, cinematic 9:16 vertical shot, dramatic lighting highlighting the climber's focused expression, emphasizing perseverance and hope",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "పట్టుదల లేకుండా మీ లక్ష్యాన్ని సాధించగలరా?"
     }
   ],
   "usedBg": [
-    "35000900",
     "27990177",
     "18209691",
     "32705691",
@@ -1022,10 +1028,10 @@
     "38242992",
     "39192570",
     "33129397",
-    "39707836"
+    "39707836",
+    "34078236"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
@@ -1064,7 +1070,8 @@
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "LIFE LESSON 💡",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
