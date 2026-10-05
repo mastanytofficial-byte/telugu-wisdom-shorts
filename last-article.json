@@ -1,7 +1,7 @@
 {
-  "runCount": 174,
-  "lastTitle": "పట్టుదల సంకల్పం",
-  "lastDate": "2026-10-05T16:21:19.556Z",
+  "runCount": 175,
+  "lastTitle": "చిన్న నిర్ణయాలు",
+  "lastDate": "2026-10-05T21:08:59.636Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -987,10 +987,16 @@
       "image": "a lone determined individual climbing a steep cliff under a sunrise sky, cinematic 9:16 vertical shot, dramatic lighting highlighting the climber's focused expression, emphasizing perseverance and hope",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "పట్టుదల లేకుండా మీ లక్ష్యాన్ని సాధించగలరా?"
+    },
+    {
+      "title": "చిన్న నిర్ణయాలు",
+      "screen": "నువ్వు ప్రతి రోజూ చిన్న నిర్ణయాలు తీసుకుంటే, ఆ నిర్ణయాలు నీ పట్టుదలను బలపరుస్తాయి, దాంతో స్పష్టత కలిగే లక్ష్యం చేరుతుంది.",
+      "image": "a person sitting at a wooden desk writing a daily to‑do list in a notebook, sunrise light streaming through a window, cinematic vertical 9:16 shot with shallow depth of field, soft warm tones, no text or watermarks",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "నిన్ను ముందుకు నడిపించే చిన్న నిర్ణయాలు ఏవి?"
     }
   ],
   "usedBg": [
-    "27990177",
     "18209691",
     "32705691",
     "15461514",
@@ -1029,10 +1035,10 @@
     "39192570",
     "33129397",
     "39707836",
-    "34078236"
+    "34078236",
+    "20393316"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
@@ -1071,7 +1077,8 @@
     "MINDSET 🧠",
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
