@@ -1,7 +1,7 @@
 {
-  "runCount": 176,
-  "lastTitle": "దారి ఎంచుకోవాలి",
-  "lastDate": "2026-10-06T14:27:08.455Z",
+  "runCount": 177,
+  "lastTitle": "మొదటి అడుగు",
+  "lastDate": "2026-10-06T18:48:03.987Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1001,10 +1001,16 @@
       "image": "a lone figure at a crossroads under a twilight sky, illuminated by soft streetlights, cinematic lighting, vertical composition, 9:16 ratio",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "నిర్ణయం తీసుకున్నప్పుడు నీ ఏకాగ్రత ఎలా మారుతుంది?"
+    },
+    {
+      "title": "మొదటి అడుగు",
+      "screen": "కష్టపడిన ప్రతి క్షణం వృథా కాదు, ఆ కష్టం వెనుక దాగి ఉన్న అనుభవం మనకి కొత్త బలాన్ని ఇస్తుంది, అదే బలం మనల్ని ముందుకు నడిపిస్తుంది.",
+      "image": "lone figure taking the first step onto a misty mountain trail at sunrise, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "ప్రతి కష్టం మనలో ఏమి పెంచుతుందో ఎప్పుడైనా గమనించారా?"
     }
   ],
   "usedBg": [
-    "32705691",
     "15461514",
     "33129394",
     "38224672",
@@ -1043,10 +1049,10 @@
     "39707836",
     "34078236",
     "20393316",
-    "9667218"
+    "9667218",
+    "33098322"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
@@ -1085,7 +1091,8 @@
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
