@@ -1,7 +1,7 @@
 {
-  "runCount": 175,
-  "lastTitle": "చిన్న నిర్ణయాలు",
-  "lastDate": "2026-10-05T21:08:59.636Z",
+  "runCount": 176,
+  "lastTitle": "దారి ఎంచుకోవాలి",
+  "lastDate": "2026-10-06T14:27:08.455Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -994,10 +994,16 @@
       "image": "a person sitting at a wooden desk writing a daily to‑do list in a notebook, sunrise light streaming through a window, cinematic vertical 9:16 shot with shallow depth of field, soft warm tones, no text or watermarks",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "నిన్ను ముందుకు నడిపించే చిన్న నిర్ణయాలు ఏవి?"
+    },
+    {
+      "title": "దారి ఎంచుకోవాలి",
+      "screen": "ప్రతి సారి మనం నిర్ణయం తీసుకుంటే, ఏకాగ్రత పెరుగుతుంది; స్థైర్యం మనకు ముందుకు నడిపిస్తుంది; సంకల్పం లేకుండా మన లక్ష్యాన్ని చేరుకోవడం అసాధ్యమే.",
+      "image": "a lone figure at a crossroads under a twilight sky, illuminated by soft streetlights, cinematic lighting, vertical composition, 9:16 ratio",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "నిర్ణయం తీసుకున్నప్పుడు నీ ఏకాగ్రత ఎలా మారుతుంది?"
     }
   ],
   "usedBg": [
-    "18209691",
     "32705691",
     "15461514",
     "33129394",
@@ -1036,10 +1042,10 @@
     "33129397",
     "39707836",
     "34078236",
-    "20393316"
+    "20393316",
+    "9667218"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
@@ -1078,7 +1084,8 @@
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
