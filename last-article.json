@@ -1,7 +1,7 @@
 {
-  "runCount": 177,
-  "lastTitle": "మొదటి అడుగు",
-  "lastDate": "2026-10-06T18:48:03.987Z",
+  "runCount": 178,
+  "lastTitle": "నమ్మకపు బలం",
+  "lastDate": "2026-10-07T14:45:41.929Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1008,10 +1008,16 @@
       "image": "lone figure taking the first step onto a misty mountain trail at sunrise, cinematic vertical photography",
       "topLabel": "STAY CALM 🍃",
       "hook": "ప్రతి కష్టం మనలో ఏమి పెంచుతుందో ఎప్పుడైనా గమనించారా?"
+    },
+    {
+      "title": "నమ్మకపు బలం",
+      "screen": "పరిస్థితులు పూర్తిగా మారేవరకు నిస్సహాయంగా ఎదురుచూసే బదులు, తనపై తనకున్న గట్టి నమ్మకమే మనిషిని ముందుకు నడిపించే అసలైన శక్తిగా మారుతుంది.",
+      "image": "person walking confidently across a long bridge into golden sunlight, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "పరిస్థితులు కాదు, మనిషిని ముందుకు నడిపించేది ఏమిటో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "15461514",
     "33129394",
     "38224672",
     "12834995",
@@ -1050,10 +1056,10 @@
     "34078236",
     "20393316",
     "9667218",
-    "33098322"
+    "33098322",
+    "36857034"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -1092,7 +1098,8 @@
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
