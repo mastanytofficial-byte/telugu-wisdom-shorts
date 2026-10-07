@@ -1,7 +1,7 @@
 {
-  "runCount": 178,
-  "lastTitle": "నమ్మకపు బలం",
-  "lastDate": "2026-10-07T14:45:41.929Z",
+  "runCount": 179,
+  "lastTitle": "సరిహద్దు స్థాపన",
+  "lastDate": "2026-10-07T19:14:20.069Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1015,10 +1015,16 @@
       "image": "person walking confidently across a long bridge into golden sunlight, cinematic vertical photography",
       "topLabel": "BE BRAVE 🦁",
       "hook": "పరిస్థితులు కాదు, మనిషిని ముందుకు నడిపించేది ఏమిటో మీకు తెలుసా?"
+    },
+    {
+      "title": "సరిహద్దు స్థాపన",
+      "screen": "నీకు అవసరం లేని పనులను తిరస్కరించినప్పుడు, సరిహద్దు బలంగా నిలుస్తుంది, దాంతో నీ నిబద్ధత నిజమైన లక్ష్యానికి దారితీస్తుంది, ఫలితంగా జీవితం స్థిరంగా మారుతుంది.",
+      "image": "cinematic vertical 9:16 shot of a solitary figure standing on a rugged cliff edge at sunrise, the horizon forming a clear line representing a boundary, soft golden light illuminating the figure’s determined posture, dramatic clouds, shallow depth of field, high contrast, subtle lens flare, no text or watermarks",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "నువ్వు నిజంగా ఏ పని తీసుకోవాలో, ఏది వదలాలో నిర్ణయించుకుంటున్నావా?"
     }
   ],
   "usedBg": [
-    "33129394",
     "38224672",
     "12834995",
     "38093495",
@@ -1057,10 +1063,10 @@
     "20393316",
     "9667218",
     "33098322",
-    "36857034"
+    "36857034",
+    "27117847"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
@@ -1099,7 +1105,8 @@
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "STAY CALM 🍃",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
