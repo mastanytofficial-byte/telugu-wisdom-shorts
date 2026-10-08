@@ -1,7 +1,7 @@
 {
-  "runCount": 179,
-  "lastTitle": "సరిహద్దు స్థాపన",
-  "lastDate": "2026-10-07T19:14:20.069Z",
+  "runCount": 180,
+  "lastTitle": "సంకల్పం ఏకాగ్రత పట్టుదల",
+  "lastDate": "2026-10-08T14:51:22.290Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1022,10 +1022,16 @@
       "image": "cinematic vertical 9:16 shot of a solitary figure standing on a rugged cliff edge at sunrise, the horizon forming a clear line representing a boundary, soft golden light illuminating the figure’s determined posture, dramatic clouds, shallow depth of field, high contrast, subtle lens flare, no text or watermarks",
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "నువ్వు నిజంగా ఏ పని తీసుకోవాలో, ఏది వదలాలో నిర్ణయించుకుంటున్నావా?"
+    },
+    {
+      "title": "సంకల్పం ఏకాగ్రత పట్టుదల",
+      "screen": "ప్రతి సారి మనము సంకల్పం తో ముందుకు వెళ్తే, మనము సాధించిన ప్రతిదీ మన ఏకాగ్రత ని పెంచుతుంది, అది మన పట్టుదల ను మరింత బలపరుస్తుంది.",
+      "image": "lone figure standing on a cliff at sunrise, gazing into the horizon, wind blowing, dramatic cinematic lighting, vertical 9:16 composition",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "నీ సంకల్పం ఎప్పుడూ ఏకాగ్రతను పెంచుతుందా?"
     }
   ],
   "usedBg": [
-    "38224672",
     "12834995",
     "38093495",
     "33897597",
@@ -1064,10 +1070,10 @@
     "9667218",
     "33098322",
     "36857034",
-    "27117847"
+    "27117847",
+    "19956220"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
@@ -1106,7 +1112,8 @@
     "TRUE WORDS ⏳",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
