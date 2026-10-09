@@ -1,7 +1,7 @@
 {
-  "runCount": 180,
-  "lastTitle": "సంకల్పం ఏకాగ్రత పట్టుదల",
-  "lastDate": "2026-10-08T14:51:22.290Z",
+  "runCount": 181,
+  "lastTitle": "స్థిర సంకల్పం",
+  "lastDate": "2026-10-09T14:33:04.214Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1029,10 +1029,16 @@
       "image": "lone figure standing on a cliff at sunrise, gazing into the horizon, wind blowing, dramatic cinematic lighting, vertical 9:16 composition",
       "topLabel": "INNER POWER 🔥",
       "hook": "నీ సంకల్పం ఎప్పుడూ ఏకాగ్రతను పెంచుతుందా?"
+    },
+    {
+      "title": "స్థిర సంకల్పం",
+      "screen": "నీ సంకల్పాన్ని స్థిరంగా ఉంచితే, పట్టుదల సహజంగా పెరుగుతుంది; పట్టుదల పెరిగితే, స్పష్టత మెరుగుపడుతుంది; స్పష్టత కలిగితే, విజయం నిశ్చితంగా వస్తుంది.",
+      "image": "A lone individual standing on a cliff at sunrise, silhouetted against a vibrant sky, holding a compass, symbolizing steadfast determination and clear direction, cinematic vertical composition",
+      "topLabel": "MINDSET 🧠",
+      "hook": "నీ సంకల్పాన్ని స్థిరంగా ఉంచితే, నీ విజయం ఎలా వస్తుందో తెలుసా?"
     }
   ],
   "usedBg": [
-    "12834995",
     "38093495",
     "33897597",
     "8953693",
@@ -1071,10 +1077,10 @@
     "33098322",
     "36857034",
     "27117847",
-    "19956220"
+    "19956220",
+    "34479251"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
@@ -1113,7 +1119,8 @@
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
