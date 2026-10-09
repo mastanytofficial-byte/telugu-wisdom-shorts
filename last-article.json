@@ -1,7 +1,7 @@
 {
-  "runCount": 181,
-  "lastTitle": "స్థిర సంకల్పం",
-  "lastDate": "2026-10-09T14:33:04.214Z",
+  "runCount": 182,
+  "lastTitle": "అంతర్గత దిశ",
+  "lastDate": "2026-10-09T18:40:32.905Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1036,10 +1036,16 @@
       "image": "A lone individual standing on a cliff at sunrise, silhouetted against a vibrant sky, holding a compass, symbolizing steadfast determination and clear direction, cinematic vertical composition",
       "topLabel": "MINDSET 🧠",
       "hook": "నీ సంకల్పాన్ని స్థిరంగా ఉంచితే, నీ విజయం ఎలా వస్తుందో తెలుసా?"
+    },
+    {
+      "title": "అంతర్గత దిశ",
+      "screen": "నీ అంతర్గత కేంద్రం బలపడితే, ప్రతి సవాలు నీ ముందుకు నడిపే దిశ అవుతుంది, అప్పుడే నీ కలలు నిజమవుతాయి, జీవితం కొత్త రంగు తెస్తుంది.",
+      "image": "a lone figure standing on a misty mountain ridge at sunrise, their chest glowing with an inner light representing a strong core, looking toward a bright horizon that symbolizes a clear direction, cinematic vertical 9:16 shot, high contrast, soft lens flare, atmospheric clouds, dramatic lighting",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "అంతర్గత కేంద్రాన్ని బలపరిచితే, దిశ నీకు స్వయంగా వస్తుందా?"
     }
   ],
   "usedBg": [
-    "38093495",
     "33897597",
     "8953693",
     "10170855",
@@ -1078,10 +1084,10 @@
     "36857034",
     "27117847",
     "19956220",
-    "34479251"
+    "34479251",
+    "37319591"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
@@ -1120,7 +1126,8 @@
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
