@@ -1,7 +1,7 @@
 {
-  "runCount": 183,
-  "lastTitle": "గమ్యం వైపు",
-  "lastDate": "2026-10-10T14:01:00.189Z",
+  "runCount": 184,
+  "lastTitle": "మనసు స్థిరత్వం",
+  "lastDate": "2026-10-10T17:39:23.069Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1050,10 +1050,16 @@
       "image": "person walking a long winding path toward a distant sunrise on the horizon, cinematic vertical photography",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "చిన్న అడుగులు ఎంత దూరం తీసుకెళ్తాయో ఎప్పుడైనా ఆలోచించారా?"
+    },
+    {
+      "title": "మనసు స్థిరత్వం",
+      "screen": "బయట ఎన్ని మార్పులు వచ్చినా, మనసులో స్థిరత్వం ఉంటే ఏ పరిస్థితినైనా ఎదుర్కోగలం, ఆ స్థిరత్వమే లోపలి నుండి వస్తుంది, బయటి నుండి కాదు.",
+      "image": "person meditating peacefully on a quiet hilltop at sunrise, soft golden light, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "నిజమైన శాంతం ఎక్కడ నుండి వస్తుందో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "8953693",
     "10170855",
     "37884190",
     "7235103",
@@ -1092,10 +1098,10 @@
     "19956220",
     "34479251",
     "37319591",
-    "34543361"
+    "34543361",
+    "4684391"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
@@ -1134,7 +1140,8 @@
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "TRUE WORDS ⏳",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
