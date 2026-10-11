@@ -1,7 +1,7 @@
 {
-  "runCount": 185,
-  "lastTitle": "నిశ్శబ్ద కృషి",
-  "lastDate": "2026-10-11T14:21:41.193Z",
+  "runCount": 186,
+  "lastTitle": "నిశ్శబ్ద స్థిరత్వం",
+  "lastDate": "2026-10-11T17:55:25.778Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1064,10 +1064,16 @@
       "image": "a solitary young adult sitting at a modest wooden desk in a softly lit room, early sunrise light filtering through a window, focused on writing in a notebook, cinematic vertical 9:16 composition, shallow depth of field, warm tones, no text or watermarks.",
       "topLabel": "LIFE LESSON 💡",
       "hook": "నిశ్శబ్దంగా కృషి చేస్తూ, నీ లక్ష్యానికి స్పష్టత ఎలా వస్తుంది?"
+    },
+    {
+      "title": "నిశ్శబ్ద స్థిరత్వం",
+      "screen": "నువ్వు ప్రతి సాయంత్రం స్వల్పంగా పని చేస్తూ, నీ నమ్మకం పెరుగుతుంది, ఆ నమ్మకం నీ పట్టుదలని బలపరుస్తుంది, ఫలితంగా నీ జీవితం స్పష్టతను పొందుతుంది.",
+      "image": "a young adult sitting at a modest wooden desk near a large window at sunset, soft golden light spilling onto a notebook, focused expression, subtle dust motes in the air, cinematic vertical 9:16 shot with shallow depth of field and warm color grading, no text or watermarks.",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "సాయంత్రం చిన్న పనులు నీ జీవితాన్ని ఎలా మార్చుతాయి?"
     }
   ],
   "usedBg": [
-    "37884190",
     "7235103",
     "38580923",
     "39352887",
@@ -1106,10 +1112,10 @@
     "37319591",
     "34543361",
     "4684391",
-    "35583884"
+    "35583884",
+    "37116290"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
@@ -1148,7 +1154,8 @@
     "TRUE WORDS ⏳",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
