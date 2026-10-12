@@ -1,7 +1,7 @@
 {
-  "runCount": 186,
-  "lastTitle": "నిశ్శబ్ద స్థిరత్వం",
-  "lastDate": "2026-10-11T17:55:25.778Z",
+  "runCount": 187,
+  "lastTitle": "ప్రశాంతత శక్తి",
+  "lastDate": "2026-10-12T16:59:35.920Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1071,10 +1071,16 @@
       "image": "a young adult sitting at a modest wooden desk near a large window at sunset, soft golden light spilling onto a notebook, focused expression, subtle dust motes in the air, cinematic vertical 9:16 shot with shallow depth of field and warm color grading, no text or watermarks.",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "సాయంత్రం చిన్న పనులు నీ జీవితాన్ని ఎలా మార్చుతాయి?"
+    },
+    {
+      "title": "ప్రశాంతత శక్తి",
+      "screen": "ప్రతి సమస్యకూ కంగారుగా స్పందించాల్సిన అవసరం లేదు, ప్రశాంతంగా ఆలోచించే మనసు మాత్రమే సరైన పరిష్కారాన్ని కనిపెడుతుంది, అదే నిజమైన తెలివి.",
+      "image": "still lake reflecting mountains at sunrise with soft mist, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "కంగారు కాదు ప్రశాంతతే నిజమైన శక్తి అని మీకు అనిపించిందా?"
     }
   ],
   "usedBg": [
-    "7235103",
     "38580923",
     "39352887",
     "34807184",
@@ -1113,10 +1119,10 @@
     "34543361",
     "4684391",
     "35583884",
-    "37116290"
+    "37116290",
+    "18984252"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "INNER POWER 🔥",
@@ -1155,7 +1161,8 @@
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
