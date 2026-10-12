@@ -1,7 +1,7 @@
 {
-  "runCount": 187,
-  "lastTitle": "ప్రశాంతత శక్తి",
-  "lastDate": "2026-10-12T16:59:35.920Z",
+  "runCount": 188,
+  "lastTitle": "సంకల్పం మార్గం",
+  "lastDate": "2026-10-12T21:32:31.101Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1078,10 +1078,16 @@
       "image": "still lake reflecting mountains at sunrise with soft mist, cinematic vertical photography",
       "topLabel": "STAY CALM 🍃",
       "hook": "కంగారు కాదు ప్రశాంతతే నిజమైన శక్తి అని మీకు అనిపించిందా?"
+    },
+    {
+      "title": "సంకల్పం మార్గం",
+      "screen": "నిజమైన విజయం మన సంకల్పం నుండి ప్రారంభమవుతుంది; ఆ సంకల్పం ఏకాగ్రతను పెంచుతుంది, దానివల్ల మనం స్థైర్యంతో ప్రతిబంధకాలను ఎదుర్కొంటాం, చివరికి మన లక్ష్యాన్ని చేరుకుంటాం.",
+      "image": "a lone figure in a dark hoodie standing on a rocky cliff overlooking a sunrise, dramatic sky, cinematic lighting, 9:16 vertical frame, no text or watermark.",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "సంకల్పం లేకుండా ఏకాగ్రత, స్థైర్యం ఎలా పెరుగుతాయో తెలుసా?"
     }
   ],
   "usedBg": [
-    "38580923",
     "39352887",
     "34807184",
     "30719906",
@@ -1120,10 +1126,10 @@
     "4684391",
     "35583884",
     "37116290",
-    "18984252"
+    "18984252",
+    "35781722"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -1162,7 +1168,8 @@
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
