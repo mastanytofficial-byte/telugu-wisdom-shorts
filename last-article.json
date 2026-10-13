@@ -1,7 +1,7 @@
 {
-  "runCount": 188,
-  "lastTitle": "సంకల్పం మార్గం",
-  "lastDate": "2026-10-12T21:32:31.101Z",
+  "runCount": 189,
+  "lastTitle": "స్వీయ నమ్మకం ప్రయాణం",
+  "lastDate": "2026-10-13T19:43:20.814Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1085,10 +1085,16 @@
       "image": "a lone figure in a dark hoodie standing on a rocky cliff overlooking a sunrise, dramatic sky, cinematic lighting, 9:16 vertical frame, no text or watermark.",
       "topLabel": "SILENT POWER 🤫",
       "hook": "సంకల్పం లేకుండా ఏకాగ్రత, స్థైర్యం ఎలా పెరుగుతాయో తెలుసా?"
+    },
+    {
+      "title": "స్వీయ నమ్మకం ప్రయాణం",
+      "screen": "నీ స్వీయ నమ్మకం పెరిగితే, నీ ఏకాగ్రత కూడా పెరిగి, చివరికి నీ స్థిరత్వం నీకు విజయాన్ని తెస్తుంది, అది నీ జీవితాన్ని మార్చుతుంది.",
+      "image": "a lone figure standing on a cliff at sunrise, looking out over a vast ocean, cinematic vertical composition, dramatic lighting, high contrast, film grain, 9:16 aspect ratio",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "నీ స్వీయ నమ్మకం పెరిగితే, నీ ఏకాగ్రత ఎలా పెరుగుతుంది?"
     }
   ],
   "usedBg": [
-    "39352887",
     "34807184",
     "30719906",
     "8195692",
@@ -1127,10 +1133,10 @@
     "35583884",
     "37116290",
     "18984252",
-    "35781722"
+    "35781722",
+    "31766502"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "KEEP GROWING 🌱",
@@ -1169,7 +1175,8 @@
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
