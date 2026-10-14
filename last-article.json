@@ -1,7 +1,7 @@
 {
-  "runCount": 190,
-  "lastTitle": "నిజాయితీ దారి",
-  "lastDate": "2026-10-14T13:05:36.445Z",
+  "runCount": 191,
+  "lastTitle": "సంకల్పం నమ్మకం",
+  "lastDate": "2026-10-14T17:43:10.020Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1099,10 +1099,16 @@
       "image": "person walking a straight clear path through golden wheat fields at sunset, cinematic vertical photography",
       "topLabel": "BE BRAVE 🦁",
       "hook": "నిజాయితీగా బతకడం వల్ల నిజంగా ఏం దొరుకుతుందో తెలుసా?"
+    },
+    {
+      "title": "సంకల్పం నమ్మకం",
+      "screen": "సంకల్పం కలిగినప్పుడే నమ్మకం పెరుగుతుంది, ఆ నమ్మకం మనకు లక్ష్యాన్ని చేరుకోవడంలో సహాయపడుతుంది, అదే మన ప్రయాణాన్ని సహజంగా అర్థవంతంగా చేస్తుంది.",
+      "image": "A lone figure stands at sunrise on a hill, looking determined, with a clear path ahead, cinematic 9:16 framing, warm golden light, subtle mist, serene atmosphere",
+      "topLabel": "MINDSET 🧠",
+      "hook": "సంకల్పం కలిగినప్పుడే స్వీయ నమ్మకాన్ని ఎలా పెంచుకోవాలి?"
     }
   ],
   "usedBg": [
-    "30719906",
     "8195692",
     "27660237",
     "11267669",
@@ -1141,10 +1147,10 @@
     "18984252",
     "35781722",
     "31766502",
-    "39054455"
+    "39054455",
+    "9322612"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
@@ -1183,7 +1189,8 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
