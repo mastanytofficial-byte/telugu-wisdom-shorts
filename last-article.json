@@ -1,7 +1,7 @@
 {
-  "runCount": 189,
-  "lastTitle": "స్వీయ నమ్మకం ప్రయాణం",
-  "lastDate": "2026-10-13T19:43:20.814Z",
+  "runCount": 190,
+  "lastTitle": "నిజాయితీ దారి",
+  "lastDate": "2026-10-14T13:05:36.445Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1092,10 +1092,16 @@
       "image": "a lone figure standing on a cliff at sunrise, looking out over a vast ocean, cinematic vertical composition, dramatic lighting, high contrast, film grain, 9:16 aspect ratio",
       "topLabel": "INNER POWER 🔥",
       "hook": "నీ స్వీయ నమ్మకం పెరిగితే, నీ ఏకాగ్రత ఎలా పెరుగుతుంది?"
+    },
+    {
+      "title": "నిజాయితీ దారి",
+      "screen": "నిజాయితీగా నడిచే దారి కొన్నిసార్లు కష్టంగా అనిపించవచ్చు, కానీ ఆ దారిలో వచ్చే మనశ్శాంతి వేరే ఏ దారిలోనూ దొరకదు, అదే దాని అసలైన విలువ.",
+      "image": "person walking a straight clear path through golden wheat fields at sunset, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "నిజాయితీగా బతకడం వల్ల నిజంగా ఏం దొరుకుతుందో తెలుసా?"
     }
   ],
   "usedBg": [
-    "34807184",
     "30719906",
     "8195692",
     "27660237",
@@ -1134,10 +1140,10 @@
     "37116290",
     "18984252",
     "35781722",
-    "31766502"
+    "31766502",
+    "39054455"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
@@ -1176,7 +1182,8 @@
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
