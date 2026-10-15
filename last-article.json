@@ -1,7 +1,7 @@
 {
-  "runCount": 191,
-  "lastTitle": "సంకల్పం నమ్మకం",
-  "lastDate": "2026-10-14T17:43:10.020Z",
+  "runCount": 192,
+  "lastTitle": "నిశ్శబ్ద గుణం",
+  "lastDate": "2026-10-15T12:50:10.016Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1106,10 +1106,16 @@
       "image": "A lone figure stands at sunrise on a hill, looking determined, with a clear path ahead, cinematic 9:16 framing, warm golden light, subtle mist, serene atmosphere",
       "topLabel": "MINDSET 🧠",
       "hook": "సంకల్పం కలిగినప్పుడే స్వీయ నమ్మకాన్ని ఎలా పెంచుకోవాలి?"
+    },
+    {
+      "title": "నిశ్శబ్ద గుణం",
+      "screen": "నువ్వు ఒంటరిగా చేసే చిన్న నిబద్ధత రోజుకు ఒక్కసారి కూడా కనిపించకపోయినా, ఆ నిబద్ధతే నీ పరిణతి వేగాన్ని పెంచుతుంది, ఫలితం అనుకోని విజయంగా వస్తుంది.",
+      "image": "a solitary person sitting at a simple desk in a dimly lit room, writing in a notebook as sunrise light filters through a window, cinematic vertical 9:16 shot, soft focus, subtle dust particles floating in the air, no text or watermarks.",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "నీ రోజువారీ చిన్న నిబద్ధతను ఎప్పుడైనా గమనించారా?"
     }
   ],
   "usedBg": [
-    "8195692",
     "27660237",
     "11267669",
     "17082576",
@@ -1148,10 +1154,10 @@
     "35781722",
     "31766502",
     "39054455",
-    "9322612"
+    "9322612",
+    "16998437"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
@@ -1190,7 +1196,8 @@
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "BE BRAVE 🦁",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
