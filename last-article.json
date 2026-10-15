@@ -1,7 +1,7 @@
 {
-  "runCount": 192,
-  "lastTitle": "నిశ్శబ్ద గుణం",
-  "lastDate": "2026-10-15T12:50:10.016Z",
+  "runCount": 193,
+  "lastTitle": "సమయం విలువ",
+  "lastDate": "2026-10-15T17:37:13.153Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1113,10 +1113,16 @@
       "image": "a solitary person sitting at a simple desk in a dimly lit room, writing in a notebook as sunrise light filters through a window, cinematic vertical 9:16 shot, soft focus, subtle dust particles floating in the air, no text or watermarks.",
       "topLabel": "SILENT POWER 🤫",
       "hook": "నీ రోజువారీ చిన్న నిబద్ధతను ఎప్పుడైనా గమనించారా?"
+    },
+    {
+      "title": "సమయం విలువ",
+      "screen": "గడిచిన సమయం ఎప్పటికీ తిరిగి రాదు, అందుకే ప్రతి క్షణాన్ని జాగ్రత్తగా ఎలా ఉపయోగిస్తామో, అదే మన భవిష్యత్తుని నిజంగా నిర్ణయిస్తుంది.",
+      "image": "hourglass with golden sand on a wooden desk beside a window, soft daylight, cinematic vertical photography",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "మీరు ప్రతి రోజు సమయాన్ని ఎలా ఉపయోగిస్తున్నారో గమనించారా?"
     }
   ],
   "usedBg": [
-    "27660237",
     "11267669",
     "17082576",
     "36805605",
@@ -1155,10 +1161,10 @@
     "31766502",
     "39054455",
     "9322612",
-    "16998437"
+    "16998437",
+    "18481707"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
@@ -1197,7 +1203,8 @@
     "INNER POWER 🔥",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
