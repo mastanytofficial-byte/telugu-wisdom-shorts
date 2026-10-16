@@ -1,7 +1,7 @@
 {
-  "runCount": 193,
-  "lastTitle": "సమయం విలువ",
-  "lastDate": "2026-10-15T17:37:13.153Z",
+  "runCount": 194,
+  "lastTitle": "సరిహద్దులు, నిబద్ధత",
+  "lastDate": "2026-10-16T12:43:57.798Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1120,10 +1120,16 @@
       "image": "hourglass with golden sand on a wooden desk beside a window, soft daylight, cinematic vertical photography",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "మీరు ప్రతి రోజు సమయాన్ని ఎలా ఉపయోగిస్తున్నారో గమనించారా?"
+    },
+    {
+      "title": "సరిహద్దులు, నిబద్ధత",
+      "screen": "నీకు స్పష్టమైన సరిహద్దులు ఏర్పడితే, దుర్వినియోగం తగ్గి, నీ స్వీయ నిబద్ధత పెరిగి, నిజమైన అభివృద్ధి దారిలో అడుగుపెడుతావు, అప్పుడే నీ పట్టుదల బలపడుతుంది.",
+      "image": "a lone young adult standing at the edge of a misty mountain plateau at sunrise, a faint glowing line on the ground symbolizing a personal boundary, soft golden light illuminating the figure's determined face, cinematic shallow depth of field, dramatic sky, vertical 9:16 composition, high detail, realistic style, no text or watermark.",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "నీ జీవితం లో ఎప్పుడైనా సరిహద్దు లేని పరిస్థితి వలన అలసట అనిపిస్తుందా?"
     }
   ],
   "usedBg": [
-    "11267669",
     "17082576",
     "36805605",
     "37915503",
@@ -1162,10 +1168,10 @@
     "39054455",
     "9322612",
     "16998437",
-    "18481707"
+    "18481707",
+    "31031887"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
@@ -1204,7 +1210,8 @@
     "BE BRAVE 🦁",
     "MINDSET 🧠",
     "SILENT POWER 🤫",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
