@@ -1,7 +1,7 @@
 {
-  "runCount": 194,
-  "lastTitle": "సరిహద్దులు, నిబద్ధత",
-  "lastDate": "2026-10-16T12:43:57.798Z",
+  "runCount": 195,
+  "lastTitle": "నిర్ణయాల శక్తి",
+  "lastDate": "2026-10-16T17:10:49.767Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1127,10 +1127,16 @@
       "image": "a lone young adult standing at the edge of a misty mountain plateau at sunrise, a faint glowing line on the ground symbolizing a personal boundary, soft golden light illuminating the figure's determined face, cinematic shallow depth of field, dramatic sky, vertical 9:16 composition, high detail, realistic style, no text or watermark.",
       "topLabel": "BE BRAVE 🦁",
       "hook": "నీ జీవితం లో ఎప్పుడైనా సరిహద్దు లేని పరిస్థితి వలన అలసట అనిపిస్తుందా?"
+    },
+    {
+      "title": "నిర్ణయాల శక్తి",
+      "screen": "నీ పట్టుదల చిన్న నిర్ణయాలను రోజూ నిలబెట్టేది, ఆ నిర్ణయాలు స్పష్టతను పెంచుతాయి, స్పష్టత నీ లక్ష్యాన్ని చేరడానికి దారిని సులభం చేస్తుంది.",
+      "image": "a lone figure walking up a misty mountain trail at sunrise, each step leaving distinct footprints that glow faintly, with a bright summit illuminated in the distance, cinematic vertical 9:16 composition, soft golden light, high contrast, shallow depth of field, no text or watermarks",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "చిన్న నిర్ణయాలు నీ లక్ష్యాన్ని ఎలా సులభం చేస్తాయో గమనించారా?"
     }
   ],
   "usedBg": [
-    "17082576",
     "36805605",
     "37915503",
     "36107249",
@@ -1169,10 +1175,10 @@
     "9322612",
     "16998437",
     "18481707",
-    "31031887"
+    "31031887",
+    "26854887"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
@@ -1211,7 +1217,8 @@
     "MINDSET 🧠",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
