@@ -1,7 +1,7 @@
 {
-  "runCount": 195,
-  "lastTitle": "నిర్ణయాల శక్తి",
-  "lastDate": "2026-10-16T17:10:49.767Z",
+  "runCount": 196,
+  "lastTitle": "మౌన శక్తి",
+  "lastDate": "2026-10-17T11:47:53.475Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1134,10 +1134,16 @@
       "image": "a lone figure walking up a misty mountain trail at sunrise, each step leaving distinct footprints that glow faintly, with a bright summit illuminated in the distance, cinematic vertical 9:16 composition, soft golden light, high contrast, shallow depth of field, no text or watermarks",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "చిన్న నిర్ణయాలు నీ లక్ష్యాన్ని ఎలా సులభం చేస్తాయో గమనించారా?"
+    },
+    {
+      "title": "మౌన శక్తి",
+      "screen": "ప్రతి సమాధానం మాటల్లోనే ఉండదు, కొన్నిసార్లు మౌనంగా ఉండటమే అత్యంత శక్తివంతమైన సమాధానంగా నిలుస్తుంది, అది ఎదుటివారికి ఆలోచించే అవకాశాన్ని ఇస్తుంది.",
+      "image": "person standing quietly by a foggy lake at dawn, arms calmly at sides, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "మాట్లాడకపోవడం కూడా ఒక శక్తివంతమైన సమాధానం అని మీకు అనిపించిందా?"
     }
   ],
   "usedBg": [
-    "36805605",
     "37915503",
     "36107249",
     "18089049",
@@ -1176,10 +1182,10 @@
     "16998437",
     "18481707",
     "31031887",
-    "26854887"
+    "26854887",
+    "32599724"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
@@ -1218,7 +1224,8 @@
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
