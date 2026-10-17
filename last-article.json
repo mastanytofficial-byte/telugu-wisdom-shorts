@@ -1,7 +1,7 @@
 {
-  "runCount": 196,
-  "lastTitle": "మౌన శక్తి",
-  "lastDate": "2026-10-17T11:47:53.475Z",
+  "runCount": 197,
+  "lastTitle": "అనుభవం పాఠం",
+  "lastDate": "2026-10-17T16:07:41.511Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1141,10 +1141,16 @@
       "image": "person standing quietly by a foggy lake at dawn, arms calmly at sides, cinematic vertical photography",
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "మాట్లాడకపోవడం కూడా ఒక శక్తివంతమైన సమాధానం అని మీకు అనిపించిందా?"
+    },
+    {
+      "title": "అనుభవం పాఠం",
+      "screen": "పుస్తకాల్లో ఎప్పటికీ దొరకని కొన్ని పాఠాలను జీవితమే మనకు స్వయంగా నేర్పిస్తుంది, ఆ పాఠాలను హృదయపూర్వకంగా స్వీకరించే మనసుకే నిజమైన ఎదుగుదల సాధ్యమవుతుంది.",
+      "image": "open book left on a park bench beside falling autumn leaves, cinematic vertical photography",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "పుస్తకాలు నేర్పలేని పాఠం జీవితం ఎలా నేర్పిస్తుందో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "37915503",
     "36107249",
     "18089049",
     "18223694",
@@ -1183,10 +1189,10 @@
     "18481707",
     "31031887",
     "26854887",
-    "32599724"
+    "32599724",
+    "40227629"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "INNER POWER 🔥",
@@ -1225,7 +1231,8 @@
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
