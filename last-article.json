@@ -1,7 +1,7 @@
 {
-  "runCount": 198,
-  "lastTitle": "పట్టుదల, ఏకాగ్రత",
-  "lastDate": "2026-10-18T12:09:49.200Z",
+  "runCount": 199,
+  "lastTitle": "నిశ్శబ్ద ప్రయత్నాలు",
+  "lastDate": "2026-10-18T16:16:19.027Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1155,10 +1155,16 @@
       "image": "A lone figure meditating at dawn on a hill, soft sunrise light illuminating a calm face, cinematic vertical composition, subtle golden glow, serene atmosphere",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "నీ స్వీయ నమ్మకం ఎలా నీ రోజువారీ ఏకాగ్రతను పెంచుతుంది?"
+    },
+    {
+      "title": "నిశ్శబ్ద ప్రయత్నాలు",
+      "screen": "ఎప్పుడూ ముందుకు సాగాలని అనుకుంటే, నిశ్శబ్దంగా ప్రయత్నించడం ద్వారా సంకల్పం పెరిగి, అడ్డంకులను అధిగమించడానికి స్థైర్యం లభిస్తుంది, అది మనకు నిజమైన స్వీయ నమ్మకాన్ని ఇస్తుంది.",
+      "image": "lone figure at sunrise on a quiet hill, silhouetted against a warm horizon, holding a small torch, symbolizing quiet determination, cinematic vertical composition.",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "ఎప్పుడైనా నిశ్శబ్దంగా ప్రయత్నించడం వల్ల మీ సంకల్పం ఎలా పెరుగుతుందో తెలుసుకున్నారా?"
     }
   ],
   "usedBg": [
-    "18089049",
     "18223694",
     "4536563",
     "33950667",
@@ -1197,10 +1203,10 @@
     "26854887",
     "32599724",
     "40227629",
-    "11469051"
+    "11469051",
+    "13243304"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "BE BRAVE 🦁",
@@ -1239,7 +1245,8 @@
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
