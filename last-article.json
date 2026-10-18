@@ -1,7 +1,7 @@
 {
-  "runCount": 197,
-  "lastTitle": "అనుభవం పాఠం",
-  "lastDate": "2026-10-17T16:07:41.511Z",
+  "runCount": 198,
+  "lastTitle": "పట్టుదల, ఏకాగ్రత",
+  "lastDate": "2026-10-18T12:09:49.200Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1148,10 +1148,16 @@
       "image": "open book left on a park bench beside falling autumn leaves, cinematic vertical photography",
       "topLabel": "LIFE LESSON 💡",
       "hook": "పుస్తకాలు నేర్పలేని పాఠం జీవితం ఎలా నేర్పిస్తుందో మీకు తెలుసా?"
+    },
+    {
+      "title": "పట్టుదల, ఏకాగ్రత",
+      "screen": "స్వీయ నమ్మకం పెరిగితే, మనము ప్రతి అడ్డంకిని అవకాశంగా చూస్తాం; ఆ అవకాశాలు మనకు కొత్త పట్టుదలను ఇస్తాయి, అది మన జీవితంలో ఏకాగ్రతను పెంచుతుంది.",
+      "image": "A lone figure meditating at dawn on a hill, soft sunrise light illuminating a calm face, cinematic vertical composition, subtle golden glow, serene atmosphere",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "నీ స్వీయ నమ్మకం ఎలా నీ రోజువారీ ఏకాగ్రతను పెంచుతుంది?"
     }
   ],
   "usedBg": [
-    "36107249",
     "18089049",
     "18223694",
     "4536563",
@@ -1190,10 +1196,10 @@
     "31031887",
     "26854887",
     "32599724",
-    "40227629"
+    "40227629",
+    "11469051"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -1232,7 +1238,8 @@
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
