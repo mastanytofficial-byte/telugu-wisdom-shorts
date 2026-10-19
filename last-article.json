@@ -1,7 +1,7 @@
 {
-  "runCount": 200,
-  "lastTitle": "సంకల్పం కృషి విశ్వాసం",
-  "lastDate": "2026-10-19T14:54:47.977Z",
+  "runCount": 201,
+  "lastTitle": "గెలుపు నిర్వచనం",
+  "lastDate": "2026-10-19T19:00:03.678Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1169,10 +1169,16 @@
       "image": "A solitary person standing at a crossroads at dawn, holding a lantern, looking determined, cinematic vertical 9:16 composition, high detail, soft sunrise lighting, no text or watermark",
       "topLabel": "STAY CALM 🍃",
       "hook": "సంకల్పం లేకుండా కృషి చేస్తే నీకు నిజంగా ఏమి లభిస్తుంది?"
+    },
+    {
+      "title": "గెలుపు నిర్వచనం",
+      "screen": "అందరూ చూసే గెలుపు ఒక్కటే కాదు, ఎవరికి వారికి వారి స్వంత పోరాటంలో సాధించే చిన్న విజయాలే నిజమైన గెలుపుగా నిలుస్తాయి.",
+      "image": "runner alone on an empty track at sunrise, long shadow stretching ahead, cinematic vertical photography",
+      "topLabel": "MINDSET 🧠",
+      "hook": "అందరూ చూసే గెలుపు మాత్రమే నిజమైనదా, మీరు ఎప్పుడైనా ఆలోచించారా?"
     }
   ],
   "usedBg": [
-    "4536563",
     "33950667",
     "28075160",
     "34078226",
@@ -1211,10 +1217,10 @@
     "40227629",
     "11469051",
     "13243304",
-    "26051352"
+    "26051352",
+    "35733813"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
@@ -1253,7 +1259,8 @@
     "LIFE LESSON 💡",
     "TRUE WORDS ⏳",
     "INNER POWER 🔥",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
