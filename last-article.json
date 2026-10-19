@@ -1,7 +1,7 @@
 {
-  "runCount": 199,
-  "lastTitle": "నిశ్శబ్ద ప్రయత్నాలు",
-  "lastDate": "2026-10-18T16:16:19.027Z",
+  "runCount": 200,
+  "lastTitle": "సంకల్పం కృషి విశ్వాసం",
+  "lastDate": "2026-10-19T14:54:47.977Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1162,10 +1162,16 @@
       "image": "lone figure at sunrise on a quiet hill, silhouetted against a warm horizon, holding a small torch, symbolizing quiet determination, cinematic vertical composition.",
       "topLabel": "INNER POWER 🔥",
       "hook": "ఎప్పుడైనా నిశ్శబ్దంగా ప్రయత్నించడం వల్ల మీ సంకల్పం ఎలా పెరుగుతుందో తెలుసుకున్నారా?"
+    },
+    {
+      "title": "సంకల్పం కృషి విశ్వాసం",
+      "screen": "సంకల్పం మన దారిని నిర్ణయిస్తే, కృషి ఆ నిర్ణయాన్ని అమలు చేస్తుంది; అప్పుడే విశ్వాసం మనకు ముందుకు వెళ్లే శక్తిని ఇస్తుంది.",
+      "image": "A solitary person standing at a crossroads at dawn, holding a lantern, looking determined, cinematic vertical 9:16 composition, high detail, soft sunrise lighting, no text or watermark",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "సంకల్పం లేకుండా కృషి చేస్తే నీకు నిజంగా ఏమి లభిస్తుంది?"
     }
   ],
   "usedBg": [
-    "18223694",
     "4536563",
     "33950667",
     "28075160",
@@ -1204,10 +1210,10 @@
     "32599724",
     "40227629",
     "11469051",
-    "13243304"
+    "13243304",
+    "26051352"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
@@ -1246,7 +1252,8 @@
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "TRUE WORDS ⏳",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
