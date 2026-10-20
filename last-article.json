@@ -1,7 +1,7 @@
 {
-  "runCount": 201,
-  "lastTitle": "గెలుపు నిర్వచనం",
-  "lastDate": "2026-10-19T19:00:03.678Z",
+  "runCount": 202,
+  "lastTitle": "నిశ్శబ్ద అభివృద్ధి",
+  "lastDate": "2026-10-20T12:59:27.278Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1176,10 +1176,16 @@
       "image": "runner alone on an empty track at sunrise, long shadow stretching ahead, cinematic vertical photography",
       "topLabel": "MINDSET 🧠",
       "hook": "అందరూ చూసే గెలుపు మాత్రమే నిజమైనదా, మీరు ఎప్పుడైనా ఆలోచించారా?"
+    },
+    {
+      "title": "నిశ్శబ్ద అభివృద్ధి",
+      "screen": "ఎవరూ చూడనప్పుడు మనం నిశ్శబ్దంగా చేసే చిన్న ప్రయత్నాలే, రేపటి పెద్ద విజయానికి పునాది వేస్తాయి, ఆ నిశ్శబ్ద కృషినే అసలైన ఎదుగుదల అంటారు.",
+      "image": "person working alone at a desk lit by a single lamp late at night, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "ఎవరూ చూడనప్పుడు మీరు చేసే పని ఎంత ముఖ్యమో తెలుసా?"
     }
   ],
   "usedBg": [
-    "33950667",
     "28075160",
     "34078226",
     "9241315",
@@ -1218,10 +1224,10 @@
     "11469051",
     "13243304",
     "26051352",
-    "35733813"
+    "35733813",
+    "35982017"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
@@ -1260,7 +1266,8 @@
     "TRUE WORDS ⏳",
     "INNER POWER 🔥",
     "STAY CALM 🍃",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
