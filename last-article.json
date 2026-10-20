@@ -1,7 +1,7 @@
 {
-  "runCount": 202,
-  "lastTitle": "నిశ్శబ్ద అభివృద్ధి",
-  "lastDate": "2026-10-20T12:59:27.278Z",
+  "runCount": 203,
+  "lastTitle": "లక్ష్య దృష్టి",
+  "lastDate": "2026-10-20T17:39:53.217Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1183,10 +1183,16 @@
       "image": "person working alone at a desk lit by a single lamp late at night, cinematic vertical photography",
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "ఎవరూ చూడనప్పుడు మీరు చేసే పని ఎంత ముఖ్యమో తెలుసా?"
+    },
+    {
+      "title": "లక్ష్య దృష్టి",
+      "screen": "నిరంతరం ఒకే లక్ష్యంపై దృష్టి పెట్టితే, అడ్డంకులు మెట్లుగా మారుతాయి; అప్పుడు సంకల్పం పెరుగుతుంది, సమర్పణ గాఢమవుతుంది, ఆత్మవిశ్వాసం నెరపుతుంది, ఇది మన ముందుకు నడిపిస్తుంది.",
+      "image": "A lone person standing on a misty mountain peak at sunrise, looking out over a vast horizon, with rays of golden light illuminating the silhouette, cinematic vertical composition, 9:16 aspect ratio, high detail, dramatic lighting.",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "ఒకే లక్ష్యంపై దృష్టి పెట్టితే, నీ మనసు ఎలా మారుతుంది?"
     }
   ],
   "usedBg": [
-    "28075160",
     "34078226",
     "9241315",
     "30845604",
@@ -1225,10 +1231,10 @@
     "13243304",
     "26051352",
     "35733813",
-    "35982017"
+    "35982017",
+    "10569179"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
@@ -1267,7 +1273,8 @@
     "INNER POWER 🔥",
     "STAY CALM 🍃",
     "MINDSET 🧠",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
