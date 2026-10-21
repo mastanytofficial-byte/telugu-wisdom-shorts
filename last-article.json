@@ -1,7 +1,7 @@
 {
-  "runCount": 204,
-  "lastTitle": "నిశ్చయ అడుగులు",
-  "lastDate": "2026-10-21T13:05:58.106Z",
+  "runCount": 205,
+  "lastTitle": "ఇప్పటి క్షణం",
+  "lastDate": "2026-10-21T17:54:36.452Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1197,10 +1197,16 @@
       "image": "A lone figure walking slowly on a sunlit forest path, each step deliberate and steady, with soft morning light filtering through trees, cinematic vertical composition",
       "topLabel": "LIFE LESSON 💡",
       "hook": "నీవు ప్రతీ అడుగును నిశ్చయంగా తీసుకుంటున్నావా?"
+    },
+    {
+      "title": "ఇప్పటి క్షణం",
+      "screen": "గతం గురించి చింతించడం, భవిష్యత్తు గురించి ఆందోళన చెందడం మానేసి, ఇప్పుడున్న ఈ క్షణాన్ని పూర్తిగా జీవించడమే నిజమైన ప్రశాంతతకు మార్గం చూపిస్తుంది.",
+      "image": "person sitting peacefully cross-legged on a wooden dock over calm water at sunrise, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "ప్రశాంతత కోసం అసలు ఏం చేయాలో మీకు తెలుసా?"
     }
   ],
   "usedBg": [
-    "9241315",
     "30845604",
     "35129342",
     "7815051",
@@ -1239,10 +1245,10 @@
     "35733813",
     "35982017",
     "10569179",
-    "35433009"
+    "35433009",
+    "35134334"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
@@ -1281,7 +1287,8 @@
     "MINDSET 🧠",
     "REALITY OF LIFE 💯",
     "BE BRAVE 🦁",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
