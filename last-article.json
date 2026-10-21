@@ -1,7 +1,7 @@
 {
-  "runCount": 203,
-  "lastTitle": "లక్ష్య దృష్టి",
-  "lastDate": "2026-10-20T17:39:53.217Z",
+  "runCount": 204,
+  "lastTitle": "నిశ్చయ అడుగులు",
+  "lastDate": "2026-10-21T13:05:58.106Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1190,10 +1190,16 @@
       "image": "A lone person standing on a misty mountain peak at sunrise, looking out over a vast horizon, with rays of golden light illuminating the silhouette, cinematic vertical composition, 9:16 aspect ratio, high detail, dramatic lighting.",
       "topLabel": "BE BRAVE 🦁",
       "hook": "ఒకే లక్ష్యంపై దృష్టి పెట్టితే, నీ మనసు ఎలా మారుతుంది?"
+    },
+    {
+      "title": "నిశ్చయ అడుగులు",
+      "screen": "వేగంగా ముందుకు వెళ్లడానికి ప్రయత్నిస్తే, తప్పిదాలు పెరుగుతాయి; కానీ ప్రతి అడుగును నిశ్చయంగా తీసుకుంటే, సంకల్పం పెరగి, ఏకాగ్రత నిలుస్తుంది, అప్పుడు మాత్రమే లక్ష్యాన్ని చేరుకుంటాం.",
+      "image": "A lone figure walking slowly on a sunlit forest path, each step deliberate and steady, with soft morning light filtering through trees, cinematic vertical composition",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "నీవు ప్రతీ అడుగును నిశ్చయంగా తీసుకుంటున్నావా?"
     }
   ],
   "usedBg": [
-    "34078226",
     "9241315",
     "30845604",
     "35129342",
@@ -1232,10 +1238,10 @@
     "26051352",
     "35733813",
     "35982017",
-    "10569179"
+    "10569179",
+    "35433009"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
@@ -1274,7 +1280,8 @@
     "STAY CALM 🍃",
     "MINDSET 🧠",
     "REALITY OF LIFE 💯",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
