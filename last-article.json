@@ -1,7 +1,7 @@
 {
-  "runCount": 205,
-  "lastTitle": "ఇప్పటి క్షణం",
-  "lastDate": "2026-10-21T17:54:36.452Z",
+  "runCount": 206,
+  "lastTitle": "ధైర్యపు క్షణం",
+  "lastDate": "2026-10-22T13:11:47.007Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1204,10 +1204,16 @@
       "image": "person sitting peacefully cross-legged on a wooden dock over calm water at sunrise, cinematic vertical photography",
       "topLabel": "STAY CALM 🍃",
       "hook": "ప్రశాంతత కోసం అసలు ఏం చేయాలో మీకు తెలుసా?"
+    },
+    {
+      "title": "ధైర్యపు క్షణం",
+      "screen": "భయపడే ప్రతి క్షణంలోనూ ఒక ఎంపిక దాగి ఉంటుంది, ఆగిపోవాలా లేదా ముందుకు సాగాలా అని, ఆ ఎంపికే మన నిజమైన ధైర్యాన్ని నిర్ణయిస్తుంది.",
+      "image": "silhouette of a person standing at the edge of a cliff facing a bright sunrise, cinematic vertical photography",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "భయం మరియు ధైర్యం మధ్య ఉన్న ఆ ఒక్క క్షణం ఏమిటో తెలుసా?"
     }
   ],
   "usedBg": [
-    "30845604",
     "35129342",
     "7815051",
     "39266727",
@@ -1246,10 +1252,10 @@
     "35982017",
     "10569179",
     "35433009",
-    "35134334"
+    "35134334",
+    "39481864"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
@@ -1288,7 +1294,8 @@
     "REALITY OF LIFE 💯",
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
