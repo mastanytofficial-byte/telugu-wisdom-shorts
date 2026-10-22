@@ -1,7 +1,7 @@
 {
-  "runCount": 206,
-  "lastTitle": "ధైర్యపు క్షణం",
-  "lastDate": "2026-10-22T13:11:47.007Z",
+  "runCount": 207,
+  "lastTitle": "లక్ష్యపు శక్తి",
+  "lastDate": "2026-10-22T17:46:40.108Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1211,10 +1211,16 @@
       "image": "silhouette of a person standing at the edge of a cliff facing a bright sunrise, cinematic vertical photography",
       "topLabel": "KEEP GROWING 🌱",
       "hook": "భయం మరియు ధైర్యం మధ్య ఉన్న ఆ ఒక్క క్షణం ఏమిటో తెలుసా?"
+    },
+    {
+      "title": "లక్ష్యపు శక్తి",
+      "screen": "లక్ష్యాన్ని స్పష్టంగా పెట్టితే, ఏకాగ్రత పెరుగుతుంది, అప్పుడు అడ్డంకులు ఎదుగుతున్న మెట్టు లాగా కనిపిస్తాయి, అది నీ పరిణతికి అడుగులు వేస్తుంది.",
+      "image": "A young individual standing on a cliff edge at sunrise, gazing over a vast horizon, holding a compass, expression focused and hopeful, cinematic vertical framing, warm golden light, mist swirling, dramatic sky, high detail.",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "లక్ష్యాన్ని స్పష్టం చేస్తే నీ ఏకాగ్రత ఎప్పుడూ ఎలా మారుతుందో చూశావా?"
     }
   ],
   "usedBg": [
-    "35129342",
     "7815051",
     "39266727",
     "38242992",
@@ -1253,10 +1259,10 @@
     "10569179",
     "35433009",
     "35134334",
-    "39481864"
+    "39481864",
+    "6306000"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
@@ -1295,7 +1301,8 @@
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
