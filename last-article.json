@@ -1,7 +1,7 @@
 {
-  "runCount": 208,
-  "lastTitle": "లక్ష్యం చేరుకోవడం",
-  "lastDate": "2026-10-23T12:52:36.240Z",
+  "runCount": 209,
+  "lastTitle": "ఒక అడుగు",
+  "lastDate": "2026-10-23T17:39:55.192Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1225,10 +1225,16 @@
       "image": "a solitary young adult sitting at a wooden desk by a window with sunrise light, writing a clear goal in a notebook, a small cup of coffee beside, soft warm tones, cinematic vertical 9:16 photography.",
       "topLabel": "TRUE WORDS ⏳",
       "hook": "నీవు రోజూ చిన్న పట్టుదలతో లక్ష్యాన్ని చేరుకుంటున్నావా?"
+    },
+    {
+      "title": "ఒక అడుగు",
+      "screen": "ఒక అడుగులోనే నీవు మార్పు చెందితే, ఆ అడుగు నీ స్థైర్యాన్ని పెంచుతుంది, అది నీ సంకల్పాన్ని మలచి, చివరికి నీ ప్రయాణాన్ని సులభతరం చేస్తుంది.",
+      "image": "A lone figure at the edge of a misty mountain trail at sunrise, taking one decisive step, cinematic 9:16 vertical framing, soft golden light, dramatic shadows, serene atmosphere, high detail",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "ఒక అడుగు నీ జీవితాన్ని మార్చగలదని నువ్వు నమ్ముతావా?"
     }
   ],
   "usedBg": [
-    "39266727",
     "38242992",
     "39192570",
     "33129397",
@@ -1267,10 +1273,10 @@
     "35134334",
     "39481864",
     "6306000",
-    "19075244"
+    "19075244",
+    "34755776"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "LIFE LESSON 💡",
@@ -1309,7 +1315,8 @@
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
