@@ -1,7 +1,7 @@
 {
-  "runCount": 207,
-  "lastTitle": "లక్ష్యపు శక్తి",
-  "lastDate": "2026-10-22T17:46:40.108Z",
+  "runCount": 208,
+  "lastTitle": "లక్ష్యం చేరుకోవడం",
+  "lastDate": "2026-10-23T12:52:36.240Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1218,10 +1218,16 @@
       "image": "A young individual standing on a cliff edge at sunrise, gazing over a vast horizon, holding a compass, expression focused and hopeful, cinematic vertical framing, warm golden light, mist swirling, dramatic sky, high detail.",
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "లక్ష్యాన్ని స్పష్టం చేస్తే నీ ఏకాగ్రత ఎప్పుడూ ఎలా మారుతుందో చూశావా?"
+    },
+    {
+      "title": "లక్ష్యం చేరుకోవడం",
+      "screen": "నీకు స్పష్టమైన లక్ష్యం ఉంటే, దాని కోసం రోజురోజు చిన్న పట్టుదల పెరుగుతుంది, అప్పుడే ఫలితంగా నమ్మకం బలంగా మారి, ముందుకు నడిపిస్తుంది.",
+      "image": "a solitary young adult sitting at a wooden desk by a window with sunrise light, writing a clear goal in a notebook, a small cup of coffee beside, soft warm tones, cinematic vertical 9:16 photography.",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "నీవు రోజూ చిన్న పట్టుదలతో లక్ష్యాన్ని చేరుకుంటున్నావా?"
     }
   ],
   "usedBg": [
-    "7815051",
     "39266727",
     "38242992",
     "39192570",
@@ -1260,10 +1266,10 @@
     "35433009",
     "35134334",
     "39481864",
-    "6306000"
+    "6306000",
+    "19075244"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -1302,7 +1308,8 @@
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
