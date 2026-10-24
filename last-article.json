@@ -1,7 +1,7 @@
 {
-  "runCount": 209,
-  "lastTitle": "ఒక అడుగు",
-  "lastDate": "2026-10-23T17:39:55.192Z",
+  "runCount": 210,
+  "lastTitle": "గత తప్పులు",
+  "lastDate": "2026-10-24T11:11:17.722Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1232,10 +1232,16 @@
       "image": "A lone figure at the edge of a misty mountain trail at sunrise, taking one decisive step, cinematic 9:16 vertical framing, soft golden light, dramatic shadows, serene atmosphere, high detail",
       "topLabel": "SILENT POWER 🤫",
       "hook": "ఒక అడుగు నీ జీవితాన్ని మార్చగలదని నువ్వు నమ్ముతావా?"
+    },
+    {
+      "title": "గత తప్పులు",
+      "screen": "గతంలో చేసిన తప్పులను పదేపదే గుర్తుచేసుకుంటూ బాధపడే బదులు, వాటి నుండి నేర్చుకున్న పాఠాన్ని రేపటి కోసం ఉపయోగించుకోవడమే నిజంగా తెలివైన మార్గం.",
+      "image": "torn page floating away from an open journal in soft wind, cinematic vertical photography",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "పాత తప్పులే మిమ్మల్ని ఇంకా ఆపుతున్నాయా, మీరు గమనించారా?"
     }
   ],
   "usedBg": [
-    "38242992",
     "39192570",
     "33129397",
     "39707836",
@@ -1274,10 +1280,10 @@
     "39481864",
     "6306000",
     "19075244",
-    "34755776"
+    "34755776",
+    "28436001"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
@@ -1316,7 +1322,8 @@
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
