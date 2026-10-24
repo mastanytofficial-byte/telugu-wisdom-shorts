@@ -8,12 +8,14 @@ on:
     # Reduced from 3/day to 2/day per YouTube Studio Insights guidance
     # (multiple same-day uploads competing with each other during the
     # channel's early discovery window).
-    # Off-peak minutes (not :00/:30) because GitHub delays top-of-hour crons;
-    # scheduled slightly early since delays only push runs later.
-    # 07:11 UTC = 12:41 IST (target ~13:00 midday activity)
-    # 12:47 UTC = 18:17 IST (target ~18:30, start of peak evening window)
-    - cron: '11 7 * * *'
-    - cron: '47 12 * * *'
+    # Delay-compensated schedule. Measured Oct 18-23: GitHub starts these runs
+    # late by ~5h27m (slot A) and ~4h42m (slot B); a run takes ~5 min.
+    # Targets: upload ~13:00 IST (07:30 UTC) and ~18:30 IST (13:00 UTC).
+    # 01:58 UTC + ~5h27m ~ 07:25 UTC start  -> ~13:00 IST upload
+    # 08:12 UTC + ~4h42m ~ 12:54 UTC start  -> ~18:30 IST upload
+    # Re-measure with `gh run list` and adjust if the delay drifts.
+    - cron: '58 1 * * *'
+    - cron: '12 8 * * *'
 
 permissions:
   contents: write
