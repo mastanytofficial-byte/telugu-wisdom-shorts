@@ -1,7 +1,7 @@
 {
-  "runCount": 211,
-  "lastTitle": "మడతల గురువులు",
-  "lastDate": "2026-10-24T15:10:31.530Z",
+  "runCount": 212,
+  "lastTitle": "మాటల ప్రభావం",
+  "lastDate": "2026-10-24T15:18:00.565Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1247,10 +1247,17 @@
       "topLabel": "MINDSET 🧠",
       "hook": "సహాయం చేయని వ్యక్తులు మడతల లాగా ఉంటే, నువ్వు ఎలా సరిచేస్తావు?",
       "concept": "how you treat people who can do nothing for you"
+    },
+    {
+      "title": "మాటల ప్రభావం",
+      "screen": "తప్పు చేసిన తర్వాత 'నేను బలహీనుడిని' అని నీవు మాట్లాడితే, ఆ మాట నీ స్మృతిని మసకబార్చి, అప్పుడు ప్రయత్నాన్ని తగ్గిస్తుంది.",
+      "image": "a lone individual standing in a dimly lit modern room, facing a slightly cracked mirror, softly illuminated by a single warm light source, the person appears to be whispering to themselves, cinematic vertical 9:16 composition with shallow depth of field and subtle lens flare.",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "తప్పు తర్వాత నీ మాటలు నీ తదుపరి అడుగు మీద ప్రభావం చూపుతాయా?",
+      "concept": "how you speak to yourself after a mistake"
     }
   ],
   "usedBg": [
-    "33129397",
     "39707836",
     "34078236",
     "20393316",
@@ -1289,10 +1296,10 @@
     "19075244",
     "34755776",
     "28436001",
-    "37588603"
+    "37588603",
+    "38923527"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
@@ -1331,7 +1338,8 @@
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
