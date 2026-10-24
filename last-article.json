@@ -1,7 +1,7 @@
 {
-  "runCount": 213,
-  "lastTitle": "సమయం సాక్షి",
-  "lastDate": "2026-10-24T15:32:36.690Z",
+  "runCount": 214,
+  "lastTitle": "శాంతి ఎంపిక",
+  "lastDate": "2026-10-24T17:12:31.762Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1263,10 +1263,17 @@
       "topLabel": "LIFE LESSON 💡",
       "hook": "ఫలితం ఆలస్యంగా వస్తే నువ్వు ఎలా కొనసాగిస్తావు?",
       "concept": "trusting the process when results are late"
+    },
+    {
+      "title": "శాంతి ఎంపిక",
+      "screen": "నీకు సరిగ్గా ఉన్నట్టు చూపించడానికి వాదనను పెంచితే, ఒత్తిడి పెరుగుతుంది; కానీ శాంతిను ఎంచుకుంటే, మనసు శుభ్రంగా ఉంటుంది, ఆ శుభ్రత సంబంధాన్ని బలపరుస్తుంది.",
+      "image": "a young person sitting peacefully on a park bench at sunset, one hand holding a phone with a blurred heated chat, the other hand relaxed, soft golden light bathing the scene, cinematic vertical 9:16 frame, shallow depth of field, tranquil atmosphere",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "నిజం చెప్పడానికి బదులుగా శాంతి ఎంచుకోవడం మీ సంబంధాన్ని ఎలా మార్చుతుంది?",
+      "concept": "choosing peace over proving a point"
     }
   ],
   "usedBg": [
-    "34078236",
     "20393316",
     "9667218",
     "33098322",
@@ -1305,10 +1312,10 @@
     "28436001",
     "37588603",
     "38923527",
-    "38344808"
+    "38344808",
+    "37635633"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "STAY CALM 🍃",
@@ -1347,7 +1354,8 @@
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "INNER POWER 🔥",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
