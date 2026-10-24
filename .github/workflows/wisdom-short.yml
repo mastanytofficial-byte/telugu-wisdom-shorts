@@ -8,10 +8,12 @@ on:
     # Reduced from 3/day to 2/day per YouTube Studio Insights guidance
     # (multiple same-day uploads competing with each other during the
     # channel's early discovery window).
-    # 07:30 UTC = 13:00 IST (solid midday activity)
-    # 13:00 UTC = 18:30 IST (right at the start of peak evening window)
-    - cron: '30 7 * * *'
-    - cron: '0 13 * * *'
+    # Off-peak minutes (not :00/:30) because GitHub delays top-of-hour crons;
+    # scheduled slightly early since delays only push runs later.
+    # 07:11 UTC = 12:41 IST (target ~13:00 midday activity)
+    # 12:47 UTC = 18:17 IST (target ~18:30, start of peak evening window)
+    - cron: '11 7 * * *'
+    - cron: '47 12 * * *'
 
 permissions:
   contents: write
