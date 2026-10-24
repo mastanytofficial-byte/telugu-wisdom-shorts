@@ -1,7 +1,7 @@
 {
-  "runCount": 212,
-  "lastTitle": "మాటల ప్రభావం",
-  "lastDate": "2026-10-24T15:18:00.565Z",
+  "runCount": 213,
+  "lastTitle": "సమయం సాక్షి",
+  "lastDate": "2026-10-24T15:32:36.690Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1255,10 +1255,17 @@
       "topLabel": "INNER POWER 🔥",
       "hook": "తప్పు తర్వాత నీ మాటలు నీ తదుపరి అడుగు మీద ప్రభావం చూపుతాయా?",
       "concept": "how you speak to yourself after a mistake"
+    },
+    {
+      "title": "సమయం సాక్షి",
+      "screen": "నువ్వు ప్రతి రోజూ ఒకే పనిని చేస్తూ, ఫలితం తక్షణం రాకపోయినా, సమయం దాన్ని పూరిస్తుంది, అలానే పద్ధతి నిన్ను నిశ్శబ్దంగా ముందుకు నడిపిస్తుంది.",
+      "image": "cinematic vertical 9:16 shot of a lone figure seated on a rustic wooden bench in a tranquil garden at sunrise, gently holding a small sprouting seedling in their hands, soft golden light illuminating the scene, shallow depth of field, no text or watermarks.",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "ఫలితం ఆలస్యంగా వస్తే నువ్వు ఎలా కొనసాగిస్తావు?",
+      "concept": "trusting the process when results are late"
     }
   ],
   "usedBg": [
-    "39707836",
     "34078236",
     "20393316",
     "9667218",
@@ -1297,10 +1304,10 @@
     "34755776",
     "28436001",
     "37588603",
-    "38923527"
+    "38923527",
+    "38344808"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
@@ -1339,7 +1346,8 @@
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MINDSET 🧠",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
