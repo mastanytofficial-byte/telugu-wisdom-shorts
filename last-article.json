@@ -1,7 +1,7 @@
 {
-  "runCount": 210,
-  "lastTitle": "గత తప్పులు",
-  "lastDate": "2026-10-24T11:11:17.722Z",
+  "runCount": 211,
+  "lastTitle": "మడతల గురువులు",
+  "lastDate": "2026-10-24T15:10:31.530Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1239,10 +1239,17 @@
       "image": "torn page floating away from an open journal in soft wind, cinematic vertical photography",
       "topLabel": "INNER POWER 🔥",
       "hook": "పాత తప్పులే మిమ్మల్ని ఇంకా ఆపుతున్నాయా, మీరు గమనించారా?"
+    },
+    {
+      "title": "మడతల గురువులు",
+      "screen": "నీకు సహాయం చేయని వ్యక్తులు నీకు బట్టల మడతల లాగా; మడతలు పడితే, నువ్వే వాటిని సరిచేసి, కొత్త మడతలు పెట్టుకుంటావు.",
+      "image": "A close-up of a hand folding a crisp shirt in a bright kitchen, sunlight streaming through a window, the folds neat and orderly, cinematic lighting, vertical composition.",
+      "topLabel": "MINDSET 🧠",
+      "hook": "సహాయం చేయని వ్యక్తులు మడతల లాగా ఉంటే, నువ్వు ఎలా సరిచేస్తావు?",
+      "concept": "how you treat people who can do nothing for you"
     }
   ],
   "usedBg": [
-    "39192570",
     "33129397",
     "39707836",
     "34078236",
@@ -1281,10 +1288,10 @@
     "6306000",
     "19075244",
     "34755776",
-    "28436001"
+    "28436001",
+    "37588603"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
@@ -1323,7 +1330,8 @@
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
