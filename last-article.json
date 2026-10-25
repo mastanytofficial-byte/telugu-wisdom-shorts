@@ -1,7 +1,7 @@
 {
-  "runCount": 218,
-  "lastTitle": "Choose the Edge",
-  "lastDate": "2026-10-25T08:31:34.367Z",
+  "runCount": 219,
+  "lastTitle": "గడ్డి పాఠం",
+  "lastDate": "2026-10-25T13:12:18.905Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1303,10 +1303,17 @@
       "topLabel": "STAY CALM 🍃",
       "hook": "Do you feel the hunger for growth?",
       "concept": "hunger for growth versus comfort of staying same"
+    },
+    {
+      "title": "గడ్డి పాఠం",
+      "screen": "సోషల్ మీడియా లో ఇతరుల పోస్ట్‌లను చూసి, నీ స్వంత గడ్డిని, పోషణ లేకుండా, నీరు పెట్టకపోతే, అది మిగతా రోజుల్లో మురికిగా మిగులుతుంది.",
+      "image": "a young person sitting on a balcony at sunset, scrolling a phone showing a vibrant garden on social media, while a nearby wilted potted plant in the foreground looks dry, soft cinematic lighting, vertical 9:16 portrait, shallow depth of field, realistic detail, no text or watermark",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "సోషల్ ఫీడ్లో ఇతరుల తోట చూసి, నీ మొక్కలు ఎలా పెరుగుతున్నాయో గమనించావా?",
+      "concept": "comparing yourself with someone on social media"
     }
   ],
   "usedBg": [
-    "27117847",
     "19956220",
     "34479251",
     "37319591",
@@ -1345,10 +1352,10 @@
     "34874679",
     "28055262",
     "35336975",
-    "25752548"
+    "25752548",
+    "37884190"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "TRUE WORDS ⏳",
@@ -1387,7 +1394,8 @@
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
