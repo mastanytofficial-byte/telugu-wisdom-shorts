@@ -1,0 +1,26 @@
+name: Compare quote languages (no upload)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run comparison
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: node tools/compare_languages.js 2>&1 | tee /tmp/compare.log
+      - name: Publish log to test-log branch
+        if: always()
+        run: |
+          mkdir -p /tmp/tl && cd /tmp/tl && git init -q
+          git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
+          git switch --orphan test-log; cp /tmp/compare.log ./compare.log
+          git add compare.log; git commit -q -m "compare log"
+          git remote add origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push -q -f origin test-log
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
