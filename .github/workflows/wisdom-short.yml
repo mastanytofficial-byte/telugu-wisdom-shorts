@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
     inputs:
       language:
-        description: Quote language (scheduled runs are always Telugu)
+        description: telugu = curated first then AI; telugu-ai = AI only (test); english = test. Scheduled runs are always telugu
         type: choice
-        options: [telugu, english]
+        options: [telugu, telugu-ai, english]
         default: telugu
   schedule:
     # 2 runs/day, aligned to actual YouTube Studio audience-activity heatmap
