@@ -8,14 +8,18 @@ on:
     # Reduced from 3/day to 2/day per YouTube Studio Insights guidance
     # (multiple same-day uploads competing with each other during the
     # channel's early discovery window).
-    # Delay-compensated schedule. Measured Oct 18-23: GitHub starts these runs
-    # late by ~5h27m (slot A) and ~4h42m (slot B); a run takes ~5 min.
-    # Targets: upload ~13:00 IST (07:30 UTC) and ~18:30 IST (13:00 UTC).
-    # 01:58 UTC + ~5h27m ~ 07:25 UTC start  -> ~13:00 IST upload
-    # 08:12 UTC + ~4h42m ~ 12:54 UTC start  -> ~18:30 IST upload
-    # Re-measure with `gh run list` and adjust if the delay drifts.
+    # GitHub drops/delays scheduled runs (measured delay ~4.5-5.5h, and some days
+    # not run at all), so there are several backup triggers. slot_guard.js allows
+    # at most one upload per slot per day, judged on the actual start time (IST):
+    #   Slot A = 12:00-17:59 IST, Slot B = 18:00-03:59 IST.
+    # Primary triggers (delay-compensated) target ~13:00 and ~18:30 IST uploads.
     - cron: '58 1 * * *'
     - cron: '12 8 * * *'
+    # Backups: fire later in the same slots if a primary was dropped.
+    - cron: '33 6 * * *'
+    - cron: '31 4 * * *'
+    - cron: '37 9 * * *'
+    - cron: '17 12 * * *'
 
 permissions:
   contents: write
@@ -25,7 +29,23 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    outputs:
+      run: ${{ steps.guard.outputs.run }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Slot guard
+        id: guard
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: node slot_guard.js
+
   build:
+    needs: check
+    if: needs.check.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
