@@ -1,7 +1,7 @@
 {
-  "runCount": 214,
-  "lastTitle": "శాంతి ఎంపిక",
-  "lastDate": "2026-10-24T17:12:31.762Z",
+  "runCount": 215,
+  "lastTitle": "నిశ్శబ్ద పురోగతి",
+  "lastDate": "2026-10-25T07:15:45.046Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1271,10 +1271,17 @@
       "topLabel": "SILENT POWER 🤫",
       "hook": "నిజం చెప్పడానికి బదులుగా శాంతి ఎంచుకోవడం మీ సంబంధాన్ని ఎలా మార్చుతుంది?",
       "concept": "choosing peace over proving a point"
+    },
+    {
+      "title": "నిశ్శబ్ద పురోగతి",
+      "screen": "వివరణలు ఇవ్వడం కాదు, నిశ్శబ్దంలో నిలబడి, అంతర్గతంగా ప్రగతిని అనుభవిస్తే, నువ్వు నిజంగా ఇతరుల మాటల బరువు లేకుండా ముందుకు సాగుతావు.",
+      "image": "a lone young adult standing on a misty forest path at dawn, sunlight filtering through trees, face calm and focused, no one else around, cinematic vertical 9:16, soft lighting, subtle lens flare, high detail, no text or watermark",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "వివరణలు ఆపేసి నిశ్శబ్దంగా ఉండటం నీకు ఏ మార్పు ఇస్తుంది?",
+      "concept": "the day you stop explaining yourself"
     }
   ],
   "usedBg": [
-    "20393316",
     "9667218",
     "33098322",
     "36857034",
@@ -1313,10 +1320,10 @@
     "37588603",
     "38923527",
     "38344808",
-    "37635633"
+    "37635633",
+    "34874679"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
@@ -1355,7 +1362,8 @@
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "LIFE LESSON 💡",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
