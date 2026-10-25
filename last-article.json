@@ -1,7 +1,7 @@
 {
-  "runCount": 219,
-  "lastTitle": "గడ్డి పాఠం",
-  "lastDate": "2026-10-25T13:12:18.905Z",
+  "runCount": 220,
+  "lastTitle": "నువ్వు మారితే",
+  "lastDate": "2026-10-25T13:50:55.343Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1311,10 +1311,17 @@
       "topLabel": "BE BRAVE 🦁",
       "hook": "సోషల్ ఫీడ్లో ఇతరుల తోట చూసి, నీ మొక్కలు ఎలా పెరుగుతున్నాయో గమనించావా?",
       "concept": "comparing yourself with someone on social media"
+    },
+    {
+      "title": "నువ్వు మారితే",
+      "screen": "ఇతరులు మారాలని ఎదురుచూసినంత కాలం నీ జీవితం అక్కడే ఆగిపోతుంది, నువ్వు మారిన రోజే నీ చుట్టూ ఉన్నవన్నీ మారడం మొదలవుతాయి.",
+      "image": "a pair of hands opening a window to bright morning light in a plain room, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "ఎదుటివాళ్లు మారితే చాలని ఎన్ని రోజులు ఎదురుచూశావు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "19956220",
     "34479251",
     "37319591",
     "34543361",
@@ -1353,10 +1360,10 @@
     "28055262",
     "35336975",
     "25752548",
-    "37884190"
+    "37884190",
+    "29567291"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "TRUE WORDS ⏳",
     "NEW BEGINNING 🌅",
@@ -1395,7 +1402,8 @@
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "STAY CALM 🍃",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
