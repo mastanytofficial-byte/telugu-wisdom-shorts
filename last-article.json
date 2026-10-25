@@ -1,7 +1,7 @@
 {
-  "runCount": 215,
-  "lastTitle": "నిశ్శబ్ద పురోగతి",
-  "lastDate": "2026-10-25T07:15:45.046Z",
+  "runCount": 216,
+  "lastTitle": "First Ten Minutes",
+  "lastDate": "2026-10-25T08:01:20.617Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1279,10 +1279,17 @@
       "topLabel": "KEEP GROWING 🌱",
       "hook": "వివరణలు ఆపేసి నిశ్శబ్దంగా ఉండటం నీకు ఏ మార్పు ఇస్తుంది?",
       "concept": "the day you stop explaining yourself"
+    },
+    {
+      "title": "First Ten Minutes",
+      "screen": "Not the entire marathon, but the first ten minutes of a hard task act like a start that builds momentum if you keep your focus steady.",
+      "image": "A cinematic vertical shot of a person at sunrise, standing at the edge of a long, empty road, tying shoelaces, with a subtle glow on the horizon; the scene captures the quiet anticipation before a run, with soft light, shallow depth of field, and a sense of imminent motion, no text or logos.",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "What happens if you treat the first ten minutes like a launch?",
+      "concept": "the first ten minutes of any hard task"
     }
   ],
   "usedBg": [
-    "9667218",
     "33098322",
     "36857034",
     "27117847",
@@ -1321,10 +1328,10 @@
     "38923527",
     "38344808",
     "37635633",
-    "34874679"
+    "34874679",
+    "28055262"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
@@ -1363,7 +1370,8 @@
     "INNER POWER 🔥",
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
