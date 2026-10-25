@@ -1,7 +1,7 @@
 {
-  "runCount": 216,
-  "lastTitle": "First Ten Minutes",
-  "lastDate": "2026-10-25T08:01:20.617Z",
+  "runCount": 217,
+  "lastTitle": "Rebuild After Storm",
+  "lastDate": "2026-10-25T08:18:11.556Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1287,10 +1287,17 @@
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "What happens if you treat the first ten minutes like a launch?",
       "concept": "the first ten minutes of any hard task"
+    },
+    {
+      "title": "Rebuild After Storm",
+      "screen": "When a storm rips a bird’s nest, the bird gathers new twigs, and the new nest becomes a stronger home that reflects resilience.",
+      "image": "A cinematic 9:16 image of a small bird perched on a freshly rebuilt nest made of twigs and leaves, the stormy sky clearing behind, soft morning light illuminating the nest, high detail, realistic style, no text or watermark",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "Ever wondered how a bird rebuilds after a storm?",
+      "concept": "a bird building a nest again after a storm"
     }
   ],
   "usedBg": [
-    "33098322",
     "36857034",
     "27117847",
     "19956220",
@@ -1329,10 +1336,10 @@
     "38344808",
     "37635633",
     "34874679",
-    "28055262"
+    "28055262",
+    "35336975"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
@@ -1371,7 +1378,8 @@
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
