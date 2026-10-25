@@ -1,7 +1,7 @@
 {
-  "runCount": 217,
-  "lastTitle": "Rebuild After Storm",
-  "lastDate": "2026-10-25T08:18:11.556Z",
+  "runCount": 218,
+  "lastTitle": "Choose the Edge",
+  "lastDate": "2026-10-25T08:31:34.367Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1295,10 +1295,17 @@
       "topLabel": "TRUE WORDS ⏳",
       "hook": "Ever wondered how a bird rebuilds after a storm?",
       "concept": "a bird building a nest again after a storm"
+    },
+    {
+      "title": "Choose the Edge",
+      "screen": "Your hunger for growth drags you off the familiar couch, and the comfort you abandon fuels the next bold step.",
+      "image": "A cinematic 9:16 shot of a person in casual clothes standing beside a cozy living‑room couch, sunrise light streaming through a window, their silhouette turning toward an open doorway that reveals a bright, expansive landscape; shallow depth of field, warm golden tones, soft focus on the couch, high contrast between the comfortable interior and the inviting outside.",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "Do you feel the hunger for growth?",
+      "concept": "hunger for growth versus comfort of staying same"
     }
   ],
   "usedBg": [
-    "36857034",
     "27117847",
     "19956220",
     "34479251",
@@ -1337,10 +1344,10 @@
     "37635633",
     "34874679",
     "28055262",
-    "35336975"
+    "35336975",
+    "25752548"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -1379,7 +1386,8 @@
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
