@@ -1,7 +1,7 @@
 {
-  "runCount": 222,
-  "lastTitle": "తెరుచుకునే తలుపు",
-  "lastDate": "2026-10-26T07:20:05.439Z",
+  "runCount": 223,
+  "lastTitle": "నిశ్చింత నిద్ర",
+  "lastDate": "2026-10-26T15:09:22.107Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1335,10 +1335,17 @@
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "ఒక తలుపు మూసుకుపోతే మరొకటి ఎక్కడ తెరుచుకుంటుందో తెలుసా?",
       "concept": null
+    },
+    {
+      "title": "నిశ్చింత నిద్ర",
+      "screen": "రాత్రి ప్రశాంతంగా నిద్రపోవడానికి పగలు నిజాయితీగా బతకడం ముఖ్యం, ఎందుకంటే మనసులో బరువు ఉన్నవాళ్లకు మెత్తటి పరుపు కూడా సుఖాన్ని ఇవ్వదు.",
+      "image": "a bird perched on a branch facing the horizon in soft blue morning mist, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "రాత్రి నీ నిద్ర నీ పగటి పనుల గురించి ఏం చెబుతుంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "34543361",
     "4684391",
     "35583884",
     "37116290",
@@ -1377,10 +1384,10 @@
     "37884190",
     "29567291",
     "36685712",
-    "40342455"
+    "40342455",
+    "39496241"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
@@ -1419,7 +1426,8 @@
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "MINDSET 🧠",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
