@@ -1,7 +1,7 @@
 {
-  "runCount": 221,
-  "lastTitle": "అర్థం తప్పు",
-  "lastDate": "2026-10-25T14:01:16.752Z",
+  "runCount": 222,
+  "lastTitle": "తెరుచుకునే తలుపు",
+  "lastDate": "2026-10-26T07:20:05.439Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1327,10 +1327,17 @@
       "topLabel": "MINDSET 🧠",
       "hook": "ఎవరూ నీ మాటలు అర్థం చేసుకోకపోయినా, నువ్వు ఇంకా ఎలా కరుణ చూపిస్తావు?",
       "concept": "being misunderstood and staying kind anyway"
+    },
+    {
+      "title": "తెరుచుకునే తలుపు",
+      "screen": "ఒక తలుపు మూసుకుపోతే ఏడుస్తూ కూర్చోకు, ఎందుకంటే నీకోసం తెరుచుకునే మరో తలుపు వైపు నడవడానికి ఇది సరైన సమయం.",
+      "image": "a lit oil lamp on a wooden table under a calm overcast sky, cinematic vertical photography",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "ఒక తలుపు మూసుకుపోతే మరొకటి ఎక్కడ తెరుచుకుంటుందో తెలుసా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "37319591",
     "34543361",
     "4684391",
     "35583884",
@@ -1369,10 +1376,10 @@
     "25752548",
     "37884190",
     "29567291",
-    "36685712"
+    "36685712",
+    "40342455"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
@@ -1411,7 +1418,8 @@
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
