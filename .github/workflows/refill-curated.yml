@@ -1,7 +1,7 @@
 name: Refill curated quotes
 on:
-  schedule:
-    - cron: '20 3 * * 1'   # weekly, Monday
+  # Weekly schedule disabled: Groq's Telugu quality is not good enough to auto-add
+  # to the verified list. Re-enable (cron '20 3 * * 1') once a strong-model key is wired in.
   workflow_dispatch:
     inputs:
       force:
