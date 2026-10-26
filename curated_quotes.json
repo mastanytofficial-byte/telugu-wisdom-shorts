@@ -478,5 +478,1445 @@
   "mood": "independent courage",
   "topLabel": "BE BRAVE 🦁",
   "image": "a lone walker choosing a different path in a golden autumn forest, cinematic vertical photography"
+ },
+ {
+  "title": "నమ్మకం మొదలు",
+  "screen": "నువ్వు ఏదైనా సాధించగలవని నమ్మిన రోజే సగం పని పూర్తవుతుంది, మిగతా సగం నమ్మకంతో రోజూ వేసే చిన్న అడుగులతో పూర్తవుతుంది.",
+  "highlightWords": [
+   "నమ్మిన",
+   "అడుగులతో"
+  ],
+  "hook": "నువ్వు సాధించగలవని నిజంగా నమ్ముతున్నావా?",
+  "mood": "clear focus",
+  "topLabel": "MINDSET 🧠",
+  "image": "a lone walker on a quiet hill road at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "సమస్యే గురువు",
+  "screen": "నీ దారిలో అడ్డుగా నిలిచిన ప్రతి సమస్యా దాన్ని దాటే మార్గం నేర్పే ఉపాధ్యాయుడే, కాబట్టి సమస్యను చూసి భయపడకుండా దాని నుంచి నేర్చుకో.",
+  "highlightWords": [
+   "సమస్యను",
+   "నేర్చుకో"
+  ],
+  "hook": "నీ ముందున్న సమస్య నీకు ఏం నేర్పుతోందో గమనించావా?",
+  "mood": "steady resolve",
+  "topLabel": "MINDSET 🧠",
+  "image": "an open notebook beside a steaming cup at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "కట్టుబడి ఉండు",
+  "screen": "విజయం ఒక్కసారి తీసుకున్న నిర్ణయం కాదు, ప్రతిరోజూ ఆ నిర్ణయానికి కట్టుబడి ఉండటమే అసలైన విజయం.",
+  "highlightWords": [
+   "నిర్ణయం",
+   "కట్టుబడి"
+  ],
+  "hook": "నిర్ణయం తీసుకోవడం సులభం, దానికి కట్టుబడి ఉండటం ఎందుకు కష్టం?",
+  "mood": "calm confidence",
+  "topLabel": "MINDSET 🧠",
+  "image": "a small sapling in wet soil at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "అలవాట్ల బలం",
+  "screen": "మనం ఏం చేస్తామో అదే మనం అవుతాం, అందుకే గొప్ప ఫలితాలు కావాలంటే ముందు మంచి అలవాట్లను రోజూ చేసుకోవాలి.",
+  "highlightWords": [
+   "అలవాట్లను",
+   "ఫలితాలు"
+  ],
+  "hook": "నీ రోజువారీ అలవాట్లు నిన్ను ఎక్కడికి తీసుకెళ్తున్నాయి?",
+  "mood": "self belief",
+  "topLabel": "MINDSET 🧠",
+  "image": "a lit oil lamp on a wooden table at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "ఊహల భయం",
+  "screen": "నువ్వు ఊహించుకునే భయాలలో చాలావరకు ఎప్పటికీ జరగవు, అయినా అవి నీ ఈరోజును దొంగిలిస్తాయి, కాబట్టి ఊహల కన్నా చర్యను నమ్ముకో.",
+  "highlightWords": [
+   "భయాలలో",
+   "చర్యను"
+  ],
+  "hook": "నువ్వు భయపడిన విషయాలలో ఎన్ని నిజంగా జరిగాయి?",
+  "mood": "clear focus",
+  "topLabel": "MINDSET 🧠",
+  "image": "a calm river bend between green banks at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "ప్రశ్న శక్తి",
+  "screen": "నువ్వు ఇచ్చే సమాధానాల కన్నా అడిగే ప్రశ్నలే నీ ఆలోచనను పదును పెడతాయి, అందుకే రోజూ ఒక కొత్త ప్రశ్నను నీకే వేసుకో.",
+  "highlightWords": [
+   "ప్రశ్నలే",
+   "పదును"
+  ],
+  "hook": "ఈరోజు నిన్ను నువ్వు ఏ ప్రశ్న అడిగావు?",
+  "mood": "steady resolve",
+  "topLabel": "MINDSET 🧠",
+  "image": "an old wooden bridge over a mist-filled valley at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "చిన్న భాగాలు",
+  "screen": "పెద్ద లక్ష్యాన్ని చూసి భయపడకు, దాన్ని ఈరోజు చేయగలిగే చిన్న పనులుగా విడగొట్టు, అప్పుడు ప్రతి అడుగూ నీకు సాధ్యంగా కనిపిస్తుంది.",
+  "highlightWords": [
+   "లక్ష్యాన్ని",
+   "విడగొట్టు"
+  ],
+  "hook": "నీ పెద్ద లక్ష్యంలో ఈరోజు చేయగలిగే చిన్న భాగం ఏంటి?",
+  "mood": "calm confidence",
+  "topLabel": "MINDSET 🧠",
+  "image": "a stack of well-worn books by a window at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "పనిలో ఆనందం",
+  "screen": "ఫలితం కోసమే ఎదురుచూస్తే ప్రతిరోజూ నీరసంగా అనిపిస్తుంది, కానీ చేసే పనిలోనే ఆనందాన్ని వెతికితే ప్రతిరోజూ నీకు ఒక చిన్న విజయమే.",
+  "highlightWords": [
+   "ఫలితం",
+   "ఆనందాన్ని"
+  ],
+  "hook": "నువ్వు చేసే పనిలో ఆనందం ఎక్కడ దొరుకుతుంది?",
+  "mood": "self belief",
+  "topLabel": "MINDSET 🧠",
+  "image": "a person tying shoes at a trailhead at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "నిజమైన క్రమశిక్షణ",
+  "screen": "మనసు వద్దన్నప్పుడు కూడా చేసే పనే నీ నిజమైన క్రమశిక్షణ, ఎందుకంటే ఉత్సాహం ఉన్నప్పుడు పని చేయడం అందరికీ సులభమే.",
+  "highlightWords": [
+   "క్రమశిక్షణ",
+   "ఉత్సాహం"
+  ],
+  "hook": "ఉత్సాహం లేని రోజున నువ్వు ఏం చేస్తావు?",
+  "mood": "clear focus",
+  "topLabel": "MINDSET 🧠",
+  "image": "a bird perched on a branch facing the horizon at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "స్పష్టత వస్తే",
+  "screen": "ఏం కావాలో స్పష్టంగా తెలిసినవాళ్లకు దారి వెతుక్కోవడం కష్టం కాదు, గందరగోళంలో ఉన్నవాళ్లు మాత్రం ప్రతి మలుపులో ఆగిపోతారు.",
+  "highlightWords": [
+   "స్పష్టంగా",
+   "గందరగోళంలో"
+  ],
+  "hook": "నీకు నిజంగా ఏం కావాలో నీకు స్పష్టంగా తెలుసా?",
+  "mood": "steady resolve",
+  "topLabel": "MINDSET 🧠",
+  "image": "a sailboat on still water at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "సిద్ధంగా ఉండు",
+  "screen": "అవకాశం వచ్చినప్పుడు సిద్ధంగా ఉన్నవాళ్లే దాన్ని వాడుకుంటారు, అందుకే అవకాశం రాకముందే నీ నైపుణ్యాన్ని పదును పెట్టుకో.",
+  "highlightWords": [
+   "అవకాశం",
+   "నైపుణ్యాన్ని"
+  ],
+  "hook": "అవకాశం రేపే వస్తే నువ్వు సిద్ధంగా ఉన్నావా?",
+  "mood": "calm confidence",
+  "topLabel": "MINDSET 🧠",
+  "image": "a rooftop terrace overlooking a sleeping town at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "మన్నించుకో",
+  "screen": "నీ గత తప్పులకు నువ్వే శిక్ష వేసుకుంటూ ఉంటే ముందుకు వెళ్లలేవు, నిన్ను నువ్వు మన్నించుకున్న రోజే నీ కొత్త ప్రయాణం మొదలవుతుంది.",
+  "highlightWords": [
+   "తప్పులకు",
+   "మన్నించుకున్న"
+  ],
+  "hook": "నిన్ను నువ్వు ఇంకా ఎందుకు మన్నించుకోలేదు?",
+  "mood": "self belief",
+  "topLabel": "MINDSET 🧠",
+  "image": "a long empty train platform at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "సలహా విను",
+  "screen": "అందరి సలహా వినడం మంచిదే, కానీ నీ పరిస్థితి నీకే బాగా తెలుసు, కాబట్టి చివరి నిర్ణయం మాత్రం నీ అనుభవంతో నువ్వే తీసుకో.",
+  "highlightWords": [
+   "సలహా",
+   "నిర్ణయం"
+  ],
+  "hook": "అందరి సలహాలు విన్నాక నిర్ణయం ఎవరు తీసుకోవాలి?",
+  "mood": "practical wisdom",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a field of tall grass moving in wind at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "పంచుకుంటే",
+  "screen": "సంతోషాన్ని పంచుకుంటే అది రెట్టింపు అవుతుంది, బాధను పంచుకుంటే అది సగం అవుతుంది, అందుకే నీ మనసులో ఉన్నదాన్ని ఒక్కరితోనైనా పంచుకో.",
+  "highlightWords": [
+   "సంతోషాన్ని",
+   "బాధను"
+  ],
+  "hook": "నీ మనసులోని బాధను ఎవరితో పంచుకుంటావు?",
+  "mood": "honest reflection",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a pair of hands holding warm tea at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "కష్టకాలపు గురువు",
+  "screen": "కష్టకాలం నేర్పే పాఠాలను ఏ పుస్తకమూ నేర్పలేదు, అందుకే కష్టం వచ్చినప్పుడు కుంగిపోకుండా అందులో నేర్చుకోవాల్సింది వెతుకు.",
+  "highlightWords": [
+   "కష్టకాలం",
+   "పాఠాలను"
+  ],
+  "hook": "కష్టకాలం నీకు ఏం నేర్పిందో ఆలోచించావా?",
+  "mood": "thoughtful calm",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a stone path through a bamboo grove at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "మాట విలువ",
+  "screen": "ఒకసారి నోటి నుంచి వచ్చిన మాట తిరిగి రాదు, అందుకే కోపంలో ఉన్నప్పుడు మాట్లాడే ముందు రెండు క్షణాలు ఆలోచించు.",
+  "highlightWords": [
+   "మాట",
+   "కోపంలో"
+  ],
+  "hook": "కోపంలో అన్న మాట ఎప్పుడైనా నీకే బాధ కలిగించిందా?",
+  "mood": "quiet learning",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a window with rain streaks and soft light at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "ఇచ్చి చూడు",
+  "screen": "ఇతరులకు సహాయం చేయడం వల్ల నువ్వు కోల్పోయేది ఏమీ ఉండదు, నిజానికి ఇచ్చే గుణమే నిన్ను లోపల సంపన్నంగా చేస్తుంది.",
+  "highlightWords": [
+   "సహాయం",
+   "గుణమే"
+  ],
+  "hook": "ఈరోజు ఎవరికైనా సహాయం చేశావా?",
+  "mood": "practical wisdom",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a lighthouse on a rocky coast at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "తెలియదని ఒప్పుకో",
+  "screen": "తెలియని విషయాన్ని తెలియదని ఒప్పుకోవడం బలహీనత కాదు, అది నేర్చుకోవడానికి మొదటి అడుగు, తెలుసని అబద్ధం చెప్పడమే అసలైన నష్టం.",
+  "highlightWords": [
+   "తెలియదని",
+   "అడుగు"
+  ],
+  "hook": "తెలియదని చెప్పడానికి నువ్వు ఎందుకు సిగ్గుపడతావు?",
+  "mood": "honest reflection",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a farmer walking through a green paddy field at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "పది పేజీలు",
+  "screen": "రోజూ కేవలం పది పేజీలు చదివే అలవాటు ఏడాదిలో ఎన్నో పుస్తకాలుగా మారుతుంది, చిన్న అలవాటు పెద్ద జ్ఞానాన్ని ఇస్తుంది.",
+  "highlightWords": [
+   "పేజీలు",
+   "జ్ఞానాన్ని"
+  ],
+  "hook": "రోజూ పది పేజీలు చదివితే ఏడాదిలో ఎన్ని పుస్తకాలు అవుతాయో తెలుసా?",
+  "mood": "thoughtful calm",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a lone tree on an open plain at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "ఆరోగ్యమే ఆస్తి",
+  "screen": "సంపాదన కోసం ఆరోగ్యాన్ని పణంగా పెట్టేవాళ్లు తర్వాత ఆరోగ్యం కోసం సంపాదనంతా ఖర్చు చేయాల్సి వస్తుంది, అందుకే ఈరోజే నీ శరీరాన్ని కాపాడుకో.",
+  "highlightWords": [
+   "ఆరోగ్యాన్ని",
+   "శరీరాన్ని"
+  ],
+  "hook": "ఈరోజు నీ శరీరానికి నువ్వు ఏం చేశావు?",
+  "mood": "quiet learning",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a staircase leading up into bright light at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "ఒక్క సంఘటన",
+  "screen": "ఒక వ్యక్తిని ఒక్క సంఘటనతో అంచనా వేస్తే మనం పొరపడతాం, ఎందుకంటే ప్రతి మనిషి వెనుక మనకు తెలియని ఒక కథ ఉంటుంది.",
+  "highlightWords": [
+   "సంఘటనతో",
+   "కథ"
+  ],
+  "hook": "ఒక్క సంఘటనతో ఎవరినైనా అంచనా వేశావా?",
+  "mood": "practical wisdom",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a quiet temple courtyard with fallen leaves at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "సమయమే బహుమతి",
+  "screen": "పిల్లలకు డబ్బు కన్నా సమయాన్ని ఇస్తే వాళ్లు జీవితాంతం గుర్తుంచుకుంటారు, ఎందుకంటే గుర్తుండిపోయేది బహుమతి కాదు కలిసి గడిపిన క్షణాలు.",
+  "highlightWords": [
+   "సమయాన్ని",
+   "క్షణాలు"
+  ],
+  "hook": "ఈరోజు నీ వాళ్లతో ఎంత సమయం గడిపావు?",
+  "mood": "honest reflection",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a bicycle leaning against a sunlit wall at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "ఆగి చూడు",
+  "screen": "ఎప్పుడూ పరుగెత్తేవాళ్లు దారి పక్కన ఉన్న అందాలను చూడలేరు, అందుకే రోజులో కాసేపైనా ఆగి నీ చుట్టూ ఉన్నదాన్ని గమనించు.",
+  "highlightWords": [
+   "పరుగెత్తేవాళ్లు",
+   "గమనించు"
+  ],
+  "hook": "ఈరోజు ఆగి నీ చుట్టూ ఏం గమనించావు?",
+  "mood": "thoughtful calm",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a mountain ridge above the clouds at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "రెండు మార్గాలు",
+  "screen": "ఓడిపోయిన ప్రతిసారీ నీకు రెండు మార్గాలు ఉంటాయి, ఆగిపోవడం లేదా ఏం తప్పు జరిగిందో నేర్చుకుని మళ్ళీ ప్రయత్నించడం.",
+  "highlightWords": [
+   "ఓడిపోయిన",
+   "నేర్చుకుని"
+  ],
+  "hook": "ఓడిపోయినప్పుడు నువ్వు ఏ మార్గం ఎంచుకుంటావు?",
+  "mood": "quiet learning",
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a clay pot beside a flowering plant at golden sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "కాలం విలువ",
+  "screen": "కాలం ఎవరి కోసమూ ఆగదు, కానీ సరైన పనిలో గడిపిన ప్రతి క్షణం వృథా కాకుండా నీ భవిష్యత్తుగా మారుతుంది.",
+  "highlightWords": [
+   "కాలం",
+   "భవిష్యత్తుగా"
+  ],
+  "hook": "నీ కాలం ఎక్కడ ఖర్చవుతోందో ఎప్పుడైనా లెక్కపెట్టావా?",
+  "mood": "honest truth",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a lone walker on a quiet hill road in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "నిజం చేదు",
+  "screen": "నిజం మొదట చేదుగా అనిపించినా అది నిన్ను బాగుచేస్తుంది, అబద్ధం మొదట తీయగా అనిపించినా అది నిన్ను నెమ్మదిగా పాడుచేస్తుంది.",
+  "highlightWords": [
+   "నిజం",
+   "అబద్ధం"
+  ],
+  "hook": "నీకు చేదుగా అనిపించే నిజం ఏది?",
+  "mood": "thoughtful time",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "an open notebook beside a steaming cup in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "పనులు చెప్పేది",
+  "screen": "చెప్పే మాటల కన్నా చేసే పనులు ఎక్కువ నిజం మాట్లాడతాయి, కాబట్టి ఎవరినైనా అర్థం చేసుకోవాలంటే వాళ్ల మాటలు కాదు వాళ్ల పనులు చూడు.",
+  "highlightWords": [
+   "పనులు",
+   "అర్థం"
+  ],
+  "hook": "మాటలు నమ్మాలా లేక పనులు నమ్మాలా?",
+  "mood": "warm honesty",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a small sapling in wet soil in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "రేపటి వాగ్దానం",
+  "screen": "రేపు చూద్దాంలే అనే మాట చాలా కలలను చంపింది, కాబట్టి ఈరోజు చేయగలిగే చిన్న పనిని రేపటికి వాయిదా వేయకు.",
+  "highlightWords": [
+   "వాయిదా",
+   "కలలను"
+  ],
+  "hook": "రేపు చూద్దాంలే అని ఎన్ని పనులు ఆపేశావు?",
+  "mood": "sober clarity",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a lit oil lamp on a wooden table in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "నిజాయితీ ఖరీదు",
+  "screen": "నిజాయితీగా ఉండటం కొన్నిసార్లు నష్టం తెచ్చినట్టు అనిపిస్తుంది, కానీ దీర్ఘకాలంలో ప్రజల నమ్మకమే నీకు దక్కే అతిపెద్ద లాభం.",
+  "highlightWords": [
+   "నిజాయితీగా",
+   "నమ్మకమే"
+  ],
+  "hook": "నిజాయితీగా ఉండటం వల్ల నువ్వు ఏం పొందావు?",
+  "mood": "honest truth",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a calm river bend between green banks in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "ఉన్నవాళ్లకు విలువ",
+  "screen": "ఎవరూ ఎప్పటికీ నీతో ఉండరు, అందుకే ఇప్పుడు నీతో ఉన్నవాళ్లకు విలువ ఇవ్వు, ఎందుకంటే పోయిన క్షణం తిరిగి రాదు.",
+  "highlightWords": [
+   "ఎప్పటికీ",
+   "విలువ"
+  ],
+  "hook": "నీతో ఉన్నవాళ్లకు ఈరోజు నీ విలువ చెప్పావా?",
+  "mood": "thoughtful time",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "an old wooden bridge over a mist-filled valley in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "ముందు క్షమాపణ",
+  "screen": "క్షమాపణ చెప్పాల్సిన చోట అహంకారం అడ్డు వస్తే బంధం నెమ్మదిగా చల్లబడుతుంది, అందుకే ముందుగా క్షమాపణ చెప్పేవాళ్లే నిజంగా పెద్దమనసు ఉన్నవాళ్లు.",
+  "highlightWords": [
+   "క్షమాపణ",
+   "అహంకారం"
+  ],
+  "hook": "క్షమాపణ చెప్పకుండా నువ్వు ఎవరిని దూరం చేసుకున్నావు?",
+  "mood": "warm honesty",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a stack of well-worn books by a window in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "చేతిలో ఉన్నది",
+  "screen": "నీ నియంత్రణలో లేని విషయాల గురించి ఆలోచిస్తూ సమయం వృథా చేయకు, నీ చేతిలో ఉన్న ప్రయత్నంపై దృష్టి పెడితే ఫలితం దానంతటే వస్తుంది.",
+  "highlightWords": [
+   "నియంత్రణలో",
+   "ప్రయత్నంపై"
+  ],
+  "hook": "నీ నియంత్రణలో లేనిదాని కోసం ఎంత సమయం వృథా చేస్తున్నావు?",
+  "mood": "sober clarity",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a person tying shoes at a trailhead in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "నిశ్చింత నిద్ర",
+  "screen": "రాత్రి ప్రశాంతంగా నిద్రపోవడానికి పగలు నిజాయితీగా బతకడం ముఖ్యం, ఎందుకంటే మనసులో బరువు ఉన్నవాళ్లకు మెత్తటి పరుపు కూడా సుఖాన్ని ఇవ్వదు.",
+  "highlightWords": [
+   "నిజాయితీగా",
+   "బరువు"
+  ],
+  "hook": "రాత్రి నీ నిద్ర నీ పగటి పనుల గురించి ఏం చెబుతుంది?",
+  "mood": "honest truth",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a bird perched on a branch facing the horizon in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "చెప్పే ముందు",
+  "screen": "చెప్పే ప్రతి మాట నిజమైనదా, అవసరమైనదా, దయతో కూడినదా అని ఒక్కసారి ఆలోచించి మాట్లాడితే నీ మాటకు ఎప్పుడూ విలువ ఉంటుంది.",
+  "highlightWords": [
+   "నిజమైనదా",
+   "విలువ"
+  ],
+  "hook": "మాట్లాడే ముందు ఏ మూడు ప్రశ్నలు వేసుకోవాలో తెలుసా?",
+  "mood": "thoughtful time",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a sailboat on still water in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "అందరినీ మెప్పించకు",
+  "screen": "అందరినీ మెప్పించాలనే ప్రయత్నంలో నిన్ను నువ్వు కోల్పోకు, ఎందుకంటే అందరికీ నచ్చేలా జీవించడం ఎవరికీ సాధ్యం కాదు.",
+  "highlightWords": [
+   "మెప్పించాలనే",
+   "కోల్పోకు"
+  ],
+  "hook": "అందరినీ మెప్పించే ప్రయత్నంలో నువ్వు ఏం కోల్పోతున్నావు?",
+  "mood": "warm honesty",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a rooftop terrace overlooking a sleeping town in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "గడియారం చెప్పేది",
+  "screen": "గడియారం ముల్లు వెనక్కి తిరగదు, కాబట్టి నిన్నటి గురించి బాధపడుతూ ఉండటం కన్నా ఈ నిమిషాన్ని సరిగ్గా వాడుకోవడమే తెలివైన పని.",
+  "highlightWords": [
+   "గడియారం",
+   "నిమిషాన్ని"
+  ],
+  "hook": "గడియారం ముల్లు వెనక్కి తిరగదని నీకు గుర్తున్నదా?",
+  "mood": "sober clarity",
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a long empty train platform in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "మాట్లాడని బలం",
+  "screen": "మాట్లాడే ప్రతి ఒక్కరూ బలవంతులు కారు, ఎప్పుడు మాట్లాడకూడదో తెలిసినవాళ్లే నిజంగా శక్తివంతులు.",
+  "highlightWords": [
+   "మాట్లాడకూడదో",
+   "శక్తివంతులు"
+  ],
+  "hook": "ఎప్పుడు మాట్లాడకూడదో నీకు తెలుసా?",
+  "mood": "silent strength",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a field of tall grass moving in wind in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "నీడలో శ్రమ",
+  "screen": "ఎవరూ చూడని చోట నువ్వు పెట్టే కష్టం ఈరోజు ఫలితం ఇవ్వకపోయినా, ఒకరోజు అది నీ పేరు చెప్పే మాటగా మారుతుంది.",
+  "highlightWords": [
+   "కష్టం",
+   "ఫలితం"
+  ],
+  "hook": "ఎవరూ చూడని చోట నువ్వు ఎంత కష్టపడతావు?",
+  "mood": "quiet effort",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a pair of hands holding warm tea in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "నిలకడగా నడక",
+  "screen": "ఉరుకులు పరుగులు లేకుండా స్థిరంగా నడిచేవాళ్లు ఆలస్యంగా కనిపించినా, చివరికి గమ్యాన్ని మొదట చేరేది వాళ్లే.",
+  "highlightWords": [
+   "స్థిరంగా",
+   "గమ్యాన్ని"
+  ],
+  "hook": "వేగం ముఖ్యమా లేక స్థిరత్వమా?",
+  "mood": "patient depth",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a stone path through a bamboo grove in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "నిండు కుండ",
+  "screen": "లోతైన నది నిశ్శబ్దంగా ప్రవహిస్తుంది, నిండు కుండ తొణకదు, అలాగే నిజమైన జ్ఞానం ఉన్నవాళ్లు ఎప్పుడూ గొప్పలు చెప్పుకోరు.",
+  "highlightWords": [
+   "నిశ్శబ్దంగా",
+   "జ్ఞానం"
+  ],
+  "hook": "నిండు కుండ ఎందుకు తొణకదో తెలుసా?",
+  "mood": "calm mastery",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a window with rain streaks and soft light in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "విమర్శకు జవాబు",
+  "screen": "ప్రతి విమర్శకూ జవాబు ఇవ్వడం మానేసి నీ పనిని మెరుగుపరచుకుంటే కాలమే నీ తరఫున సమాధానం చెబుతుంది.",
+  "highlightWords": [
+   "విమర్శకూ",
+   "కాలమే"
+  ],
+  "hook": "ప్రతి విమర్శకూ జవాబు ఇవ్వడం నిజంగా అవసరమా?",
+  "mood": "silent strength",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a lighthouse on a rocky coast in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "ఒంటరి గదిలో",
+  "screen": "నువ్వు నీతో ఒంటరిగా గడిపే సమయమే నీ అసలైన వ్యక్తిత్వాన్ని తయారు చేస్తుంది, ఎందుకంటే అక్కడ నటించాల్సిన అవసరం ఉండదు.",
+  "highlightWords": [
+   "ఒంటరిగా",
+   "వ్యక్తిత్వాన్ని"
+  ],
+  "hook": "ఒంటరిగా ఉన్నప్పుడు నువ్వు ఎవరు?",
+  "mood": "quiet effort",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a farmer walking through a green paddy field in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "వినడం కళ",
+  "screen": "చక్కగా వినగలిగే వ్యక్తికి ఎక్కువ విషయాలు తెలుస్తాయి, ఎందుకంటే మాట్లాడేటప్పుడు మనం మన విషయాలే చెబుతాం, వినేటప్పుడు ఇతరుల విషయాలు నేర్చుకుంటాం.",
+  "highlightWords": [
+   "వినగలిగే",
+   "నేర్చుకుంటాం"
+  ],
+  "hook": "ఈరోజు నువ్వు ఎంతసేపు విన్నావు?",
+  "mood": "patient depth",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a lone tree on an open plain in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "తొందర వద్దు",
+  "screen": "తొందరపడి తీసుకున్న నిర్ణయాలకు కాలం తరచుగా బదులు తీర్చుకుంటుంది, కాబట్టి పెద్ద నిర్ణయాన్ని ఒక రాత్రి నిద్రపోయి మరుసటి రోజు తీసుకో.",
+  "highlightWords": [
+   "తొందరపడి",
+   "నిర్ణయాన్ని"
+  ],
+  "hook": "పెద్ద నిర్ణయాన్ని ఒక రాత్రి వాయిదా వేస్తే ఏమవుతుంది?",
+  "mood": "calm mastery",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a staircase leading up into bright light in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "చప్పుడు లేని ఎదుగుదల",
+  "screen": "నిజమైన ఎదుగుదల గొప్ప శబ్దం చేయదు, అది నెమ్మదిగా ప్రతిరోజూ కొంచెంకొంచెంగా జరుగుతూ ఒకరోజు అందరినీ ఆశ్చర్యపరుస్తుంది.",
+  "highlightWords": [
+   "ఎదుగుదల",
+   "ఆశ్చర్యపరుస్తుంది"
+  ],
+  "hook": "నీ ఎదుగుదల ఎంత నెమ్మదిగా జరుగుతున్నా ఆగకుండా ఉందా?",
+  "mood": "silent strength",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a quiet temple courtyard with fallen leaves in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "మౌనంలో సమాధానం",
+  "screen": "కొన్ని ప్రశ్నలకు సమాధానం మాటల్లో దొరకదు, ప్రశాంతంగా కూర్చుని నీ లోపలికి చూసుకుంటే నువ్వు వెతుకుతున్న జవాబు నీకే తెలుస్తుంది.",
+  "highlightWords": [
+   "ప్రశాంతంగా",
+   "జవాబు"
+  ],
+  "hook": "చివరిసారిగా నువ్వు నిశ్శబ్దంగా కూర్చుని ఎప్పుడు ఆలోచించావు?",
+  "mood": "quiet effort",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a bicycle leaning against a sunlit wall in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "నిలకడే గెలుపు",
+  "screen": "ఒక్క రోజులో ఎవరూ గొప్పవాళ్లు కారు, రోజూ ఒకే పనిని నిలకడగా చేయడమే చివరికి నిన్ను గెలిపిస్తుంది.",
+  "highlightWords": [
+   "నిలకడగా",
+   "గెలిపిస్తుంది"
+  ],
+  "hook": "రోజూ నిలకడగా చేస్తున్న ఒక్క పని ఏది?",
+  "mood": "patient depth",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a mountain ridge above the clouds in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "సొంత గమనం",
+  "screen": "ఇతరుల వేగాన్ని చూసి నీ గమనాన్ని మార్చుకోకు, ఎందుకంటే నీ ప్రయాణానికి నీకు సరిపడే వేగమే అసలైన సరైన వేగం.",
+  "highlightWords": [
+   "వేగాన్ని",
+   "గమనాన్ని"
+  ],
+  "hook": "నువ్వు ఎవరి వేగంతో నడుస్తున్నావు?",
+  "mood": "calm mastery",
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a clay pot beside a flowering plant in soft blue morning mist, cinematic vertical photography"
+ },
+ {
+  "title": "ఉచితం కాదు",
+  "screen": "ఎవరూ నీకు ఏదీ ఉచితంగా ఇవ్వరు, నీకు కావాల్సిన దాని కోసం నువ్వే కష్టపడాలి, ఈ నిజాన్ని ఎంత త్వరగా ఒప్పుకుంటే అంత త్వరగా ఎదుగుతావు.",
+  "highlightWords": [
+   "ఉచితంగా",
+   "నిజాన్ని"
+  ],
+  "hook": "నీకు కావాల్సినది ఎవరైనా ఇస్తారని ఎదురుచూస్తున్నావా?",
+  "mood": "grounded realism",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a lone walker on a quiet hill road at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "సౌకర్యం ఖరీదు",
+  "screen": "సౌకర్యంగా ఉండటం ఎప్పుడూ మంచిదే అనిపిస్తుంది, కానీ ఏడాదిపాటు అదే సౌకర్యంలో ఉన్నవాళ్లకు ఎదుగుదల మాత్రం ఎక్కడో ఆగిపోతుంది.",
+  "highlightWords": [
+   "సౌకర్యంగా",
+   "ఎదుగుదల"
+  ],
+  "hook": "నీ సౌకర్యం నీ ఎదుగుదలను ఆపుతోందా?",
+  "mood": "honest clarity",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "an open notebook beside a steaming cup at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "కనిపించని భారం",
+  "screen": "ఇతరుల జీతం, కారు, ఇల్లు చూసి నీ జీవితాన్ని కొలవకు, ఎందుకంటే వాళ్ల అప్పులు, వాళ్ల ఒత్తిడి నీకు కనిపించవు.",
+  "highlightWords": [
+   "జీతం",
+   "ఒత్తిడి"
+  ],
+  "hook": "ఇతరుల జీవితంలో నీకు కనిపించని విషయాలు ఏంటి?",
+  "mood": "sober truth",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a small sapling in wet soil at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "అదే పద్ధతి",
+  "screen": "చేసిన పనినే మళ్ళీ మళ్ళీ చేస్తూ వేరే ఫలితం ఆశించడం అమాయకత్వం, ఫలితం మారాలంటే ముందు నీ పద్ధతి మారాలి.",
+  "highlightWords": [
+   "ఫలితం",
+   "పద్ధతి"
+  ],
+  "hook": "అదే పద్ధతిలో కొత్త ఫలితం ఎలా వస్తుంది?",
+  "mood": "practical courage",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a lit oil lamp on a wooden table at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "సమయం సాకు",
+  "screen": "అందరికీ సమయం దొరకదు, కానీ నీకు నిజంగా ముఖ్యమైనవాటికి నువ్వు సమయం వెతుక్కుంటావు, అందుకే సమయం లేదనేది ఒక సాకు మాత్రమే.",
+  "highlightWords": [
+   "సమయం",
+   "సాకు"
+  ],
+  "hook": "సమయం లేదని నువ్వు ఎన్నిసార్లు చెప్పావు?",
+  "mood": "grounded realism",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a calm river bend between green banks at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "అప్పు ఆనందం",
+  "screen": "తీర్చలేనంత అప్పు చేసి చేసే ఖర్చు సంతోషాన్ని ఇవ్వదు, అది రేపటి నీ స్వేచ్ఛను ఈరోజే అమ్మేసుకోవడమే.",
+  "highlightWords": [
+   "అప్పు",
+   "స్వేచ్ఛను"
+  ],
+  "hook": "అప్పుతో కొన్న సంతోషం ఎంతకాలం నిలుస్తుంది?",
+  "mood": "honest clarity",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "an old wooden bridge over a mist-filled valley at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "గుర్తింపు ఆలస్యం",
+  "screen": "నీ పనికి వెంటనే గుర్తింపు రాకపోతే నిరాశపడకు, ఎందుకంటే చాలా గొప్ప పనులు గుర్తింపు రావడానికి ముందు సంవత్సరాల పాటు ఎవరికీ తెలియకుండానే సాగాయి.",
+  "highlightWords": [
+   "గుర్తింపు",
+   "సంవత్సరాల"
+  ],
+  "hook": "గుర్తింపు రాకపోతే నువ్వు ఆగిపోతావా?",
+  "mood": "sober truth",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a stack of well-worn books by a window at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "బాధ్యత నీదే",
+  "screen": "ఇతరులను నిందించడం సులభం, కానీ నీ జీవితానికి బాధ్యత నీదేనని అంగీకరించిన రోజే మార్పు నీ చేతికి వస్తుంది.",
+  "highlightWords": [
+   "నిందించడం",
+   "బాధ్యత"
+  ],
+  "hook": "నీ జీవితానికి బాధ్యత నీదేనని ఎప్పుడు అనుకున్నావు?",
+  "mood": "practical courage",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a person tying shoes at a trailhead at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "విశ్రాంతి ఇంధనం",
+  "screen": "ఆగకుండా పరుగెత్తేవాళ్లు ఒకరోజు అలసటతో పూర్తిగా ఆగిపోతారు, కాబట్టి విశ్రాంతి తీసుకోవడం సోమరితనం కాదు, అది ముందుకు వెళ్లడానికి అవసరమైన ఇంధనం.",
+  "highlightWords": [
+   "విశ్రాంతి",
+   "ఇంధనం"
+  ],
+  "hook": "విశ్రాంతి తీసుకోవడం సోమరితనమా లేక అవసరమా?",
+  "mood": "grounded realism",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a bird perched on a branch facing the horizon at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "అంచనాల భారం",
+  "screen": "ఇతరులు నీపై పెట్టుకున్న అంచనాలన్నీ మోయడానికి నువ్వు పుట్టలేదు, నీ కలల కోసం బతకడమే నీ మొదటి బాధ్యత.",
+  "highlightWords": [
+   "అంచనాలన్నీ",
+   "కలల"
+  ],
+  "hook": "ఇతరుల అంచనాల కోసం నీ కలలను వదిలేశావా?",
+  "mood": "honest clarity",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a sailboat on still water at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "నిజమైన సంపద",
+  "screen": "డబ్బు ఉన్నవాళ్లందరూ సంతోషంగా ఉండరు, కానీ నిశ్చింతగా నిద్రపోయే మనసు ఉన్నవాళ్లు నిజంగా సంపన్నులు.",
+  "highlightWords": [
+   "డబ్బు",
+   "మనసు"
+  ],
+  "hook": "నిన్ను నిజంగా సంపన్నంగా మార్చేది ఏంటి?",
+  "mood": "sober truth",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a rooftop terrace overlooking a sleeping town at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "భయంలో కళ్లు",
+  "screen": "ప్రతి సమస్యకూ పరిష్కారం ఉంటుంది, కానీ భయంలో ఉన్నప్పుడు మన కళ్లు పరిష్కారాన్ని చూడలేవు, అందుకే ముందు ప్రశాంతంగా ఉండు.",
+  "highlightWords": [
+   "పరిష్కారం",
+   "భయంలో"
+  ],
+  "hook": "భయంలో ఉన్నప్పుడు పరిష్కారం ఎందుకు కనిపించదు?",
+  "mood": "practical courage",
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a long empty train platform at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "లోపలి నమ్మకం",
+  "screen": "అందరూ నిన్ను వదిలేసినా నీపై నీకున్న నమ్మకం నిన్ను వదలదు, అందుకే ముందు ఆ నమ్మకాన్ని రోజూ పెంచుకో.",
+  "highlightWords": [
+   "నమ్మకం",
+   "పెంచుకో"
+  ],
+  "hook": "అందరూ వదిలేసినా నీపై నీకు నమ్మకం ఉందా?",
+  "mood": "rising strength",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a field of tall grass moving in wind at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "పడిన చోటే",
+  "screen": "పడిపోవడం ఓటమి కాదు, పడిన చోటే ఉండిపోవడమే ఓటమి, కాబట్టి ఎన్నిసార్లు పడ్డా మళ్ళీ లేచి ఒక్క అడుగు ముందుకు వేయి.",
+  "highlightWords": [
+   "పడిపోవడం",
+   "లేచి"
+  ],
+  "hook": "నువ్వు పడిన చోటే ఉండిపోయావా లేక లేచావా?",
+  "mood": "inner fire",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a pair of hands holding warm tea at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "చిన్న దీపం",
+  "screen": "చీకటిని తిట్టుకోవడం కన్నా ఒక చిన్న దీపం వెలిగించడం మేలు, నీలోని వెలుగే నీకు, నీ చుట్టూ ఉన్నవాళ్లకు దారి చూపుతుంది.",
+  "highlightWords": [
+   "చీకటిని",
+   "దీపం"
+  ],
+  "hook": "నీ చుట్టూ చీకటి ఉన్నప్పుడు నువ్వు ఏం చేస్తావు?",
+  "mood": "steady courage",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a stone path through a bamboo grove at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "నిన్ను గౌరవించు",
+  "screen": "నీ విలువను నువ్వే గుర్తించకపోతే ప్రపంచం కూడా గుర్తించదు, కాబట్టి ముందు నిన్ను నువ్వు గౌరవించడం నేర్చుకో.",
+  "highlightWords": [
+   "విలువను",
+   "గౌరవించడం"
+  ],
+  "hook": "నిన్ను నువ్వు ఎంత గౌరవిస్తున్నావు?",
+  "mood": "self worth",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a window with rain streaks and soft light at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "ఒత్తిడిలో ప్రతిభ",
+  "screen": "ఒత్తిడి లేకుండా ఏ వజ్రమూ తయారుకాదు, అలాగే కష్టాల ఒత్తిడి లేకుండా నీలోని ప్రతిభ కూడా బయటకు రాదు.",
+  "highlightWords": [
+   "ఒత్తిడి",
+   "ప్రతిభ"
+  ],
+  "hook": "నీ కష్టాలు నీలోని ఏ ప్రతిభను బయటకు తీసుకొస్తున్నాయి?",
+  "mood": "rising strength",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a lighthouse on a rocky coast at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "అలుపెరుగని మనసు",
+  "screen": "శరీరం అలసిపోయినా మనసు ఆగకపోతే ప్రయాణం కొనసాగుతుంది, కానీ మనసు ఆగిపోతే శరీరం బలంగా ఉన్నా ముందుకు వెళ్లదు.",
+  "highlightWords": [
+   "శరీరం",
+   "మనసు"
+  ],
+  "hook": "నిన్ను నడిపించేది శరీరమా లేక మనసా?",
+  "mood": "inner fire",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a farmer walking through a green paddy field at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "నీ పోరాటం",
+  "screen": "ప్రతి ఒక్కరూ తమ తమ పోరాటంలో ఉంటారు, కాబట్టి నీ పోరాటం నీకు కష్టంగా అనిపిస్తే అది నీ బలహీనత కాదు నీ పయనంలో భాగం.",
+  "highlightWords": [
+   "పోరాటం",
+   "పయనంలో"
+  ],
+  "hook": "నీ పోరాటం నీకే ఎందుకు ఇంత కష్టంగా అనిపిస్తుందో ఆలోచించావా?",
+  "mood": "steady courage",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a lone tree on an open plain at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "మార్పు నీ నుంచే",
+  "screen": "లోకాన్ని మార్చాలనుకునే ముందు నిన్ను నువ్వు మార్చుకో, ఎందుకంటే మారిన నువ్వే నీ చుట్టూ ఉన్న లోకాన్ని మార్చగలవు.",
+  "highlightWords": [
+   "లోకాన్ని",
+   "మార్చుకో"
+  ],
+  "hook": "లోకాన్ని మార్చే ముందు ఏం మార్చుకోవాలి?",
+  "mood": "self worth",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a staircase leading up into bright light at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "నిప్పులో బంగారం",
+  "screen": "నిప్పులో కాలిన బంగారమే మరింత మెరుస్తుంది, అలాగే కష్టాల్లో కాలిన మనసు మరింత స్థిరంగా, స్వచ్ఛంగా తయారవుతుంది.",
+  "highlightWords": [
+   "బంగారమే",
+   "స్వచ్ఛంగా"
+  ],
+  "hook": "నిప్పులో కాలిన బంగారం ఎందుకు ఎక్కువ మెరుస్తుందో తెలుసా?",
+  "mood": "rising strength",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a quiet temple courtyard with fallen leaves at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "లోపలి గొంతు",
+  "screen": "నీ లోపలి గొంతు నిన్ను ఆపుతున్నట్టు అనిపించినప్పుడు, దాన్ని ఎదిరించి ఒక్క చిన్న పనిని పూర్తిచేయి, అప్పుడు దాని బలం తగ్గిపోతుంది.",
+  "highlightWords": [
+   "గొంతు",
+   "ఎదిరించి"
+  ],
+  "hook": "నీ లోపలి గొంతు నిన్ను ఎప్పుడు ఆపుతుంది?",
+  "mood": "inner fire",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a bicycle leaning against a sunlit wall at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "కృతజ్ఞత బలం",
+  "screen": "లేనిదాని గురించి ఏడ్చే బదులు ఉన్నదానికి కృతజ్ఞత చెప్పడం మొదలుపెడితే, నీ మనసులో ప్రశాంతత, నీ చేతల్లో బలం పెరుగుతాయి.",
+  "highlightWords": [
+   "కృతజ్ఞత",
+   "ప్రశాంతత"
+  ],
+  "hook": "ఈరోజు నువ్వు దేనికి కృతజ్ఞత చెబుతావు?",
+  "mood": "steady courage",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a mountain ridge above the clouds at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "నీ ప్రవర్తన",
+  "screen": "నీ పేరును నిలబెట్టేది నీ డబ్బు కాదు నీ ప్రవర్తన, కాబట్టి ఎవరూ చూడనప్పుడు కూడా సరైనదే చేయడానికి నిన్ను నువ్వు అలవాటు చేసుకో.",
+  "highlightWords": [
+   "ప్రవర్తన",
+   "అలవాటు"
+  ],
+  "hook": "ఎవరూ చూడనప్పుడు నువ్వు ఎలా ప్రవర్తిస్తావు?",
+  "mood": "self worth",
+  "topLabel": "INNER POWER 🔥",
+  "image": "a clay pot beside a flowering plant at warm sunset glow, cinematic vertical photography"
+ },
+ {
+  "title": "ఉదయపు కలం",
+  "screen": "ప్రతి ఉదయం ఒక తెల్లని పేజీ లాంటిది, నిన్న ఏం రాసినా ఈరోజు ఏం రాయాలో నిర్ణయించే కలం నీ చేతిలోనే ఉంది.",
+  "highlightWords": [
+   "పేజీ",
+   "కలం"
+  ],
+  "hook": "ఈరోజు ఏం రాయాలో నువ్వు నిర్ణయించావా?",
+  "mood": "fresh start",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a lone walker on a quiet hill road under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "ఉన్నదానితో",
+  "screen": "ఏమీ లేని స్థితి నుంచి మొదలుపెట్టినవాళ్లే ఎక్కువమంది గొప్పవాళ్లయ్యారు, కాబట్టి నీ దగ్గర ఏమీ లేదని ఆగిపోకు, ఉన్నదానితో మొదలుపెట్టు.",
+  "highlightWords": [
+   "మొదలుపెట్టినవాళ్లే",
+   "ఉన్నదానితో"
+  ],
+  "hook": "నీ దగ్గర ఉన్నదానితో ఈరోజు ఏం మొదలుపెట్టగలవు?",
+  "mood": "hopeful dawn",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "an open notebook beside a steaming cup under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "పాత అలవాట్లు",
+  "screen": "నిన్నటి నువ్వు ఎలా ఉన్నా ఈరోజు కొత్తగా మారే అవకాశం నీకు ఉంది, కాబట్టి పాత అలవాట్లను వదిలేసి ఈరోజే కొత్తగా మొదలుపెట్టు.",
+  "highlightWords": [
+   "అవకాశం",
+   "అలవాట్లను"
+  ],
+  "hook": "నీలో ఏ పాత అలవాటును ఈరోజు వదిలేయగలవు?",
+  "mood": "new energy",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a small sapling in wet soil under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "తెరుచుకునే తలుపు",
+  "screen": "ఒక తలుపు మూసుకుపోతే ఏడుస్తూ కూర్చోకు, ఎందుకంటే నీకోసం తెరుచుకునే మరో తలుపు వైపు నడవడానికి ఇది సరైన సమయం.",
+  "highlightWords": [
+   "తలుపు",
+   "నడవడానికి"
+  ],
+  "hook": "ఒక తలుపు మూసుకుపోతే మరొకటి ఎక్కడ తెరుచుకుంటుందో తెలుసా?",
+  "mood": "gentle renewal",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a lit oil lamp on a wooden table under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "నాటిన మొక్క",
+  "screen": "ఈరోజు నాటిన చిన్న మొక్క రేపటి పెద్ద చెట్టు అవుతుంది, అలాగే ఈరోజు చేసే చిన్న ప్రయత్నమే రేపటి నీ పెద్ద విజయానికి పునాది.",
+  "highlightWords": [
+   "మొక్క",
+   "పునాది"
+  ],
+  "hook": "ఈరోజు నువ్వు ఏ మొక్క నాటబోతున్నావు?",
+  "mood": "fresh start",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a calm river bend between green banks under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "ఉదయం వస్తుంది",
+  "screen": "రాత్రి ఎంత పొడవైనా ఉదయం ఖచ్చితంగా వస్తుంది, నీ కష్టకాలం కూడా అంతే, కాబట్టి తెల్లారే వరకు ఆశను వదలకు.",
+  "highlightWords": [
+   "ఉదయం",
+   "ఆశను"
+  ],
+  "hook": "రాత్రి ఎంత పొడవైనా ఉదయం వస్తుందని నీకు తెలుసా?",
+  "mood": "hopeful dawn",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "an old wooden bridge over a mist-filled valley under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "ముందుకు చూడు",
+  "screen": "వెనక్కి చూస్తూ నడిచేవాళ్లు ముందున్న గుంతలో పడతారు, కాబట్టి గతాన్ని పాఠంగా మాత్రమే తీసుకుని దృష్టిని ముందున్న దారిపై ఉంచు.",
+  "highlightWords": [
+   "గతాన్ని",
+   "దృష్టిని"
+  ],
+  "hook": "గతాన్ని చూస్తూ నడిస్తే ఏమవుతుంది?",
+  "mood": "new energy",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a stack of well-worn books by a window under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "సరైన రోజు",
+  "screen": "కొత్త ప్రారంభానికి సరైన రోజు అంటూ ఏమీ లేదు, నువ్వు నిర్ణయించుకున్న రోజే అది సరైన రోజు అవుతుంది.",
+  "highlightWords": [
+   "ప్రారంభానికి",
+   "నిర్ణయించుకున్న"
+  ],
+  "hook": "నీ కొత్త ప్రారంభానికి ఏ రోజును ఎంచుకున్నావు?",
+  "mood": "gentle renewal",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a person tying shoes at a trailhead under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "రెండో అవకాశం",
+  "screen": "ఒకసారి విఫలమైనంత మాత్రాన నీకు రెండో అవకాశం లేదని ఎవరూ చెప్పలేరు, ఎందుకంటే నువ్వు ప్రయత్నించే ప్రతిరోజూ ఒక కొత్త అవకాశమే.",
+  "highlightWords": [
+   "విఫలమైనంత",
+   "అవకాశమే"
+  ],
+  "hook": "ఒకసారి ఓడినంత మాత్రాన అవకాశం పోతుందా?",
+  "mood": "fresh start",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a bird perched on a branch facing the horizon under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "చిన్న మార్పు",
+  "screen": "పాత దారిలో కొత్త ఫలితం రాదు, అందుకే ఏదైనా మార్చాలనుకుంటే నీ రోజువారీ దారిలో ఒక్క చిన్న మార్పుతో మొదలుపెట్టు.",
+  "highlightWords": [
+   "ఫలితం",
+   "మార్పుతో"
+  ],
+  "hook": "నీ రోజువారీ దారిలో ఏ చిన్న మార్పు చేయగలవు?",
+  "mood": "hopeful dawn",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a sailboat on still water under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "మొదటి వాక్యం",
+  "screen": "పుస్తకం ఎంత పెద్దదైనా అది మొదటి వాక్యంతోనే మొదలవుతుంది, కాబట్టి నీ కల పెద్దదైనా ఈరోజు ఒక్క వాక్యం రాయడంతో మొదలుపెట్టు.",
+  "highlightWords": [
+   "పుస్తకం",
+   "వాక్యంతోనే"
+  ],
+  "hook": "నీ కల పుస్తకంలో మొదటి వాక్యం ఏంటి?",
+  "mood": "new energy",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a rooftop terrace overlooking a sleeping town under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "వీడ్కోలు చెప్పు",
+  "screen": "నిన్ను ఎదగనివ్వని బంధాలకు, అలవాట్లకు మర్యాదగా వీడ్కోలు చెప్పడం కూడా ఒక కొత్త ప్రారంభమే.",
+  "highlightWords": [
+   "బంధాలకు",
+   "వీడ్కోలు"
+  ],
+  "hook": "ఏ విషయానికి నువ్వు వీడ్కోలు చెప్పాలి?",
+  "mood": "gentle renewal",
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a long empty train platform under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "కోపం చల్లారాక",
+  "screen": "కోపంలో తీసుకున్న నిర్ణయాలకు చాలామంది తర్వాత పశ్చాత్తాపపడతారు, కాబట్టి మనసు చల్లారిన తర్వాతే ముఖ్యమైన మాటలు మాట్లాడు.",
+  "highlightWords": [
+   "కోపంలో",
+   "పశ్చాత్తాపపడతారు"
+  ],
+  "hook": "కోపంలో తీసుకున్న నిర్ణయానికి నువ్వు ఎప్పుడైనా బాధపడ్డావా?",
+  "mood": "calm control",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a field of tall grass moving in wind under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "ఒక్కో పని",
+  "screen": "ఒకేసారి అన్ని పనులు చేయాలని ప్రయత్నిస్తే ఏదీ సరిగ్గా జరగదు, ఒక్కో పనిని ప్రశాంతంగా పూర్తిచేస్తే మనసు కూడా తేలికవుతుంది.",
+  "highlightWords": [
+   "ఒకేసారి",
+   "తేలికవుతుంది"
+  ],
+  "hook": "ఒకేసారి అన్నీ చేయాలని ఎందుకు ప్రయత్నిస్తున్నావు?",
+  "mood": "gentle peace",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a pair of hands holding warm tea under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "ఐదు నిమిషాల నిశ్శబ్దం",
+  "screen": "ఉదయం లేవగానే ఫోన్ చూడకుండా ఐదు నిమిషాలు నిశ్శబ్దంగా కూర్చుంటే రోజంతా నీ మనసు ప్రశాంతంగా ఉంటుంది.",
+  "highlightWords": [
+   "నిశ్శబ్దంగా",
+   "ప్రశాంతంగా"
+  ],
+  "hook": "ఉదయం లేవగానే మొదట ఏం చూస్తావు?",
+  "mood": "slow steady",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a stone path through a bamboo grove under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "శ్వాస లెక్క",
+  "screen": "ఆందోళనగా ఉన్నప్పుడు నాలుగు సెకన్లు శ్వాస పీల్చి, నాలుగు సెకన్లు ఆపి, నెమ్మదిగా వదిలితే నీ మనసు వెంటనే తేలికపడుతుంది.",
+  "highlightWords": [
+   "శ్వాస",
+   "తేలికపడుతుంది"
+  ],
+  "hook": "ఆందోళనలో ఉన్నప్పుడు నీ శ్వాస ఎలా ఉంటుందో గమనించావా?",
+  "mood": "soft clarity",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a window with rain streaks and soft light under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "వదిలేయడం నేర్చుకో",
+  "screen": "నియంత్రించలేని విషయాలను వదిలేయడం నేర్చుకున్న రోజు నీ భారంలో సగం తగ్గిపోతుంది, మిగిలిన శక్తిని నువ్వు చేయగలిగిన పనులకు వాడగలవు.",
+  "highlightWords": [
+   "నియంత్రించలేని",
+   "శక్తిని"
+  ],
+  "hook": "నీకు నియంత్రించలేని విషయాలు ఏవి?",
+  "mood": "calm control",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a lighthouse on a rocky coast under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "నీటి లక్షణం",
+  "screen": "నీరు ఏ పాత్రలో పడితే ఆ ఆకారం తీసుకుంటుంది, అలాగే పరిస్థితికి తగ్గట్టు నిన్ను నువ్వు మలుచుకునేవాళ్లు ఎప్పుడూ విరిగిపోరు.",
+  "highlightWords": [
+   "నీరు",
+   "విరిగిపోరు"
+  ],
+  "hook": "నీరు ఎందుకు ఎప్పుడూ విరిగిపోదో ఆలోచించావా?",
+  "mood": "gentle peace",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a farmer walking through a green paddy field under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "కోపం వెనుక బాధ",
+  "screen": "ఎవరైనా నీపై కోపంగా మాట్లాడితే అది వాళ్ల లోపలి బాధ కావచ్చు, కాబట్టి వెంటనే కోపంగా బదులివ్వకుండా ఒక్క క్షణం ఆగి ఆలోచించు.",
+  "highlightWords": [
+   "కోపంగా",
+   "బాధ"
+  ],
+  "hook": "నీపై కోపంగా మాట్లాడినవాళ్ల వెనుక ఏ బాధ ఉందో ఆలోచించావా?",
+  "mood": "slow steady",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a lone tree on an open plain under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "తేలికైన మనసు",
+  "screen": "ప్రతి చిన్న విషయాన్ని మనసులో పెట్టుకుంటే రోజురోజుకూ బరువు పెరుగుతుంది, అందుకే క్షమించడం, మరచిపోవడం కూడా నేర్చుకోవాలి.",
+  "highlightWords": [
+   "బరువు",
+   "క్షమించడం"
+  ],
+  "hook": "నీ మనసులో ఏ చిన్న విషయం ఇంకా బరువుగా ఉంది?",
+  "mood": "soft clarity",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a staircase leading up into bright light under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "ఆకాశం కింద",
+  "screen": "రోజులో కొద్దిసేపు చెట్ల మధ్య లేదా ఆకాశం కింద గడిపితే నీ మనసు తనంతట తానే శాంతిస్తుంది, ప్రకృతికి ఆ శక్తి ఉంది.",
+  "highlightWords": [
+   "ఆకాశం",
+   "శాంతిస్తుంది"
+  ],
+  "hook": "చివరిసారి నువ్వు ఆకాశాన్ని ఎప్పుడు చూశావు?",
+  "mood": "calm control",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a quiet temple courtyard with fallen leaves under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "సమస్యకు మూల",
+  "screen": "సమస్య వచ్చినప్పుడు దాన్ని నీ మనసంతా ఆక్రమించనివ్వకు, దానికి ఒక చిన్న మూల ఇచ్చి మిగతా చోట్ల నీ జీవితాన్ని కొనసాగించు.",
+  "highlightWords": [
+   "సమస్య",
+   "మూల"
+  ],
+  "hook": "సమస్యకు నీ మనసులో ఎంత స్థలం ఇస్తున్నావు?",
+  "mood": "gentle peace",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a bicycle leaning against a sunlit wall under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "కాగితంపై రాయి",
+  "screen": "ఆలోచనలు ఒకదాని తర్వాత ఒకటి వరదలా వస్తున్నప్పుడు వాటిని ఒక కాగితంపై రాసేయి, రాసిన క్షణమే మనసు తేలికపడుతుంది.",
+  "highlightWords": [
+   "ఆలోచనలు",
+   "కాగితంపై"
+  ],
+  "hook": "మనసు నిండా ఆలోచనలు ఉన్నప్పుడు వాటిని ఏం చేస్తావు?",
+  "mood": "slow steady",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a mountain ridge above the clouds under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "నెమ్మదైన రోజు",
+  "screen": "ప్రతిరోజూ గొప్పగా ఉండాల్సిన అవసరం లేదు, కొన్ని రోజులు నెమ్మదిగా గడిపినా అది కూడా నీ ప్రయాణంలో ఒక భాగమే, కాబట్టి నీపై ఒత్తిడి తగ్గించుకో.",
+  "highlightWords": [
+   "నెమ్మదిగా",
+   "ఒత్తిడి"
+  ],
+  "hook": "ప్రతిరోజూ గొప్పగా ఉండాలని నీపై నువ్వు ఎందుకు ఒత్తిడి పెట్టుకుంటున్నావు?",
+  "mood": "soft clarity",
+  "topLabel": "STAY CALM 🍃",
+  "image": "a clay pot beside a flowering plant under a calm overcast sky, cinematic vertical photography"
+ },
+ {
+  "title": "ఇరవై నిమిషాలు",
+  "screen": "రోజుకు ఇరవై నిమిషాలు ఒక కొత్త నైపుణ్యానికి కేటాయిస్తే ఆరు నెలల్లో నువ్వు ఒక కొత్త మనిషిగా మారిపోతావు.",
+  "highlightWords": [
+   "నైపుణ్యానికి",
+   "నెలల్లో"
+  ],
+  "hook": "రోజుకు ఇరవై నిమిషాలతో నువ్వు ఏ నైపుణ్యం నేర్చుకోగలవు?",
+  "mood": "daily growth",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a lone walker on a quiet hill road in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "తప్పులే పాఠాలు",
+  "screen": "తప్పులు చేయడానికి భయపడేవాళ్లు ఎప్పటికీ ముందుకు వెళ్లలేరు, ఎందుకంటే ప్రతి తప్పూ ఎలా చేయకూడదో నేర్పే ఒక ఉచిత పాఠం.",
+  "highlightWords": [
+   "తప్పులు",
+   "పాఠం"
+  ],
+  "hook": "నీ చివరి తప్పు నీకు ఏం నేర్పింది?",
+  "mood": "curious learning",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "an open notebook beside a steaming cup in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "తెలిసినవాళ్ల మధ్య",
+  "screen": "నీకంటే ఎక్కువ తెలిసినవాళ్ల మధ్య ఉండటానికి భయపడకు, ఎందుకంటే అక్కడే నీ ఎదుగుదల వేగం రెట్టింపు అవుతుంది.",
+  "highlightWords": [
+   "తెలిసినవాళ్ల",
+   "ఎదుగుదల"
+  ],
+  "hook": "నీకంటే తెలివైనవాళ్ల మధ్య ఉండటానికి నువ్వు భయపడతావా?",
+  "mood": "steady progress",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a small sapling in wet soil in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "చదివి చూడు",
+  "screen": "ఒక మంచి పుస్తకం చదివితే ఒకరి జీవితకాల అనుభవాన్ని కొన్ని గంటల్లో నేర్చుకునే అవకాశం దొరుకుతుంది, ఇంత తక్కువ ఖర్చుతో ఇంతటి జ్ఞానం మరెక్కడా రాదు.",
+  "highlightWords": [
+   "పుస్తకం",
+   "అనుభవాన్ని"
+  ],
+  "hook": "ఈ నెలలో ఏ పుస్తకం చదివావు?",
+  "mood": "humble drive",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a lit oil lamp on a wooden table in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "లోపలి పెట్టుబడి",
+  "screen": "ప్రతిఫలం వెంటనే రాకపోయినా నేర్చుకునే ప్రతి కొత్త విషయం నీ లోపల పెట్టుబడిగా మారుతుంది, ఆ పెట్టుబడిని ఎవరూ దొంగిలించలేరు.",
+  "highlightWords": [
+   "ప్రతిఫలం",
+   "పెట్టుబడిగా"
+  ],
+  "hook": "ఎవరూ దొంగిలించలేని పెట్టుబడి ఏదో తెలుసా?",
+  "mood": "daily growth",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a calm river bend between green banks in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "చెప్పి నేర్చుకో",
+  "screen": "నువ్వు నేర్చుకున్నది ఇతరులకు చెప్పడం ద్వారా నీ జ్ఞానం ఇంకా స్థిరపడుతుంది, అందుకే నేర్చుకున్న ప్రతిదాన్ని ఒకరికి వివరించడానికి ప్రయత్నించు.",
+  "highlightWords": [
+   "జ్ఞానం",
+   "వివరించడానికి"
+  ],
+  "hook": "నువ్వు నేర్చుకున్నది ఇతరులకు చెప్పగలవా?",
+  "mood": "curious learning",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "an old wooden bridge over a mist-filled valley in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "అడిగే ధైర్యం",
+  "screen": "తెలియనిది అడిగి తెలుసుకునేవాళ్లు కొన్ని నిమిషాలు మాత్రమే అజ్ఞానంగా కనిపిస్తారు, కానీ అడగనివాళ్లు జీవితాంతం అజ్ఞానంలోనే ఉండిపోతారు.",
+  "highlightWords": [
+   "అడిగి",
+   "అజ్ఞానంలోనే"
+  ],
+  "hook": "తెలియనిది అడగడానికి నువ్వు ఎందుకు సంకోచిస్తావు?",
+  "mood": "steady progress",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a stack of well-worn books by a window in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ఎదురుదెబ్బ పాఠం",
+  "screen": "ఎదురుదెబ్బలు తగిలినప్పుడు నీ తప్పేంటో కాకుండా ఈ అనుభవం నీకు ఏం నేర్పుతుందో అడిగితే నీ ఎదుగుదల వేగంగా మొదలవుతుంది.",
+  "highlightWords": [
+   "ఎదురుదెబ్బలు",
+   "ఎదుగుదల"
+  ],
+  "hook": "ఎదురుదెబ్బ తగిలినప్పుడు నువ్వు ఏ ప్రశ్న అడుగుతావు?",
+  "mood": "humble drive",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a person tying shoes at a trailhead in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ఒక్క శాతం మెరుగు",
+  "screen": "నిన్నటికన్నా ఈరోజు కేవలం ఒక్క శాతం మెరుగైనా కూడా, నెలాఖరుకు నువ్వు గుర్తుపట్టలేనంత దూరం వెళ్లిపోతావు.",
+  "highlightWords": [
+   "శాతం",
+   "నెలాఖరుకు"
+  ],
+  "hook": "ఈరోజు నిన్నటికన్నా ఒక్క శాతం ఎలా మెరుగవుతావు?",
+  "mood": "daily growth",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a bird perched on a branch facing the horizon in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ఆసక్తికి వయసు లేదు",
+  "screen": "ఏదైనా నేర్చుకోవాలనే ఆసక్తి ఉన్నవాళ్లకు వయసు ఒక అడ్డంకి కాదు, ఎందుకంటే నేర్చుకోవడం ఆపిన రోజునే నిజమైన వృద్ధాప్యం మొదలవుతుంది.",
+  "highlightWords": [
+   "ఆసక్తి",
+   "వయసు"
+  ],
+  "hook": "ఈ వయసులో కొత్తది నేర్చుకోవడం సాధ్యమేనా?",
+  "mood": "curious learning",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a sailboat on still water in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ఓడినా నేర్చుకో",
+  "screen": "ప్రతి పోటీలో గెలవకపోయినా పర్వాలేదు, ప్రతి పోటీ నుంచి ఏదో ఒకటి నేర్చుకుంటే నువ్వు చివరికి గెలిచినవాళ్లకంటే ముందుంటావు.",
+  "highlightWords": [
+   "పోటీలో",
+   "నేర్చుకుంటే"
+  ],
+  "hook": "ఓడిపోయిన పోటీ నుంచి నువ్వు ఏం నేర్చుకున్నావు?",
+  "mood": "steady progress",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a rooftop terrace overlooking a sleeping town in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "వారం లెక్క",
+  "screen": "ప్రతి ఆదివారం గత వారంలో నేర్చుకున్న ఒక విషయాన్ని, చేసిన ఒక తప్పును రాసుకునే అలవాటు నిన్ను నెమ్మదిగా అయినా నమ్మకంగా ఎదిగిస్తుంది.",
+  "highlightWords": [
+   "ఆదివారం",
+   "అలవాటు"
+  ],
+  "hook": "గత వారం నువ్వు నేర్చుకున్న ఒక్క విషయం ఏంటి?",
+  "mood": "humble drive",
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a long empty train platform in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "సగం సిద్ధంగా",
+  "screen": "పరిపూర్ణంగా సిద్ధమయ్యే వరకు ఎదురుచూస్తే మొదలుపెట్టే అవకాశమే రాదు, కాబట్టి సగం సిద్ధంగా ఉన్నా ధైర్యంగా మొదలుపెట్టి దారిలో నేర్చుకో.",
+  "highlightWords": [
+   "పరిపూర్ణంగా",
+   "మొదలుపెట్టి"
+  ],
+  "hook": "సిద్ధమయ్యే వరకు ఎదురుచూస్తే ఎప్పటికైనా మొదలుపెడతావా?",
+  "mood": "bold courage",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a field of tall grass moving in wind in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "తెలియని దారి",
+  "screen": "అందరూ వెళ్లే దారిలో భయం ఉండదు కానీ కొత్తదనమూ ఉండదు, నీ కలను నిజం చేయాలంటే ఒక్కసారైనా తెలియని దారిలో అడుగు పెట్టాలి.",
+  "highlightWords": [
+   "కొత్తదనమూ",
+   "తెలియని"
+  ],
+  "hook": "నువ్వు చివరిసారిగా తెలియని దారిలో ఎప్పుడు నడిచావు?",
+  "mood": "firm resolve",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a pair of hands holding warm tea in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "నిజం చెప్పే ధైర్యం",
+  "screen": "నిజం చెప్పడానికి ధైర్యం కావాలి, కానీ అబద్ధాన్ని కాపాడుకోవడానికి ప్రతిరోజూ అంతకంటే ఎక్కువ శక్తి కావాలి.",
+  "highlightWords": [
+   "నిజం",
+   "అబద్ధాన్ని"
+  ],
+  "hook": "నిజం చెప్పడం కష్టమా లేక అబద్ధాన్ని మోయడమా?",
+  "mood": "brave heart",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a stone path through a bamboo grove in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "మౌనం వద్దు",
+  "screen": "నీకు అన్యాయం జరిగినప్పుడు మౌనంగా ఉండిపోతే అది ఇంకా పెరుగుతుంది, అందుకే మర్యాదగా అయినా దృఢంగా నీ మాట చెప్పు.",
+  "highlightWords": [
+   "అన్యాయం",
+   "దృఢంగా"
+  ],
+  "hook": "అన్యాయం జరిగినప్పుడు నువ్వు మౌనంగా ఉంటావా?",
+  "mood": "fearless honesty",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a window with rain streaks and soft light in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ప్రయత్నించని ఓటమి",
+  "screen": "ఓడిపోతానేమోనని ప్రయత్నమే చేయకపోవడం ఓడిపోవడం కన్నా పెద్ద ఓటమి, ఎందుకంటే ప్రయత్నిస్తే కనీసం ఒక పాఠమైనా దొరుకుతుంది.",
+  "highlightWords": [
+   "ప్రయత్నమే",
+   "పాఠమైనా"
+  ],
+  "hook": "ప్రయత్నించకుండా ఉండటం కన్నా ఓడిపోవడం మేలు కాదా?",
+  "mood": "bold courage",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a lighthouse on a rocky coast in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ఒంటరిగా నిలబడు",
+  "screen": "నువ్వు ఏకాకిగా నిలబడాల్సి వచ్చినా సరైనదాని కోసం నిలబడు, ఎందుకంటే సత్యానికి సంఖ్యతో పనిలేదు, కాలం గడిచేకొద్దీ మిగతావాళ్లు నీ వెనక వస్తారు.",
+  "highlightWords": [
+   "ఏకాకిగా",
+   "సత్యానికి"
+  ],
+  "hook": "ఒంటరిగా నిలబడాల్సి వస్తే నువ్వు నిలబడతావా?",
+  "mood": "firm resolve",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a farmer walking through a green paddy field in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "పెద్ద కలల ధైర్యం",
+  "screen": "చిన్న కలలు కనడం సురక్షితంగా అనిపించవచ్చు, కానీ పెద్ద కలలు కనే ధైర్యం ఉన్నవాళ్లే ఇతరుల జీవితాలను కూడా మార్చగలుగుతారు.",
+  "highlightWords": [
+   "కలలు",
+   "ధైర్యం"
+  ],
+  "hook": "నీ కల ఎంత పెద్దదో ఎవరికైనా చెప్పావా?",
+  "mood": "brave heart",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a lone tree on an open plain in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "సౌకర్యం దాటి",
+  "screen": "సౌకర్యంగా ఉండే ప్రదేశం నుంచి బయటికి వచ్చిన రోజే నీ నిజమైన సామర్థ్యం నీకు తెలుస్తుంది, ఎందుకంటే అక్కడ నిన్ను నువ్వే ఆశ్చర్యపరుస్తావు.",
+  "highlightWords": [
+   "సౌకర్యంగా",
+   "సామర్థ్యం"
+  ],
+  "hook": "నీ సౌకర్యపు పరిధి దాటి చివరిసారిగా ఎప్పుడు వెళ్లావు?",
+  "mood": "fearless honesty",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a staircase leading up into bright light in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "విమర్శ గుర్తు",
+  "screen": "ఎవరూ విమర్శించని పని చేస్తున్నావంటే నువ్వు ఏమీ కొత్తగా చేయడం లేదని అర్థం, కాబట్టి విమర్శలను ఎదుగుదలకు గుర్తుగా తీసుకో.",
+  "highlightWords": [
+   "విమర్శించని",
+   "గుర్తుగా"
+  ],
+  "hook": "ఎవరూ విమర్శించని పని నిజంగా కొత్తదేనా?",
+  "mood": "bold courage",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a quiet temple courtyard with fallen leaves in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ఇచ్చిన మాట",
+  "screen": "ఇచ్చిన మాటను నిలబెట్టుకోవడానికి కష్టపడేవాళ్లే నిజమైన ధైర్యవంతులు, ఎందుకంటే వాగ్దానం చేయడం సులభం కానీ ఆచరించడం కష్టం.",
+  "highlightWords": [
+   "నిలబెట్టుకోవడానికి",
+   "వాగ్దానం"
+  ],
+  "hook": "నువ్వు నీకు ఇచ్చిన మాటను నిలబెట్టుకున్నావా?",
+  "mood": "firm resolve",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a bicycle leaning against a sunlit wall in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "తప్పుకునే ధైర్యం",
+  "screen": "నీకు హాని చేసే బంధం నుంచి లేదా పని నుంచి బయటకు రావడం కూడా ఒక ధైర్యమే, అది ఓటమి కాదు నీ గౌరవాన్ని కాపాడుకోవడం.",
+  "highlightWords": [
+   "బంధం",
+   "గౌరవాన్ని"
+  ],
+  "hook": "వదిలేయడం ధైర్యమా లేక ఓటమా?",
+  "mood": "brave heart",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a mountain ridge above the clouds in gentle evening twilight, cinematic vertical photography"
+ },
+ {
+  "title": "ఇంకొక్క అడుగు",
+  "screen": "గమ్యానికి చేరువలో ఉన్నప్పుడే చాలామంది ఆగిపోతారు, అందుకే నీ శక్తి అయిపోయినట్టు అనిపించినప్పుడు ఇంకొక్క అడుగు వేయడమే నిన్ను గెలిపిస్తుంది.",
+  "highlightWords": [
+   "గమ్యానికి",
+   "అడుగు"
+  ],
+  "hook": "చివరి అడుగు వేసే ముందు ఎందుకు ఆగిపోతారో తెలుసా?",
+  "mood": "fearless honesty",
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a clay pot beside a flowering plant in gentle evening twilight, cinematic vertical photography"
  }
 ]
