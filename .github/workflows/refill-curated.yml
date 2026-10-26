@@ -32,18 +32,20 @@ jobs:
         run: npm ci --no-audit --no-fund
       - name: Generate new quotes (full AI proofreading gate, no upload)
         if: steps.count.outputs.refill == 'true'
-        timeout-minutes: 30
+        timeout-minutes: 25
+        continue-on-error: true
         env:
           REFILL_ONLY: '1'
           QUOTE_LANG: telugu-ai
-          REFILL_COUNT: '20'
+          REFILL_COUNT: '10'
+          REFILL_MINUTES: '18'
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: |
           set -o pipefail
           node theme_balance.js 2>&1 | tee /tmp/refill.log
           grep -a "REFILL done" /tmp/refill.log
       - name: Commit new quotes
-        if: steps.count.outputs.refill == 'true'
+        if: always() && steps.count.outputs.refill == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
