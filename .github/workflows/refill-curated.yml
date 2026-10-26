@@ -1,0 +1,53 @@
+name: Refill curated quotes
+on:
+  schedule:
+    - cron: '20 3 * * 1'   # weekly, Monday
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Refill even if plenty remain'
+        default: 'false'
+permissions:
+  contents: write
+concurrency:
+  group: wisdom-quote-short
+  cancel-in-progress: false
+jobs:
+  refill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Count unused curated
+        id: count
+        env:
+          FORCE: ${{ github.event.inputs.force }}
+        run: node tools/curated_count.js
+      - name: Install dependencies
+        if: steps.count.outputs.refill == 'true'
+        run: npm ci --no-audit --no-fund
+      - name: Generate new quotes (full AI proofreading gate, no upload)
+        if: steps.count.outputs.refill == 'true'
+        timeout-minutes: 30
+        env:
+          REFILL_ONLY: '1'
+          QUOTE_LANG: telugu-ai
+          REFILL_COUNT: '20'
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: |
+          set -o pipefail
+          node theme_balance.js 2>&1 | tee /tmp/refill.log
+          grep -a "REFILL done" /tmp/refill.log
+      - name: Commit new quotes
+        if: steps.count.outputs.refill == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add curated_quotes.json
+          git diff --staged --quiet || git commit -m "Auto-refill curated quotes [skip ci]"
+          git pull --rebase origin main
+          git push
