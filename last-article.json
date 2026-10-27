@@ -1,7 +1,7 @@
 {
-  "runCount": 225,
-  "lastTitle": "ఉచితం కాదు",
-  "lastDate": "2026-10-27T12:33:59.339Z",
+  "runCount": 226,
+  "lastTitle": "ఆచరణలో పాఠం",
+  "lastDate": "2026-10-27T16:02:56.400Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1359,10 +1359,17 @@
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "నీకు కావాల్సినది ఎవరైనా ఇస్తారని ఎదురుచూస్తున్నావా?",
       "concept": null
+    },
+    {
+      "title": "ఆచరణలో పాఠం",
+      "screen": "నేర్చుకున్న పాఠాన్ని ఆచరణలో పెట్టనంత వరకు అది కేవలం తెలిసిన విషయమే, ఆచరించినప్పుడే అది నీ జీవితాన్ని నిజంగా మారుస్తుంది.",
+      "image": "an open book on a wooden table beside a pair of walking shoes, soft golden light, cinematic vertical photography",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "నువ్వు నేర్చుకున్న చివరి పాఠాన్ని ఎప్పుడైనా ఆచరించావా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "37116290",
     "18984252",
     "35781722",
     "31766502",
@@ -1401,10 +1408,10 @@
     "40342455",
     "39496241",
     "32349013",
-    "35729574"
+    "35729574",
+    "33558569"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
@@ -1443,7 +1450,8 @@
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "BE BRAVE 🦁",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
