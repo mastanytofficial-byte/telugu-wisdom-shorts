@@ -1,7 +1,7 @@
 {
-  "runCount": 223,
-  "lastTitle": "నిశ్చింత నిద్ర",
-  "lastDate": "2026-10-26T15:09:22.107Z",
+  "runCount": 224,
+  "lastTitle": "సౌకర్యం దాటి",
+  "lastDate": "2026-10-27T07:11:34.808Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1343,10 +1343,17 @@
       "topLabel": "TRUE WORDS ⏳",
       "hook": "రాత్రి నీ నిద్ర నీ పగటి పనుల గురించి ఏం చెబుతుంది?",
       "concept": null
+    },
+    {
+      "title": "సౌకర్యం దాటి",
+      "screen": "సౌకర్యంగా ఉండే ప్రదేశం నుంచి బయటికి వచ్చిన రోజే నీ నిజమైన సామర్థ్యం నీకు తెలుస్తుంది, ఎందుకంటే అక్కడ నిన్ను నువ్వే ఆశ్చర్యపరుస్తావు.",
+      "image": "a staircase leading up into bright light in gentle evening twilight, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "నీ సౌకర్యపు పరిధి దాటి చివరిసారిగా ఎప్పుడు వెళ్లావు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "4684391",
     "35583884",
     "37116290",
     "18984252",
@@ -1385,10 +1392,10 @@
     "29567291",
     "36685712",
     "40342455",
-    "39496241"
+    "39496241",
+    "32349013"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
@@ -1427,7 +1434,8 @@
     "REALITY OF LIFE 💯",
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
