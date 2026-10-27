@@ -1,7 +1,7 @@
 {
-  "runCount": 224,
-  "lastTitle": "సౌకర్యం దాటి",
-  "lastDate": "2026-10-27T07:11:34.808Z",
+  "runCount": 225,
+  "lastTitle": "ఉచితం కాదు",
+  "lastDate": "2026-10-27T12:33:59.339Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1351,10 +1351,17 @@
       "topLabel": "BE BRAVE 🦁",
       "hook": "నీ సౌకర్యపు పరిధి దాటి చివరిసారిగా ఎప్పుడు వెళ్లావు?",
       "concept": null
+    },
+    {
+      "title": "ఉచితం కాదు",
+      "screen": "ఎవరూ నీకు ఏదీ ఉచితంగా ఇవ్వరు, నీకు కావాల్సిన దాని కోసం నువ్వే కష్టపడాలి, ఈ నిజాన్ని ఎంత త్వరగా ఒప్పుకుంటే అంత త్వరగా ఎదుగుతావు.",
+      "image": "a lone walker on a quiet hill road at warm sunset glow, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "నీకు కావాల్సినది ఎవరైనా ఇస్తారని ఎదురుచూస్తున్నావా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35583884",
     "37116290",
     "18984252",
     "35781722",
@@ -1393,10 +1400,10 @@
     "36685712",
     "40342455",
     "39496241",
-    "32349013"
+    "32349013",
+    "35729574"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
@@ -1435,7 +1442,8 @@
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
