@@ -10,6 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install and try voices
+        env:
+          SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
         run: |
           pip install --break-system-packages -U edge-tts gTTS 2>&1 | tail -1
           pip show edge-tts | head -2
@@ -18,6 +20,19 @@ jobs:
           for v in te-IN-MohanNeural te-IN-ShrutiNeural; do
             echo "== $v"; python3 -m edge_tts --voice $v --text "$T" --write-media out/$v.mp3 2>&1 | tail -12 || true
           done
+          if [ -n "$SARVAM_API_KEY" ]; then
+            for sp in kavitha_te_narration tarun_te_narration pooja_te_conversation kavitha_te_conversation; do
+              echo "== sarvam $sp"
+              python3 - "$T" "$sp" <<'PY' || true
+import sys,json,base64,urllib.request,os
+req=urllib.request.Request('https://api.sarvam.ai/text-to-speech',data=json.dumps({'text':sys.argv[1],'language_code':'te-IN','model':'bulbul:v4-flash','speaker':sys.argv[2],'pace':1.0,'speech_sample_rate':24000,'output_audio_codec':'wav'}).encode(),headers={'Content-Type':'application/json','api-subscription-key':os.environ['SARVAM_API_KEY']})
+try:
+    r=json.loads(urllib.request.urlopen(req,timeout=60).read());open('out/sarvam_'+sys.argv[2]+'.wav','wb').write(base64.b64decode(r['audios'][0]));print('ok')
+except Exception as e:
+    print('ERR',e, getattr(e,'read',lambda:b'')()[:300])
+PY
+            done
+          fi
           python3 -c "from gtts import gTTS;import sys;gTTS(sys.argv[1],lang='te').save('out/gtts.mp3')" "$T" || true
           ls -la out
       - name: Publish samples

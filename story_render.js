@@ -8,7 +8,10 @@ function dur(file){return parseFloat(execFileSync('ffprobe',['-v','error','-show
 
 function synthOne(engine,text,out,log){
   try{
-    if(engine.startsWith('edge:')){
+    if(engine.startsWith('sarvam:')){
+      const py="import sys,json,base64,urllib.request\nreq=urllib.request.Request('https://api.sarvam.ai/text-to-speech',data=json.dumps({'text':sys.argv[1],'language_code':'te-IN','model':sys.argv[4],'speaker':sys.argv[3],'pace':1.0,'speech_sample_rate':24000,'output_audio_codec':'wav'}).encode(),headers={'Content-Type':'application/json','api-subscription-key':sys.argv[5]})\nr=json.loads(urllib.request.urlopen(req,timeout=60).read())\nopen(sys.argv[2],'wb').write(base64.b64decode(r['audios'][0]))";
+      execFileSync('python3',['-c',py,text,out,engine.slice(7),process.env.SARVAM_MODEL||'bulbul:v4-flash',process.env.SARVAM_API_KEY],{stdio:'pipe',timeout:90000});
+    }else if(engine.startsWith('edge:')){
       execFileSync('python3',['-m','edge_tts','--voice',engine.slice(5),'--rate=+4%','--text',text,'--write-media',out],{stdio:'pipe',timeout:90000});
     }else{
       execFileSync('python3',['-c','import sys;from gtts import gTTS;gTTS(sys.argv[1],lang="te").save(sys.argv[2])',text,out],{stdio:'pipe',timeout:90000});
@@ -20,7 +23,7 @@ function synthOne(engine,text,out,log){
 function synthAll(texts,dir,log,engines){
   for(const engine of engines){
     const files=[];let ok=true;
-    for(let i=0;i<texts.length;i++){const f=path.join(dir,`beat${i}_${engine}.mp3`);if(!synthOne(engine,texts[i],f,log)){ok=false;break}files.push(f)}
+    for(let i=0;i<texts.length;i++){const f=path.join(dir,`beat${i}_${engine.replace(/[^a-zA-Z0-9]/g,'_')}.mp3`);if(!synthOne(engine,texts[i],f,log)){ok=false;break}files.push(f)}
     if(ok){log(`VOICE engine: ${engine} (${files.length} beats)`);return {engine,files}}
   }
   log('VOICE: no TTS engine worked, falling back to text-only paced video');return null;
@@ -28,7 +31,7 @@ function synthAll(texts,dir,log,engines){
 
 async function renderStory({bg,bgIsVideo,q,top,deps}){
   const {puppeteer,CHROME_PATH,FRAMES_DIR,WORK_DIR,pageHtml,pickBgm,log,escapeHtml}=deps;
-  const engines=deps.engines||[...(process.env.STORY_VOICE?['edge:'+process.env.STORY_VOICE]:[]),'edge:te-IN-ShrutiNeural','edge:te-IN-MohanNeural','gtts'];
+  const engines=deps.engines||[...(process.env.SARVAM_API_KEY?['sarvam:'+(process.env.SARVAM_SPEAKER||'kavitha_te_narration')]:[]),...(process.env.STORY_VOICE?['edge:'+process.env.STORY_VOICE]:[]),'edge:te-IN-ShrutiNeural','edge:te-IN-MohanNeural','gtts'];
   fs.mkdirSync(FRAMES_DIR,{recursive:true});
   const beats=[q.hook,...q.story];
   const voice=synthAll(beats,WORK_DIR,log,engines);
