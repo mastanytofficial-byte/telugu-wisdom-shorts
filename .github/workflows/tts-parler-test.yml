@@ -19,7 +19,8 @@ jobs:
         continue-on-error: true
         run: |
           mkdir -p out
-          python3 tools/parler_test.py 2>&1 | tail -25
+          python3 tools/parler_test.py > out/log.txt 2>&1 || true
+          pip list 2>/dev/null | grep -i -E 'torch|transformers|parler|soundfile' >> out/log.txt
           ls -la out
       - name: Publish samples
         if: always()
