@@ -1,7 +1,7 @@
 {
-  "runCount": 227,
-  "lastTitle": "ఓడినా నేర్చుకో",
-  "lastDate": "2026-10-28T07:50:39.970Z",
+  "runCount": 228,
+  "lastTitle": "ఒక్కో పని",
+  "lastDate": "2026-10-28T13:22:03.583Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1375,10 +1375,17 @@
       "topLabel": "KEEP GROWING 🌱",
       "hook": "ఓడిపోయిన పోటీ నుంచి నువ్వు ఏం నేర్చుకున్నావు?",
       "concept": null
+    },
+    {
+      "title": "ఒక్కో పని",
+      "screen": "ఒకేసారి అన్ని పనులు చేయాలని ప్రయత్నిస్తే ఏదీ సరిగ్గా జరగదు, ఒక్కో పనిని ప్రశాంతంగా పూర్తిచేస్తే మనసు కూడా తేలికవుతుంది.",
+      "image": "a pair of hands holding warm tea under a calm overcast sky, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "ఒకేసారి అన్నీ చేయాలని ఎందుకు ప్రయత్నిస్తున్నావు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35781722",
     "31766502",
     "39054455",
     "9322612",
@@ -1417,10 +1424,10 @@
     "32349013",
     "35729574",
     "33558569",
-    "29611549"
+    "29611549",
+    "31260597"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
@@ -1459,7 +1466,8 @@
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
