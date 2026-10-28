@@ -14,6 +14,8 @@ jobs:
         run: |
           pip install --break-system-packages torch --index-url https://download.pytorch.org/whl/cpu 2>&1 | tail -1
           pip install --break-system-packages soundfile git+https://github.com/huggingface/parler-tts.git transformers 2>&1 | tail -2
+          TV=$(python3 -c "import torch;print(torch.__version__.split('+')[0])")
+          pip install --break-system-packages --no-deps --force-reinstall torchaudio==$TV --index-url https://download.pytorch.org/whl/cpu 2>&1 | tail -2
       - name: Generate samples
         timeout-minutes: 20
         continue-on-error: true
