@@ -1,7 +1,7 @@
 {
-  "runCount": 228,
-  "lastTitle": "ఒక్కో పని",
-  "lastDate": "2026-10-28T13:22:03.583Z",
+  "runCount": 229,
+  "lastTitle": "నిద్ర లేని రోజు",
+  "lastDate": "2026-10-28T18:32:52.231Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1383,10 +1383,17 @@
       "topLabel": "STAY CALM 🍃",
       "hook": "ఒకేసారి అన్నీ చేయాలని ఎందుకు ప్రయత్నిస్తున్నావు?",
       "concept": null
+    },
+    {
+      "title": "నిద్ర లేని రోజు",
+      "screen": "సరిగా నిద్రపోని రోజు చిన్న విషయాలకే కోపం, చిరాకు ఎక్కువగా వస్తాయి, ఎందుకంటే అలసిన మెదడు భావాలను అదుపు చేయలేదు, కాబట్టి ముందు నిద్ర తర్వాతే నిర్ణయాలు.",
+      "image": "a cyclist riding along a coastal road at golden hour, cinematic vertical photography",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "చిన్న విషయానికే కోపం ఎందుకు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "31766502",
     "39054455",
     "9322612",
     "16998437",
@@ -1425,10 +1432,10 @@
     "35729574",
     "33558569",
     "29611549",
-    "31260597"
+    "31260597",
+    "38359889"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "BE BRAVE 🦁",
     "MINDSET 🧠",
     "SILENT POWER 🤫",
@@ -1467,7 +1474,8 @@
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
