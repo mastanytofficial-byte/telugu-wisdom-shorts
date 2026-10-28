@@ -1,7 +1,7 @@
 {
-  "runCount": 226,
-  "lastTitle": "ఆచరణలో పాఠం",
-  "lastDate": "2026-10-27T16:02:56.400Z",
+  "runCount": 227,
+  "lastTitle": "ఓడినా నేర్చుకో",
+  "lastDate": "2026-10-28T07:50:39.970Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1367,10 +1367,17 @@
       "topLabel": "LIFE LESSON 💡",
       "hook": "నువ్వు నేర్చుకున్న చివరి పాఠాన్ని ఎప్పుడైనా ఆచరించావా?",
       "concept": null
+    },
+    {
+      "title": "ఓడినా నేర్చుకో",
+      "screen": "ప్రతి పోటీలో గెలవకపోయినా పర్వాలేదు, ప్రతి పోటీ నుంచి ఏదో ఒకటి నేర్చుకుంటే నువ్వు చివరికి గెలిచినవాళ్లకంటే ముందుంటావు.",
+      "image": "a rooftop terrace overlooking a sleeping town in gentle evening twilight, cinematic vertical photography",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "ఓడిపోయిన పోటీ నుంచి నువ్వు ఏం నేర్చుకున్నావు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "18984252",
     "35781722",
     "31766502",
     "39054455",
@@ -1409,10 +1416,10 @@
     "39496241",
     "32349013",
     "35729574",
-    "33558569"
+    "33558569",
+    "29611549"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "BE BRAVE 🦁",
@@ -1451,7 +1458,8 @@
     "TRUE WORDS ⏳",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
