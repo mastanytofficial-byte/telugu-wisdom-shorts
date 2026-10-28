@@ -87,6 +87,12 @@ jobs:
         run: |
           node --check wisdom_simple.js
           node --check theme_balance.js
+          node --check story_render.js
+
+      - name: Install Telugu TTS (story voiceover)
+        timeout-minutes: 3
+        continue-on-error: true
+        run: pip install --break-system-packages edge-tts gTTS || pip install edge-tts gTTS
 
       - name: Generate and upload (private, pending review)
         timeout-minutes: 25
