@@ -1,0 +1,28 @@
+name: TTS test (no upload)
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install and try voices
+        run: |
+          pip install --break-system-packages -U edge-tts gTTS 2>&1 | tail -1
+          pip show edge-tts | head -2
+          mkdir -p out
+          T="ఇద్దరు అన్నదమ్ములు ఒక చిన్న సైకిల్ దుకాణం నడుపుతూ, గాలిలో ఎగరాలని కలలు కన్నారు. వాళ్లకు పెద్ద చదువులు లేవు, డబ్బు లేదు, అందరూ నవ్వారు."
+          for v in te-IN-MohanNeural te-IN-ShrutiNeural; do
+            echo "== $v"; python3 -m edge_tts --voice $v --text "$T" --write-media out/$v.mp3 2>&1 | tail -12 || true
+          done
+          python3 -c "from gtts import gTTS;import sys;gTTS(sys.argv[1],lang='te').save('out/gtts.mp3')" "$T" || true
+          ls -la out
+      - name: Publish samples
+        if: always()
+        run: |
+          mkdir -p /tmp/r && cd /tmp/r && git init -q && git config user.name bot && git config user.email bot@users.noreply.github.com
+          git switch --orphan tts-test -q; cp -r $GITHUB_WORKSPACE/out/* . 2>/dev/null || true
+          git add -A && git commit -qm samples && git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" && git push -q -f origin tts-test
