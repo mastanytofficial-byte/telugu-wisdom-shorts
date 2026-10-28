@@ -8,8 +8,8 @@ function dur(file){return parseFloat(execFileSync('ffprobe',['-v','error','-show
 
 function synthOne(engine,text,out,log){
   try{
-    if(engine==='edge-tts'){
-      execFileSync('python3',['-m','edge_tts','--voice',process.env.STORY_VOICE||'te-IN-MohanNeural','--rate=+4%','--text',text,'--write-media',out],{stdio:'pipe',timeout:90000});
+    if(engine.startsWith('edge:')){
+      execFileSync('python3',['-m','edge_tts','--voice',engine.slice(5),'--rate=+4%','--text',text,'--write-media',out],{stdio:'pipe',timeout:90000});
     }else{
       execFileSync('python3',['-c','import sys;from gtts import gTTS;gTTS(sys.argv[1],lang="te").save(sys.argv[2])',text,out],{stdio:'pipe',timeout:90000});
     }
@@ -28,7 +28,7 @@ function synthAll(texts,dir,log,engines){
 
 async function renderStory({bg,bgIsVideo,q,top,deps}){
   const {puppeteer,CHROME_PATH,FRAMES_DIR,WORK_DIR,pageHtml,pickBgm,log,escapeHtml}=deps;
-  const engines=deps.engines||['edge-tts','gtts'];
+  const engines=deps.engines||[...(process.env.STORY_VOICE?['edge:'+process.env.STORY_VOICE]:[]),'edge:te-IN-ShrutiNeural','edge:te-IN-MohanNeural','gtts'];
   fs.mkdirSync(FRAMES_DIR,{recursive:true});
   const beats=[q.hook,...q.story];
   const voice=synthAll(beats,WORK_DIR,log,engines);
