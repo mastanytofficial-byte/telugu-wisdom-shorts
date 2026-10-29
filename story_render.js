@@ -20,22 +20,49 @@ function synthOne(engine,text,out,log){
   }catch(e){log(`${engine} failed: ${String((e.stderr&&e.stderr.toString())||e.message).slice(-300)}`);return false}
 }
 
+const ROLE={hook:{rate:'+0%',pitch:'+2Hz'},mid:{rate:'-8%',pitch:'-3Hz'},last:{rate:'-14%',pitch:'-6Hz'}};
+function wavOf(src,dst,padSec){execFileSync('ffmpeg',['-y','-i',src,'-ar','24000','-ac','1','-af',`apad=pad_dur=${padSec}`,dst],{stdio:'pipe'})}
+// Edge voices: synthesize clause by clause with role-specific rate/pitch and natural pauses.
+function synthBeatEdge(voice,text,role,dir,i,log){
+  const clauses=text.split(/(?<=[,.!?])\s+/).filter(Boolean),wavs=[],{rate,pitch}=ROLE[role];
+  for(let k=0;k<clauses.length;k++){
+    const c=clauses[k],mp3=path.join(dir,`b${i}_c${k}.mp3`),wav=path.join(dir,`b${i}_c${k}.wav`);
+    try{execFileSync('python3',['-m','edge_tts','--voice',voice,`--rate=${rate}`,`--pitch=${pitch}`,'--text',c,'--write-media',mp3],{stdio:'pipe',timeout:90000})}catch(e){log(`edge clause failed: ${String((e.stderr&&e.stderr.toString())||e.message).slice(-200)}`);return null}
+    if(!fs.existsSync(mp3)||fs.statSync(mp3).size<500)return null;
+    wavOf(mp3,wav,/[.!?]$/.test(c)?0.45:0.22);wavs.push(wav);
+  }
+  const list=path.join(dir,`b${i}_list.txt`);fs.writeFileSync(list,wavs.map(w=>`file '${w}'`).join('\n'));
+  const out=path.join(dir,`beat${i}_${voice}.wav`);
+  execFileSync('ffmpeg',['-y','-f','concat','-safe','0','-i',list,'-c','copy',out],{stdio:'pipe'});return out;
+}
 function synthAll(texts,dir,log,engines){
   for(const engine of engines){
     const files=[];let ok=true;
-    for(let i=0;i<texts.length;i++){const f=path.join(dir,`beat${i}_${engine.replace(/[^a-zA-Z0-9]/g,'_')}.mp3`);if(!synthOne(engine,texts[i],f,log)){ok=false;break}files.push(f)}
+    for(let i=0;i<texts.length;i++){const role=i===0?'hook':(i===texts.length-1?'last':'mid');if(engine.startsWith('edge:')){const f=synthBeatEdge(engine.slice(5),texts[i],role,dir,i,log);if(!f){ok=false;break}files.push(f);continue}const f=path.join(dir,`beat${i}_${engine.replace(/[^a-zA-Z0-9]/g,'_')}.mp3`);if(!synthOne(engine,texts[i],f,log)){ok=false;break}files.push(f)}
     if(ok){log(`VOICE engine: ${engine} (${files.length} beats)`);return {engine,files}}
   }
   log('VOICE: no TTS engine worked, falling back to text-only paced video');return null;
 }
 
+const POLISH='highpass=f=70,equalizer=f=180:t=h:w=200:g=3,equalizer=f=3500:t=q:w=1:g=-2,acompressor=threshold=-20dB:ratio=3:attack=5:release=80,loudnorm=I=-16:TP=-1.5,aecho=0.8:0.85:25:0.12';
+function buildVoice(beats,WORK_DIR,log,engines,tailSec){
+  const voice=synthAll(beats,WORK_DIR,log,engines);if(!voice)return null;
+  const wavs=[],durs=[];
+  voice.files.forEach((f,i)=>{const w=path.join(WORK_DIR,`pad${i}.wav`);execFileSync('ffmpeg',['-y','-i',f,'-af','apad=pad_dur=0.3','-ar','44100','-ac','2',w],{stdio:'pipe'});wavs.push(w);durs.push(dur(w))});
+  if(tailSec){const sil=path.join(WORK_DIR,'sil.wav');execFileSync('ffmpeg',['-y','-f','lavfi','-i','anullsrc=r=44100:cl=stereo','-t',String(tailSec),sil],{stdio:'pipe'});wavs.push(sil)}
+  const vl=path.join(WORK_DIR,'voice_list.txt');fs.writeFileSync(vl,wavs.map(w=>`file '${w}'`).join('\n'));
+  const raw=path.join(WORK_DIR,'voice_raw.wav');execFileSync('ffmpeg',['-y','-f','concat','-safe','0','-i',vl,'-c','copy',raw],{stdio:'pipe'});
+  const vo=path.join(WORK_DIR,'voice.wav');
+  try{execFileSync('ffmpeg',['-y','-i',raw,'-af',POLISH,'-ar','44100','-ac','2',vo],{stdio:'pipe'})}catch(e){log('polish failed, using raw voice');fs.copyFileSync(raw,vo)}
+  return {engine:voice.engine,durs,voicePath:vo};
+}
 async function renderStory({bg,bgIsVideo,q,top,deps}){
   const {puppeteer,CHROME_PATH,FRAMES_DIR,WORK_DIR,pageHtml,pickBgm,log,escapeHtml}=deps;
   const engines=deps.engines||[...(process.env.SARVAM_API_KEY?['sarvam:'+(process.env.SARVAM_SPEAKER||'kavitha_te_narration')]:[]),...(process.env.STORY_VOICE?['edge:'+process.env.STORY_VOICE]:[]),'edge:te-IN-ShrutiNeural','edge:te-IN-MohanNeural','gtts'];
   fs.mkdirSync(FRAMES_DIR,{recursive:true});
   const beats=[q.hook,...q.story];
-  const voice=synthAll(beats,WORK_DIR,log,engines);
-  const durs=beats.map((b,i)=>voice?dur(voice.files[i])+0.3:Math.max(2.5,b.length*0.075));
+  const voice=buildVoice(beats,WORK_DIR,log,engines,2.6);
+  const durs=beats.map((b,i)=>voice?voice.durs[i]:Math.max(2.5,b.length*0.075));
   const fsFor=(t,isHook)=>isHook?(t.length<=22?128:t.length<=34?112:t.length<=48?96:82):(t.length<=70?76:t.length<=110?66:t.length<=150?58:52);
   const browser=await puppeteer.launch({headless:'new',executablePath:CHROME_PATH,args:['--no-sandbox','--disable-setuid-sandbox']});
   const timeline=[];let ctaPath,lastBody='';
@@ -59,15 +86,7 @@ async function renderStory({bg,bgIsVideo,q,top,deps}){
   const lines=[];for(const f of timeline){lines.push(`file '${f.path}'`);lines.push(`duration ${f.duration.toFixed(3)}`)}lines.push(`file '${timeline.at(-1).path}'`);
   const listFile=path.join(FRAMES_DIR,'story_list.txt');fs.writeFileSync(listFile,lines.join('\n'));
   const totalSeconds=timeline.reduce((s,f)=>s+f.duration,0);
-  let voiceInput='';
-  if(voice){
-    const wavs=[];
-    voice.files.forEach((f,i)=>{const w=path.join(WORK_DIR,`beat${i}.wav`);execFileSync('ffmpeg',['-y','-i',f,'-af','apad=pad_dur=0.3','-ar','44100','-ac','2',w],{stdio:'pipe'});wavs.push(w)});
-    const sil=path.join(WORK_DIR,'sil.wav');execFileSync('ffmpeg',['-y','-f','lavfi','-i','anullsrc=r=44100:cl=stereo','-t','2.6',sil],{stdio:'pipe'});wavs.push(sil);
-    const vl=path.join(WORK_DIR,'voice_list.txt');fs.writeFileSync(vl,wavs.map(w=>`file '${w}'`).join('\n'));
-    const vo=path.join(WORK_DIR,'voice.wav');execFileSync('ffmpeg',['-y','-f','concat','-safe','0','-i',vl,'-c','copy',vo],{stdio:'pipe'});
-    voiceInput=`-i "${vo}"`;
-  }
+  const voiceInput=voice?`-i "${voice.voicePath}"`:'';
   const out=path.join(WORK_DIR,'output.mp4'),bgmFile=pickBgm();
   const fade=`afade=t=out:st=${Math.max(totalSeconds-0.6,0).toFixed(2)}:d=0.6`;
   const aud=voice?`[1:a]volume=-21dB[mus];[3:a]volume=1.5[vox];[mus][vox]amix=inputs=2:duration=longest:normalize=0,${fade}[a]`:`[1:a]volume=-10dB,${fade}[a]`;
@@ -79,4 +98,4 @@ async function renderStory({bg,bgIsVideo,q,top,deps}){
   execSync(`ffmpeg -y ${bgArgs} -stream_loop -1 -i "${bgmFile}" -f concat -safe 0 -i "${listFile}" ${voiceInput} -filter_complex "${fc}" -map "[v]" -map "[a]" -t ${totalSeconds.toFixed(2)} -c:v libx264 -preset veryfast -crf 20 -pix_fmt yuv420p -c:a aac -b:a 128k "${out}"`,{stdio:'inherit'});
   return out;
 }
-module.exports={renderStory,synthAll,dur};
+module.exports={renderStory,synthAll,buildVoice,dur};
