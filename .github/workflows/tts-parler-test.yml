@@ -12,8 +12,9 @@ jobs:
       - name: Install
         timeout-minutes: 15
         run: |
-          pip install --break-system-packages torch --index-url https://download.pytorch.org/whl/cpu 2>&1 | tail -1
-          pip install --break-system-packages soundfile git+https://github.com/huggingface/parler-tts.git transformers 2>&1 | tail -2
+          pip install --break-system-packages torch==2.4.0 torchaudio==2.4.0 --index-url https://download.pytorch.org/whl/cpu 2>&1 | tail -1
+          pip install --break-system-packages soundfile 'numpy<2' git+https://github.com/huggingface/parler-tts.git 2>&1 | tail -2
+          pip list 2>/dev/null | grep -i -E '^(torch|torchaudio|transformers|parler)'
           TV=$(python3 -c "import torch;print(torch.__version__.split('+')[0])")
           pip install --break-system-packages --no-deps --force-reinstall torchaudio==$TV --index-url https://download.pytorch.org/whl/cpu 2>&1 | tail -2
       - name: Generate samples
