@@ -1,7 +1,7 @@
 {
-  "runCount": 230,
-  "lastTitle": "సైకిల్ దుకాణం నుంచి ఆకాశానికి",
-  "lastDate": "2026-10-28T18:45:23.983Z",
+  "runCount": 231,
+  "lastTitle": "అసూయ దిక్సూచి",
+  "lastDate": "2026-10-29T07:56:15.169Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1399,10 +1399,17 @@
       "topLabel": "INNER POWER 🔥",
       "hook": "డిగ్రీ లేనివాళ్లు ఆకాశాన్ని గెలిచారు",
       "concept": null
+    },
+    {
+      "title": "అసూయ దిక్సూచి",
+      "screen": "ఎవరిపైనైనా అసూయ కలిగితే అది నీకు కావాల్సింది ఏమిటో చూపించే సంకేతం, అసూయను శత్రువుగా కాకుండా లక్ష్యాన్ని చూపే దిక్సూచిగా వాడుకో.",
+      "image": "a silhouette stretching arms at the beach at sunrise, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "అసూయ నీకు ఏం చెబుతోంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "9322612",
     "16998437",
     "18481707",
     "31031887",
@@ -1441,10 +1448,10 @@
     "29611549",
     "31260597",
     "38359889",
-    "15365456"
+    "15365456",
+    "33356759"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
@@ -1483,7 +1490,8 @@
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
