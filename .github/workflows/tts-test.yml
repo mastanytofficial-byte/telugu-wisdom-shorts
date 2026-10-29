@@ -9,15 +9,16 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Install and try voices
-        env:
-          SARVAM_API_KEY: ${{ secrets.SARVAM_API_KEY }}
+      - name: Install and try Shruti settings
         run: |
-          pip install --break-system-packages -U edge-tts gTTS 2>&1 | tail -1
+          pip install --break-system-packages -U edge-tts 2>&1 | tail -1
+          sudo apt-get install -y --no-install-recommends ffmpeg >/dev/null 2>&1 || true
           mkdir -p out
-          T="ఇద్దరు అన్నదమ్ములు ఒక చిన్న సైకిల్ దుకాణం నడుపుతూ, గాలిలో ఎగరాలని కలలు కన్నారు. వాళ్లకు పెద్ద చదువులు లేవు, డబ్బు లేదు, అందరూ నవ్వారు."
-          python3 -m edge_tts --voice te-IN-ShrutiNeural --text "$T" --write-media out/shruti.mp3 2>&1 | tail -3 || true
-          python3 tools/tts_audition.py || true
+          T="ఇద్దరు అన్నదమ్ములు ఒక చిన్న సైకిల్ దుకాణం నడుపుతూ, గాలిలో ఎగరాలని కలలు కన్నారు. వాళ్లకు పెద్ద చదువులు లేవు, డబ్బు లేదు, అందరూ నవ్వారు. ఎన్నోసార్లు విఫలమయ్యారు, కానీ ప్రతిసారీ తప్పులు గమనించి యంత్రాన్ని మార్చారు."
+          python3 -m edge_tts --voice te-IN-ShrutiNeural --text "$T" --write-media out/A_default.mp3 2>&1 | tail -2
+          python3 -m edge_tts --voice te-IN-ShrutiNeural --rate=-8% --pitch=-3Hz --text "$T" --write-media out/B_slow_deeper.mp3 2>&1 | tail -2
+          python3 -m edge_tts --voice te-IN-ShrutiNeural --rate=-10% --pitch=-6Hz --text "$T" --write-media out/C_storyteller_raw.mp3 2>&1 | tail -2
+          ffmpeg -y -i out/C_storyteller_raw.mp3 -af "highpass=f=70,equalizer=f=180:t=h:w=200:g=3,equalizer=f=3500:t=q:w=1:g=-2,acompressor=threshold=-20dB:ratio=3:attack=5:release=80,loudnorm=I=-16:TP=-1.5,aecho=0.8:0.85:25:0.12" out/D_storyteller_polished.mp3 2>&1 | tail -1
           ls -la out
       - name: Publish samples
         if: always()
