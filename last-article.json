@@ -1,7 +1,7 @@
 {
-  "runCount": 231,
-  "lastTitle": "అసూయ దిక్సూచి",
-  "lastDate": "2026-10-29T07:56:15.169Z",
+  "runCount": 232,
+  "lastTitle": "ఎక్కువ స్క్రోల్ ఎక్కువ ఒంటరితనం",
+  "lastDate": "2026-10-29T13:31:10.546Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1407,10 +1407,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "అసూయ నీకు ఏం చెబుతోంది?",
       "concept": null
+    },
+    {
+      "title": "ఎక్కువ స్క్రోల్ ఎక్కువ ఒంటరితనం",
+      "screen": "ఎక్కువసేపు సోషల్ మీడియాలో స్క్రోల్ చేసినవాళ్లకు తరచుగా ఒంటరితనం పెరిగినట్టు అనిపిస్తుంది, కాబట్టి స్క్రోల్ చేసే సమయంలో కొంత భాగం ఒక స్నేహితుడికి ఫోన్ చేయడానికి వాడు.",
+      "image": "a cozy reading corner with a blanket and warm lamp, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎక్కువ స్క్రోల్ చేస్తే ఏమవుతుంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "16998437",
     "18481707",
     "31031887",
     "26854887",
@@ -1449,10 +1456,10 @@
     "31260597",
     "38359889",
     "15365456",
-    "33356759"
+    "33356759",
+    "31069867"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
@@ -1491,7 +1498,8 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
