@@ -1,7 +1,7 @@
 {
-  "runCount": 233,
-  "lastTitle": "పేరు పలుకు",
-  "lastDate": "2026-10-30T07:58:59.765Z",
+  "runCount": 234,
+  "lastTitle": "బిజీ కాని సమయం",
+  "lastDate": "2026-10-30T13:19:52.958Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1423,10 +1423,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఎవరినైనా పేరు పెట్టి పిలిచావా?",
       "concept": null
+    },
+    {
+      "title": "బిజీ కాని సమయం",
+      "screen": "ఖాళీగా, విసుగ్గా ఎదురుచూస్తున్నప్పుడు సమయం చాలా నెమ్మదిగా గడుస్తున్నట్టు అనిపిస్తుంది, కాబట్టి ఎదురుచూపు సమయంలో ఒక చిన్న పని పెట్టుకుంటే అది తేలికగా గడిచిపోతుంది.",
+      "image": "a sparkler glowing in the dark with soft bokeh, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎదురుచూపు ఎందుకు ఇంత నెమ్మదిగా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "31031887",
     "26854887",
     "32599724",
     "40227629",
@@ -1465,10 +1472,10 @@
     "15365456",
     "33356759",
     "31069867",
-    "40267501"
+    "40267501",
+    "32206531"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
@@ -1505,9 +1512,10 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
