@@ -1,7 +1,7 @@
 {
-  "runCount": 232,
-  "lastTitle": "ఎక్కువ స్క్రోల్ ఎక్కువ ఒంటరితనం",
-  "lastDate": "2026-10-29T13:31:10.546Z",
+  "runCount": 233,
+  "lastTitle": "పేరు పలుకు",
+  "lastDate": "2026-10-30T07:58:59.765Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1415,10 +1415,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఎక్కువ స్క్రోల్ చేస్తే ఏమవుతుంది?",
       "concept": null
+    },
+    {
+      "title": "పేరు పలుకు",
+      "screen": "ఎవరినైనా వాళ్ల పేరుతో పిలిస్తే వాళ్లకు గౌరవం పొందినట్టు అనిపిస్తుంది, కాబట్టి ఎవరినైనా కలిసినప్పుడు వాళ్ల పేరు గుర్తుపెట్టుకుని పలికి చూడు.",
+      "image": "a silhouette of birds flying over a sunset sea, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎవరినైనా పేరు పెట్టి పిలిచావా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "18481707",
     "31031887",
     "26854887",
     "32599724",
@@ -1457,10 +1464,10 @@
     "38359889",
     "15365456",
     "33356759",
-    "31069867"
+    "31069867",
+    "40267501"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "BE BRAVE 🦁",
     "NEW BEGINNING 🌅",
     "REALITY OF LIFE 💯",
@@ -1499,7 +1506,8 @@
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
