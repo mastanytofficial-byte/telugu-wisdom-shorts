@@ -1,7 +1,7 @@
 {
-  "runCount": 235,
-  "lastTitle": "సాయంత్రం తప్పులు",
-  "lastDate": "2026-10-31T07:54:09.161Z",
+  "runCount": 236,
+  "lastTitle": "జ్ఞాపకాల విలువ",
+  "lastDate": "2026-10-31T12:57:39.490Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1439,10 +1439,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "సాయంత్రం ఎందుకు తప్పులు చేస్తాం?",
       "concept": null
+    },
+    {
+      "title": "జ్ఞాపకాల విలువ",
+      "screen": "ప్రయాణం, స్నేహితులతో గడిపిన క్షణాలు వంటి అనుభవాలు సంవత్సరాల తర్వాత కూడా సంతోషాన్ని ఇస్తాయి, కానీ వస్తువులు త్వరగా మరచిపోతాం, కాబట్టి జ్ఞాపకాల కోసం సమయం కేటాయించు.",
+      "image": "a field of sunflowers at golden hour, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఏది ఎక్కువ కాలం సంతోషం ఇస్తుంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "32599724",
     "40227629",
     "11469051",
     "13243304",
@@ -1481,10 +1488,10 @@
     "31069867",
     "40267501",
     "32206531",
-    "39534585"
+    "39534585",
+    "38210834"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "TRUE WORDS ⏳",
     "INNER POWER 🔥",
@@ -1519,11 +1526,12 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
