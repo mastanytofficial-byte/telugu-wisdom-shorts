@@ -1,0 +1,173 @@
+[2026-10-31T12:56:50.451Z] Using verified curated quote (73 unused incl. this one): జ్ఞాపకాల విలువ
+[2026-10-31T12:56:50.452Z] SCREEN (20w): ప్రయాణం, స్నేహితులతో గడిపిన క్షణాలు వంటి అనుభవాలు సంవత్సరాల తర్వాత కూడా సంతోషాన్ని ఇస్తాయి, కానీ వస్తువులు త్వరగా మరచిపోతాం, కాబట్టి జ్ఞాపకాల కోసం సమయం కేటాయించు.
+[2026-10-31T12:56:50.452Z] HOOK: ఏది ఎక్కువ కాలం సంతోషం ఇస్తుంది?
+[2026-10-31T12:56:50.452Z] HIGHLIGHT: అనుభవాలు, జ్ఞాపకాల
+[2026-10-31T12:56:50.452Z] TOP LABEL: MIND SECRET 🧠
+[2026-10-31T12:56:52.846Z] Using Pexels motion video background: /home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bg.mp4 (id=38210834)
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bg.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:07.13, start: 0.000000, bitrate: 39723 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 2160x3840, 39718 kb/s, 60 fps, 60 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : Core Media Video
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.100 libx264
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> mjpeg (native))
+Press [q] to stop, [?] for help
+[swscaler @ 0x55cea1d4a400] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x55cea1c497c0] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 1 times
+[swscaler @ 0x55cea1c59900] deprecated pixel format used, make sure you did set range correctly
+Output #0, image2, to '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bgframe.jpg':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf60.16.100
+  Stream #0:0(und): Video: mjpeg, yuvj420p(pc, bt709, progressive), 2160x3840, q=2-31, 200 kb/s, 60 fps, 60 tbn (default)
+    Metadata:
+      handler_name    : Core Media Video
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc60.31.102 mjpeg
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: N/A
+frame=    0 fps=0.0 q=10.9 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    [image2 @ 0x55cea1c58d00] The specified filename '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bgframe.jpg' does not contain an image sequence pattern or a pattern is invalid.
+[image2 @ 0x55cea1c58d00] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+[out#0/image2 @ 0x55cea1bbd0c0] video:165kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+frame=    1 fps=0.6 q=10.9 Lsize=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[2026-10-31T12:57:06.553Z] BGM: bgm-motivation.mp3
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bg.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:07.13, start: 0.000000, bitrate: 39723 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 2160x3840, 39718 kb/s, 60 fps, 60 tbr, 15360 tbn (default)
+    Metadata:
+      handler_name    : Core Media Video
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.100 libx264
+Input #1, mp3, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/assets/bgm-motivation.mp3':
+  Metadata:
+    encoder         : Lavf62.3.100
+  Duration: 00:00:18.55, start: 0.023021, bitrate: 320 kb/s
+  Stream #1:0: Audio: mp3, 48000 Hz, stereo, fltp, 320 kb/s
+    Metadata:
+      encoder         : Lavc62.11
+Input #2, concat, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/frames/list.txt':
+  Duration: N/A, start: 0.000000, bitrate: N/A
+  Stream #2:0: Video: png, rgba(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Stream mapping:
+  Stream #0:0 (h264) -> scale:default
+  Stream #1:0 (mp3float) -> volume:default
+  Stream #2:0 (png) -> overlay
+  overlay:default -> Stream #0:0 (libx264)
+  afade:default -> Stream #0:1 (aac)
+Press [q] to stop, [?] for help
+[libx264 @ 0x55a67da50340] using SAR=1/1
+[libx264 @ 0x55a67da50340] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0x55a67da50340] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0x55a67da50340] 264 - core 164 r3108 31e19f9 - H.264/MPEG-4 AVC codec - Copyleft 2003-2023 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=6 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/output.mp4':
+  Metadata:
+    major_brand     : iso5
+    minor_version   : 512
+    compatible_brands: iso5iso6mp41
+    encoder         : Lavf60.16.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 25 fps, 12800 tbn
+    Metadata:
+      encoder         : Lavc60.31.102 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 128 kb/s
+    Metadata:
+      encoder         : Lavc60.31.102 aac
+frame=    0 fps=0.0 q=0.0 size=       0kB time=N/A bitrate=N/A speed=N/A    frame=    0 fps=0.0 q=0.0 size=       0kB time=00:00:00.38 bitrate=   1.0kbits/s speed=0.517x    frame=    0 fps=0.0 q=25.0 size=       0kB time=00:00:00.78 bitrate=   0.5kbits/s speed=0.624x    frame=    8 fps=4.4 q=25.0 size=     256kB time=00:00:01.13 bitrate=1855.1kbits/s speed=0.624x    frame=   18 fps=7.7 q=25.0 size=     512kB time=00:00:01.49 bitrate=2808.9kbits/s speed=0.643x    frame=   25 fps=8.8 q=25.0 size=     768kB time=00:00:01.79 bitrate=3511.1kbits/s speed=0.634x    frame=   34 fps= 10 q=25.0 size=    1024kB time=00:00:02.11 bitrate=3972.1kbits/s speed=0.633x    frame=   43 fps= 11 q=25.0 size=    1280kB time=00:00:02.47 bitrate=4237.4kbits/s speed=0.641x    frame=   50 fps= 11 q=25.0 size=    1536kB time=00:00:02.77 bitrate=4537.2kbits/s speed=0.634x    frame=   58 fps= 12 q=25.0 size=    1792kB time=00:00:03.07 bitrate=4778.8kbits/s speed=0.629x    frame=   65 fps= 12 q=25.0 size=    2048kB time=00:00:03.41 bitrate=4915.3kbits/s speed=0.634x    frame=   73 fps= 12 q=25.0 size=    2304kB time=00:00:03.66 bitrate=5143.9kbits/s speed=0.623x    frame=   80 fps= 12 q=25.0 size=    2560kB time=00:00:03.98 bitrate=5257.0kbits/s speed=0.623x    frame=   88 fps= 13 q=25.0 size=    2816kB time=00:00:04.28 bitrate=5379.9kbits/s speed=0.619x    frame=   97 fps= 13 q=25.0 size=    3328kB time=00:00:04.62 bitrate=5889.3kbits/s speed=0.622x    frame=  103 fps= 13 q=25.0 size=    3584kB time=00:00:04.88 bitrate=6009.9kbits/s speed=0.615x    frame=  112 fps= 13 q=25.0 size=    3840kB time=00:00:05.22 bitrate=6018.7kbits/s speed=0.619x    frame=  118 fps= 13 q=25.0 size=    4096kB time=00:00:05.50 bitrate=6096.4kbits/s speed=0.613x    frame=  127 fps= 13 q=25.0 size=    4352kB time=00:00:05.82 bitrate=6121.6kbits/s speed=0.614x    frame=  133 fps= 13 q=25.0 size=    4608kB time=00:00:06.12 bitrate=6165.5kbits/s speed=0.613x    frame=  142 fps= 14 q=25.0 size=    4864kB time=00:00:06.42 bitrate=6205.3kbits/s speed=0.612x    frame=  149 fps= 14 q=25.0 size=    5120kB time=00:00:06.74 bitrate=6221.8kbits/s speed=0.611x    frame=  157 fps= 14 q=25.0 size=    5376kB time=00:00:07.04 bitrate=6255.8kbits/s speed=0.61x    frame=  164 fps= 14 q=25.0 size=    5632kB time=00:00:07.33 bitrate=6286.9kbits/s speed=0.609x    frame=  172 fps= 14 q=25.0 size=    5888kB time=00:00:07.63 bitrate=6315.7kbits/s speed=0.608x    frame=  181 fps= 14 q=25.0 size=    6144kB time=00:00:08.00 bitrate=6291.5kbits/s speed=0.61x    frame=  187 fps= 14 q=25.0 size=    6400kB time=00:00:08.29 bitrate=6317.8kbits/s speed=0.609x    frame=  196 fps= 14 q=25.0 size=    6912kB time=00:00:08.59 bitrate=6586.2kbits/s speed=0.608x    frame=  202 fps= 14 q=25.0 size=    6912kB time=00:00:08.89 bitrate=6365.1kbits/s speed=0.608x    frame=  211 fps= 14 q=25.0 size=    7424kB time=00:00:09.21 bitrate=6599.2kbits/s speed=0.608x    frame=  219 fps= 14 q=25.0 size=    7680kB time=00:00:09.53 bitrate=6597.6kbits/s speed=0.609x    frame=  226 fps= 14 q=25.0 size=    7936kB time=00:00:09.81 bitrate=6624.9kbits/s speed=0.607x    frame=  235 fps= 14 q=25.0 size=    8192kB time=00:00:10.15 bitrate=6608.7kbits/s speed=0.607x    frame=  242 fps= 14 q=25.0 size=    8448kB time=00:00:10.49 bitrate=6593.6kbits/s speed=0.61x    frame=  250 fps= 14 q=25.0 size=    8960kB time=00:00:10.77 bitrate=6813.2kbits/s speed=0.608x    frame=  259 fps= 14 q=25.0 size=    9216kB time=00:00:11.11 bitrate=6792.6kbits/s speed=0.608x    frame=  268 fps= 14 q=25.0 size=    9728kB time=00:00:11.47 bitrate=6943.4kbits/s speed=0.61x    frame=  277 fps= 14 q=25.0 size=    9984kB time=00:00:11.79 bitrate=6932.9kbits/s speed=0.611x    frame=  283 fps= 14 q=25.0 size=   10240kB time=00:00:12.09 bitrate=6935.1kbits/s speed=0.61x    frame=  292 fps= 14 q=25.0 size=   10752kB time=00:00:12.43 bitrate=7082.0kbits/s speed=0.611x    frame=  301 fps= 14 q=25.0 size=   11264kB time=00:00:12.80 bitrate=7209.0kbits/s speed=0.613x    frame=  310 fps= 14 q=25.0 size=   11520kB time=00:00:13.14 bitrate=7181.3kbits/s speed=0.614x    frame=  317 fps= 14 q=25.0 size=   11776kB time=00:00:13.46 bitrate=7166.4kbits/s speed=0.614x    frame=  326 fps= 15 q=25.0 size=   12032kB time=00:00:13.82 bitrate=7130.1kbits/s speed=0.615x    frame=  334 fps= 15 q=25.0 size=   12544kB time=00:00:14.16 bitrate=7254.4kbits/s speed=0.616x    frame=  343 fps= 15 q=25.0 size=   12800kB time=00:00:14.48 bitrate=7238.9kbits/s speed=0.615x    frame=  352 fps= 15 q=25.0 size=   13312kB time=00:00:14.84 bitrate=7344.6kbits/s speed=0.616x    [out#0/mp4 @ 0x55a67da4f200] video:14072kB audio:236kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.087723%
+frame=  374 fps= 15 q=-1.0 Lsize=   14320kB time=00:00:14.97 bitrate=7833.1kbits/s speed=0.609x    
+[libx264 @ 0x55a67da50340] frame I:2     Avg QP:19.38  size:100722
+[libx264 @ 0x55a67da50340] frame P:118   Avg QP:20.66  size: 56375
+[libx264 @ 0x55a67da50340] frame B:254   Avg QP:21.41  size: 29745
+[libx264 @ 0x55a67da50340] consecutive B-frames:  1.3% 23.0%  4.0% 71.7%
+[libx264 @ 0x55a67da50340] mb I  I16..4: 41.7% 31.5% 26.8%
+[libx264 @ 0x55a67da50340] mb P  I16..4: 33.2% 27.9%  5.6%  P16..4: 19.3%  8.3%  3.4%  0.0%  0.0%    skip: 2.4%
+[libx264 @ 0x55a67da50340] mb B  I16..4: 10.2% 11.3%  0.4%  B16..8: 28.6% 13.1%  1.4%  direct:21.4%  skip:13.7%  L0:45.0% L1:49.9% BI: 5.1%
+[libx264 @ 0x55a67da50340] 8x8 transform intra:45.6% inter:16.7%
+[libx264 @ 0x55a67da50340] coded y,uvDC,uvAC intra: 35.6% 43.5% 13.8% inter: 11.3% 40.9% 2.7%
+[libx264 @ 0x55a67da50340] i16 v,h,dc,p: 48% 36%  9%  7%
+[libx264 @ 0x55a67da50340] i8 v,h,dc,ddl,ddr,vr,hd,vl,hu:  8% 59% 18%  2%  1%  1%  2%  1%  8%
+[libx264 @ 0x55a67da50340] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 11% 49% 22%  2%  3%  2%  4%  1%  6%
+[libx264 @ 0x55a67da50340] i8c dc,h,v,p: 52% 36%  9%  2%
+[libx264 @ 0x55a67da50340] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0x55a67da50340] kb/s:7705.26
+[aac @ 0x55a67da51ec0] Qavg: 2285.939
+ffmpeg version 6.1.1-3ubuntu5 Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13 (Ubuntu 13.2.0-23ubuntu3)
+  configuration: --prefix=/usr --extra-version=3ubuntu5 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --disable-omx --enable-gnutls --enable-libaom --enable-libass --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libdav1d --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libglslang --enable-libgme --enable-libgsm --enable-libharfbuzz --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzimg --enable-openal --enable-opencl --enable-opengl --disable-sndio --enable-libvpl --disable-libmfx --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-ladspa --enable-libbluray --enable-libjack --enable-libpulse --enable-librabbitmq --enable-librist --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libx264 --enable-libzmq --enable-libzvbi --enable-lv2 --enable-sdl2 --enable-libplacebo --enable-librav1e --enable-pocketsphinx --enable-librsvg --enable-libjxl --enable-shared
+  libavutil      58. 29.100 / 58. 29.100
+  libavcodec     60. 31.102 / 60. 31.102
+  libavformat    60. 16.100 / 60. 16.100
+  libavdevice    60.  3.100 / 60.  3.100
+  libavfilter     9. 12.100 /  9. 12.100
+  libswscale      7.  5.100 /  7.  5.100
+  libswresample   4. 12.100 /  4. 12.100
+  libpostproc    57.  3.100 / 57.  3.100
+Input #0, image2, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/bgframe.jpg':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: 33816 kb/s
+  Stream #0:0: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 2160x3840, 25 fps, 25 tbr, 25 tbn
+Input #1, png_pipe, from '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumb_text.png':
+  Duration: N/A, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Stream mapping:
+  Stream #0:0 (mjpeg) -> scale:default
+  Stream #1:0 (png) -> overlay
+  overlay:default -> Stream #0:0 (mjpeg)
+Press [q] to stop, [?] for help
+[swscaler @ 0x56552f539b00] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x56552ffb8ac0] deprecated pixel format used, make sure you did set range correctly
+[swscaler @ 0x56552f635880] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 2 times
+[swscaler @ 0x56552ffb7900] deprecated pixel format used, make sure you did set range correctly
+    Last message repeated 2 times
+Output #0, image2, to '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumbnail.jpg':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Stream #0:0: Video: mjpeg, yuvj444p(pc, progressive), 1080x1920, q=2-31, 200 kb/s, 25 fps, 25 tbn
+    Metadata:
+      encoder         : Lavc60.31.102 mjpeg
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/200000 buffer size: 0 vbv_delay: N/A
+[image2 @ 0x56552f507900] The specified filename '/home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumbnail.jpg' does not contain an image sequence pattern or a pattern is invalid.
+[image2 @ 0x56552f507900] Use a pattern such as %03d for an image sequence or use the -update option (with -frames:v 1 if needed) to write a single image.
+frame=    0 fps=0.0 q=2.0 size=       0kB time=00:00:00.00 bitrate=N/A speed=   0x    [out#0/image2 @ 0x56552f507800] video:186kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+frame=    1 fps=0.0 q=2.0 Lsize=N/A time=00:00:00.00 bitrate=N/A speed=   0x    
+[2026-10-31T12:57:32.309Z] Thumbnail generated: /home/runner/work/telugu-wisdom-shorts/telugu-wisdom-shorts/work/thumbnail.jpg
+[2026-10-31T12:57:34.021Z] Uploaded and PUBLISHED: https://www.youtube.com/watch?v=Ei5BnwY6P9E
+[2026-10-31T12:57:39.488Z] Custom thumbnail set
