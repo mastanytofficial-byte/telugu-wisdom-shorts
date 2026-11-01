@@ -946,5 +946,473 @@
   "mood": "curious calm",
   "topLabel": "MIND SECRET 🧠",
   "image": "an hourglass on a wooden table in warm light, cinematic vertical photography"
+ },
+ {
+  "title": "తరచూ చూస్తే ఇష్టం",
+  "screen": "ఒక వ్యక్తిని లేదా వస్తువును తరచూ చూస్తూ ఉంటే అది మనకు నెమ్మదిగా ఇష్టంగా అనిపిస్తుంది, అందుకే నీకు ఏ పనులు, ఏ వ్యక్తులు తరచూ కనిపిస్తారో వాటిని జాగ్రత్తగా ఎంచుకో.",
+  "highlightWords": [
+   "తరచూ",
+   "ఎంచుకో"
+  ],
+  "hook": "ఎందుకు కొన్ని విషయాలు నచ్చుతాయి?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a lone lantern floating on a river at dusk, cinematic vertical photography"
+ },
+ {
+  "title": "అందం మాయ",
+  "screen": "అందంగా కనిపించేవాళ్లు మంచివాళ్లు, తెలివైనవాళ్లు అని మనసు వెంటనే అనుకుంటుంది, కానీ గుణం చూడటానికి కొంత సమయం ఇవ్వాలి, కాబట్టి రూపం చూసి ఎవరి గురించీ తొందరగా తీర్పు చెప్పకు.",
+  "highlightWords": [
+   "అందంగా",
+   "గుణం"
+  ],
+  "hook": "రూపం చూసి మనిషిని తెలుసుకోగలమా?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a glass window with soft golden dust particles in sunlight, cinematic vertical photography"
+ },
+ {
+  "title": "నమ్మకం శక్తి",
+  "screen": "ఎవరినైనా నువ్వు సాధిస్తావని నిజంగా నమ్మితే వాళ్ల ప్రయత్నం కూడా పెరుగుతుందని పరిశోధనలు చెబుతాయి, కాబట్టి నీ పిల్లలకు, స్నేహితులకు నీ నమ్మకాన్ని మాటల్లో చెప్పు.",
+  "highlightWords": [
+   "నమ్మితే",
+   "నమ్మకాన్ని"
+  ],
+  "hook": "నీ నమ్మకం ఎవరినైనా మార్చగలదా?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "rolling green tea hills with a small winding path at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "రాత్రి ఆందోళన",
+  "screen": "రాత్రి పడుకునే ముందు రేపటి గురించి ఆందోళన పెరగడం సహజం, అందుకే ఆ ఆలోచనలన్నీ కాగితంపై రాసి పక్కన పెడితే మనసు తేలికపడి నిద్ర త్వరగా వస్తుంది.",
+  "highlightWords": [
+   "ఆందోళన",
+   "కాగితంపై"
+  ],
+  "hook": "రాత్రి నిద్ర ఎందుకు రాదు?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a silhouette of a person on a rock by a misty lake at dawn, cinematic vertical photography"
+ },
+ {
+  "title": "లైక్‌ల వలలో",
+  "screen": "లైక్‌లు వచ్చినప్పుడు మెదడు చిన్న సంతోషం పొందుతుంది, అందుకే మనం మళ్ళీ మళ్ళీ ఫోన్ చూస్తాం, కానీ అసలైన తృప్తి నీ పనిలో నువ్వు అనుభవించే ఆనందం నుంచే వస్తుంది.",
+  "highlightWords": [
+   "లైక్‌లు",
+   "తృప్తి"
+  ],
+  "hook": "లైక్‌ల కోసం ఎందుకు ఎదురుచూస్తాం?",
+  "mood": "hopeful dawn",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a bright orange sunrise behind palm trees on a beach, cinematic vertical photography"
+ },
+ {
+  "title": "భవిష్యత్తులో నువ్వు",
+  "screen": "వాయిదా వేసినప్పుడు మన మెదడు ఆ పని చేసే భవిష్యత్తు వ్యక్తిని ఎవరో అపరిచితుడిలా చూస్తుంది, కాబట్టి ఈరోజే కొంచెం చేసి నీ రేపటి నిన్ను కాపాడుకో.",
+  "highlightWords": [
+   "వాయిదా",
+   "రేపటి"
+  ],
+  "hook": "రేపటి నువ్వు ఎవరు?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a wooden swing under a big tree in golden evening light, cinematic vertical photography"
+ },
+ {
+  "title": "పది నిమిషాల నడక",
+  "screen": "కేవలం పది నిమిషాలు నడిచినా మనసు ప్రశాంతంగా మారుతుందని చాలామంది అనుభవం, కాబట్టి దిగులుగా లేదా చికాకుగా ఉన్నప్పుడు కూర్చునే బదులు లేచి నడిచి చూడు.",
+  "highlightWords": [
+   "నడిచినా",
+   "దిగులుగా"
+  ],
+  "hook": "మనసు బాగోకపోతే ఏం చేయాలి?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a long empty train track disappearing into a golden sunset, cinematic vertical photography"
+ },
+ {
+  "title": "మాటల రంగు",
+  "screen": "నువ్వు ఇతరుల గురించి చెప్పే మాటలు వింటున్నవాళ్ల మనసులో నీ గురించి అదే లక్షణాలను నాటుతాయి, అందుకే ఎవరినైనా పొగిడినా విమర్శించినా ఆ మాట నీ గురించే చెబుతుందని గుర్తుంచుకో.",
+  "highlightWords": [
+   "లక్షణాలను",
+   "గుర్తుంచుకో"
+  ],
+  "hook": "ఇతరుల గురించి మాట్లాడితే ఏమవుతుంది?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a hand reaching toward warm sunlight through trees, cinematic vertical photography"
+ },
+ {
+  "title": "వాసన జ్ఞాపకం",
+  "screen": "కొన్ని వాసనలు వెంటనే పాత జ్ఞాపకాలను మేలుకొలుపుతాయి, ఎందుకంటే వాసనను పట్టుకునే భాగం జ్ఞాపకాలతో దగ్గరగా ఉంటుంది, కాబట్టి మంచి జ్ఞాపకాలు కావాలంటే ఇష్టమైన వాసనలను దగ్గర ఉంచుకో.",
+  "highlightWords": [
+   "వాసనలు",
+   "జ్ఞాపకాలతో"
+  ],
+  "hook": "వాసన ఎందుకు పాత రోజులను గుర్తు చేస్తుంది?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a moonlit lake with a small boat and stars, cinematic vertical photography"
+ },
+ {
+  "title": "నమ్మకం, పని భిన్నమైతే",
+  "screen": "మనం నమ్మేదానికి భిన్నంగా నడుచుకుంటే మనసులో అసౌకర్యం కలుగుతుంది, ఆ అసౌకర్యాన్ని తగ్గించడానికి మనం తప్పును సమర్థించుకుంటాం, కాబట్టి ఒప్పుకుని సరిదిద్దుకోవడమే మంచి మార్గం.",
+  "highlightWords": [
+   "అసౌకర్యం",
+   "సమర్థించుకుంటాం"
+  ],
+  "hook": "తప్పు చేసి ఎందుకు సమర్థించుకుంటాం?",
+  "mood": "hopeful dawn",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a market street at dusk with warm string lights, cinematic vertical photography"
+ },
+ {
+  "title": "చూసినా సాయం చేయం",
+  "screen": "చుట్టూ చాలామంది ఉన్నప్పుడు ఎవరో ఒకరు సాయం చేస్తారులే అని ప్రతి ఒక్కరూ అనుకుంటారు, అందుకే ఎవరికైనా సాయం అవసరమైతే ఆలోచించకుండా నువ్వే ముందుకు వెళ్లు.",
+  "highlightWords": [
+   "చాలామంది",
+   "ముందుకు"
+  ],
+  "hook": "అందరూ చూస్తే ఎవరు సాయం చేస్తారు?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a hilltop village above clouds at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "చిన్న మాటతో మొదలు",
+  "screen": "ఎవరైనా ముందు ఒక చిన్న విన్నపానికి ఒప్పుకుంటే తర్వాత పెద్ద విన్నపానికి కూడా ఒప్పుకునే అవకాశం ఎక్కువ, కాబట్టి ఎవరికైనా మాట ఇచ్చే ముందు ఆలోచించి ఇవ్వు.",
+  "highlightWords": [
+   "విన్నపానికి",
+   "ఆలోచించి"
+  ],
+  "hook": "ఒక్క చిన్న మాట ఎక్కడికి తీసుకెళ్తుంది?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a glowing city bridge at night with light trails, cinematic vertical photography"
+ },
+ {
+  "title": "కొరత ఆలోచన",
+  "screen": "డబ్బు లేదా సమయం చాలా తక్కువగా ఉందనే ఆందోళన ఉన్నప్పుడు మెదడు ఆ ఒక్క విషయం చుట్టే తిరుగుతూ మిగతా విషయాలను మరచిపోతుంది, కాబట్టి ఆందోళనలో ఉన్నప్పుడు పెద్ద నిర్ణయాలు వాయిదా వేయి.",
+  "highlightWords": [
+   "ఆందోళన",
+   "నిర్ణయాలు"
+  ],
+  "hook": "ఇబ్బందిలో ఎందుకు సరిగా ఆలోచించలేం?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a bamboo grove with sunbeams and drifting mist, cinematic vertical photography"
+ },
+ {
+  "title": "ఆవలింత గుణం",
+  "screen": "ఒకరు ఆవలిస్తే పక్కనున్నవాళ్లకు కూడా ఆవలింత వస్తుంది, ఇలాగే భావాలు కూడా ఒకరి నుంచి ఒకరికి అంటుకుంటాయి, కాబట్టి నువ్వు ఎవరితో ఎక్కువగా ఉంటావో జాగ్రత్తగా ఎంచుకో.",
+  "highlightWords": [
+   "ఆవలింత",
+   "భావాలు"
+  ],
+  "hook": "భావాలు ఒకరి నుంచి ఒకరికి అంటుకుంటాయా?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a sunflower silhouette against a violet sky, cinematic vertical photography"
+ },
+ {
+  "title": "ఆందోళన, ఉత్సాహం",
+  "screen": "ఆందోళనగా ఉన్నప్పుడు శాంతంగా ఉండు అనుకోవడం కంటే నాకు ఉత్సాహంగా ఉంది అని చెప్పుకుంటే మనసు ఆ శక్తిని మంచి వైపు మళ్లిస్తుంది, ఈసారి భయంగా ఉన్నప్పుడు ప్రయత్నించి చూడు.",
+  "highlightWords": [
+   "ఆందోళనగా",
+   "ఉత్సాహంగా"
+  ],
+  "hook": "భయపడితే ఏం చెప్పుకోవాలి?",
+  "mood": "hopeful dawn",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a quiet courtyard with a lit oil lamp at night, cinematic vertical photography"
+ },
+ {
+  "title": "ఆగి స్పందించు",
+  "screen": "ఎవరైనా నిన్ను రెచ్చగొట్టినప్పుడు వెంటనే స్పందించకుండా ఒక్క శ్వాస తీసుకుని ఆగితే మాటలు నీ నియంత్రణలో ఉంటాయి, ఎందుకంటే స్పందనకు ముందు ఆలోచన అవసరం.",
+  "highlightWords": [
+   "రెచ్చగొట్టినప్పుడు",
+   "శ్వాస"
+  ],
+  "hook": "రెచ్చగొడితే ఏం చేయాలి?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a narrow canal with reflections of warm window lights, cinematic vertical photography"
+ },
+ {
+  "title": "ప్రయత్నం, తప్పు, నేర్చుకోవడం",
+  "screen": "ఏదైనా కొత్త పని నేర్చుకునేటప్పుడు తప్పులు జరగడం సహజం, ఎందుకంటే ప్రతి తప్పు మెదడుకు ఏది పనిచేయదో చెబుతుంది, కాబట్టి తప్పులకు భయపడకుండా మళ్ళీ ప్రయత్నించు.",
+  "highlightWords": [
+   "తప్పులు",
+   "మళ్ళీ"
+  ],
+  "hook": "తప్పు చేస్తే ఏమవుతుంది?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "mountain peaks above clouds in pink morning light, cinematic vertical photography"
+ },
+ {
+  "title": "విడివిడిగా నేర్చుకో",
+  "screen": "ఒకేరోజు గంటల తరబడి చదవడం కంటే కొన్ని రోజులుగా విడగొట్టి కొంచెం కొంచెం చదివితే ఎక్కువ కాలం గుర్తుంటుంది, కాబట్టి రేపటి నుంచే రోజుకు పదిహేను నిమిషాలు ప్రయత్నించు.",
+  "highlightWords": [
+   "విడగొట్టి",
+   "గుర్తుంటుంది"
+  ],
+  "hook": "ఎలా చదివితే గుర్తుంటుంది?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a white sailboat on calm turquoise water at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "గంటకోసారి లేచి",
+  "screen": "గంటల తరబడి కదలకుండా కూర్చుంటే శరీరం, మనసు రెండూ మందగిస్తాయి, కాబట్టి ప్రతి గంటకు రెండు నిమిషాలు లేచి నడిచి చూడు, ఇది చిన్న పని కానీ పెద్ద మార్పు ఇస్తుంది.",
+  "highlightWords": [
+   "కూర్చుంటే",
+   "నడిచి"
+  ],
+  "hook": "గంటల తరబడి కూర్చుంటే ఏమవుతుంది?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a cobblestone alley after rain with warm shop lights, cinematic vertical photography"
+ },
+ {
+  "title": "రేపటి మూడు పనులు",
+  "screen": "రాత్రి పడుకునే ముందు రేపు చేయాల్సిన ముఖ్యమైన మూడు పనులను రాసుకుంటే ఉదయం ఏం చేయాలో ఆలోచించే శక్తి మిగులుతుంది, ఈ రాత్రే ఈ అలవాటు మొదలుపెట్టు.",
+  "highlightWords": [
+   "మూడు",
+   "రాసుకుంటే"
+  ],
+  "hook": "రేపు ఏం చేయాలో ముందే తెలుసా?",
+  "mood": "hopeful dawn",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "an open window overlooking terraced green hills at dawn, cinematic vertical photography"
+ },
+ {
+  "title": "నమ్మకం ఎలా పెరుగుతుంది",
+  "screen": "చిన్న పని పూర్తి చేసిన ప్రతిసారీ నేను చేయగలను అనే నమ్మకం పెరుగుతుంది, అందుకే పెద్ద లక్ష్యం కోసం ఎదురుచూడకుండా ఈరోజు ఒక చిన్న పని పూర్తి చేసి నమ్మకాన్ని నిర్మించుకో.",
+  "highlightWords": [
+   "నమ్మకం",
+   "చిన్న"
+  ],
+  "hook": "నమ్మకం పెంచుకోవడం ఎలా?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a campfire glow near a tent under the milky way, cinematic vertical photography"
+ },
+ {
+  "title": "నిన్నటి నువ్వు",
+  "screen": "ఇతరులతో పోల్చుకుంటే ఎప్పుడూ తృప్తి ఉండదు, కానీ నిన్నటి నీతో పోల్చుకుంటే ప్రతిరోజూ కొంచెం ముందుకెళ్లినట్టు కనిపిస్తుంది, కాబట్టి నీ పోలిక ఎప్పుడూ నీతోనే ఉండనివ్వు.",
+  "highlightWords": [
+   "తృప్తి",
+   "నిన్నటి"
+  ],
+  "hook": "నువ్వు ఎవరితో పోటీ పడుతున్నావు?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a golden wheat field with a lone scarecrow at sunset, cinematic vertical photography"
+ },
+ {
+  "title": "కష్టమైన సంభాషణ",
+  "screen": "కష్టమైన విషయం మాట్లాడకుండా ఆపుకుంటే అది మనసులో పెరుగుతూ పోతుంది, కానీ మాట్లాడిన తర్వాత అది అనుకున్నంత కష్టంగా ఉండదు, కాబట్టి ధైర్యం చేసి ఈరోజే మాట్లాడు.",
+  "highlightWords": [
+   "కష్టమైన",
+   "మాట్లాడిన"
+  ],
+  "hook": "చెప్పాల్సిన మాట ఎందుకు ఆపుకుంటున్నావు?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a person walking a dog along a misty river path at dawn, cinematic vertical photography"
+ },
+ {
+  "title": "క్షమించడం",
+  "screen": "ఎవరినైనా క్షమించడం వాళ్లకు మేలు చేసేది కాదు, అది నీ మనసులోని భారాన్ని దించుకునే దారి, ఎందుకంటే పగ మోసేవాడికే ఎక్కువ అలసట వస్తుంది.",
+  "highlightWords": [
+   "క్షమించడం",
+   "భారాన్ని"
+  ],
+  "hook": "క్షమిస్తే ఎవరికి మేలు?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "lotus flowers on a calm pond at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "తొందరపాటు తప్పులు",
+  "screen": "తొందరలో చేసే పనుల్లో తప్పులు ఎక్కువగా జరుగుతాయి, ఎందుకంటే మనసు వేగంగా పోతున్నప్పుడు జాగ్రత్తను వదిలేస్తుంది, కాబట్టి ముఖ్యమైన పనికి కొంచెం ఎక్కువ సమయం కేటాయించు.",
+  "highlightWords": [
+   "తొందరలో",
+   "సమయం"
+  ],
+  "hook": "తొందరపడితే తప్పులు ఎందుకు వస్తాయి?",
+  "mood": "hopeful dawn",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a silhouetted fisherman on a boat at golden hour, cinematic vertical photography"
+ },
+ {
+  "title": "నోటిఫికేషన్లు ఆపు",
+  "screen": "ప్రతి నోటిఫికేషన్ నీ ఏకాగ్రతను విరగ్గొడుతుంది, తిరిగి ఏకాగ్రత రావడానికి చాలా సమయం పడుతుంది, కాబట్టి పని చేసేటప్పుడు ఫోన్ నోటిఫికేషన్లను ఆపేసి చూడు.",
+  "highlightWords": [
+   "ఏకాగ్రతను",
+   "ఆపేసి"
+  ],
+  "hook": "ఫోన్ చప్పుడు ఎంత నష్టం చేస్తుంది?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a spiral shell on a sandy beach in soft sunrise light, cinematic vertical photography"
+ },
+ {
+  "title": "అలవాటు చక్రం",
+  "screen": "ప్రతి అలవాటుకు ఒక సంకేతం, ఒక పని, ఒక బహుమతి ఉంటాయి, చెడ్డ అలవాటును ఆపాలంటే ఆ సంకేతం రాగానే వేరే మంచి పని చేసి అదే బహుమతి పొందే ప్రయత్నం చేయి.",
+  "highlightWords": [
+   "సంకేతం",
+   "బహుమతి"
+  ],
+  "hook": "చెడ్డ అలవాటు ఎలా ఆపాలి?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a hammock between palm trees at sunset, cinematic vertical photography"
+ },
+ {
+  "title": "పాత జ్ఞాపకాలు బలం",
+  "screen": "మనసు బాగోనప్పుడు ఇష్టమైన పాత జ్ఞాపకాలను గుర్తు చేసుకుంటే ఒంటరితనం తగ్గి కొత్త ఉత్సాహం వస్తుందని చెబుతారు, కాబట్టి పాత ఫోటోలు చూసి నవ్వుకునే సమయం కొద్దిగా కేటాయించు.",
+  "highlightWords": [
+   "జ్ఞాపకాలను",
+   "ఫోటోలు"
+  ],
+  "hook": "పాత రోజులు గుర్తు చేసుకుంటే ఏమవుతుంది?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a stack of old books with a candle and soft bokeh, cinematic vertical photography"
+ },
+ {
+  "title": "కౌగిలి మందు",
+  "screen": "ప్రేమగా కౌగిలించుకున్నప్పుడు మనసు ప్రశాంతమై ఒత్తిడి తగ్గుతుందని చాలామంది అనుభవం, కాబట్టి నీకు ఇష్టమైనవాళ్లను ఈరోజు ఒక్కసారైనా దగ్గరకు తీసుకో.",
+  "highlightWords": [
+   "కౌగిలించుకున్నప్పుడు",
+   "ఒత్తిడి"
+  ],
+  "hook": "ఒత్తిడికి సులభమైన మందు ఏది?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a temple bell hanging in golden morning light, cinematic vertical photography"
+ },
+ {
+  "title": "నవ్వే మందు",
+  "screen": "మనసారా నవ్వినప్పుడు శరీరంలో ఒత్తిడి తగ్గి మనసు తేలికపడుతుంది, కాబట్టి రోజులో ఒక్కసారైనా నిన్ను నిజంగా నవ్వించే విషయాన్ని చూడటం లేదా వినడం అలవాటు చేసుకో.",
+  "highlightWords": [
+   "నవ్వినప్పుడు",
+   "తేలికపడుతుంది"
+  ],
+  "hook": "ఒత్తిడి తగ్గాలంటే ఏం చేయాలి?",
+  "mood": "hopeful dawn",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a coastal cliff path with wildflowers at sunset, cinematic vertical photography"
+ },
+ {
+  "title": "ముందే ఊహించుకో",
+  "screen": "ఒక పనిని చేసే ముందు అది సరిగ్గా జరుగుతున్నట్టు మనసులో స్పష్టంగా ఊహించుకుంటే ఆ పనిలో ఆందోళన తగ్గి నమ్మకం పెరుగుతుంది, కాబట్టి ముఖ్యమైన రోజుకు ముందు రాత్రి ఈ ప్రయత్నం చేయి.",
+  "highlightWords": [
+   "ఊహించుకుంటే",
+   "ముఖ్యమైన"
+  ],
+  "hook": "భయపడే పని ముందు ఏం చేయాలి?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a rain-soaked window with blurred street lights, cinematic vertical photography"
+ },
+ {
+  "title": "ప్రశ్న అడిగేవాళ్లు",
+  "screen": "ఎదుటివాళ్ల గురించి ప్రశ్నలు అడిగి శ్రద్ధగా వినేవాళ్లను ప్రజలు ఎక్కువగా ఇష్టపడతారు, కాబట్టి నీ గురించి చెప్పడం కంటే మొదట ఎదుటివాళ్ల గురించి అడిగి చూడు.",
+  "highlightWords": [
+   "ప్రశ్నలు",
+   "వినేవాళ్లను"
+  ],
+  "hook": "ఇష్టపడే మనిషిగా ఎలా మారాలి?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a candle lit table by a window overlooking a stormy sea, cinematic vertical photography"
+ },
+ {
+  "title": "తొంభై నిమిషాల శ్రద్ధ",
+  "screen": "మనిషి మెదడు ఒకేసారి చాలా సమయం పూర్తి శ్రద్ధతో పని చేయలేదు, సుమారు గంటన్నర తర్వాత విరామం కావాలి, కాబట్టి దీర్ఘమైన పని మధ్యలో తప్పనిసరిగా విరామం ఇవ్వు.",
+  "highlightWords": [
+   "శ్రద్ధతో",
+   "విరామం"
+  ],
+  "hook": "ఎంతసేపు ఏకాగ్రతతో పని చేయగలం?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "an old lamp post glowing in soft fog at dusk, cinematic vertical photography"
+ },
+ {
+  "title": "చిందరవందర గది",
+  "screen": "గది చిందరవందరగా ఉంటే మనసు కూడా చికాకుగా, అలసటగా అనిపిస్తుంది, ఎందుకంటే మెదడు ప్రతి వస్తువును గమనిస్తూనే ఉంటుంది, కాబట్టి ఈరోజు ఒక చిన్న మూల శుభ్రం చేసి చూడు.",
+  "highlightWords": [
+   "చిందరవందరగా",
+   "శుభ్రం"
+  ],
+  "hook": "గది వల్ల మనసు ఎందుకు చికాకవుతుంది?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a flock of birds above a field at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "పొగడ్తను ఒప్పుకో",
+  "screen": "ఎవరైనా పొగిడినప్పుడు అబ్బే ఏమీ లేదు అని తోసేయడం కంటే ధన్యవాదాలు అని ఒప్పుకోవడం మంచిది, ఎందుకంటే అది వాళ్లను, నిన్ను ఇద్దరినీ సంతోషపెడుతుంది.",
+  "highlightWords": [
+   "పొగిడినప్పుడు",
+   "ఒప్పుకోవడం"
+  ],
+  "hook": "ఎవరైనా పొగిడితే ఏమనాలి?",
+  "mood": "hopeful dawn",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a quiet bus stop in warm evening light, cinematic vertical photography"
+ },
+ {
+  "title": "పంచుకుంటే పెరుగుతుంది",
+  "screen": "తనకోసం ఖర్చు చేయడం కంటే ఇతరులకోసం కొంచెం ఖర్చు చేసినప్పుడు ఎక్కువ సంతోషం కలుగుతుందని పరిశోధనలు చెబుతాయి, కాబట్టి ఈ వారం ఎవరికైనా చిన్న బహుమతి ఇచ్చి చూడు.",
+  "highlightWords": [
+   "ఇతరులకోసం",
+   "బహుమతి"
+  ],
+  "hook": "డబ్బుతో సంతోషం ఎలా కొనగలం?",
+  "mood": "patient depth",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a canoe in a lake surrounded by autumn forest, cinematic vertical photography"
+ },
+ {
+  "title": "గెలిచినవాళ్లే కనిపిస్తారు",
+  "screen": "మనకు కనిపించే విజయ కథలన్నీ గెలిచినవాళ్లవే, ఓడి మరచిపోయినవాళ్లు కనిపించరు, అందుకే వాళ్లలా అవ్వాలని ప్రయత్నిస్తే నిరాశ రావచ్చు, నీ సొంత దారిని నమ్ము.",
+  "highlightWords": [
+   "విజయ",
+   "సొంత"
+  ],
+  "hook": "విజయ కథల్లో ఏం దాగి ఉంది?",
+  "mood": "curious calm",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a child silhouette flying a kite on a hill at sunset, cinematic vertical photography"
+ },
+ {
+  "title": "అపరిచితులతో మాట",
+  "screen": "ఎప్పుడైనా అపరిచితులతో చిన్నగా మాట్లాడినప్పుడు అనుకున్నదానికంటే ఎక్కువ సంతోషంగా అనిపిస్తుందని చాలామంది చెబుతారు, కాబట్టి రేపు ఎవరితోనైనా నవ్వుతూ చిన్న మాట మాట్లాడు.",
+  "highlightWords": [
+   "అపరిచితులతో",
+   "నవ్వుతూ"
+  ],
+  "hook": "తెలియనివాళ్లతో మాట్లాడితే ఏమవుతుంది?",
+  "mood": "warm insight",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a sunrise reflected on wet sand at a beach, cinematic vertical photography"
+ },
+ {
+  "title": "పదేళ్ల తర్వాత",
+  "screen": "ఒక నిర్ణయం తీసుకోలేకపోతున్నప్పుడు పదేళ్ల తర్వాత నేను దీన్ని ఎలా చూస్తాను అని అడుగు, ఎందుకంటే దూరం నుంచి చూస్తే చిన్న భయాలు చిన్నగానే కనిపిస్తాయి.",
+  "highlightWords": [
+   "నిర్ణయం",
+   "భయాలు"
+  ],
+  "hook": "పదేళ్ల తర్వాత ఇది ముఖ్యమా?",
+  "mood": "quiet determination",
+  "topLabel": "MIND SECRET 🧠",
+  "image": "a field of lavender at dusk with soft haze, cinematic vertical photography"
  }
 ]
