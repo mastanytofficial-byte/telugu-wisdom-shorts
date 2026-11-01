@@ -1,7 +1,7 @@
 {
-  "runCount": 236,
-  "lastTitle": "జ్ఞాపకాల విలువ",
-  "lastDate": "2026-10-31T12:57:39.490Z",
+  "runCount": 237,
+  "lastTitle": "ఎదురుచూపు ఆనందం",
+  "lastDate": "2026-11-01T08:35:05.738Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1447,10 +1447,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఏది ఎక్కువ కాలం సంతోషం ఇస్తుంది?",
       "concept": null
+    },
+    {
+      "title": "ఎదురుచూపు ఆనందం",
+      "screen": "మనం ఎదురుచూసే విషయం ఉంటే ఆ ఎదురుచూపే సంతోషాన్ని ఇస్తుంది, కాబట్టి వారానికి ఒక చిన్న ఆనందాన్ని ముందుగానే ప్లాన్ చేసుకుని ఎదురుచూడు.",
+      "image": "a ceiling fan and curtain moving in warm morning light, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎదురుచూపు కూడా సంతోషమే తెలుసా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "40227629",
     "11469051",
     "13243304",
     "26051352",
@@ -1489,10 +1496,10 @@
     "40267501",
     "32206531",
     "39534585",
-    "38210834"
+    "38210834",
+    "27936196"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "TRUE WORDS ⏳",
     "INNER POWER 🔥",
     "STAY CALM 🍃",
@@ -1526,6 +1533,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1533,5 +1541,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
