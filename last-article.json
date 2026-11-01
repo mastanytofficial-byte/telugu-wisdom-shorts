@@ -1,7 +1,7 @@
 {
-  "runCount": 237,
-  "lastTitle": "ఎదురుచూపు ఆనందం",
-  "lastDate": "2026-11-01T08:35:05.738Z",
+  "runCount": 238,
+  "lastTitle": "పాట మనసును మారుస్తుంది",
+  "lastDate": "2026-11-01T13:42:37.357Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1455,10 +1455,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఎదురుచూపు కూడా సంతోషమే తెలుసా?",
       "concept": null
+    },
+    {
+      "title": "పాట మనసును మారుస్తుంది",
+      "screen": "ఇష్టమైన పాట వినగానే మనసు తేలిక అవుతుంది, ఎందుకంటే సంగీతం భావాలను ప్రభావితం చేస్తుంది, కాబట్టి దిగులుగా ఉన్నప్పుడు ఒక మంచి పాట పెట్టుకుని చూడు.",
+      "image": "a wooden door opening to bright morning light, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "దిగులుగా ఉంటే ఏం వినాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "11469051",
     "13243304",
     "26051352",
     "35733813",
@@ -1497,10 +1504,10 @@
     "32206531",
     "39534585",
     "38210834",
-    "27936196"
+    "27936196",
+    "5873612"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "INNER POWER 🔥",
     "STAY CALM 🍃",
     "MINDSET 🧠",
@@ -1533,6 +1540,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1541,5 +1549,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
