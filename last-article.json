@@ -1,7 +1,7 @@
 {
-  "runCount": 238,
-  "lastTitle": "పాట మనసును మారుస్తుంది",
-  "lastDate": "2026-11-01T13:42:37.357Z",
+  "runCount": 239,
+  "lastTitle": "ఇస్తే తిరిగి వస్తుంది",
+  "lastDate": "2026-11-02T08:45:14.229Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1463,10 +1463,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "దిగులుగా ఉంటే ఏం వినాలి?",
       "concept": null
+    },
+    {
+      "title": "ఇస్తే తిరిగి వస్తుంది",
+      "screen": "ఎవరైనా మనకు చిన్న సహాయం చేస్తే తిరిగి సహాయం చేయాలని మనసుకు సహజంగా అనిపిస్తుంది, కాబట్టి ఎదుటివాళ్లు అడగకముందే ఒక చిన్న సాయం చేసి చూడు.",
+      "image": "a vintage clock on a wall in warm light, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎవరికైనా ముందు సాయం చేశావా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "13243304",
     "26051352",
     "35733813",
     "35982017",
@@ -1505,10 +1512,10 @@
     "39534585",
     "38210834",
     "27936196",
-    "5873612"
+    "5873612",
+    "34078226"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "STAY CALM 🍃",
     "MINDSET 🧠",
     "REALITY OF LIFE 💯",
@@ -1540,6 +1547,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1549,5 +1557,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
