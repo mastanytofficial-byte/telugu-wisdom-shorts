@@ -1,7 +1,7 @@
 {
-  "runCount": 239,
-  "lastTitle": "ఇస్తే తిరిగి వస్తుంది",
-  "lastDate": "2026-11-02T08:45:14.229Z",
+  "runCount": 240,
+  "lastTitle": "ముగింపే గుర్తుండేది",
+  "lastDate": "2026-11-02T12:45:30.889Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1471,10 +1471,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఎవరికైనా ముందు సాయం చేశావా?",
       "concept": null
+    },
+    {
+      "title": "ముగింపే గుర్తుండేది",
+      "screen": "ఒక అనుభవంలో మనకు ఎక్కువగా గుర్తుండేది దాని చివరి భాగమే, కాబట్టి ఎవరితోనైనా మాట్లాడేటప్పుడు, వెళ్లేటప్పుడు చివరి మాటను మంచిగా ఉంచుకో.",
+      "image": "a winding mountain road at sunrise with mist, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఏ భాగం ఎక్కువగా గుర్తుంటుంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "26051352",
     "35733813",
     "35982017",
     "10569179",
@@ -1513,10 +1520,10 @@
     "38210834",
     "27936196",
     "5873612",
-    "34078226"
+    "34078226",
+    "19202838"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "MINDSET 🧠",
     "REALITY OF LIFE 💯",
     "BE BRAVE 🦁",
@@ -1547,6 +1554,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1557,5 +1565,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
