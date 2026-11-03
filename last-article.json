@@ -1,7 +1,7 @@
 {
-  "runCount": 241,
-  "lastTitle": "క్షమించడం",
-  "lastDate": "2026-11-03T08:55:55.162Z",
+  "runCount": 242,
+  "lastTitle": "బాధ చెప్పుకో",
+  "lastDate": "2026-11-03T14:33:43.411Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1487,10 +1487,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "క్షమిస్తే ఎవరికి మేలు?",
       "concept": null
+    },
+    {
+      "title": "బాధ చెప్పుకో",
+      "screen": "మనసులో బాధ ఉన్నప్పుడు దాన్ని మాటల్లో చెప్పడం బరువును తగ్గిస్తుంది, ఎందుకంటే అలా చెప్పినప్పుడు మెదడు ఆ భావానికి పేరు పెట్టి శాంతిస్తుంది, నమ్మినవాళ్లతో చెప్పు.",
+      "image": "a street lamp glowing in soft fog on a dark road, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "బాధను లోపలే దాచుకుంటున్నావా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35982017",
     "10569179",
     "35433009",
     "35134334",
@@ -1529,10 +1536,10 @@
     "5873612",
     "34078226",
     "19202838",
-    "36702362"
+    "36702362",
+    "25961000"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
@@ -1561,6 +1568,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1573,5 +1581,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
