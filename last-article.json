@@ -1,7 +1,7 @@
 {
-  "runCount": 240,
-  "lastTitle": "ముగింపే గుర్తుండేది",
-  "lastDate": "2026-11-02T12:45:30.889Z",
+  "runCount": 241,
+  "lastTitle": "క్షమించడం",
+  "lastDate": "2026-11-03T08:55:55.162Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1479,10 +1479,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఏ భాగం ఎక్కువగా గుర్తుంటుంది?",
       "concept": null
+    },
+    {
+      "title": "క్షమించడం",
+      "screen": "ఎవరినైనా క్షమించడం వాళ్లకు మేలు చేసేది కాదు, అది నీ మనసులోని భారాన్ని దించుకునే దారి, ఎందుకంటే పగ మోసేవాడికే ఎక్కువ అలసట వస్తుంది.",
+      "image": "lotus flowers on a calm pond at sunrise, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "క్షమిస్తే ఎవరికి మేలు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35733813",
     "35982017",
     "10569179",
     "35433009",
@@ -1521,10 +1528,10 @@
     "27936196",
     "5873612",
     "34078226",
-    "19202838"
+    "19202838",
+    "36702362"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "REALITY OF LIFE 💯",
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
@@ -1554,6 +1561,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1565,5 +1573,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
