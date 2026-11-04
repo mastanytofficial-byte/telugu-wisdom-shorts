@@ -1,7 +1,7 @@
 {
-  "runCount": 242,
-  "lastTitle": "బాధ చెప్పుకో",
-  "lastDate": "2026-11-03T14:33:43.411Z",
+  "runCount": 243,
+  "lastTitle": "పంచుకుంటే పెరుగుతుంది",
+  "lastDate": "2026-11-04T08:28:43.328Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1495,10 +1495,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "బాధను లోపలే దాచుకుంటున్నావా?",
       "concept": null
+    },
+    {
+      "title": "పంచుకుంటే పెరుగుతుంది",
+      "screen": "తనకోసం ఖర్చు చేయడం కంటే ఇతరులకోసం కొంచెం ఖర్చు చేసినప్పుడు ఎక్కువ సంతోషం కలుగుతుందని పరిశోధనలు చెబుతాయి, కాబట్టి ఈ వారం ఎవరికైనా చిన్న బహుమతి ఇచ్చి చూడు.",
+      "image": "a canoe in a lake surrounded by autumn forest, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "డబ్బుతో సంతోషం ఎలా కొనగలం?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "10569179",
     "35433009",
     "35134334",
     "39481864",
@@ -1537,10 +1544,10 @@
     "34078226",
     "19202838",
     "36702362",
-    "25961000"
+    "25961000",
+    "11995874"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
@@ -1568,6 +1575,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1581,5 +1589,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
