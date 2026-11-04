@@ -1,7 +1,7 @@
 {
-  "runCount": 243,
-  "lastTitle": "పంచుకుంటే పెరుగుతుంది",
-  "lastDate": "2026-11-04T08:28:43.328Z",
+  "runCount": 244,
+  "lastTitle": "నీ పేరుతో మాట్లాడు",
+  "lastDate": "2026-11-04T14:47:50.276Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1503,10 +1503,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "డబ్బుతో సంతోషం ఎలా కొనగలం?",
       "concept": null
+    },
+    {
+      "title": "నీ పేరుతో మాట్లాడు",
+      "screen": "కష్టంలో ఉన్నప్పుడు నేను అనే బదులు నీ పేరుతో నీతో నువ్వు మాట్లాడుకుంటే ఒత్తిడి తగ్గుతుందని కొందరు పరిశోధకులు చెబుతారు, ఎందుకంటే అప్పుడు మనసు సమస్యను కొంచెం దూరం నుంచి చూస్తుంది.",
+      "image": "a hanging bridge over a misty valley at dawn, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "నీతో నువ్వు ఎలా మాట్లాడుకుంటావు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35433009",
     "35134334",
     "39481864",
     "6306000",
@@ -1545,10 +1552,10 @@
     "19202838",
     "36702362",
     "25961000",
-    "11995874"
+    "11995874",
+    "39372785"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
@@ -1575,6 +1582,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1589,5 +1597,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
