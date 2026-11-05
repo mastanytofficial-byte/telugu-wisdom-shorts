@@ -1,7 +1,7 @@
 {
-  "runCount": 244,
-  "lastTitle": "నీ పేరుతో మాట్లాడు",
-  "lastDate": "2026-11-04T14:47:50.276Z",
+  "runCount": 245,
+  "lastTitle": "పోలిక ప్రమాదం",
+  "lastDate": "2026-11-05T08:52:59.111Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1511,10 +1511,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "నీతో నువ్వు ఎలా మాట్లాడుకుంటావు?",
       "concept": null
+    },
+    {
+      "title": "పోలిక ప్రమాదం",
+      "screen": "సోషల్ మీడియాలో అందరి మంచి క్షణాలే కనిపిస్తాయి, వాళ్ల కష్టాలు కనిపించవు, అందుకే నీ నిజమైన జీవితాన్ని వాళ్ల ఎంపిక చేసిన ఫోటోలతో పోల్చకు.",
+      "image": "a train passing through misty green hills at dawn, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "వాళ్లంత సంతోషంగా నువ్వెందుకు లేవు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35134334",
     "39481864",
     "6306000",
     "19075244",
@@ -1553,10 +1560,10 @@
     "36702362",
     "25961000",
     "11995874",
-    "39372785"
+    "39372785",
+    "6989467"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
@@ -1582,6 +1589,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1597,5 +1605,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
