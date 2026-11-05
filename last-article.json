@@ -1,7 +1,7 @@
 {
-  "runCount": 245,
-  "lastTitle": "పోలిక ప్రమాదం",
-  "lastDate": "2026-11-05T08:52:59.111Z",
+  "runCount": 246,
+  "lastTitle": "అందం మాయ",
+  "lastDate": "2026-11-05T12:39:23.389Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1519,10 +1519,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "వాళ్లంత సంతోషంగా నువ్వెందుకు లేవు?",
       "concept": null
+    },
+    {
+      "title": "అందం మాయ",
+      "screen": "అందంగా కనిపించేవాళ్లు మంచివాళ్లు, తెలివైనవాళ్లు అని మనసు వెంటనే అనుకుంటుంది, కానీ గుణం చూడటానికి కొంత సమయం ఇవ్వాలి, కాబట్టి రూపం చూసి ఎవరి గురించీ తొందరగా తీర్పు చెప్పకు.",
+      "image": "a glass window with soft golden dust particles in sunlight, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "రూపం చూసి మనిషిని తెలుసుకోగలమా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "39481864",
     "6306000",
     "19075244",
     "34755776",
@@ -1561,10 +1568,10 @@
     "25961000",
     "11995874",
     "39372785",
-    "6989467"
+    "6989467",
+    "5873326"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
@@ -1589,6 +1596,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1605,5 +1613,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
