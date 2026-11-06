@@ -1,7 +1,7 @@
 {
-  "runCount": 247,
-  "lastTitle": "నిజమైన స్నేహితుడు",
-  "lastDate": "2026-11-06T08:51:59.296Z",
+  "runCount": 248,
+  "lastTitle": "నమ్మినదే వెతుకుతాం",
+  "lastDate": "2026-11-06T14:30:41.445Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1535,10 +1535,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "నిజమైన స్నేహితుడు ఎవరు?",
       "concept": null
+    },
+    {
+      "title": "నమ్మినదే వెతుకుతాం",
+      "screen": "మనం ఇప్పటికే నమ్మిన విషయానికి తగిన వాదనలనే మెదడు వెతికి పట్టుకుంటుంది, అందుకే కొన్నిసార్లు ఎదుటివాళ్ల నిజాన్ని వినడానికి కూడా మనసు ఒప్పుకోదు, ఒక్కసారి వ్యతిరేక వాదన కూడా విను.",
+      "image": "a lighthouse on a cliff at dusk with warm sky, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "మనసు ఎందుకు ఒప్పుకోదు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "19075244",
     "34755776",
     "28436001",
     "37588603",
@@ -1577,10 +1584,10 @@
     "39372785",
     "6989467",
     "5873326",
-    "27117864"
+    "27117864",
+    "38217474"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MINDSET 🧠",
@@ -1603,6 +1610,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1621,5 +1629,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
