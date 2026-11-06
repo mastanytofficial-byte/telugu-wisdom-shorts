@@ -1,7 +1,7 @@
 {
-  "runCount": 246,
-  "lastTitle": "అందం మాయ",
-  "lastDate": "2026-11-05T12:39:23.389Z",
+  "runCount": 247,
+  "lastTitle": "నిజమైన స్నేహితుడు",
+  "lastDate": "2026-11-06T08:51:59.296Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1527,10 +1527,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "రూపం చూసి మనిషిని తెలుసుకోగలమా?",
       "concept": null
+    },
+    {
+      "title": "నిజమైన స్నేహితుడు",
+      "screen": "మంచి స్నేహితుడు నిన్ను ఎప్పుడూ పొగిడేవాడు కాదు, నువ్వు తప్పు చేసినప్పుడు ప్రేమతో చెప్పేవాడు, అలాంటి వాళ్లను గుర్తించి దగ్గర పెట్టుకో.",
+      "image": "a person sitting on steps at dusk with city lights below, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "నిజమైన స్నేహితుడు ఎవరు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "6306000",
     "19075244",
     "34755776",
     "28436001",
@@ -1569,10 +1576,10 @@
     "11995874",
     "39372785",
     "6989467",
-    "5873326"
+    "5873326",
+    "27117864"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
@@ -1596,6 +1603,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1613,5 +1621,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
