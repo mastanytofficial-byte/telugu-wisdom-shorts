@@ -1,7 +1,7 @@
 {
-  "runCount": 249,
-  "lastTitle": "నిలబడే తీరు",
-  "lastDate": "2026-11-07T08:09:45.635Z",
+  "runCount": 250,
+  "lastTitle": "కనిపించని గొరిల్లా",
+  "lastDate": "2026-11-07T13:24:51.018Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1551,10 +1551,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "భయంగా ఉంటే ఎలా నిలబడాలి?",
       "concept": null
+    },
+    {
+      "title": "కనిపించని గొరిల్లా",
+      "screen": "మనం ఒక విషయంపై పూర్తిగా దృష్టి పెట్టినప్పుడు కళ్లముందు ఉన్న పెద్ద విషయాలను కూడా గమనించలేము, కాబట్టి ముఖ్యమైన నిర్ణయాలకు ముందు ఒక అడుగు వెనక్కి వేసి మొత్తం చిత్రాన్ని చూడు.",
+      "image": "a crescent moon above a still lake at twilight, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "కళ్లముందు ఉన్నది ఎందుకు కనిపించదు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "28436001",
     "37588603",
     "38923527",
     "38344808",
@@ -1593,10 +1600,10 @@
     "5873326",
     "27117864",
     "38217474",
-    "27741118"
+    "27741118",
+    "14922976"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MINDSET 🧠",
     "INNER POWER 🔥",
     "LIFE LESSON 💡",
@@ -1617,6 +1624,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1637,5 +1645,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
