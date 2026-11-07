@@ -1,7 +1,7 @@
 {
-  "runCount": 248,
-  "lastTitle": "నమ్మినదే వెతుకుతాం",
-  "lastDate": "2026-11-06T14:30:41.445Z",
+  "runCount": 249,
+  "lastTitle": "నిలబడే తీరు",
+  "lastDate": "2026-11-07T08:09:45.635Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1543,10 +1543,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "మనసు ఎందుకు ఒప్పుకోదు?",
       "concept": null
+    },
+    {
+      "title": "నిలబడే తీరు",
+      "screen": "నిటారుగా నిలబడి భుజాలు వెనక్కి పెట్టి కూర్చుంటే మనసుకు కూడా నమ్మకం పెరిగినట్టు అనిపిస్తుంది, భయంగా ఉన్నప్పుడు మొదట నీ భంగిమను సరిచేసుకో.",
+      "image": "a person looking at the moon from a hilltop at night, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "భయంగా ఉంటే ఎలా నిలబడాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "34755776",
     "28436001",
     "37588603",
     "38923527",
@@ -1585,10 +1592,10 @@
     "6989467",
     "5873326",
     "27117864",
-    "38217474"
+    "38217474",
+    "27741118"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MINDSET 🧠",
     "INNER POWER 🔥",
@@ -1610,6 +1617,7 @@
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1629,5 +1637,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
