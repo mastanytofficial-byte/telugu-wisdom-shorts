@@ -1,7 +1,7 @@
 {
-  "runCount": 251,
-  "lastTitle": "దీపం నీలో ఉంది",
-  "lastDate": "2026-11-08T07:13:27.039Z",
+  "runCount": 252,
+  "lastTitle": "చిన్న దీపం పెద్ద వెలుగు",
+  "lastDate": "2026-11-08T11:26:56.315Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1567,10 +1567,17 @@
       "topLabel": "DIWALI 🪔",
       "hook": "ఈ దీపావళికి వెలుగు నీలోనే ఉంది",
       "concept": null
+    },
+    {
+      "title": "చిన్న దీపం పెద్ద వెలుగు",
+      "screen": "చీకటి ఎంత దట్టమైనా ఒక్క చిన్న దీపం దాన్ని తొలగించగలదు, అలాగే నీ చిన్న ప్రయత్నం కూడా నీ జీవితంలోని నిరాశను తొలగిస్తుంది.",
+      "image": "lit diya on colorful rangoli at diwali night, cinematic vertical photography",
+      "topLabel": "DIWALI 🪔",
+      "hook": "ఒక్క దీపం చీకటిని ఓడిస్తుంది",
+      "concept": null
     }
   ],
   "usedBg": [
-    "38923527",
     "38344808",
     "37635633",
     "34874679",
@@ -1609,10 +1616,10 @@
     "38217474",
     "27741118",
     "14922976",
-    "28291403"
+    "28291403",
+    "30762715"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
@@ -1651,7 +1658,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
     "DIWALI 🪔"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
