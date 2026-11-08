@@ -1,7 +1,7 @@
 {
-  "runCount": 252,
-  "lastTitle": "చిన్న దీపం పెద్ద వెలుగు",
-  "lastDate": "2026-11-08T11:26:56.315Z",
+  "runCount": 253,
+  "lastTitle": "కృషిలోనే లక్ష్మి",
+  "lastDate": "2026-11-08T13:45:01.569Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1575,10 +1575,17 @@
       "topLabel": "DIWALI 🪔",
       "hook": "ఒక్క దీపం చీకటిని ఓడిస్తుంది",
       "concept": null
+    },
+    {
+      "title": "కృషిలోనే లక్ష్మి",
+      "screen": "డబ్బు, అదృష్టం కోసం ఎదురుచూడకుండా నీ కష్టం, నీ నిజాయితీ అనే దీపాలను వెలిగించు, నిజమైన లక్ష్మి అక్కడే నివసిస్తుంది.",
+      "image": "diwali lakshmi puja diya flowers golden light, cinematic vertical photography",
+      "topLabel": "DIWALI 🪔",
+      "hook": "అసలైన లక్ష్మి కష్టంలోనే ఉంది",
+      "concept": null
     }
   ],
   "usedBg": [
-    "38344808",
     "37635633",
     "34874679",
     "28055262",
@@ -1617,10 +1624,10 @@
     "27741118",
     "14922976",
     "28291403",
-    "30762715"
+    "30762715",
+    "39065299"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
@@ -1659,7 +1666,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "DIWALI 🪔",
+    "DIWALI 🪔",
     "DIWALI 🪔"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
