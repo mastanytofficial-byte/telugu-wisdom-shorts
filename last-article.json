@@ -1,7 +1,7 @@
 {
-  "runCount": 250,
-  "lastTitle": "కనిపించని గొరిల్లా",
-  "lastDate": "2026-11-07T13:24:51.018Z",
+  "runCount": 251,
+  "lastTitle": "దీపం నీలో ఉంది",
+  "lastDate": "2026-11-08T07:13:27.039Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1559,10 +1559,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "కళ్లముందు ఉన్నది ఎందుకు కనిపించదు?",
       "concept": null
+    },
+    {
+      "title": "దీపం నీలో ఉంది",
+      "screen": "ఒక చిన్న దీపం చీకటిని తరిమినట్టు నీలోని ఆశ, ధైర్యం ఎంత పెద్ద కష్టాన్నైనా తరిమేయగలవు, ఈ దీపావళి నీ మనసులో కూడా ఒక దీపం వెలిగించు.",
+      "image": "diwali oil lamps glowing in the dark night, cinematic vertical photography",
+      "topLabel": "DIWALI 🪔",
+      "hook": "ఈ దీపావళికి వెలుగు నీలోనే ఉంది",
+      "concept": null
     }
   ],
   "usedBg": [
-    "37588603",
     "38923527",
     "38344808",
     "37635633",
@@ -1601,10 +1608,10 @@
     "27117864",
     "38217474",
     "27741118",
-    "14922976"
+    "14922976",
+    "28291403"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "INNER POWER 🔥",
     "LIFE LESSON 💡",
     "SILENT POWER 🤫",
@@ -1643,7 +1650,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
-    "MIND SECRET 🧠"
+    "MIND SECRET 🧠",
+    "DIWALI 🪔"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
