@@ -31,6 +31,10 @@ on:
     - cron: '31 4 * * *'
     - cron: '37 9 * * *'
     - cron: '17 12 * * *'
+    # One-off extra Diwali runs (2026-11-08 only); slot_guard festival rules cap/space them.
+    - cron: '50 8 8 11 *'
+    - cron: '20 11 8 11 *'
+    - cron: '50 13 8 11 *'
 
 permissions:
   contents: write
