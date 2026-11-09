@@ -1,7 +1,7 @@
 {
-  "runCount": 254,
-  "lastTitle": "కుటుంబంతో వెలుగు",
-  "lastDate": "2026-11-08T15:38:17.089Z",
+  "runCount": 255,
+  "lastTitle": "నిద్రలో నేర్చుకుంటాం",
+  "lastDate": "2026-11-09T08:57:41.342Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1591,10 +1591,17 @@
       "topLabel": "DIWALI 🪔",
       "hook": "ఈ దీపావళికి ఎవరితో గడుపుతావు?",
       "concept": null
+    },
+    {
+      "title": "నిద్రలో నేర్చుకుంటాం",
+      "screen": "పగలు నేర్చుకున్న విషయాలను మెదడు రాత్రి నిద్రలో గుర్తుంచుకునే రూపంలోకి మారుస్తుంది, అందుకే పరీక్షకు ముందు రాత్రి మేల్కొనడం కంటే నిద్రపోవడం మంచిది.",
+      "image": "a desert dune with long soft shadows at sunrise, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "రాత్రంతా చదివితే నిజంగా గుర్తుంటుందా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "34874679",
     "28055262",
     "35336975",
     "25752548",
@@ -1633,10 +1640,10 @@
     "28291403",
     "30762715",
     "39065299",
-    "37469479"
+    "37469479",
+    "35879035"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "STAY CALM 🍃",
@@ -1675,7 +1682,8 @@
     "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
-    "DIWALI 🪔"
+    "DIWALI 🪔",
+    "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
