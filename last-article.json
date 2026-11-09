@@ -1,7 +1,7 @@
 {
-  "runCount": 255,
-  "lastTitle": "నిద్రలో నేర్చుకుంటాం",
-  "lastDate": "2026-11-09T08:57:41.342Z",
+  "runCount": 256,
+  "lastTitle": "మౌనం మాట్లాడిస్తుంది",
+  "lastDate": "2026-11-09T13:13:41.283Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1599,10 +1599,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "రాత్రంతా చదివితే నిజంగా గుర్తుంటుందా?",
       "concept": null
+    },
+    {
+      "title": "మౌనం మాట్లాడిస్తుంది",
+      "screen": "సంభాషణలో ఎదుటివాళ్లు చెప్పిన తర్వాత కొంచెం సేపు మౌనంగా ఉంటే వాళ్లు ఇంకా మనసు విప్పి మాట్లాడతారు, కాబట్టి తొందరగా జవాబు చెప్పే బదులు ఒక్క క్షణం ఆగి చూడు.",
+      "image": "a sailboat leaving a harbor at sunrise, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎదుటివాళ్లు మనసు ఎప్పుడు విప్పుతారు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "28055262",
     "35336975",
     "25752548",
     "37884190",
@@ -1641,10 +1648,10 @@
     "30762715",
     "39065299",
     "37469479",
-    "35879035"
+    "35879035",
+    "36798463"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
@@ -1683,7 +1690,8 @@
     "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
