@@ -1,7 +1,7 @@
 {
-  "runCount": 256,
-  "lastTitle": "మౌనం మాట్లాడిస్తుంది",
-  "lastDate": "2026-11-09T13:13:41.283Z",
+  "runCount": 257,
+  "lastTitle": "చెడు గుర్తుండిపోతుంది",
+  "lastDate": "2026-11-10T09:05:29.969Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1607,10 +1607,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఎదుటివాళ్లు మనసు ఎప్పుడు విప్పుతారు?",
       "concept": null
+    },
+    {
+      "title": "చెడు గుర్తుండిపోతుంది",
+      "screen": "మన మెదడు మంచి మాటల కంటే చెడ్డ మాటలను ఎక్కువగా గుర్తుపెట్టుకుంటుంది, అందుకే ఒక్క విమర్శ వంద పొగడ్తలను మరిపిస్తుంది, కాబట్టి రోజూ మూడు మంచి విషయాలు రాసుకో.",
+      "image": "a silhouette of a person at a rain-lit window at night with warm city bokeh, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఒక్క మాట ఎందుకు మర్చిపోలేం?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35336975",
     "25752548",
     "37884190",
     "29567291",
@@ -1649,10 +1656,10 @@
     "39065299",
     "37469479",
     "35879035",
-    "36798463"
+    "36798463",
+    "36131592"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
@@ -1691,7 +1698,8 @@
     "DIWALI 🪔",
     "DIWALI 🪔",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
