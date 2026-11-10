@@ -1,7 +1,7 @@
 {
-  "runCount": 257,
-  "lastTitle": "చెడు గుర్తుండిపోతుంది",
-  "lastDate": "2026-11-10T09:05:29.969Z",
+  "runCount": 258,
+  "lastTitle": "తెలిసింది అందరికీ",
+  "lastDate": "2026-11-10T12:53:15.117Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1615,10 +1615,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఒక్క మాట ఎందుకు మర్చిపోలేం?",
       "concept": null
+    },
+    {
+      "title": "తెలిసింది అందరికీ",
+      "screen": "ఒక విషయం మనకు బాగా తెలిసినప్పుడు అది ఇతరులకు కూడా తెలిసే ఉంటుందని అనుకుంటాం, అందుకే మంచి గురువులు సులభమైన మాటల్లో మొదటి నుంచి చెబుతారు, కాబట్టి వివరించేటప్పుడు ఓపిక పెట్టు.",
+      "image": "an empty wooden bench under a tree in golden autumn light, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "మనకు తెలిసింది అందరికీ తెలుసా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "25752548",
     "37884190",
     "29567291",
     "36685712",
@@ -1657,10 +1664,10 @@
     "37469479",
     "35879035",
     "36798463",
-    "36131592"
+    "36131592",
+    "25857692"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "MINDSET 🧠",
@@ -1699,7 +1706,8 @@
     "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
