@@ -1,7 +1,7 @@
 {
-  "runCount": 258,
-  "lastTitle": "తెలిసింది అందరికీ",
-  "lastDate": "2026-11-10T12:53:15.117Z",
+  "runCount": 259,
+  "lastTitle": "చేయని పని బాధ",
+  "lastDate": "2026-11-11T08:45:34.288Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1623,10 +1623,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "మనకు తెలిసింది అందరికీ తెలుసా?",
       "concept": null
+    },
+    {
+      "title": "చేయని పని బాధ",
+      "screen": "చాలామందికి ఎక్కువ కాలం బాధ పెట్టేది చేసిన తప్పులు కాదు, ధైర్యం చేయక వదిలేసిన అవకాశాలే, కాబట్టి ప్రయత్నించకుండా ఆగిన ఒక పనిని ఈ వారం మొదలుపెట్టు.",
+      "image": "an hourglass on a wooden table in warm light, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఏ బాధ ఎక్కువ కాలం ఉంటుంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "37884190",
     "29567291",
     "36685712",
     "40342455",
@@ -1665,10 +1672,10 @@
     "35879035",
     "36798463",
     "36131592",
-    "25857692"
+    "25857692",
+    "35571635"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
@@ -1707,7 +1714,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
