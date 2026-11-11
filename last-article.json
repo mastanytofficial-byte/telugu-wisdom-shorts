@@ -1,7 +1,7 @@
 {
-  "runCount": 259,
-  "lastTitle": "చేయని పని బాధ",
-  "lastDate": "2026-11-11T08:45:34.288Z",
+  "runCount": 260,
+  "lastTitle": "నా చేతి ఫలితం",
+  "lastDate": "2026-11-11T17:26:39.772Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1631,10 +1631,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఏ బాధ ఎక్కువ కాలం ఉంటుంది?",
       "concept": null
+    },
+    {
+      "title": "నా చేతి ఫలితం",
+      "screen": "మనం స్వయంగా కష్టపడి తయారు చేసిన వస్తువుకు ఇతరులకంటే ఎక్కువ విలువ ఇస్తాం, అందుకే నీ పనిని తక్కువగా అంచనా వేయకు, అది నీ శ్రమ.",
+      "image": "autumn leaves on a quiet road at golden hour, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "నీ కష్టానికి విలువ ఇస్తున్నావా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "29567291",
     "36685712",
     "40342455",
     "39496241",
@@ -1673,10 +1680,10 @@
     "36798463",
     "36131592",
     "25857692",
-    "35571635"
+    "35571635",
+    "29971210"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "MINDSET 🧠",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
@@ -1715,7 +1722,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
