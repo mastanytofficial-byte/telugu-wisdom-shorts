@@ -1,7 +1,7 @@
 {
-  "runCount": 261,
-  "lastTitle": "సగం పూర్తయిందని",
-  "lastDate": "2026-11-12T09:08:28.908Z",
+  "runCount": 262,
+  "lastTitle": "ముందే గోడ కట్టు",
+  "lastDate": "2026-11-12T13:05:18.468Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1647,10 +1647,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఉత్సాహం తగ్గితే ఏం చేయాలి?",
       "concept": null
+    },
+    {
+      "title": "ముందే గోడ కట్టు",
+      "screen": "మనసును నియంత్రించుకోవడం కష్టమైన చోట ముందే అడ్డంకి పెట్టుకుంటే తప్పు చేసే అవకాశం తగ్గుతుంది, ఉదాహరణకు రాత్రి ఫోన్‌ను మంచం దగ్గర కాకుండా వేరే గదిలో ఛార్జ్ చేయి.",
+      "image": "an old film camera on a windowsill in golden light, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "మనసును ఎలా అదుపులో పెట్టాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "40342455",
     "39496241",
     "32349013",
     "35729574",
@@ -1689,10 +1696,10 @@
     "25857692",
     "35571635",
     "29971210",
-    "6316945"
+    "6316945",
+    "31260594"
   ],
   "themeHistory": [
-    "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
@@ -1731,7 +1738,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
