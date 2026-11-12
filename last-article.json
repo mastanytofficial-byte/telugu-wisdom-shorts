@@ -1,7 +1,7 @@
 {
-  "runCount": 260,
-  "lastTitle": "నా చేతి ఫలితం",
-  "lastDate": "2026-11-11T17:26:39.772Z",
+  "runCount": 261,
+  "lastTitle": "సగం పూర్తయిందని",
+  "lastDate": "2026-11-12T09:08:28.908Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1639,10 +1639,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "నీ కష్టానికి విలువ ఇస్తున్నావా?",
       "concept": null
+    },
+    {
+      "title": "సగం పూర్తయిందని",
+      "screen": "ఒక పని ఇప్పటికే కొంత పూర్తయిందని తెలిసినప్పుడు దాన్ని చివరి వరకు చేయాలనే ఉత్సాహం పెరుగుతుంది, కాబట్టి పెద్ద పనిని మొదలుపెట్టేటప్పుడు మొదటి చిన్న భాగాన్ని వెంటనే పూర్తి చేసి చూపించుకో.",
+      "image": "a person on a pier silhouetted against a pink and purple sky, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఉత్సాహం తగ్గితే ఏం చేయాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "36685712",
     "40342455",
     "39496241",
     "32349013",
@@ -1681,10 +1688,10 @@
     "36131592",
     "25857692",
     "35571635",
-    "29971210"
+    "29971210",
+    "6316945"
   ],
   "themeHistory": [
-    "MINDSET 🧠",
     "NEW BEGINNING 🌅",
     "TRUE WORDS ⏳",
     "BE BRAVE 🦁",
@@ -1723,7 +1730,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
