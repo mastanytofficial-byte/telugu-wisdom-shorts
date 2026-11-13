@@ -1,7 +1,7 @@
 {
-  "runCount": 262,
-  "lastTitle": "ముందే గోడ కట్టు",
-  "lastDate": "2026-11-12T13:05:18.468Z",
+  "runCount": 263,
+  "lastTitle": "మొదటి అభిప్రాయం",
+  "lastDate": "2026-11-13T08:59:53.273Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1655,10 +1655,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "మనసును ఎలా అదుపులో పెట్టాలి?",
       "concept": null
+    },
+    {
+      "title": "మొదటి అభిప్రాయం",
+      "screen": "ఒక వ్యక్తిని కలిసిన మొదటి కొన్ని సెకన్లలోనే మెదడు అభిప్రాయం ఏర్పరుచుకుంటుంది, కానీ అది తరచుగా తప్పు, కాబట్టి ఎవరినైనా అంచనా వేసే ముందు కొంచెం సమయం ఇవ్వు.",
+      "image": "a violet and orange twilight sky over palm trees, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "మొదటి చూపులో అంచనా నిజమేనా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "39496241",
     "32349013",
     "35729574",
     "33558569",
@@ -1697,10 +1704,10 @@
     "35571635",
     "29971210",
     "6316945",
-    "31260594"
+    "31260594",
+    "39069048"
   ],
   "themeHistory": [
-    "TRUE WORDS ⏳",
     "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
@@ -1739,7 +1746,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
