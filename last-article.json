@@ -1,7 +1,7 @@
 {
-  "runCount": 263,
-  "lastTitle": "మొదటి అభిప్రాయం",
-  "lastDate": "2026-11-13T08:59:53.273Z",
+  "runCount": 264,
+  "lastTitle": "నేర్చిన తర్వాత విశ్రాంతి",
+  "lastDate": "2026-11-13T14:49:02.327Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1663,10 +1663,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "మొదటి చూపులో అంచనా నిజమేనా?",
       "concept": null
+    },
+    {
+      "title": "నేర్చిన తర్వాత విశ్రాంతి",
+      "screen": "ఏదైనా నేర్చుకున్న తర్వాత కొద్దిసేపు ఏమీ చేయకుండా కూర్చుంటే మెదడు ఆ విషయాన్ని స్థిరపరచుకుంటుందని చెబుతారు, కాబట్టి వెంటనే ఫోన్ చూడకుండా పది నిమిషాలు విశ్రాంతి తీసుకో.",
+      "image": "a sandy path leading into a golden forest, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "నేర్చుకున్నాక వెంటనే ఏం చేయాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "32349013",
     "35729574",
     "33558569",
     "29611549",
@@ -1705,10 +1712,10 @@
     "29971210",
     "6316945",
     "31260594",
-    "39069048"
+    "39069048",
+    "35172241"
   ],
   "themeHistory": [
-    "BE BRAVE 🦁",
     "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
@@ -1747,7 +1754,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
