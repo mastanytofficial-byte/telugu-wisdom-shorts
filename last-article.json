@@ -1,7 +1,7 @@
 {
-  "runCount": 265,
-  "lastTitle": "పిల్లల కళ్లతో",
-  "lastDate": "2026-11-14T08:27:52.942Z",
+  "runCount": 266,
+  "lastTitle": "చిన్న విజయం",
+  "lastDate": "2026-11-14T13:44:48.696Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1679,10 +1679,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "చివరిసారి ఎప్పుడు ఆశ్చర్యపోయావు?",
       "concept": null
+    },
+    {
+      "title": "చిన్న విజయం",
+      "screen": "చిన్న పని పూర్తి చేసినప్పుడల్లా మెదడు సంతోషాన్ని ఇచ్చే రసాయనాన్ని విడుదల చేస్తుంది, అందుకే రోజును పరుపు సర్దడంలాంటి చిన్న విజయంతో మొదలుపెట్టు.",
+      "image": "a crowded street at dusk with colorful light trails, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "రోజు ఎలా మొదలుపెడితే బాగుంటుంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "33558569",
     "29611549",
     "31260597",
     "38359889",
@@ -1721,10 +1728,10 @@
     "31260594",
     "39069048",
     "35172241",
-    "26825540"
+    "26825540",
+    "34078236"
   ],
   "themeHistory": [
-    "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
@@ -1763,7 +1770,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
