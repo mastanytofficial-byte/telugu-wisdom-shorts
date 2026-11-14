@@ -1,7 +1,7 @@
 {
-  "runCount": 264,
-  "lastTitle": "నేర్చిన తర్వాత విశ్రాంతి",
-  "lastDate": "2026-11-13T14:49:02.327Z",
+  "runCount": 265,
+  "lastTitle": "పిల్లల కళ్లతో",
+  "lastDate": "2026-11-14T08:27:52.942Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1671,10 +1671,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "నేర్చుకున్నాక వెంటనే ఏం చేయాలి?",
       "concept": null
+    },
+    {
+      "title": "పిల్లల కళ్లతో",
+      "screen": "పిల్లలు చిన్న విషయాలకే ఆశ్చర్యపోయి ఆనందిస్తారు, పెద్దవాళ్లం అయినప్పుడు ఆ ఆశ్చర్యాన్ని కోల్పోతాం, కాబట్టి ఈరోజు ఒక సాధారణ విషయాన్ని మొదటిసారి చూసినట్టు చూసి ఆనందించు.",
+      "image": "a sunset over a river with fishermen silhouettes, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "చివరిసారి ఎప్పుడు ఆశ్చర్యపోయావు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "35729574",
     "33558569",
     "29611549",
     "31260597",
@@ -1713,10 +1720,10 @@
     "6316945",
     "31260594",
     "39069048",
-    "35172241"
+    "35172241",
+    "26825540"
   ],
   "themeHistory": [
-    "REALITY OF LIFE 💯",
     "LIFE LESSON 💡",
     "KEEP GROWING 🌱",
     "STAY CALM 🍃",
@@ -1755,7 +1762,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
