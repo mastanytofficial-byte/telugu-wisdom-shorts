@@ -1,7 +1,7 @@
 {
-  "runCount": 267,
-  "lastTitle": "తిట్టు నీ తప్పు కాదు",
-  "lastDate": "2026-11-15T08:44:39.085Z",
+  "runCount": 268,
+  "lastTitle": "కొంచెం అసౌకర్యం",
+  "lastDate": "2026-11-15T14:13:09.840Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1695,10 +1695,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఎవరైనా తిడితే నీ తప్పేనా?",
       "concept": null
+    },
+    {
+      "title": "కొంచెం అసౌకర్యం",
+      "screen": "ఎప్పుడూ సౌకర్యంగా ఉండే చోటే ఉంటే మనసు కొత్తది నేర్చుకోవడం ఆపేస్తుంది, వారానికి ఒక్కసారైనా నీకు కొంచెం కష్టంగా అనిపించే పని చేసి చూడు.",
+      "image": "a close view of raindrops on a window with warm city lights behind, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "సౌకర్యం నిన్ను ఆపుతోందా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "31260597",
     "38359889",
     "15365456",
     "33356759",
@@ -1737,10 +1744,10 @@
     "35172241",
     "26825540",
     "34078236",
-    "39657528"
+    "39657528",
+    "19956220"
   ],
   "themeHistory": [
-    "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MIND SECRET 🧠",
@@ -1779,7 +1786,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
