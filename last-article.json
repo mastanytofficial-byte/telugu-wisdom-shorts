@@ -1,7 +1,7 @@
 {
-  "runCount": 266,
-  "lastTitle": "చిన్న విజయం",
-  "lastDate": "2026-11-14T13:44:48.696Z",
+  "runCount": 267,
+  "lastTitle": "తిట్టు నీ తప్పు కాదు",
+  "lastDate": "2026-11-15T08:44:39.085Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1687,10 +1687,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "రోజు ఎలా మొదలుపెడితే బాగుంటుంది?",
       "concept": null
+    },
+    {
+      "title": "తిట్టు నీ తప్పు కాదు",
+      "screen": "ఎదుటివాళ్లు నిన్ను విమర్శించినప్పుడు అది చాలాసార్లు వాళ్ల అసంతృప్తిని చూపిస్తుంది, నీ విలువను కాదు, అందుకే ప్రతి మాటను మనసుకు తీసుకోకు.",
+      "image": "a woman on a balcony at sunrise with a coffee cup and city view, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎవరైనా తిడితే నీ తప్పేనా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "29611549",
     "31260597",
     "38359889",
     "15365456",
@@ -1729,10 +1736,10 @@
     "39069048",
     "35172241",
     "26825540",
-    "34078236"
+    "34078236",
+    "39657528"
   ],
   "themeHistory": [
-    "KEEP GROWING 🌱",
     "STAY CALM 🍃",
     "SILENT POWER 🤫",
     "INNER POWER 🔥",
@@ -1771,7 +1778,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
