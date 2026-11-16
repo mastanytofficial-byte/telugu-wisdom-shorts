@@ -1,7 +1,7 @@
 {
-  "runCount": 268,
-  "lastTitle": "కొంచెం అసౌకర్యం",
-  "lastDate": "2026-11-15T14:13:09.840Z",
+  "runCount": 269,
+  "lastTitle": "అలవాటు చక్రం",
+  "lastDate": "2026-11-16T08:54:29.579Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1703,10 +1703,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "సౌకర్యం నిన్ను ఆపుతోందా?",
       "concept": null
+    },
+    {
+      "title": "అలవాటు చక్రం",
+      "screen": "ప్రతి అలవాటుకు ఒక సంకేతం, ఒక పని, ఒక బహుమతి ఉంటాయి, చెడ్డ అలవాటును ఆపాలంటే ఆ సంకేతం రాగానే వేరే మంచి పని చేసి అదే బహుమతి పొందే ప్రయత్నం చేయి.",
+      "image": "a hammock between palm trees at sunset, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "చెడ్డ అలవాటు ఎలా ఆపాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "38359889",
     "15365456",
     "33356759",
     "31069867",
@@ -1745,10 +1752,10 @@
     "26825540",
     "34078236",
     "39657528",
-    "19956220"
+    "19956220",
+    "25753973"
   ],
   "themeHistory": [
-    "SILENT POWER 🤫",
     "INNER POWER 🔥",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1787,7 +1794,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
