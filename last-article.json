@@ -1,7 +1,7 @@
 {
-  "runCount": 269,
-  "lastTitle": "అలవాటు చక్రం",
-  "lastDate": "2026-11-16T08:54:29.579Z",
+  "runCount": 270,
+  "lastTitle": "విజయం, వైఫల్యం",
+  "lastDate": "2026-11-16T13:02:38.017Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1711,10 +1711,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "చెడ్డ అలవాటు ఎలా ఆపాలి?",
       "concept": null
+    },
+    {
+      "title": "విజయం, వైఫల్యం",
+      "screen": "విజయం వచ్చినప్పుడు అది మన కష్టం వల్ల అని, ఓడినప్పుడు అది పరిస్థితుల వల్ల అని అనుకోవడం మనకు సహజం, కానీ ఎదగాలంటే రెండింటిలోనూ నా పాత్ర ఎంత అని నిజాయితీగా అడగాలి.",
+      "image": "a window of a train showing blurred golden fields, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఓడిపోతే ఎవరిది తప్పు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "15365456",
     "33356759",
     "31069867",
     "40267501",
@@ -1753,10 +1760,10 @@
     "34078236",
     "39657528",
     "19956220",
-    "25753973"
+    "25753973",
+    "11469051"
   ],
   "themeHistory": [
-    "INNER POWER 🔥",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1781,6 +1788,7 @@
     "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
+    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1797,5 +1805,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
