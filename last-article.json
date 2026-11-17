@@ -1,7 +1,7 @@
 {
-  "runCount": 271,
-  "lastTitle": "వారాంతపు నిద్ర",
-  "lastDate": "2026-11-17T10:00:31.327Z",
+  "runCount": 272,
+  "lastTitle": "గట్టిగా చెప్పుకో",
+  "lastDate": "2026-11-17T13:44:08.765Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1727,10 +1727,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "సోమవారం ఎందుకు అలసటగా ఉంటుంది?",
       "concept": null
+    },
+    {
+      "title": "గట్టిగా చెప్పుకో",
+      "screen": "ఒక సమస్యను ఇతరులకు లేదా నీకు నువ్వే గట్టిగా వివరించి చెప్పుకుంటే తరచుగా సమాధానం తనంతట తానే దొరుకుతుంది, ఎందుకంటే మాటల్లో పెట్టినప్పుడు ఆలోచన స్పష్టమవుతుంది.",
+      "image": "a single paper plane flying across a golden sunset sky, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "సమస్య తీరకపోతే ఏం చేయాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "31069867",
     "40267501",
     "32206531",
     "39534585",
@@ -1769,7 +1776,8 @@
     "19956220",
     "25753973",
     "11469051",
-    "15202170"
+    "15202170",
+    "31044992"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1790,11 +1798,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1813,5 +1821,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
