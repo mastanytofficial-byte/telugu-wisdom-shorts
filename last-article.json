@@ -1,7 +1,7 @@
 {
-  "runCount": 270,
-  "lastTitle": "విజయం, వైఫల్యం",
-  "lastDate": "2026-11-16T13:02:38.017Z",
+  "runCount": 271,
+  "lastTitle": "వారాంతపు నిద్ర",
+  "lastDate": "2026-11-17T10:00:31.327Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1719,10 +1719,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఓడిపోతే ఎవరిది తప్పు?",
       "concept": null
+    },
+    {
+      "title": "వారాంతపు నిద్ర",
+      "screen": "వారం రోజులు ఒక సమయానికి, వారాంతం పూర్తిగా వేరే సమయానికి పడుకుంటే సోమవారం శరీరం అలసిపోతుంది, కాబట్టి వీలైనంత వరకు ఒకే సమయానికి పడుకుని లేవడం అలవాటు చేసుకో.",
+      "image": "a balcony with hanging plants and warm morning sun, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "సోమవారం ఎందుకు అలసటగా ఉంటుంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "33356759",
     "31069867",
     "40267501",
     "32206531",
@@ -1761,7 +1768,8 @@
     "39657528",
     "19956220",
     "25753973",
-    "11469051"
+    "11469051",
+    "15202170"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1783,11 +1791,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1805,5 +1813,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
