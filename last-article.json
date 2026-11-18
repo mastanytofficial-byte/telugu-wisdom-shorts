@@ -1,7 +1,7 @@
 {
-  "runCount": 273,
-  "lastTitle": "జ్ఞాపకం మారుతుంది",
-  "lastDate": "2026-11-18T09:38:52.005Z",
+  "runCount": 274,
+  "lastTitle": "ఎదుటివాళ్లు ప్రతిబింబం",
+  "lastDate": "2026-11-18T13:18:58.911Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1743,10 +1743,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "నీ జ్ఞాపకం నిజమేనా?",
       "concept": null
+    },
+    {
+      "title": "ఎదుటివాళ్లు ప్రతిబింబం",
+      "screen": "మనం నవ్వుతూ మాట్లాడితే ఎదుటివాళ్లు కూడా నవ్వుతూ మాట్లాడతారు, ఎందుకంటే మనుషులు ఒకరి తీరును ఒకరు అనుకరిస్తారు, కాబట్టి నీకు ఎదుటివాళ్ల నుంచి కావాల్సిన తీరును ముందు నువ్వే చూపించు.",
+      "image": "cherry blossom branches against a pink sky, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "ఎదుటివాళ్లు నీలాగే ఎందుకు ప్రవర్తిస్తారు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "32206531",
     "39534585",
     "38210834",
     "27936196",
@@ -1785,7 +1792,8 @@
     "11469051",
     "15202170",
     "31044992",
-    "38344808"
+    "38344808",
+    "40891278"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1804,11 +1812,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1829,5 +1837,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
