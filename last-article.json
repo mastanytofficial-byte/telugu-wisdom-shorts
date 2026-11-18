@@ -1,7 +1,7 @@
 {
-  "runCount": 272,
-  "lastTitle": "గట్టిగా చెప్పుకో",
-  "lastDate": "2026-11-17T13:44:08.765Z",
+  "runCount": 273,
+  "lastTitle": "జ్ఞాపకం మారుతుంది",
+  "lastDate": "2026-11-18T09:38:52.005Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1735,10 +1735,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "సమస్య తీరకపోతే ఏం చేయాలి?",
       "concept": null
+    },
+    {
+      "title": "జ్ఞాపకం మారుతుంది",
+      "screen": "మన జ్ఞాపకాలు వీడియో రికార్డింగ్ లాంటివి కావు, ప్రతిసారీ గుర్తు చేసుకున్నప్పుడు మెదడు కొంచెం మార్చి మళ్ళీ రాసుకుంటుంది, కాబట్టి పాత గొడవల గురించి నేను ఖచ్చితంగా గుర్తున్నాను అని వాదించకు.",
+      "image": "a bright tropical beach with turquoise waves at sunrise, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "నీ జ్ఞాపకం నిజమేనా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "40267501",
     "32206531",
     "39534585",
     "38210834",
@@ -1777,7 +1784,8 @@
     "25753973",
     "11469051",
     "15202170",
-    "31044992"
+    "31044992",
+    "38344808"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1797,11 +1805,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1821,5 +1829,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
