@@ -1,7 +1,7 @@
 {
-  "runCount": 274,
-  "lastTitle": "ఎదుటివాళ్లు ప్రతిబింబం",
-  "lastDate": "2026-11-18T13:18:58.911Z",
+  "runCount": 275,
+  "lastTitle": "ఆవలింత గుణం",
+  "lastDate": "2026-11-19T13:44:47.947Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1751,10 +1751,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "ఎదుటివాళ్లు నీలాగే ఎందుకు ప్రవర్తిస్తారు?",
       "concept": null
+    },
+    {
+      "title": "ఆవలింత గుణం",
+      "screen": "ఒకరు ఆవలిస్తే పక్కనున్నవాళ్లకు కూడా ఆవలింత వస్తుంది, ఇలాగే భావాలు కూడా ఒకరి నుంచి ఒకరికి అంటుకుంటాయి, కాబట్టి నువ్వు ఎవరితో ఎక్కువగా ఉంటావో జాగ్రత్తగా ఎంచుకో.",
+      "image": "a sunflower silhouette against a violet sky, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "భావాలు ఒకరి నుంచి ఒకరికి అంటుకుంటాయా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "39534585",
     "38210834",
     "27936196",
     "5873612",
@@ -1793,7 +1800,8 @@
     "15202170",
     "31044992",
     "38344808",
-    "40891278"
+    "40891278",
+    "12222644"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1811,11 +1819,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1837,5 +1845,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
