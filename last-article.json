@@ -1,7 +1,7 @@
 {
-  "runCount": 275,
-  "lastTitle": "ఆవలింత గుణం",
-  "lastDate": "2026-11-19T13:44:47.947Z",
+  "runCount": 276,
+  "lastTitle": "రాసిన లక్ష్యం",
+  "lastDate": "2026-11-20T09:32:09.866Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1759,10 +1759,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "భావాలు ఒకరి నుంచి ఒకరికి అంటుకుంటాయా?",
       "concept": null
+    },
+    {
+      "title": "రాసిన లక్ష్యం",
+      "screen": "లక్ష్యాన్ని కాగితంపై రాసి పెట్టుకున్నవాళ్లు దాన్ని సాధించే అవకాశం ఎక్కువని చెబుతారు, కాబట్టి ఈరోజే నీ ముఖ్యమైన లక్ష్యం రాసి కనిపించే చోట అతికించు.",
+      "image": "a night market with warm hanging bulbs and soft bokeh, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "నీ లక్ష్యం ఎక్కడ ఉంది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "38210834",
     "27936196",
     "5873612",
     "34078226",
@@ -1801,7 +1808,8 @@
     "31044992",
     "38344808",
     "40891278",
-    "12222644"
+    "12222644",
+    "30512846"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1818,11 +1826,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1845,5 +1853,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
