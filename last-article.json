@@ -1,7 +1,7 @@
 {
-  "runCount": 276,
-  "lastTitle": "రాసిన లక్ష్యం",
-  "lastDate": "2026-11-20T09:32:09.866Z",
+  "runCount": 277,
+  "lastTitle": "ఆందోళన, ఉత్సాహం",
+  "lastDate": "2026-11-20T13:26:30.753Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1767,10 +1767,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "నీ లక్ష్యం ఎక్కడ ఉంది?",
       "concept": null
+    },
+    {
+      "title": "ఆందోళన, ఉత్సాహం",
+      "screen": "ఆందోళనగా ఉన్నప్పుడు శాంతంగా ఉండు అనుకోవడం కంటే నాకు ఉత్సాహంగా ఉంది అని చెప్పుకుంటే మనసు ఆ శక్తిని మంచి వైపు మళ్లిస్తుంది, ఈసారి భయంగా ఉన్నప్పుడు ప్రయత్నించి చూడు.",
+      "image": "a quiet courtyard with a lit oil lamp at night, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "భయపడితే ఏం చెప్పుకోవాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "27936196",
     "5873612",
     "34078226",
     "19202838",
@@ -1809,7 +1816,8 @@
     "38344808",
     "40891278",
     "12222644",
-    "30512846"
+    "30512846",
+    "40169252"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1825,11 +1833,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1853,5 +1861,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
