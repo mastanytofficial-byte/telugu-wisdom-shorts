@@ -1,7 +1,7 @@
 {
-  "runCount": 278,
-  "lastTitle": "అడ్డంకులు ఊహించు",
-  "lastDate": "2026-11-21T09:05:15.136Z",
+  "runCount": 279,
+  "lastTitle": "కార్డు ఖర్చు",
+  "lastDate": "2026-11-21T12:55:07.850Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1783,10 +1783,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "కల కంటే సరిపోతుందా?",
       "concept": null
+    },
+    {
+      "title": "కార్డు ఖర్చు",
+      "screen": "డబ్బు చేతిలోంచి వెళ్తుంటే బాధ ఎక్కువగా అనిపిస్తుంది, కార్డుతో ఇస్తే తక్కువగా అనిపిస్తుంది, అందుకే అనవసరమైన ఖర్చులు తగ్గాలంటే నెలకు ఎంత పోయిందో రాసి చూడు.",
+      "image": "a monsoon cloud-filled sky over green fields with a lone tree, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "కార్డుతో ఎక్కువ ఖర్చు ఎందుకు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "34078226",
     "19202838",
     "36702362",
     "25961000",
@@ -1825,7 +1832,8 @@
     "12222644",
     "30512846",
     "40169252",
-    "34705488"
+    "34705488",
+    "4077472"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1839,11 +1847,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1869,5 +1877,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
