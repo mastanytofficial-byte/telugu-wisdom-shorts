@@ -1,7 +1,7 @@
 {
-  "runCount": 277,
-  "lastTitle": "ఆందోళన, ఉత్సాహం",
-  "lastDate": "2026-11-20T13:26:30.753Z",
+  "runCount": 278,
+  "lastTitle": "అడ్డంకులు ఊహించు",
+  "lastDate": "2026-11-21T09:05:15.136Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1775,10 +1775,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "భయపడితే ఏం చెప్పుకోవాలి?",
       "concept": null
+    },
+    {
+      "title": "అడ్డంకులు ఊహించు",
+      "screen": "కలలు కనడంతో పాటు దారిలో వచ్చే అడ్డంకులను కూడా ముందే ఊహించుకునేవాళ్లు లక్ష్యాన్ని ఎక్కువగా సాధిస్తారని పరిశోధనలు చెబుతాయి, కాబట్టి నీ లక్ష్యం రాసేటప్పుడు ఆపే మూడు కారణాలు కూడా రాయి.",
+      "image": "a hand holding a glowing compass in a misty forest at dawn, cinematic vertical photography",
+      "topLabel": "MIND SECRET 🧠",
+      "hook": "కల కంటే సరిపోతుందా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "5873612",
     "34078226",
     "19202838",
     "36702362",
@@ -1817,7 +1824,8 @@
     "40891278",
     "12222644",
     "30512846",
-    "40169252"
+    "40169252",
+    "34705488"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1832,11 +1840,11 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
+    "DIWALI 🪔",
     "MIND SECRET 🧠",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1861,5 +1869,5 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
