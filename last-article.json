@@ -1,7 +1,7 @@
 {
-  "runCount": 280,
-  "lastTitle": "నడక శక్తి",
-  "lastDate": "2026-11-22T03:19:15.757Z",
+  "runCount": 281,
+  "lastTitle": "పదేళ్ల తర్వాత",
+  "lastDate": "2026-11-22T09:13:07.038Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1799,10 +1799,17 @@
       "topLabel": "BE BRAVE 🦁",
       "hook": "సమస్య తీరాలంటే ఏం చేయాలి?",
       "concept": null
+    },
+    {
+      "title": "పదేళ్ల తర్వాత",
+      "screen": "ఒక నిర్ణయం తీసుకోలేకపోతున్నప్పుడు పదేళ్ల తర్వాత నేను దీన్ని ఎలా చూస్తాను అని అడుగు, ఎందుకంటే దూరం నుంచి చూస్తే చిన్న భయాలు చిన్నగానే కనిపిస్తాయి.",
+      "image": "a field of lavender at dusk with soft haze, cinematic vertical photography",
+      "topLabel": "LIFE LESSON 💡",
+      "hook": "పదేళ్ల తర్వాత ఇది ముఖ్యమా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "36702362",
     "25961000",
     "11995874",
     "39372785",
@@ -1841,7 +1848,8 @@
     "40169252",
     "34705488",
     "4077472",
-    "38450642"
+    "38450642",
+    "34543361"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1853,7 +1861,6 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
-    "MIND SECRET 🧠",
     "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
@@ -1883,7 +1890,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "LIFE LESSON 💡"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
