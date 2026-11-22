@@ -2832,5 +2832,434 @@
   "topLabel": "NEW BEGINNING 🌅",
   "image": "a path through tall grass with golden backlight, cinematic vertical photography",
   "niche": "mind"
+ },
+ {
+  "title": "గమనించే గుణం",
+  "screen": "ఎక్కువ మాట్లాడేవాళ్లకంటే ఎక్కువ గమనించేవాళ్లకు పరిస్థితులు స్పష్టంగా అర్థమవుతాయి, కాబట్టి ఏదైనా సమావేశంలో లేదా సంభాషణలో మొదట కొంచెం సేపు మాట్లాడకుండా చుట్టూ చూసి వినడం నేర్చుకో.",
+  "highlightWords": [
+   "గమనించేవాళ్లకు",
+   "వినడం"
+  ],
+  "hook": "మాట్లాడే ముందు ఎంతసేపు గమనిస్తావు?",
+  "mood": "curious calm",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a calm owl on a branch at dusk with warm bokeh, cinematic vertical photography"
+ },
+ {
+  "title": "అవమానానికి మౌనం",
+  "screen": "ఎవరైనా నిన్ను కవ్వించినప్పుడు తిరిగి అరవడం కంటే ప్రశాంతంగా మౌనంగా ఉండటం ఎక్కువ బలాన్ని చూపుతుంది, ఎందుకంటే ఎదుటివాళ్లు ఆశించిన స్పందన నువ్వు ఇవ్వలేదు, అదే నీ గెలుపు.",
+  "highlightWords": [
+   "కవ్వించినప్పుడు",
+   "గెలుపు"
+  ],
+  "hook": "కవ్విస్తే ఏం చేయాలి?",
+  "mood": "warm insight",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a silent mountain monastery at sunrise above clouds, cinematic vertical photography"
+ },
+ {
+  "title": "రహస్యం కాపాడు",
+  "screen": "ఎవరైనా నమ్మి చెప్పిన రహస్యాన్ని ఎవరికీ చెప్పకుండా కాపాడేవాళ్లను ప్రజలు జీవితాంతం నమ్ముతారు, కాబట్టి ఎదుటివాళ్ల విశ్వాసాన్ని ఎప్పుడూ తేలికగా తీసుకోకు.",
+  "highlightWords": [
+   "రహస్యాన్ని",
+   "విశ్వాసాన్ని"
+  ],
+  "hook": "నీకు ఎవరైనా రహస్యం చెప్పగలరా?",
+  "mood": "quiet determination",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a lone candle burning in a dark room with soft light, cinematic vertical photography"
+ },
+ {
+  "title": "మాట ఇచ్చే ముందు",
+  "screen": "ఎవరికైనా మాట ఇచ్చే ముందు ఒక్క క్షణం ఆగితే నిలబెట్టుకోలేని మాటలు తగ్గుతాయి, ఎందుకంటే ఇచ్చిన ప్రతి మాట ఒక ఋణం లాంటిది, కాబట్టి తొందరగా సరే అనకుండా ఆలోచించి చెప్పు.",
+  "highlightWords": [
+   "ఒక్క",
+   "ఋణం"
+  ],
+  "hook": "ఈ మాట నిలబెట్టుకోగలవా?",
+  "mood": "hopeful dawn",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a still pond reflecting the moon with floating leaves, cinematic vertical photography"
+ },
+ {
+  "title": "శాంతం అంటుకుంటుంది",
+  "screen": "శాంతంగా ఉండేవాళ్ల చుట్టూ ఉన్నవాళ్లు కూడా ప్రశాంతంగా మారతారు, ఎందుకంటే భావాలు ఒకరి నుంచి ఒకరికి వ్యాపిస్తాయి, కాబట్టి గందరగోళంలో కూడా నీ స్వరాన్ని తక్కువగా, నెమ్మదిగా ఉంచుకో.",
+  "highlightWords": [
+   "శాంతంగా",
+   "స్వరాన్ని"
+  ],
+  "hook": "గందరగోళంలో నువ్వెలా ఉంటావు?",
+  "mood": "patient depth",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a person meditating on a rock by a river at dawn, cinematic vertical photography"
+ },
+ {
+  "title": "వినయం బలం",
+  "screen": "నాకు తెలియదు, నువ్వు చెప్పు అని అనగలిగే వినయం బలహీనత కాదు, అది ఎదుగుదలకు తలుపు, ఎందుకంటే అన్నీ తెలుసనుకునేవాళ్లు కొత్తది నేర్చుకోరు.",
+  "highlightWords": [
+   "వినయం",
+   "తలుపు"
+  ],
+  "hook": "అన్నీ తెలుసనుకుంటే ఏమవుతుంది?",
+  "mood": "curious calm",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a quiet road through misty pine forest at first light, cinematic vertical photography"
+ },
+ {
+  "title": "విమర్శను వినడం",
+  "screen": "విమర్శ వినగానే సమర్థించుకోవడం కంటే ఒక్క శ్వాస తీసుకుని పూర్తిగా వింటే అందులో నీకు ఉపయోగపడే విషయం దొరుకుతుంది, కాబట్టి విమర్శకు మొదట జవాబు కాకుండా ధన్యవాదం చెప్పి చూడు.",
+  "highlightWords": [
+   "విమర్శ",
+   "ధన్యవాదం"
+  ],
+  "hook": "విమర్శను ఎలా వినాలి?",
+  "mood": "warm insight",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a close view of a bell in a temple at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "నిశ్శబ్ద నాయకుడు",
+  "screen": "గొప్ప నాయకులు ఎక్కువగా మాట్లాడరు, ఎక్కువగా ప్రశ్నలు అడుగుతారు, ఎందుకంటే ఇతరుల ఆలోచనలను బయటకు తీసుకురావడం వాళ్లకు తెలుసు, కాబట్టి నువ్వు మాట్లాడటం కంటే ప్రశ్నించడం అలవాటు చేసుకో.",
+  "highlightWords": [
+   "నాయకులు",
+   "ప్రశ్నలు"
+  ],
+  "hook": "గొప్ప నాయకులు ఎక్కువగా ఏం చేస్తారు?",
+  "mood": "quiet determination",
+  "topLabel": "SILENT POWER 🤫",
+  "niche": "mind",
+  "image": "a sunrise breaking over a calm desert dune, cinematic vertical photography"
+ },
+ {
+  "title": "ఏ రోజైనా కొత్త మొదలు",
+  "screen": "సోమవారం, కొత్త నెల లేదా పుట్టినరోజు వంటి ప్రత్యేక తేదీలు మనసుకు కొత్త మొదలు అనే భావన ఇస్తాయని చెబుతారు, కానీ ఏ రోజైనా కొత్త మొదలు కావచ్చు, కాబట్టి ఈరోజే నీ మొదలు ఎంచుకో.",
+  "highlightWords": [
+   "తేదీలు",
+   "ఈరోజే"
+  ],
+  "hook": "కొత్త మొదలుకు ప్రత్యేక రోజు కావాలా?",
+  "mood": "hopeful dawn",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "a freshly opened flower with morning dew, cinematic vertical photography"
+ },
+ {
+  "title": "గతం నువ్వు కాదు",
+  "screen": "గతంలో నువ్వు చేసిన తప్పులు నువ్వు ఎవరో నిర్ణయించవు, నువ్వు ఈరోజు ఏమి చేస్తున్నావో అదే నిన్ను నిర్వచిస్తుంది, కాబట్టి పాత తప్పును భారంగా కాకుండా పాఠంగా చూడు.",
+  "highlightWords": [
+   "గతంలో",
+   "పాఠంగా"
+  ],
+  "hook": "నీ గతం నిన్ను నిర్వచిస్తుందా?",
+  "mood": "patient depth",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "a new road through green fields at golden hour, cinematic vertical photography"
+ },
+ {
+  "title": "కొత్త చోటు కొత్త ఆలోచన",
+  "screen": "అలవాటైన చోట ఉన్నంత కాలం పాత ఆలోచనలే తిరుగుతాయి, కాబట్టి కొత్త ఆలోచనలు కావాలంటే కొత్త దారిలో నడవడం లేదా కొత్త చోట కూర్చుని ఆలోచించడం ప్రయత్నించు.",
+  "highlightWords": [
+   "అలవాటైన",
+   "కొత్త"
+  ],
+  "hook": "కొత్త ఆలోచనలు ఎక్కడ వస్తాయి?",
+  "mood": "curious calm",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "a paper boat starting to float on a river at dawn, cinematic vertical photography"
+ },
+ {
+  "title": "వయసు అడ్డు కాదు",
+  "screen": "కొత్తది నేర్చుకోవడానికి, కొత్త పని మొదలుపెట్టడానికి వయసు అడ్డు కాదు, మెదడు ఏ వయసులోనైనా కొత్తది నేర్చుకోగలదు, కాబట్టి ఆలస్యమైంది అని ఆగిపోకు.",
+  "highlightWords": [
+   "వయసు",
+   "ఆలస్యమైంది"
+  ],
+  "hook": "మొదలుపెట్టడానికి నాకు వయసు మించిపోయిందా?",
+  "mood": "warm insight",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "a bright door opening onto a golden meadow, cinematic vertical photography"
+ },
+ {
+  "title": "రెండో అవకాశం",
+  "screen": "ఒక ప్రయత్నం విఫలమైతే అది ముగింపు కాదు, అది రెండో ప్రయత్నానికి కావలసిన అనుభవం ఇస్తుంది, కాబట్టి మళ్ళీ మొదలుపెట్టేటప్పుడు ఈసారి ఏమి మార్చాలో ఒక్కటి రాసుకో.",
+  "highlightWords": [
+   "రెండో",
+   "అనుభవం"
+  ],
+  "hook": "ఓడిపోయాక మళ్ళీ మొదలుపెట్టగలవా?",
+  "mood": "quiet determination",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "a sunrise over terraced hills with soft mist, cinematic vertical photography"
+ },
+ {
+  "title": "కొత్త దినచర్య",
+  "screen": "ఉదయం లేవగానే చేసే పనిని ఒక్కటి మార్చుకుంటే రోజంతా మారిపోయినట్టు అనిపిస్తుంది, కాబట్టి రేపు ఫోన్ చూడకుండా ఒక గ్లాసు నీళ్లు తాగడంతో రోజు మొదలుపెట్టి చూడు.",
+  "highlightWords": [
+   "ఒక్కటి",
+   "గ్లాసు"
+  ],
+  "hook": "రేపు ఉదయం ఏం మార్చుకుంటావు?",
+  "mood": "hopeful dawn",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "a child silhouette running across a field at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "కొత్త పేజీ",
+  "screen": "జీవితం ఒక పుస్తకం లాంటిది, కష్టమైన అధ్యాయం ముగిసిన తర్వాత కొత్త పేజీ తిప్పడానికి భయపడకు, ఎందుకంటే ఆ పేజీలో ఏం రాయాలో నిర్ణయించేది నువ్వే.",
+  "highlightWords": [
+   "అధ్యాయం",
+   "పేజీ"
+  ],
+  "hook": "కొత్త పేజీ తిప్పడానికి భయమా?",
+  "mood": "patient depth",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "an open notebook with a pen beside a sunlit window, cinematic vertical photography"
+ },
+ {
+  "title": "పాత వస్తువులు పాత బాధలు",
+  "screen": "ఇకపై అవసరం లేని పాత వస్తువులను ఇంటి నుంచి తీసివేస్తే మనసుకు కూడా తేలికగా అనిపిస్తుందని చాలామంది అనుభవం, కాబట్టి ఈ వారం పాత బాధను గుర్తు చేసే ఒక వస్తువును వదిలేయి.",
+  "highlightWords": [
+   "వస్తువులను",
+   "బాధను"
+  ],
+  "hook": "ఇంట్లో ఏ వస్తువు నిన్ను వెనక్కి లాగుతోంది?",
+  "mood": "curious calm",
+  "topLabel": "NEW BEGINNING 🌅",
+  "niche": "mind",
+  "image": "an empty road toward a glowing horizon at dawn, cinematic vertical photography"
+ },
+ {
+  "title": "అభిప్రాయం చెప్పు",
+  "screen": "నీ అభిప్రాయం చెప్పకపోతే ఇతరులు నీ గురించి వాళ్లే ఊహించుకుంటారు, కాబట్టి భయంగా ఉన్నా మర్యాదగా, స్పష్టంగా నీ మాట చెప్పడం నేర్చుకో, అలా చెప్పడమే గౌరవాన్ని తెస్తుంది.",
+  "highlightWords": [
+   "అభిప్రాయం",
+   "గౌరవాన్ని"
+  ],
+  "hook": "మనసులో మాట ఎందుకు చెప్పలేకపోతున్నావు?",
+  "mood": "warm insight",
+  "topLabel": "BE BRAVE 🦁",
+  "niche": "mind",
+  "image": "a first-light view of a mountain peak with a small tent, cinematic vertical photography"
+ },
+ {
+  "title": "ఒక్కరితో మాట్లాడినట్టు",
+  "screen": "చాలామంది ముందు మాట్లాడటం భయంగా ఉంటే ఆ గుంపులో ఒక్క స్నేహపూర్వక ముఖాన్ని చూసి ఆయనతోనే మాట్లాడుతున్నట్టు మాట్లాడు, ఇది భయాన్ని తగ్గిస్తుంది.",
+  "highlightWords": [
+   "గుంపులో",
+   "స్నేహపూర్వక"
+  ],
+  "hook": "వేదికపై భయం వేస్తే ఏం చేయాలి?",
+  "mood": "quiet determination",
+  "topLabel": "BE BRAVE 🦁",
+  "niche": "mind",
+  "image": "a calm lighthouse beam at blue hour above waves, cinematic vertical photography"
+ },
+ {
+  "title": "చిన్న మోతాదు ధైర్యం",
+  "screen": "భయపడే పనిని ఒక్కసారిగా చేయకుండా చిన్న చిన్న మెట్లుగా విడగొట్టి చేస్తే క్రమంగా భయం తగ్గుతుంది, కాబట్టి నీ భయానికి మొదటి చిన్న మెట్టు ఏదో ఈరోజు ఎంచుకుని ఎక్కు.",
+  "highlightWords": [
+   "మెట్లుగా",
+   "మొదటి"
+  ],
+  "hook": "భయాన్ని ఎలా తగ్గించుకోవాలి?",
+  "mood": "hopeful dawn",
+  "topLabel": "BE BRAVE 🦁",
+  "niche": "mind",
+  "image": "a lone rock stack on a stormy shoreline at golden hour, cinematic vertical photography"
+ },
+ {
+  "title": "ఓటమి గురించి చెప్పు",
+  "screen": "నీ వైఫల్యం గురించి ధైర్యంగా చెప్పుకునే వాళ్లను ప్రజలు నిజాయితీపరులుగా గౌరవిస్తారు, ఎందుకంటే వైఫల్యం దాచే వాళ్లను నమ్మడం కష్టం, కాబట్టి నీ ఓటమిని కూడా కథలా చెప్పడం నేర్చుకో.",
+  "highlightWords": [
+   "వైఫల్యం",
+   "నిజాయితీపరులుగా"
+  ],
+  "hook": "ఓటమి గురించి చెప్పడానికి సిగ్గా?",
+  "mood": "patient depth",
+  "topLabel": "BE BRAVE 🦁",
+  "niche": "mind",
+  "image": "a person on a cliff edge at sunrise looking at a vast valley, cinematic vertical photography"
+ },
+ {
+  "title": "ఎవరూ రాకపోయినా",
+  "screen": "నువ్వు మొదలుపెట్టిన పనిలో ఎవరూ నీతో కలవకపోయినా ఆగిపోకు, ఎందుకంటే చాలా గొప్ప పనులు ఒంటరిగానే మొదలవుతాయి, నువ్వు ముందు నడిచిన తర్వాతే ఇతరులు నీ వెనుక వస్తారు.",
+  "highlightWords": [
+   "ఒంటరిగానే",
+   "ముందు"
+  ],
+  "hook": "ఎవరూ రాకపోతే నువ్వు ఆగిపోతావా?",
+  "mood": "curious calm",
+  "topLabel": "BE BRAVE 🦁",
+  "niche": "mind",
+  "image": "a tall waterfall with golden mist at sunrise, cinematic vertical photography"
+ },
+ {
+  "title": "రిస్క్ లేని రిస్క్",
+  "screen": "ఏ రిస్క్ తీసుకోకుండా సురక్షితంగా ఉండటం కూడా ఒక రిస్కే, ఎందుకంటే అది నీ అవకాశాలను మెల్లగా తగ్గిస్తుంది, కాబట్టి లెక్క వేసుకుని చిన్న రిస్క్ తీసుకోవడం నేర్చుకో.",
+  "highlightWords": [
+   "సురక్షితంగా",
+   "లెక్క"
+  ],
+  "hook": "ఏ రిస్క్ తీసుకోకపోవడం సురక్షితమా?",
+  "mood": "warm insight",
+  "topLabel": "BE BRAVE 🦁",
+  "niche": "mind",
+  "image": "a lion silhouette on a rock at dusk, cinematic vertical photography"
+ },
+ {
+  "title": "కాదు అనడానికి ధైర్యం",
+  "screen": "ఇతరులను నొప్పించకూడదని ప్రతిదానికీ సరే అంటే చివరికి నువ్వే నొచ్చుకుంటావు, కాబట్టి నీకు ఇష్టం లేని పనికి మర్యాదగా కానీ స్పష్టంగా కాదు అని చెప్పే ధైర్యం పెంచుకో.",
+  "highlightWords": [
+   "నొప్పించకూడదని",
+   "స్పష్టంగా"
+  ],
+  "hook": "ప్రతిదానికీ సరే అని ఎందుకు అంటావు?",
+  "mood": "quiet determination",
+  "topLabel": "BE BRAVE 🦁",
+  "niche": "mind",
+  "image": "a stone step path climbing a misty hill, cinematic vertical photography"
+ },
+ {
+  "title": "ఎవరూ చూడనప్పుడు",
+  "screen": "ఎవరూ చూడనప్పుడు నువ్వు చేసే పనులే నీ నిజమైన వ్యక్తిత్వాన్ని చూపిస్తాయి, కాబట్టి ఎవరూ మెచ్చుకోకపోయినా నీకు సరైనదనిపించిన పనినే చేయడం అలవాటు చేసుకో.",
+  "highlightWords": [
+   "వ్యక్తిత్వాన్ని",
+   "సరైనదనిపించిన"
+  ],
+  "hook": "ఎవరూ చూడనప్పుడు నువ్వేం చేస్తావు?",
+  "mood": "hopeful dawn",
+  "topLabel": "INNER POWER 🔥",
+  "niche": "mind",
+  "image": "a flame glowing steadily inside a glass lantern at night, cinematic vertical photography"
+ },
+ {
+  "title": "నీ కథ నువ్వే రాయి",
+  "screen": "నీ గురించి నువ్వు చెప్పుకునే కథే నీ ప్రవర్తనను నిర్ణయిస్తుంది, నేను ఓడిపోయినవాడిని అని కాకుండా నేను నేర్చుకుంటున్నవాడిని అని చెప్పుకుంటే మనసు ఆ దారిలో నడుస్తుంది.",
+  "highlightWords": [
+   "కథే",
+   "నేర్చుకుంటున్నవాడిని"
+  ],
+  "hook": "నీ గురించి నువ్వు ఏం చెప్పుకుంటావు?",
+  "mood": "patient depth",
+  "topLabel": "INNER POWER 🔥",
+  "niche": "mind",
+  "image": "an old banyan tree with sunbeams at dawn, cinematic vertical photography"
+ },
+ {
+  "title": "స్వీయ క్రమశిక్షణ",
+  "screen": "మనసుకు ఇష్టం లేని రోజున కూడా చేయాల్సిన పని చేయడమే క్రమశిక్షణ, అది ఉత్సాహం మీద ఆధారపడదు, కాబట్టి నేను ఈరోజు చేస్తానని ఒక్క పని ముందే నిర్ణయించుకో.",
+  "highlightWords": [
+   "క్రమశిక్షణ",
+   "ఉత్సాహం"
+  ],
+  "hook": "ఉత్సాహం లేని రోజున ఏం చేస్తావు?",
+  "mood": "curious calm",
+  "topLabel": "INNER POWER 🔥",
+  "niche": "mind",
+  "image": "an old wooden clock on a wall in warm light, cinematic vertical photography"
+ },
+ {
+  "title": "నిన్ను నువ్వు ఒప్పుకో",
+  "screen": "నీ లోపాలను నువ్వే ఒప్పుకుంటే ఇతరుల అభిప్రాయం నిన్ను ఎక్కువగా బాధపెట్టదు, ఎందుకంటే దాచుకోవాల్సినది నీ దగ్గర ఏమీ ఉండదు, కాబట్టి ముందు నిన్ను నువ్వు మనసారా అంగీకరించు.",
+  "highlightWords": [
+   "లోపాలను",
+   "అంగీకరించు"
+  ],
+  "hook": "నిన్ను నువ్వు ఒప్పుకుంటావా?",
+  "mood": "warm insight",
+  "topLabel": "INNER POWER 🔥",
+  "niche": "mind",
+  "image": "a river flowing through a quiet valley at golden hour, cinematic vertical photography"
+ },
+ {
+  "title": "నీ విలువలు",
+  "screen": "ఏది ముఖ్యం అని నీకు స్పష్టంగా తెలిస్తే కష్టమైన నిర్ణయాలు కూడా సులభమవుతాయి, కాబట్టి నీకు అత్యంత ముఖ్యమైన మూడు విషయాలు కాగితంపై రాసి నిర్ణయాలన్నింటినీ వాటితో పోల్చి చూడు.",
+  "highlightWords": [
+   "ముఖ్యమైన",
+   "మూడు"
+  ],
+  "hook": "నీకు నిజంగా ముఖ్యమైనవి ఏమిటి?",
+  "mood": "quiet determination",
+  "topLabel": "INNER POWER 🔥",
+  "niche": "mind",
+  "image": "a pair of hands holding a warm cup in soft light, cinematic vertical photography"
+ },
+ {
+  "title": "చివరి రోజుల పశ్చాత్తాపం",
+  "screen": "జీవిత చివరి రోజుల్లో ఉన్నవాళ్లు ఎక్కువగా తాము ఇతరుల కోసం బతికామనే బాధను, ధైర్యంగా నచ్చినట్టు బతకలేకపోయామనే బాధను చెప్పుకుంటారని చెబుతారు, కాబట్టి ఈరోజు నీ కోసం ఒక్క పని చేయి.",
+  "highlightWords": [
+   "ఇతరుల",
+   "ధైర్యంగా"
+  ],
+  "hook": "చివరి రోజుల్లో ఏ బాధ మిగులుతుంది?",
+  "mood": "hopeful dawn",
+  "topLabel": "LIFE LESSON 💡",
+  "niche": "mind",
+  "image": "a field of tall grass bending in warm wind at sunset, cinematic vertical photography"
+ },
+ {
+  "title": "అందరి సలహా వినకు",
+  "screen": "ప్రతి ఒక్కరి సలహా పాటిస్తే చివరికి నీ మనసు గందరగోళం అవుతుంది, ఎందుకంటే ప్రతి సలహా వాళ్ల పరిస్థితి నుంచి వస్తుంది, కాబట్టి సలహాలు వినండి కానీ నిర్ణయం నీదే చేసుకో.",
+  "highlightWords": [
+   "సలహా",
+   "నిర్ణయం"
+  ],
+  "hook": "అందరి సలహా వింటే ఏమవుతుంది?",
+  "mood": "patient depth",
+  "topLabel": "LIFE LESSON 💡",
+  "niche": "mind",
+  "image": "a quiet beach at dusk with gentle waves and purple sky, cinematic vertical photography"
+ },
+ {
+  "title": "సమయం ఖరీదు",
+  "screen": "డబ్బు పోతే మళ్ళీ సంపాదించవచ్చు కానీ గడిచిన సమయం తిరిగి రాదు, కాబట్టి ఎవరి కోసం, దేనికోసం సమయం ఖర్చు చేస్తున్నావో ఒక్కసారి నిజాయితీగా చూసుకో.",
+  "highlightWords": [
+   "డబ్బు",
+   "సమయం"
+  ],
+  "hook": "నీ సమయం ఎవరికి వెళ్తోంది?",
+  "mood": "curious calm",
+  "topLabel": "LIFE LESSON 💡",
+  "niche": "mind",
+  "image": "a calm owl on a branch at dusk with warm bokeh, cinematic vertical photography"
+ },
+ {
+  "title": "తప్పు స్నేహం",
+  "screen": "నిన్ను ఎప్పుడూ తక్కువ చేసి మాట్లాడేవాళ్లతో స్నేహం కొనసాగించడం నీ ఆత్మవిశ్వాసాన్ని మెల్లగా తగ్గిస్తుంది, కాబట్టి నిన్ను ఎదిగేలా చేసేవాళ్లను దగ్గర పెట్టుకుని మిగతావాళ్లకు కొంచెం దూరంగా ఉండు.",
+  "highlightWords": [
+   "తక్కువ",
+   "ఎదిగేలా"
+  ],
+  "hook": "ఈ స్నేహం నిన్ను పెంచుతోందా?",
+  "mood": "warm insight",
+  "topLabel": "LIFE LESSON 💡",
+  "niche": "mind",
+  "image": "a silent mountain monastery at sunrise above clouds, cinematic vertical photography"
+ },
+ {
+  "title": "ఉన్నదానికి విలువ",
+  "screen": "మనం కోల్పోయిన తర్వాతే ఉన్నదాని విలువ తెలుసుకుంటాం, ఆరోగ్యం, కుటుంబం, సమయం వంటివి అలాంటివే, కాబట్టి ఈరోజు నీ దగ్గర ఉన్న ఒక విషయానికి మనసారా కృతజ్ఞత చెప్పు.",
+  "highlightWords": [
+   "కోల్పోయిన",
+   "కృతజ్ఞత"
+  ],
+  "hook": "ఉన్నదాని విలువ ఎప్పుడు తెలుస్తుంది?",
+  "mood": "quiet determination",
+  "topLabel": "LIFE LESSON 💡",
+  "niche": "mind",
+  "image": "a lone candle burning in a dark room with soft light, cinematic vertical photography"
  }
 ]
