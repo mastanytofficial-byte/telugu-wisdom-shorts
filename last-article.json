@@ -1,7 +1,7 @@
 {
-  "runCount": 279,
-  "lastTitle": "కార్డు ఖర్చు",
-  "lastDate": "2026-11-21T12:55:07.850Z",
+  "runCount": 280,
+  "lastTitle": "నడక శక్తి",
+  "lastDate": "2026-11-22T03:19:15.757Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1791,10 +1791,17 @@
       "topLabel": "MIND SECRET 🧠",
       "hook": "కార్డుతో ఎక్కువ ఖర్చు ఎందుకు?",
       "concept": null
+    },
+    {
+      "title": "నడక శక్తి",
+      "screen": "కష్టమైన సమస్యకు పరిష్కారం దొరకనప్పుడు కాసేపు నడిచి రావడం కొత్త ఆలోచనలు తెస్తుందని చాలామంది అనుభవం, కూర్చుని ఆలోచించడం కంటే నడక తరచుగా బాగా పనిచేస్తుంది.",
+      "image": "a window seat on a train with golden evening light passing by, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "సమస్య తీరాలంటే ఏం చేయాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "19202838",
     "36702362",
     "25961000",
     "11995874",
@@ -1833,7 +1840,8 @@
     "30512846",
     "40169252",
     "34705488",
-    "4077472"
+    "4077472",
+    "38450642"
   ],
   "themeHistory": [
     "MIND SECRET 🧠",
@@ -1846,7 +1854,6 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
-    "MIND SECRET 🧠",
     "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
@@ -1875,7 +1882,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
-    "MIND SECRET 🧠"
+    "MIND SECRET 🧠",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
