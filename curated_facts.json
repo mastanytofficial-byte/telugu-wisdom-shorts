@@ -8,8 +8,9 @@
   ],
   "hook": "ఒక్క మాట ఎందుకు మర్చిపోలేం?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouette of a person at a rain-lit window at night with warm city bokeh, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a silhouette of a person at a rain-lit window at night with warm city bokeh, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఫోన్ ఆకర్షణ",
@@ -20,8 +21,9 @@
   ],
   "hook": "ఫోన్ ఎందుకు వదలలేకపోతున్నావు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lone figure on a rooftop watching a golden sunset over the city, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a lone figure on a rooftop watching a golden sunset over the city, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆలోచన భారం",
@@ -32,8 +34,9 @@
   ],
   "hook": "ఎక్కువ ఆలోచించేవాళ్లకు ఇది తెలుసా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person walking through a glowing neon street in light rain, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a person walking through a glowing neon street in light rain, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎవరూ గమనించరు",
@@ -44,8 +47,9 @@
   ],
   "hook": "అందరూ నిన్నే గమనిస్తున్నారా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet cafe window with warm amber light and steam rising from a cup, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a quiet cafe window with warm amber light and steam rising from a cup, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఉదయం మొదటి నిమిషాలు",
@@ -56,8 +60,9 @@
   ],
   "hook": "లేవగానే ఫోన్ చూస్తున్నావా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an open notebook and pen on a wooden desk by a sunlit window, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "an open notebook and pen on a wooden desk by a sunlit window, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నిద్ర లేని రోజు",
@@ -68,8 +73,9 @@
   ],
   "hook": "చిన్న విషయానికే కోపం ఎందుకు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a cyclist riding along a coastal road at golden hour, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a cyclist riding along a coastal road at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పోలిక ప్రమాదం",
@@ -80,8 +86,9 @@
   ],
   "hook": "వాళ్లంత సంతోషంగా నువ్వెందుకు లేవు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a train passing through misty green hills at dawn, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a train passing through misty green hills at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఐదు నిమిషాల పని",
@@ -92,8 +99,9 @@
   ],
   "hook": "ఏ పనీ మొదలుపెట్టలేకపోతున్నావా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lantern-lit narrow street at dusk with warm glowing windows, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a lantern-lit narrow street at dusk with warm glowing windows, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఒంటరితనం ఖరీదు",
@@ -104,8 +112,9 @@
   ],
   "hook": "ఒంటరిగా ఉండటం ప్రమాదమా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person standing at a mountain viewpoint above a sea of clouds, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a person standing at a mountain viewpoint above a sea of clouds, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నవ్వు మాయ",
@@ -116,8 +125,9 @@
   ],
   "hook": "నవ్వితే మనసు నిజంగా మారుతుందా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a calm lake reflecting a pink and orange sky at sunrise, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a calm lake reflecting a pink and orange sky at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అలవాటు రహస్యం",
@@ -128,8 +138,9 @@
   ],
   "hook": "అలవాటు ఎందుకు నిలవదు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "city skyline at blue hour with glowing windows and long exposure traffic, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "city skyline at blue hour with glowing windows and long exposure traffic, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తెరిచిన కిటికీ",
@@ -140,8 +151,9 @@
   ],
   "hook": "మనసు ఎందుకు అలసిపోతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a forest path with golden sunbeams through tall trees, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a forest path with golden sunbeams through tall trees, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తిట్టు నీ తప్పు కాదు",
@@ -152,8 +164,9 @@
   ],
   "hook": "ఎవరైనా తిడితే నీ తప్పేనా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a woman on a balcony at sunrise with a coffee cup and city view, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a woman on a balcony at sunrise with a coffee cup and city view, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కృతజ్ఞత బలం",
@@ -164,8 +177,9 @@
   ],
   "hook": "పడుకునే ముందు ఇది చేశావా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old wooden boat on calm water at golden hour, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "an old wooden boat on calm water at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అన్నింటికీ సరే",
@@ -176,8 +190,9 @@
   ],
   "hook": "అందరికీ సరే అంటున్నావా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a field of marigold flowers at sunrise with soft mist, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a field of marigold flowers at sunrise with soft mist, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మాటల కంటే పనులు",
@@ -188,8 +203,9 @@
   ],
   "hook": "నమ్మకం ఎలా వస్తుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet temple courtyard at dawn with warm lamps, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a quiet temple courtyard at dawn with warm lamps, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వాయిదా కారణం",
@@ -200,8 +216,9 @@
   ],
   "hook": "ఎందుకు వాయిదా వేస్తున్నావు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hand holding a glowing paper lantern at night, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a hand holding a glowing paper lantern at night, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆకలి నిర్ణయం",
@@ -212,8 +229,9 @@
   ],
   "hook": "ఆకలిలో నిర్ణయం తీసుకోకు!",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person reading by a lamp in a cozy dim room with rain outside, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a person reading by a lamp in a cozy dim room with rain outside, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చిన్న విజయం",
@@ -224,8 +242,9 @@
   ],
   "hook": "రోజు ఎలా మొదలుపెడితే బాగుంటుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a crowded street at dusk with colorful light trails, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a crowded street at dusk with colorful light trails, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నిశ్శబ్దం మేలు",
@@ -236,8 +255,9 @@
   ],
   "hook": "ఐదు నిమిషాల నిశ్శబ్దం ఏం చేస్తుంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunlit staircase with long dramatic shadows, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a sunlit staircase with long dramatic shadows, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అసూయ దిక్సూచి",
@@ -248,8 +268,9 @@
   ],
   "hook": "అసూయ నీకు ఏం చెబుతోంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouette stretching arms at the beach at sunrise, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a silhouette stretching arms at the beach at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తప్పు భయం",
@@ -260,8 +281,9 @@
   ],
   "hook": "తప్పు చేస్తానేమో అని ఆగుతున్నావా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a bridge over a river at twilight with glowing lights, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a bridge over a river at twilight with glowing lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మొదటి అభిప్రాయం",
@@ -272,8 +294,9 @@
   ],
   "hook": "మొదటి చూపులో అంచనా నిజమేనా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a violet and orange twilight sky over palm trees, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a violet and orange twilight sky over palm trees, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నడక శక్తి",
@@ -284,8 +307,9 @@
   ],
   "hook": "సమస్య తీరాలంటే ఏం చేయాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a window seat on a train with golden evening light passing by, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a window seat on a train with golden evening light passing by, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సాయం ఆనందం",
@@ -296,8 +320,9 @@
   ],
   "hook": "బాధగా ఉంటే ఏం చేయాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a deep blue night sky with stars above a quiet village, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a deep blue night sky with stars above a quiet village, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సాయంత్రం తప్పులు",
@@ -308,8 +333,9 @@
   ],
   "hook": "సాయంత్రం ఎందుకు తప్పులు చేస్తాం?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a pair of shoes on a dewy grass path at sunrise, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a pair of shoes on a dewy grass path at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నిజంగా వినడం",
@@ -320,8 +346,9 @@
   ],
   "hook": "నువ్వు నిజంగా వింటున్నావా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tea stall at dawn with steam and warm light in a small town, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a tea stall at dawn with steam and warm light in a small town, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "భయంతోనే అడుగు",
@@ -332,8 +359,9 @@
   ],
   "hook": "భయం పోయాకే మొదలుపెడతావా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person on a scooter on a coastal road at sunset, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a person on a scooter on a coastal road at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఊహ నిజం కాదు",
@@ -344,8 +372,9 @@
   ],
   "hook": "ప్రతి ఆలోచన నిజమేనా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a glowing candle on a dark table with soft bokeh, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a glowing candle on a dark table with soft bokeh, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "విశ్రాంతి సోమరితనమా",
@@ -356,8 +385,9 @@
   ],
   "hook": "విశ్రాంతి తీసుకుంటే సోమరివా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a bird flying across a vivid orange sunrise sky, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a bird flying across a vivid orange sunrise sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కార్డు ఖర్చు",
@@ -368,8 +398,9 @@
   ],
   "hook": "కార్డుతో ఎక్కువ ఖర్చు ఎందుకు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a monsoon cloud-filled sky over green fields with a lone tree, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a monsoon cloud-filled sky over green fields with a lone tree, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "బాధ చెప్పుకో",
@@ -380,8 +411,9 @@
   ],
   "hook": "బాధను లోపలే దాచుకుంటున్నావా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a street lamp glowing in soft fog on a dark road, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a street lamp glowing in soft fog on a dark road, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మెచ్చుకోలు మాయ",
@@ -392,8 +424,9 @@
   ],
   "hook": "ఈరోజు ఒకరిని మెచ్చుకున్నావా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an empty swing at sunset on a hilltop, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "an empty swing at sunset on a hilltop, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నిలబడే తీరు",
@@ -404,8 +437,9 @@
   ],
   "hook": "భయంగా ఉంటే ఎలా నిలబడాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person looking at the moon from a hilltop at night, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a person looking at the moon from a hilltop at night, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "రెండు పనుల భ్రమ",
@@ -416,8 +450,9 @@
   ],
   "hook": "ఒకేసారి రెండు పనులు చేస్తున్నావా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a library corner with warm lamp light and tall bookshelves, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a library corner with warm lamp light and tall bookshelves, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మూడు రోజుల నియమం",
@@ -428,8 +463,9 @@
   ],
   "hook": "ఈ వస్తువు నిజంగా అవసరమా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunrise over terraced rice fields in golden mist, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a sunrise over terraced rice fields in golden mist, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎదురుచూపు ఆనందం",
@@ -440,8 +476,9 @@
   ],
   "hook": "ఎదురుచూపు కూడా సంతోషమే తెలుసా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a ceiling fan and curtain moving in warm morning light, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a ceiling fan and curtain moving in warm morning light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "రాస్తే తేలుతుంది",
@@ -452,8 +489,9 @@
   ],
   "hook": "మనసు గందరగోళంగా ఉందా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a calm river at dawn with a small boat and orange sky, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a calm river at dawn with a small boat and orange sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నిజమైన స్నేహితుడు",
@@ -464,8 +502,9 @@
   ],
   "hook": "నిజమైన స్నేహితుడు ఎవరు?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person sitting on steps at dusk with city lights below, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a person sitting on steps at dusk with city lights below, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇరవై సెకన్లు",
@@ -476,8 +515,9 @@
   ],
   "hook": "కోపంలో మాట్లాడితే ఏమవుతుంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a mirror reflecting soft golden window light in a quiet room, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a mirror reflecting soft golden window light in a quiet room, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వదిలేయడం నేర్చుకో",
@@ -488,8 +528,9 @@
   ],
   "hook": "ఇంత పెట్టాను, ఇప్పుడెలా వదులుతాను?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hot air balloon over green hills at sunrise, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a hot air balloon over green hills at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నమ్మినదే వెతుకుతాం",
@@ -500,8 +541,9 @@
   ],
   "hook": "మనసు ఎందుకు ఒప్పుకోదు?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lighthouse on a cliff at dusk with warm sky, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a lighthouse on a cliff at dusk with warm sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "జతచేసే అలవాటు",
@@ -512,8 +554,9 @@
   ],
   "hook": "కొత్త అలవాటు సులభంగా నిలవాలంటే?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a path of stepping stones across a calm river in golden light, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a path of stepping stones across a calm river in golden light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నీ పేరుతో మాట్లాడు",
@@ -524,8 +567,9 @@
   ],
   "hook": "నీతో నువ్వు ఎలా మాట్లాడుకుంటావు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hanging bridge over a misty valley at dawn, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a hanging bridge over a misty valley at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఫోన్ దూరంగా పెట్టు",
@@ -536,8 +580,9 @@
   ],
   "hook": "ఫోన్ పక్కన ఉంటే ఏమవుతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old library ladder and warm lamp light, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "an old library ladder and warm lamp light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "విసుగులో ఆలోచన",
@@ -548,8 +593,9 @@
   ],
   "hook": "విసుగు మంచిదా చెడ్డదా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a spiral staircase from above with warm light, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a spiral staircase from above with warm light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సమయం సాగే గుణం",
@@ -560,8 +606,9 @@
   ],
   "hook": "పని ఎందుకు ఎప్పుడూ ఆలస్యం అవుతుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a boat in a still harbor at blue hour, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a boat in a still harbor at blue hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కొంచెం అసౌకర్యం",
@@ -572,8 +619,9 @@
   ],
   "hook": "సౌకర్యం నిన్ను ఆపుతోందా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a close view of raindrops on a window with warm city lights behind, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a close view of raindrops on a window with warm city lights behind, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అందరూ చేస్తున్నారని",
@@ -584,8 +632,9 @@
   ],
   "hook": "అందరూ చేస్తే నువ్వూ చేస్తావా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a campfire on a hilltop under a starry sky, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a campfire on a hilltop under a starry sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నా చేతి ఫలితం",
@@ -596,8 +645,9 @@
   ],
   "hook": "నీ కష్టానికి విలువ ఇస్తున్నావా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "autumn leaves on a quiet road at golden hour, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "autumn leaves on a quiet road at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మొదటి సంఖ్య",
@@ -608,8 +658,9 @@
   ],
   "hook": "ఈ ధర నిజంగా చౌకేనా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tall tree alone in a field at sunset, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a tall tree alone in a field at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అందరూ ముందుకెళ్తున్నారా",
@@ -620,8 +671,9 @@
   ],
   "hook": "నేను వెనకబడ్డానా అనిపిస్తోందా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person flying a kite on a beach at sunset, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a person flying a kite on a beach at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కొత్తగా తెలిసినవాళ్లు",
@@ -632,8 +684,9 @@
   ],
   "hook": "నాకు అన్నీ తెలుసు అనిపిస్తోందా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a waterfall in a green forest with soft sunbeams, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a waterfall in a green forest with soft sunbeams, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇస్తే తిరిగి వస్తుంది",
@@ -644,8 +697,9 @@
   ],
   "hook": "ఎవరికైనా ముందు సాయం చేశావా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a vintage clock on a wall in warm light, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a vintage clock on a wall in warm light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నిద్రలో నేర్చుకుంటాం",
@@ -656,8 +710,9 @@
   ],
   "hook": "రాత్రంతా చదివితే నిజంగా గుర్తుంటుందా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a desert dune with long soft shadows at sunrise, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a desert dune with long soft shadows at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చేత్తో రాస్తే గుర్తుంటుంది",
@@ -668,8 +723,9 @@
   ],
   "hook": "ఏదైనా గుర్తుండాలంటే ఏం చేయాలి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a mountain lake reflecting snowy peaks at dawn, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a mountain lake reflecting snowy peaks at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చెప్పి నేర్చుకో",
@@ -680,8 +736,9 @@
   ],
   "hook": "నేర్చుకున్నది గుర్తుండాలంటే ఎలా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a row of colorful lanterns glowing at night, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a row of colorful lanterns glowing at night, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పాట మనసును మారుస్తుంది",
@@ -692,8 +749,9 @@
   ],
   "hook": "దిగులుగా ఉంటే ఏం వినాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a wooden door opening to bright morning light, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a wooden door opening to bright morning light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ప్రకృతి విరామం",
@@ -704,8 +762,9 @@
   ],
   "hook": "మనసు చికాకుగా ఉంటే ఎక్కడికి వెళ్లాలి?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tea garden hills with soft morning fog, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a tea garden hills with soft morning fog, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నెమ్మది శ్వాస",
@@ -716,8 +775,9 @@
   ],
   "hook": "భయం వేస్తే మొదట ఏం చేయాలి?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a fishing net at a calm shoreline at golden hour, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a fishing net at a calm shoreline at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎప్పుడు, ఎక్కడ",
@@ -728,8 +788,9 @@
   ],
   "hook": "అనుకున్నది ఎందుకు చేయలేకపోతున్నాం?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a street musician silhouette at dusk with bokeh lights, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a street musician silhouette at dusk with bokeh lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మొదలుపెడితేనే ఉత్సాహం",
@@ -740,8 +801,9 @@
   ],
   "hook": "ఉత్సాహం వచ్చాకే మొదలుపెడతావా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunlit window with fluttering white curtains, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a sunlit window with fluttering white curtains, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పరిపూర్ణత అడ్డు",
@@ -752,8 +814,9 @@
   ],
   "hook": "అన్నీ సిద్ధమయ్యాకే మొదలుపెడతావా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a small plant sprouting through soil in warm light, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a small plant sprouting through soil in warm light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ధన్యవాదం చెప్పు",
@@ -764,8 +827,9 @@
   ],
   "hook": "ఎవరికైనా ధన్యవాదం చెప్పావా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a night train station platform with warm lamps, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a night train station platform with warm lamps, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కొత్తదనం కరిగిపోతుంది",
@@ -776,8 +840,9 @@
   ],
   "hook": "సంతోషం ఎందుకు త్వరగా పోతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a paper boat on a rain puddle with reflected lights, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a paper boat on a rain puddle with reflected lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "జ్ఞాపకాల విలువ",
@@ -788,8 +853,9 @@
   ],
   "hook": "ఏది ఎక్కువ కాలం సంతోషం ఇస్తుంది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a field of sunflowers at golden hour, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a field of sunflowers at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ముగింపే గుర్తుండేది",
@@ -800,8 +866,9 @@
   ],
   "hook": "ఏ భాగం ఎక్కువగా గుర్తుంటుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a winding mountain road at sunrise with mist, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a winding mountain road at sunrise with mist, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పేరు పలుకు",
@@ -812,8 +879,9 @@
   ],
   "hook": "ఎవరినైనా పేరు పెట్టి పిలిచావా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouette of birds flying over a sunset sea, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a silhouette of birds flying over a sunset sea, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నీకు నువ్వే స్నేహితుడివి",
@@ -824,8 +892,9 @@
   ],
   "hook": "నీకు నువ్వు స్నేహితుడివేనా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an open umbrella on a wet street with neon reflections, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "an open umbrella on a wet street with neon reflections, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎక్కువ స్క్రోల్ ఎక్కువ ఒంటరితనం",
@@ -836,8 +905,9 @@
   ],
   "hook": "ఎక్కువ స్క్రోల్ చేస్తే ఏమవుతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a cozy reading corner with a blanket and warm lamp, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a cozy reading corner with a blanket and warm lamp, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఉదయపు వెలుతురు",
@@ -848,8 +918,9 @@
   ],
   "hook": "మంచి నిద్రకు ఉదయం ఏం చేయాలి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a river bend seen from a hill at golden hour, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a river bend seen from a hill at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నీళ్లు తాగు",
@@ -860,8 +931,9 @@
   ],
   "hook": "అలసటగా ఉంటే ముందు ఏం చేయాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "stairs leading up to a hilltop temple at dawn, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "stairs leading up to a hilltop temple at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "బిజీ కాని సమయం",
@@ -872,8 +944,9 @@
   ],
   "hook": "ఎదురుచూపు ఎందుకు ఇంత నెమ్మదిగా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sparkler glowing in the dark with soft bokeh, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a sparkler glowing in the dark with soft bokeh, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎక్కువ ఎంపికల భారం",
@@ -884,8 +957,9 @@
   ],
   "hook": "ఎక్కువ ఎంపికలు ఉంటే ఏమవుతుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet pier extending into a calm purple sea at dusk, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a quiet pier extending into a calm purple sea at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇరవై ఐదు ఐదు",
@@ -896,8 +970,9 @@
   ],
   "hook": "ఎక్కువ పని అలసట లేకుండా ఎలా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a snow-covered pine forest in soft morning light, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a snow-covered pine forest in soft morning light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎదుటివాళ్లు ప్రతిబింబం",
@@ -908,8 +983,9 @@
   ],
   "hook": "ఎదుటివాళ్లు నీలాగే ఎందుకు ప్రవర్తిస్తారు?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "cherry blossom branches against a pink sky, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "cherry blossom branches against a pink sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆశలు నిరాశలు",
@@ -920,8 +996,9 @@
   ],
   "hook": "ఎక్కువ ఆశ పెడితే ఏమవుతుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a window with a view of distant lightning over hills at dusk, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a window with a view of distant lightning over hills at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇంకా చేయలేదు",
@@ -932,8 +1009,9 @@
   ],
   "hook": "చేయలేను అనే బదులు ఏమనాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a pair of old boots on a mountain trail at sunrise, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a pair of old boots on a mountain trail at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చేయని పని బాధ",
@@ -944,8 +1022,9 @@
   ],
   "hook": "ఏ బాధ ఎక్కువ కాలం ఉంటుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an hourglass on a wooden table in warm light, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "an hourglass on a wooden table in warm light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తరచూ చూస్తే ఇష్టం",
@@ -956,8 +1035,9 @@
   ],
   "hook": "ఎందుకు కొన్ని విషయాలు నచ్చుతాయి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lone lantern floating on a river at dusk, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a lone lantern floating on a river at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అందం మాయ",
@@ -968,8 +1048,9 @@
   ],
   "hook": "రూపం చూసి మనిషిని తెలుసుకోగలమా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a glass window with soft golden dust particles in sunlight, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a glass window with soft golden dust particles in sunlight, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నమ్మకం శక్తి",
@@ -980,8 +1061,9 @@
   ],
   "hook": "నీ నమ్మకం ఎవరినైనా మార్చగలదా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "rolling green tea hills with a small winding path at sunrise, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "rolling green tea hills with a small winding path at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "రాత్రి ఆందోళన",
@@ -992,8 +1074,9 @@
   ],
   "hook": "రాత్రి నిద్ర ఎందుకు రాదు?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouette of a person on a rock by a misty lake at dawn, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a silhouette of a person on a rock by a misty lake at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "లైక్‌ల వలలో",
@@ -1004,8 +1087,9 @@
   ],
   "hook": "లైక్‌ల కోసం ఎందుకు ఎదురుచూస్తాం?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a bright orange sunrise behind palm trees on a beach, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a bright orange sunrise behind palm trees on a beach, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "భవిష్యత్తులో నువ్వు",
@@ -1016,8 +1100,9 @@
   ],
   "hook": "రేపటి నువ్వు ఎవరు?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a wooden swing under a big tree in golden evening light, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a wooden swing under a big tree in golden evening light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పది నిమిషాల నడక",
@@ -1028,8 +1113,9 @@
   ],
   "hook": "మనసు బాగోకపోతే ఏం చేయాలి?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a long empty train track disappearing into a golden sunset, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a long empty train track disappearing into a golden sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మాటల రంగు",
@@ -1040,8 +1126,9 @@
   ],
   "hook": "ఇతరుల గురించి మాట్లాడితే ఏమవుతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hand reaching toward warm sunlight through trees, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a hand reaching toward warm sunlight through trees, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వాసన జ్ఞాపకం",
@@ -1052,8 +1139,9 @@
   ],
   "hook": "వాసన ఎందుకు పాత రోజులను గుర్తు చేస్తుంది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a moonlit lake with a small boat and stars, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a moonlit lake with a small boat and stars, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నమ్మకం, పని భిన్నమైతే",
@@ -1064,8 +1152,9 @@
   ],
   "hook": "తప్పు చేసి ఎందుకు సమర్థించుకుంటాం?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a market street at dusk with warm string lights, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a market street at dusk with warm string lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చూసినా సాయం చేయం",
@@ -1076,8 +1165,9 @@
   ],
   "hook": "అందరూ చూస్తే ఎవరు సాయం చేస్తారు?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hilltop village above clouds at sunrise, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a hilltop village above clouds at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చిన్న మాటతో మొదలు",
@@ -1088,8 +1178,9 @@
   ],
   "hook": "ఒక్క చిన్న మాట ఎక్కడికి తీసుకెళ్తుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a glowing city bridge at night with light trails, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a glowing city bridge at night with light trails, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కొరత ఆలోచన",
@@ -1100,8 +1191,9 @@
   ],
   "hook": "ఇబ్బందిలో ఎందుకు సరిగా ఆలోచించలేం?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a bamboo grove with sunbeams and drifting mist, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a bamboo grove with sunbeams and drifting mist, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆవలింత గుణం",
@@ -1112,8 +1204,9 @@
   ],
   "hook": "భావాలు ఒకరి నుంచి ఒకరికి అంటుకుంటాయా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunflower silhouette against a violet sky, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a sunflower silhouette against a violet sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆందోళన, ఉత్సాహం",
@@ -1124,8 +1217,9 @@
   ],
   "hook": "భయపడితే ఏం చెప్పుకోవాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet courtyard with a lit oil lamp at night, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a quiet courtyard with a lit oil lamp at night, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆగి స్పందించు",
@@ -1136,8 +1230,9 @@
   ],
   "hook": "రెచ్చగొడితే ఏం చేయాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a narrow canal with reflections of warm window lights, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a narrow canal with reflections of warm window lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ప్రయత్నం, తప్పు, నేర్చుకోవడం",
@@ -1148,8 +1243,9 @@
   ],
   "hook": "తప్పు చేస్తే ఏమవుతుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "mountain peaks above clouds in pink morning light, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "mountain peaks above clouds in pink morning light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "విడివిడిగా నేర్చుకో",
@@ -1160,8 +1256,9 @@
   ],
   "hook": "ఎలా చదివితే గుర్తుంటుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a white sailboat on calm turquoise water at sunrise, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a white sailboat on calm turquoise water at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "గంటకోసారి లేచి",
@@ -1172,8 +1269,9 @@
   ],
   "hook": "గంటల తరబడి కూర్చుంటే ఏమవుతుంది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a cobblestone alley after rain with warm shop lights, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a cobblestone alley after rain with warm shop lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "రేపటి మూడు పనులు",
@@ -1184,8 +1282,9 @@
   ],
   "hook": "రేపు ఏం చేయాలో ముందే తెలుసా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an open window overlooking terraced green hills at dawn, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "an open window overlooking terraced green hills at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నమ్మకం ఎలా పెరుగుతుంది",
@@ -1196,8 +1295,9 @@
   ],
   "hook": "నమ్మకం పెంచుకోవడం ఎలా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a campfire glow near a tent under the milky way, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a campfire glow near a tent under the milky way, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నిన్నటి నువ్వు",
@@ -1208,8 +1308,9 @@
   ],
   "hook": "నువ్వు ఎవరితో పోటీ పడుతున్నావు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a golden wheat field with a lone scarecrow at sunset, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a golden wheat field with a lone scarecrow at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కష్టమైన సంభాషణ",
@@ -1220,8 +1321,9 @@
   ],
   "hook": "చెప్పాల్సిన మాట ఎందుకు ఆపుకుంటున్నావు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person walking a dog along a misty river path at dawn, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a person walking a dog along a misty river path at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "క్షమించడం",
@@ -1232,8 +1334,9 @@
   ],
   "hook": "క్షమిస్తే ఎవరికి మేలు?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "lotus flowers on a calm pond at sunrise, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "lotus flowers on a calm pond at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తొందరపాటు తప్పులు",
@@ -1244,8 +1347,9 @@
   ],
   "hook": "తొందరపడితే తప్పులు ఎందుకు వస్తాయి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouetted fisherman on a boat at golden hour, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a silhouetted fisherman on a boat at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నోటిఫికేషన్లు ఆపు",
@@ -1256,8 +1360,9 @@
   ],
   "hook": "ఫోన్ చప్పుడు ఎంత నష్టం చేస్తుంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a spiral shell on a sandy beach in soft sunrise light, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a spiral shell on a sandy beach in soft sunrise light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అలవాటు చక్రం",
@@ -1268,8 +1373,9 @@
   ],
   "hook": "చెడ్డ అలవాటు ఎలా ఆపాలి?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hammock between palm trees at sunset, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a hammock between palm trees at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పాత జ్ఞాపకాలు బలం",
@@ -1280,8 +1386,9 @@
   ],
   "hook": "పాత రోజులు గుర్తు చేసుకుంటే ఏమవుతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a stack of old books with a candle and soft bokeh, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a stack of old books with a candle and soft bokeh, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కౌగిలి మందు",
@@ -1292,8 +1399,9 @@
   ],
   "hook": "ఒత్తిడికి సులభమైన మందు ఏది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a temple bell hanging in golden morning light, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a temple bell hanging in golden morning light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నవ్వే మందు",
@@ -1304,8 +1412,9 @@
   ],
   "hook": "ఒత్తిడి తగ్గాలంటే ఏం చేయాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a coastal cliff path with wildflowers at sunset, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a coastal cliff path with wildflowers at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ముందే ఊహించుకో",
@@ -1316,8 +1425,9 @@
   ],
   "hook": "భయపడే పని ముందు ఏం చేయాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a rain-soaked window with blurred street lights, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a rain-soaked window with blurred street lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ప్రశ్న అడిగేవాళ్లు",
@@ -1328,8 +1438,9 @@
   ],
   "hook": "ఇష్టపడే మనిషిగా ఎలా మారాలి?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a candle lit table by a window overlooking a stormy sea, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a candle lit table by a window overlooking a stormy sea, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తొంభై నిమిషాల శ్రద్ధ",
@@ -1340,8 +1451,9 @@
   ],
   "hook": "ఎంతసేపు ఏకాగ్రతతో పని చేయగలం?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old lamp post glowing in soft fog at dusk, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "an old lamp post glowing in soft fog at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చిందరవందర గది",
@@ -1352,8 +1464,9 @@
   ],
   "hook": "గది వల్ల మనసు ఎందుకు చికాకవుతుంది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a flock of birds above a field at sunrise, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a flock of birds above a field at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పొగడ్తను ఒప్పుకో",
@@ -1364,8 +1477,9 @@
   ],
   "hook": "ఎవరైనా పొగిడితే ఏమనాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet bus stop in warm evening light, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a quiet bus stop in warm evening light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పంచుకుంటే పెరుగుతుంది",
@@ -1376,8 +1490,9 @@
   ],
   "hook": "డబ్బుతో సంతోషం ఎలా కొనగలం?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a canoe in a lake surrounded by autumn forest, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a canoe in a lake surrounded by autumn forest, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "గెలిచినవాళ్లే కనిపిస్తారు",
@@ -1388,8 +1503,9 @@
   ],
   "hook": "విజయ కథల్లో ఏం దాగి ఉంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a child silhouette flying a kite on a hill at sunset, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a child silhouette flying a kite on a hill at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అపరిచితులతో మాట",
@@ -1400,8 +1516,9 @@
   ],
   "hook": "తెలియనివాళ్లతో మాట్లాడితే ఏమవుతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunrise reflected on wet sand at a beach, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a sunrise reflected on wet sand at a beach, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పదేళ్ల తర్వాత",
@@ -1412,8 +1529,9 @@
   ],
   "hook": "పదేళ్ల తర్వాత ఇది ముఖ్యమా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a field of lavender at dusk with soft haze, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a field of lavender at dusk with soft haze, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అడ్డంకులు ఊహించు",
@@ -1424,8 +1542,9 @@
   ],
   "hook": "కల కంటే సరిపోతుందా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hand holding a glowing compass in a misty forest at dawn, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a hand holding a glowing compass in a misty forest at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "గట్టిగా చెప్పుకో",
@@ -1436,8 +1555,9 @@
   ],
   "hook": "సమస్య తీరకపోతే ఏం చేయాలి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a single paper plane flying across a golden sunset sky, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a single paper plane flying across a golden sunset sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మొదటి ప్రయత్నం",
@@ -1448,8 +1568,9 @@
   ],
   "hook": "మొదటి ప్రయత్నం చెడ్డదైతే?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet rooftop terrace with fairy lights at dusk, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a quiet rooftop terrace with fairy lights at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సగం పూర్తయిందని",
@@ -1460,8 +1581,9 @@
   ],
   "hook": "ఉత్సాహం తగ్గితే ఏం చేయాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person on a pier silhouetted against a pink and purple sky, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a person on a pier silhouetted against a pink and purple sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "లాభం కంటే నష్టం",
@@ -1472,8 +1594,9 @@
   ],
   "hook": "భయం అవకాశాన్ని ఆపుతోందా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a field of tall reeds swaying in warm backlight, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a field of tall reeds swaying in warm backlight, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మాట చెప్పే తీరు",
@@ -1484,8 +1607,9 @@
   ],
   "hook": "ఒకే విషయం భిన్నంగా ఎందుకు అనిపిస్తుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old stone staircase covered in morning mist, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "an old stone staircase covered in morning mist, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కనిపించని గొరిల్లా",
@@ -1496,8 +1620,9 @@
   ],
   "hook": "కళ్లముందు ఉన్నది ఎందుకు కనిపించదు?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a crescent moon above a still lake at twilight, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a crescent moon above a still lake at twilight, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "జ్ఞాపకం మారుతుంది",
@@ -1508,8 +1633,9 @@
   ],
   "hook": "నీ జ్ఞాపకం నిజమేనా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a bright tropical beach with turquoise waves at sunrise, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a bright tropical beach with turquoise waves at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నాకు ముందే తెలుసు",
@@ -1520,8 +1646,9 @@
   ],
   "hook": "జరిగాక ముందే తెలుసనిపిస్తుందా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tiny sprout growing between cracked rocks in warm light, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a tiny sprout growing between cracked rocks in warm light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సమయం తక్కువ అంచనా",
@@ -1532,8 +1659,9 @@
   ],
   "hook": "పని ఎప్పుడూ ఆలస్యం ఎందుకు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a road sign in fog on a lonely mountain pass at dawn, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a road sign in fog on a lonely mountain pass at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "విజయం, వైఫల్యం",
@@ -1544,8 +1672,9 @@
   ],
   "hook": "ఓడిపోతే ఎవరిది తప్పు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a window of a train showing blurred golden fields, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a window of a train showing blurred golden fields, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నువ్వు ఊహించినంత కాదు",
@@ -1556,8 +1685,9 @@
   ],
   "hook": "నీ భయం ఇతరులకు కనిపిస్తుందా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hot cup of tea on a balcony railing at sunrise over hills, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a hot cup of tea on a balcony railing at sunrise over hills, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తెలిసింది అందరికీ",
@@ -1568,8 +1698,9 @@
   ],
   "hook": "మనకు తెలిసింది అందరికీ తెలుసా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an empty wooden bench under a tree in golden autumn light, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "an empty wooden bench under a tree in golden autumn light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "లీనమయ్యే పని",
@@ -1580,8 +1711,9 @@
   ],
   "hook": "సమయం తెలియని పని నీకేది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a glowing jellyfish-like lantern floating at night, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a glowing jellyfish-like lantern floating at night, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కలిపి చదవకు",
@@ -1592,8 +1724,9 @@
   ],
   "hook": "ఎలా చదివితే ఎక్కువ గుర్తుంటుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a rainy night street with colorful reflections, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a rainy night street with colorful reflections, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పుస్తకం మూసి చెప్పు",
@@ -1604,8 +1737,9 @@
   ],
   "hook": "చదివింది ఎలా గుర్తుండాలి?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an eagle soaring above mountains at sunrise, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "an eagle soaring above mountains at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నేర్చిన తర్వాత విశ్రాంతి",
@@ -1616,8 +1750,9 @@
   ],
   "hook": "నేర్చుకున్నాక వెంటనే ఏం చేయాలి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sandy path leading into a golden forest, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a sandy path leading into a golden forest, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "స్నేహితులు ఆరోగ్యం",
@@ -1628,8 +1763,9 @@
   ],
   "hook": "కష్టకాలంలో ఏది బలం?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a clear glass of water on a sunlit table with soft shadows, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a clear glass of water on a sunlit table with soft shadows, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కళ్లు చూసి మాట్లాడు",
@@ -1640,8 +1776,9 @@
   ],
   "hook": "ఎదుటివాళ్లు నిన్ను ఎలా నమ్ముతారు?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "sunbeams falling on a stone temple corridor, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "sunbeams falling on a stone temple corridor, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మౌనం మాట్లాడిస్తుంది",
@@ -1652,8 +1789,9 @@
   ],
   "hook": "ఎదుటివాళ్లు మనసు ఎప్పుడు విప్పుతారు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sailboat leaving a harbor at sunrise, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a sailboat leaving a harbor at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సగం సిద్ధం",
@@ -1664,8 +1802,9 @@
   ],
   "hook": "గడువు దగ్గర పడితే ఏమవుతుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tall lighthouse in a calm blue sea at golden hour, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a tall lighthouse in a calm blue sea at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కనిపించేలా పెట్టు",
@@ -1676,8 +1815,9 @@
   ],
   "hook": "మంచి అలవాటు సులభం చేయడం ఎలా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "autumn mist over a quiet village at dawn, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "autumn mist over a quiet village at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చెప్పి చేస్తే",
@@ -1688,8 +1828,9 @@
   ],
   "hook": "లక్ష్యం ఎందుకు మధ్యలో ఆగిపోతుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a rooftop silhouette of a city waking up at sunrise, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a rooftop silhouette of a city waking up at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నేను ఎలాంటి మనిషిని",
@@ -1700,8 +1841,9 @@
   ],
   "hook": "అలవాటు నిలవాలంటే ఎలా అనుకోవాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a pair of hands cupping warm light, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a pair of hands cupping warm light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ప్రతి అవును ఒక కాదు",
@@ -1712,8 +1854,9 @@
   ],
   "hook": "ఒప్పుకుంటే ఏం వదులుకుంటున్నావు?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a stone path across a rice field at golden hour, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a stone path across a rice field at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "రోజుకు ఒక శాతం",
@@ -1724,8 +1867,9 @@
   ],
   "hook": "చిన్న మార్పు పెద్ద ఫలితం ఇస్తుందా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a dewdrop on a leaf with sunrise bokeh, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a dewdrop on a leaf with sunrise bokeh, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పైకి చూసే పోలిక",
@@ -1736,8 +1880,9 @@
   ],
   "hook": "ఎవరిని చూసి పోల్చుకోవాలి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lone kayak on a glassy lake at dawn, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a lone kayak on a glassy lake at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎలా చేయగలను",
@@ -1748,8 +1893,9 @@
   ],
   "hook": "చేయగలనా లేక ఎలా చేయగలను?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "wind turbines on a green hill at sunset, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "wind turbines on a green hill at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నీ చేతిలో ఉన్నవి",
@@ -1760,8 +1906,9 @@
   ],
   "hook": "చింత ఎవరిని కాపాడుతుంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a mountain trail with a small tent at blue hour, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a mountain trail with a small tent at blue hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "విజయంలో అదృష్టం",
@@ -1772,8 +1919,9 @@
   ],
   "hook": "విజయం ఎంత నీది, ఎంత అదృష్టానిది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a spotlight-like sunbeam on a wooden stage in a dark hall, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a spotlight-like sunbeam on a wooden stage in a dark hall, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆస్వాదించు",
@@ -1784,8 +1932,9 @@
   ],
   "hook": "సంతోషం ఎక్కువకాలం నిలవాలంటే?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a koi pond with soft ripples in morning light, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a koi pond with soft ripples in morning light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఖాళీ సమయం హక్కు",
@@ -1796,8 +1945,9 @@
   ],
   "hook": "ఎప్పుడూ బిజీగా ఉండటం మంచిదా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a glowing window in a snowy cabin at dusk, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a glowing window in a snowy cabin at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పొగడ్త పనిచేస్తుంది",
@@ -1808,8 +1958,9 @@
   ],
   "hook": "మెచ్చుకుంటే ఎలా చెప్పాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a cliffside temple at sunrise above clouds, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a cliffside temple at sunrise above clouds, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆలోచన కంటే చర్య",
@@ -1820,8 +1971,9 @@
   ],
   "hook": "ఎక్కువ ఆలోచించి ఆగిపోతున్నావా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "distant fireworks over a calm lake at night, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "distant fireworks over a calm lake at night, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "క్షణంలో జీవించు",
@@ -1832,8 +1984,9 @@
   ],
   "hook": "ఇప్పుడు నీ మనసు ఎక్కడుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "wildflowers in a meadow with a golden sun flare, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "wildflowers in a meadow with a golden sun flare, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "రోజువారీ నిర్ణయాలు",
@@ -1844,8 +1997,9 @@
   ],
   "hook": "రోజూ నిర్ణయాలతో అలసిపోతున్నావా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person flying a drone silhouette above hills at sunrise, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a person flying a drone silhouette above hills at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "బలహీనత చూపు",
@@ -1856,8 +2010,9 @@
   ],
   "hook": "తెలియదు అని చెప్పడం బలహీనతా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a long wooden dock into a misty lake at dawn, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a long wooden dock into a misty lake at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "గమ్యం దగ్గరయ్యే కొద్దీ",
@@ -1868,8 +2023,9 @@
   ],
   "hook": "గమ్యం దగ్గరైతే వేగం ఎందుకు పెరుగుతుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a glowing hourglass on a desk in warm sunset light, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a glowing hourglass on a desk in warm sunset light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "బాధలో చెడ్డ జ్ఞాపకాలు",
@@ -1880,8 +2036,9 @@
   ],
   "hook": "దిగులులో ఏది గుర్తొస్తుంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a path of lights through a dark forest at blue hour, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a path of lights through a dark forest at blue hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇష్టంతో జతచేయి",
@@ -1892,8 +2049,9 @@
   ],
   "hook": "ఇష్టం లేని పని ఎలా చేయాలి?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a rooftop pool reflecting a pink sunset sky, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a rooftop pool reflecting a pink sunset sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ముందే గోడ కట్టు",
@@ -1904,8 +2062,9 @@
   ],
   "hook": "మనసును ఎలా అదుపులో పెట్టాలి?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old film camera on a windowsill in golden light, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "an old film camera on a windowsill in golden light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "గుంపులో బద్ధకం",
@@ -1916,8 +2075,9 @@
   ],
   "hook": "గుంపులో ఎందుకు కష్టం తగ్గుతుంది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet foggy bridge at sunrise with a lone cyclist, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a quiet foggy bridge at sunrise with a lone cyclist, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వద్దంటే కావాలనిపిస్తుంది",
@@ -1928,8 +2088,9 @@
   ],
   "hook": "వద్దంటే ఎందుకు ఎక్కువ కావాలనిపిస్తుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a rain-washed cobblestone square at dusk with lamps, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a rain-washed cobblestone square at dusk with lamps, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వరుసగా చేసిన రోజులు",
@@ -1940,8 +2101,9 @@
   ],
   "hook": "అలవాటును ఎలా నిలబెట్టుకోవాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a mountain stream with sunbeams through pine trees, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a mountain stream with sunbeams through pine trees, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కోపంలో అర్థం కాదు",
@@ -1952,8 +2114,9 @@
   ],
   "hook": "కోపంలో నిర్ణయం ఎందుకు తప్పవుతుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tall bookshelf wall with warm reading light, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a tall bookshelf wall with warm reading light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వద్దనుకుంటే వస్తుంది",
@@ -1964,8 +2127,9 @@
   ],
   "hook": "వద్దనుకున్న ఆలోచన ఎందుకు వస్తుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouette of a person doing yoga at sunrise on a rock, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a silhouette of a person doing yoga at sunrise on a rock, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "తెలిసినవాళ్లతో పలకరింపు",
@@ -1976,8 +2140,9 @@
   ],
   "hook": "అవకాశాలు ఎవరి నుంచి వస్తాయి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lantern festival sky over a calm river at night, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a lantern festival sky over a calm river at night, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చూసి నేర్చుకో",
@@ -1988,8 +2153,9 @@
   ],
   "hook": "వేగంగా నేర్చుకోవాలంటే ఏం చేయాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an orange sunset behind a lone windmill, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "an orange sunset behind a lone windmill, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "స్పష్టమైన లక్ష్యం",
@@ -2000,8 +2166,9 @@
   ],
   "hook": "లక్ష్యం స్పష్టంగా ఉందా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a window with a potted plant and sunbeam in a quiet room, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a window with a potted plant and sunbeam in a quiet room, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "రాసిన లక్ష్యం",
@@ -2012,8 +2179,9 @@
   ],
   "hook": "నీ లక్ష్యం ఎక్కడ ఉంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a night market with warm hanging bulbs and soft bokeh, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a night market with warm hanging bulbs and soft bokeh, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఎక్కువ సమాచారం",
@@ -2024,8 +2192,9 @@
   ],
   "hook": "ఎక్కువ తెలిస్తే నిర్ణయం కష్టమా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a cliff edge with a person looking at the milky way, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a cliff edge with a person looking at the milky way, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చెడు వార్తల ఉచ్చు",
@@ -2036,8 +2205,9 @@
   ],
   "hook": "వార్తలు చూసి ఎందుకు భయం పెరుగుతుంది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a wooden boat dock at dawn with mist rising, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a wooden boat dock at dawn with mist rising, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వ్యాయామం తర్వాత",
@@ -2048,8 +2218,9 @@
   ],
   "hook": "చదివే ముందు ఏం చేయాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunlit wheat field with wind and warm backlight, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a sunlit wheat field with wind and warm backlight, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "దుస్తులు మనసును",
@@ -2060,8 +2231,9 @@
   ],
   "hook": "దుస్తులు నీ మనసును మారుస్తాయా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lighthouse beam crossing a stormy sea at dusk, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a lighthouse beam crossing a stormy sea at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కోపం వెనుక బాధ",
@@ -2072,8 +2244,9 @@
   ],
   "hook": "కోపం వెనుక ఏముంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a street of old houses with warm windows after rain, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a street of old houses with warm windows after rain, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పరిపూర్ణతతో పోలిక",
@@ -2084,8 +2257,9 @@
   ],
   "hook": "ఉన్నదానికి తృప్తి ఎందుకు లేదు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a close-up of a candle flame with warm bokeh, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a close-up of a candle flame with warm bokeh, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వేరే కోణం",
@@ -2096,8 +2270,9 @@
   ],
   "hook": "సమస్యకు కొత్త దారి ఎక్కడ?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a long road through a green tunnel of trees in sunbeams, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a long road through a green tunnel of trees in sunbeams, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ముందు నీకు",
@@ -2108,8 +2283,9 @@
   ],
   "hook": "పొదుపు ఎప్పుడు మొదలుపెట్టాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouette of a man standing on a hill at golden hour, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a silhouette of a man standing on a hill at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నేర్చుకున్న నిస్సహాయత",
@@ -2120,8 +2296,9 @@
   ],
   "hook": "ఎన్నిసార్లు ఓడినా ఆగిపోవాలా?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a koi pond with lotus leaves at sunrise, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a koi pond with lotus leaves at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆశావాదం శక్తి",
@@ -2132,8 +2309,9 @@
   ],
   "hook": "ఆశావాదం కష్టాన్ని తగ్గిస్తుందా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a dark room with a single window of golden light, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a dark room with a single window of golden light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అర్థం ఉన్న పని",
@@ -2144,8 +2322,9 @@
   ],
   "hook": "పని ఎందుకు అలసట కలిగిస్తుంది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sleepy village lane at dawn with soft fog, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a sleepy village lane at dawn with soft fog, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వారాంతపు నిద్ర",
@@ -2156,8 +2335,9 @@
   ],
   "hook": "సోమవారం ఎందుకు అలసటగా ఉంటుంది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a balcony with hanging plants and warm morning sun, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a balcony with hanging plants and warm morning sun, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చేతితో రాసిన ఉత్తరం",
@@ -2168,8 +2348,9 @@
   ],
   "hook": "ఒక చిన్న ఉత్తరం ఏం చేస్తుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sandy dune with footprints at golden hour, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a sandy dune with footprints at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆశ్చర్యం వినయం",
@@ -2180,8 +2361,9 @@
   ],
   "hook": "నక్షత్రాలు చూస్తే మనసు ఎలా మారుతుంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a calm sea with a distant boat under a pink sky, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a calm sea with a distant boat under a pink sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చేతులతో పని",
@@ -2192,8 +2374,9 @@
   ],
   "hook": "ఆలోచనలు ఎక్కువైతే చేతులు ఏం చేయాలి?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a hilltop at night with city lights below, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a hilltop at night with city lights below, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మాట వినే గుణం",
@@ -2204,8 +2387,9 @@
   ],
   "hook": "ఎవరైనా బాధపడితే ముందు ఏం చేయాలి?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old bicycle by a wall in warm evening light, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "an old bicycle by a wall in warm evening light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చిన్న శుభ్రత",
@@ -2216,8 +2400,9 @@
   ],
   "hook": "రోజు మొదలుపెట్టడానికి సులభమైన పని ఏది?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tall mountain peak glowing orange at sunrise, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a tall mountain peak glowing orange at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మర్యాదగా కాదనడం",
@@ -2228,8 +2413,9 @@
   ],
   "hook": "కాదు అని ఎలా చెప్పాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet temple pond reflecting a sunset sky, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a quiet temple pond reflecting a sunset sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పరిశీలించే అలవాటు",
@@ -2240,8 +2426,9 @@
   ],
   "hook": "ఈరోజు ఏం నేర్చుకున్నావు?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a rainy window with warm lamp glow inside, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a rainy window with warm lamp glow inside, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నెమ్మదే గెలుపు",
@@ -2252,8 +2439,9 @@
   ],
   "hook": "నెమ్మదిగా వెళ్లడం తప్పా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a field of white flowers in soft morning haze, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a field of white flowers in soft morning haze, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పిల్లల కళ్లతో",
@@ -2264,8 +2452,9 @@
   ],
   "hook": "చివరిసారి ఎప్పుడు ఆశ్చర్యపోయావు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunset over a river with fishermen silhouettes, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a sunset over a river with fishermen silhouettes, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నీ ఉత్తమ సమయం",
@@ -2276,8 +2465,9 @@
   ],
   "hook": "నీ మెదడు ఎప్పుడు చురుగ్గా ఉంటుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a golden temple tower reflected in a calm pond at sunrise, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a golden temple tower reflected in a calm pond at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కష్టమైనది ముందు",
@@ -2288,8 +2478,9 @@
   ],
   "hook": "కష్టమైన పని ఎప్పుడు చేయాలి?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a vintage typewriter on a wooden desk in warm window light, cinematic vertical photography"
+  "topLabel": "BE BRAVE 🦁",
+  "image": "a vintage typewriter on a wooden desk in warm window light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఒకే రకం పనులు",
@@ -2300,8 +2491,9 @@
   ],
   "hook": "పనులు ఎందుకు అలసట కలిగిస్తాయి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a lone hiker with a lantern on a misty hill at dawn, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a lone hiker with a lantern on a misty hill at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మెసేజ్‌ల బానిస",
@@ -2312,8 +2504,9 @@
   ],
   "hook": "మెసేజ్‌లు చూసే అలవాటు నీ సమయం దొంగిలిస్తోందా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a stack of stones balanced by a calm river at golden hour, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a stack of stones balanced by a calm river at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "దగ్గరి స్నేహితులు",
@@ -2324,8 +2517,9 @@
   ],
   "hook": "నిజమైన స్నేహితులు ఎంతమంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a desk lamp glowing in a dark room with rain on the window, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a desk lamp glowing in a dark room with rain on the window, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "చాలు అనుకో",
@@ -2336,8 +2530,9 @@
   ],
   "hook": "ఎప్పుడూ ఉత్తమమే కావాలా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a quiet seaside bench facing a pink sunset, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a quiet seaside bench facing a pink sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నీ సొంత కారణం",
@@ -2348,8 +2543,9 @@
   ],
   "hook": "ఈ లక్ష్యం ఎవరిది?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a wooden bridge in a green forest at sunrise, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a wooden bridge in a green forest at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కృషిని మెచ్చుకో",
@@ -2360,8 +2556,9 @@
   ],
   "hook": "పిల్లలను ఎలా మెచ్చుకోవాలి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a person reading on a train with golden evening light, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a person reading on a train with golden evening light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇరవై నిమిషాల నిద్ర",
@@ -2372,8 +2569,9 @@
   ],
   "hook": "మధ్యాహ్నం నిద్ర వస్తే ఏం చేయాలి?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "fireflies in a dark forest with soft glow, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "fireflies in a dark forest with soft glow, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పడుకునే ముందు ఫోన్",
@@ -2384,8 +2582,9 @@
   ],
   "hook": "రాత్రి నిద్ర ఎందుకు ఆలస్యం అవుతుంది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a wide valley with morning clouds and golden sun, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a wide valley with morning clouds and golden sun, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "వెంటనే బహుమతి",
@@ -2396,8 +2595,9 @@
   ],
   "hook": "అలవాటు ఇష్టంగా మారాలంటే?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old stone well in a village at dawn, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "an old stone well in a village at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "మనసు విప్పితే",
@@ -2408,8 +2608,9 @@
   ],
   "hook": "ఎవరితో దగ్గరవ్వాలంటే ముందు ఏం చేయాలి?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a swing on a tree branch over a misty field, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a swing on a tree branch over a misty field, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "బలాలపై దృష్టి",
@@ -2420,8 +2621,9 @@
   ],
   "hook": "నీ బలమేంటో తెలుసా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunlit spiral shell on a sandy beach at dawn, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a sunlit spiral shell on a sandy beach at dawn, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "పాటల సాహిత్యం",
@@ -2432,8 +2634,9 @@
   ],
   "hook": "చదువుతూ పాటలు వింటే ఏమవుతుంది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a street lamp on a quiet hill road at dusk, cinematic vertical photography"
+  "topLabel": "KEEP GROWING 🌱",
+  "image": "a street lamp on a quiet hill road at dusk, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇరవై ఇరవై ఇరవై",
@@ -2444,8 +2647,9 @@
   ],
   "hook": "కళ్లు అలసిపోతే ఏం చేయాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a silhouette of a mountain goat on a ridge at sunrise, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a silhouette of a mountain goat on a ridge at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "అభిప్రాయం మార్చుకో",
@@ -2456,8 +2660,9 @@
   ],
   "hook": "అభిప్రాయం మార్చుకోవడం తప్పా?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a calm lake with a pier and reflected pink clouds, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a calm lake with a pier and reflected pink clouds, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆగి ఆలోచించు",
@@ -2468,8 +2673,9 @@
   ],
   "hook": "వెంటనే సమాధానం చెప్పడం సరైనదా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a glowing hot air balloon rising at dawn over fields, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a glowing hot air balloon rising at dawn over fields, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కృషి కొలత",
@@ -2480,8 +2686,9 @@
   ],
   "hook": "ఈరోజు నువ్వు దేన్ని కొలుచుకుంటావు?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a wooden hut by a river in warm evening light, cinematic vertical photography"
+  "topLabel": "INNER POWER 🔥",
+  "image": "a wooden hut by a river in warm evening light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సమయం ఇవ్వడం",
@@ -2492,8 +2699,9 @@
   ],
   "hook": "ఎవరికైనా ఒక గంట ఇచ్చావా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sailboat silhouette on an orange sea at sunset, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a sailboat silhouette on an orange sea at sunset, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఆచారం శాంతి",
@@ -2504,8 +2712,9 @@
   ],
   "hook": "ముఖ్యమైన రోజు ముందు ఏం చేయాలి?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a garden path with fallen leaves in soft golden light, cinematic vertical photography"
+  "topLabel": "STAY CALM 🍃",
+  "image": "a garden path with fallen leaves in soft golden light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "నేర్చుకునే తీరు అపోహ",
@@ -2516,8 +2725,9 @@
   ],
   "hook": "నేర్చుకోవడానికి సరైన పద్ధతి ఏది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a tall bridge over a river at blue hour with city lights, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a tall bridge over a river at blue hour with city lights, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇప్పటి సుఖం",
@@ -2528,8 +2738,9 @@
   ],
   "hook": "ఇప్పుడు కావాలనిపించేది రేపు ఉపయోగపడుతుందా?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a mossy forest with sunbeams and ferns, cinematic vertical photography"
+  "topLabel": "REALITY OF LIFE 💯",
+  "image": "a mossy forest with sunbeams and ferns, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఫిర్యాదుల అలవాటు",
@@ -2540,8 +2751,9 @@
   ],
   "hook": "ఫిర్యాదు చేసే బదులు ఏం చేయాలి?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a street with paper lanterns in warm night light, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "a street with paper lanterns in warm night light, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "సాయం అడిగితే",
@@ -2552,8 +2764,9 @@
   ],
   "hook": "సాయం అడిగితే చిన్నతనమా?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a snow-capped mountain reflected in a still lake at sunrise, cinematic vertical photography"
+  "topLabel": "TRUE WORDS ⏳",
+  "image": "a snow-capped mountain reflected in a still lake at sunrise, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "గతానికి కృతజ్ఞత",
@@ -2564,8 +2777,9 @@
   ],
   "hook": "నీ కష్టం నీకు ఏం నేర్పింది?",
   "mood": "patient depth",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a cup of chai on a window ledge with misty hills outside, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a cup of chai on a window ledge with misty hills outside, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇతరుల విజయం",
@@ -2576,8 +2790,9 @@
   ],
   "hook": "ఇతరుల విజయం నిన్ను ఎలా చేస్తుంది?",
   "mood": "curious calm",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a field with a lone tree under a purple twilight sky, cinematic vertical photography"
+  "topLabel": "LIFE LESSON 💡",
+  "image": "a field with a lone tree under a purple twilight sky, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఇతరులకు సలహా",
@@ -2588,8 +2803,9 @@
   ],
   "hook": "స్నేహితుడికి చెప్పే సలహా నీకెందుకు చెప్పుకోవు?",
   "mood": "warm insight",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "an old lighthouse on a rocky shore at golden hour, cinematic vertical photography"
+  "topLabel": "MINDSET 🧠",
+  "image": "an old lighthouse on a rocky shore at golden hour, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "ఏకాంతం బలం",
@@ -2600,8 +2816,9 @@
   ],
   "hook": "ఒంటరితనం, ఏకాంతం ఒకటేనా?",
   "mood": "quiet determination",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a sunrise over a quiet temple with a lit lamp, cinematic vertical photography"
+  "topLabel": "SILENT POWER 🤫",
+  "image": "a sunrise over a quiet temple with a lit lamp, cinematic vertical photography",
+  "niche": "mind"
  },
  {
   "title": "కొద్దిగా చేస్తే",
@@ -2612,7 +2829,8 @@
   ],
   "hook": "అలవాటు మొదలుపెట్టడానికి సులభమైన మార్గం ఏది?",
   "mood": "hopeful dawn",
-  "topLabel": "MIND SECRET 🧠",
-  "image": "a path through tall grass with golden backlight, cinematic vertical photography"
+  "topLabel": "NEW BEGINNING 🌅",
+  "image": "a path through tall grass with golden backlight, cinematic vertical photography",
+  "niche": "mind"
  }
 ]
