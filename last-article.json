@@ -1,7 +1,7 @@
 {
-  "runCount": 281,
-  "lastTitle": "పదేళ్ల తర్వాత",
-  "lastDate": "2026-11-22T09:13:07.038Z",
+  "runCount": 282,
+  "lastTitle": "తెలిసినవాళ్లతో పలకరింపు",
+  "lastDate": "2026-11-22T12:46:33.530Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1807,10 +1807,17 @@
       "topLabel": "LIFE LESSON 💡",
       "hook": "పదేళ్ల తర్వాత ఇది ముఖ్యమా?",
       "concept": null
+    },
+    {
+      "title": "తెలిసినవాళ్లతో పలకరింపు",
+      "screen": "కొత్త అవకాశాలు చాలాసార్లు దగ్గరి స్నేహితుల నుంచి కాకుండా పరిచయం మాత్రమే ఉన్నవాళ్ల నుంచి వస్తాయని పరిశోధనలు చెబుతాయి, కాబట్టి పాత పరిచయస్తులను అప్పుడప్పుడు పలకరించు.",
+      "image": "a lantern festival sky over a calm river at night, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "అవకాశాలు ఎవరి నుంచి వస్తాయి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "25961000",
     "11995874",
     "39372785",
     "6989467",
@@ -1849,10 +1856,10 @@
     "34705488",
     "4077472",
     "38450642",
-    "34543361"
+    "34543361",
+    "18223694"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1891,7 +1898,8 @@
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "BE BRAVE 🦁",
-    "LIFE LESSON 💡"
+    "LIFE LESSON 💡",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
