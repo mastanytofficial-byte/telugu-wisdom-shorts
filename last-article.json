@@ -1,7 +1,7 @@
 {
-  "runCount": 283,
-  "lastTitle": "ఒంటరితనం ఖరీదు",
-  "lastDate": "2026-11-23T10:09:05.476Z",
+  "runCount": 284,
+  "lastTitle": "అవమానానికి మౌనం",
+  "lastDate": "2026-11-23T20:10:23.007Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1823,10 +1823,17 @@
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "ఒంటరిగా ఉండటం ప్రమాదమా?",
       "concept": null
+    },
+    {
+      "title": "అవమానానికి మౌనం",
+      "screen": "ఎవరైనా నిన్ను కవ్వించినప్పుడు తిరిగి అరవడం కంటే ప్రశాంతంగా మౌనంగా ఉండటం ఎక్కువ బలాన్ని చూపుతుంది, ఎందుకంటే ఎదుటివాళ్లు ఆశించిన స్పందన నువ్వు ఇవ్వలేదు, అదే నీ గెలుపు.",
+      "image": "a silent mountain monastery at sunrise above clouds, cinematic vertical photography",
+      "topLabel": "SILENT POWER 🤫",
+      "hook": "కవ్విస్తే ఏం చేయాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "39372785",
     "6989467",
     "5873326",
     "27117864",
@@ -1865,10 +1872,10 @@
     "38450642",
     "34543361",
     "18223694",
-    "27355474"
+    "27355474",
+    "39004498"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1907,7 +1914,8 @@
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
     "TRUE WORDS ⏳",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "SILENT POWER 🤫"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
