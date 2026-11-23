@@ -1,7 +1,7 @@
 {
-  "runCount": 282,
-  "lastTitle": "తెలిసినవాళ్లతో పలకరింపు",
-  "lastDate": "2026-11-22T12:46:33.530Z",
+  "runCount": 283,
+  "lastTitle": "ఒంటరితనం ఖరీదు",
+  "lastDate": "2026-11-23T10:09:05.476Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1815,10 +1815,17 @@
       "topLabel": "TRUE WORDS ⏳",
       "hook": "అవకాశాలు ఎవరి నుంచి వస్తాయి?",
       "concept": null
+    },
+    {
+      "title": "ఒంటరితనం ఖరీదు",
+      "screen": "ఎక్కువకాలం ఒంటరిగా ఉంటే మనసు అనవసరమైన భయాలను పెంచుకుంటుంది, అందుకే రోజుకు ఒక్కరితోనైనా మనసు విప్పి మాట్లాడటం మంచి అలవాటు.",
+      "image": "a person standing at a mountain viewpoint above a sea of clouds, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "ఒంటరిగా ఉండటం ప్రమాదమా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "11995874",
     "39372785",
     "6989467",
     "5873326",
@@ -1857,10 +1864,10 @@
     "4077472",
     "38450642",
     "34543361",
-    "18223694"
+    "18223694",
+    "27355474"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1899,7 +1906,8 @@
     "MIND SECRET 🧠",
     "BE BRAVE 🦁",
     "LIFE LESSON 💡",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
