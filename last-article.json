@@ -1,7 +1,7 @@
 {
-  "runCount": 284,
-  "lastTitle": "అవమానానికి మౌనం",
-  "lastDate": "2026-11-23T20:10:23.007Z",
+  "runCount": 285,
+  "lastTitle": "నిన్నటి నువ్వు",
+  "lastDate": "2026-11-24T11:57:06.133Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1831,10 +1831,17 @@
       "topLabel": "SILENT POWER 🤫",
       "hook": "కవ్విస్తే ఏం చేయాలి?",
       "concept": null
+    },
+    {
+      "title": "నిన్నటి నువ్వు",
+      "screen": "ఇతరులతో పోల్చుకుంటే ఎప్పుడూ తృప్తి ఉండదు, కానీ నిన్నటి నీతో పోల్చుకుంటే ప్రతిరోజూ కొంచెం ముందుకెళ్లినట్టు కనిపిస్తుంది, కాబట్టి నీ పోలిక ఎప్పుడూ నీతోనే ఉండనివ్వు.",
+      "image": "a golden wheat field with a lone scarecrow at sunset, cinematic vertical photography",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "నువ్వు ఎవరితో పోటీ పడుతున్నావు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "6989467",
     "5873326",
     "27117864",
     "38217474",
@@ -1873,10 +1880,10 @@
     "34543361",
     "18223694",
     "27355474",
-    "39004498"
+    "39004498",
+    "34850031"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1915,7 +1922,8 @@
     "LIFE LESSON 💡",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
-    "SILENT POWER 🤫"
+    "SILENT POWER 🤫",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
