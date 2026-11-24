@@ -1,7 +1,7 @@
 {
-  "runCount": 285,
-  "lastTitle": "నిన్నటి నువ్వు",
-  "lastDate": "2026-11-24T11:57:06.133Z",
+  "runCount": 286,
+  "lastTitle": "నేర్చుకున్న నిస్సహాయత",
+  "lastDate": "2026-11-24T15:07:14.514Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1839,10 +1839,17 @@
       "topLabel": "KEEP GROWING 🌱",
       "hook": "నువ్వు ఎవరితో పోటీ పడుతున్నావు?",
       "concept": null
+    },
+    {
+      "title": "నేర్చుకున్న నిస్సహాయత",
+      "screen": "చాలాసార్లు ప్రయత్నించి విఫలమైతే ఇక ఏం చేసినా ప్రయోజనం లేదనే భావన మనసులో పాతుకుపోతుంది, కానీ అది అలవాటే కానీ నిజం కాదు, కాబట్టి ఒక చిన్న విజయంతో దాన్ని మార్చు.",
+      "image": "a koi pond with lotus leaves at sunrise, cinematic vertical photography",
+      "topLabel": "INNER POWER 🔥",
+      "hook": "ఎన్నిసార్లు ఓడినా ఆగిపోవాలా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "5873326",
     "27117864",
     "38217474",
     "27741118",
@@ -1881,10 +1888,10 @@
     "18223694",
     "27355474",
     "39004498",
-    "34850031"
+    "34850031",
+    "30700900"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1923,7 +1930,8 @@
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
-    "KEEP GROWING 🌱"
+    "KEEP GROWING 🌱",
+    "INNER POWER 🔥"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
