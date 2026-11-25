@@ -1,7 +1,7 @@
 {
-  "runCount": 286,
-  "lastTitle": "నేర్చుకున్న నిస్సహాయత",
-  "lastDate": "2026-11-24T15:07:14.514Z",
+  "runCount": 287,
+  "lastTitle": "చిన్న శుభ్రత",
+  "lastDate": "2026-11-25T10:47:38.273Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1847,10 +1847,17 @@
       "topLabel": "INNER POWER 🔥",
       "hook": "ఎన్నిసార్లు ఓడినా ఆగిపోవాలా?",
       "concept": null
+    },
+    {
+      "title": "చిన్న శుభ్రత",
+      "screen": "నువ్వు పడుకునే మంచం సర్దుకోవడం వంటి చిన్న పనులు రోజును క్రమశిక్షణగా మొదలుపెట్టడానికి సాయపడతాయని చాలామంది చెబుతారు, కాబట్టి రేపు లేవగానే మొదట ఒక చిన్న పని చేసి చూడు.",
+      "image": "a tall mountain peak glowing orange at sunrise, cinematic vertical photography",
+      "topLabel": "NEW BEGINNING 🌅",
+      "hook": "రోజు మొదలుపెట్టడానికి సులభమైన పని ఏది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "27117864",
     "38217474",
     "27741118",
     "14922976",
@@ -1889,10 +1896,10 @@
     "27355474",
     "39004498",
     "34850031",
-    "30700900"
+    "30700900",
+    "20752400"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1931,7 +1938,8 @@
     "REALITY OF LIFE 💯",
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
-    "INNER POWER 🔥"
+    "INNER POWER 🔥",
+    "NEW BEGINNING 🌅"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
