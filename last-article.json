@@ -1,7 +1,7 @@
 {
-  "runCount": 287,
-  "lastTitle": "చిన్న శుభ్రత",
-  "lastDate": "2026-11-25T10:47:38.273Z",
+  "runCount": 288,
+  "lastTitle": "ఇరవై నిమిషాల నిద్ర",
+  "lastDate": "2026-11-25T14:47:52.005Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1855,10 +1855,17 @@
       "topLabel": "NEW BEGINNING 🌅",
       "hook": "రోజు మొదలుపెట్టడానికి సులభమైన పని ఏది?",
       "concept": null
+    },
+    {
+      "title": "ఇరవై నిమిషాల నిద్ర",
+      "screen": "మధ్యాహ్నం అలసటగా ఉన్నప్పుడు ఇరవై నిమిషాలు చిన్న నిద్ర తీస్తే మళ్ళీ ఉత్సాహం వస్తుందని చాలామంది అనుభవం, కానీ ఎక్కువ సేపు నిద్రపోతే బద్ధకం పెరుగుతుంది, కాబట్టి అలారం పెట్టుకో.",
+      "image": "fireflies in a dark forest with soft glow, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "మధ్యాహ్నం నిద్ర వస్తే ఏం చేయాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "38217474",
     "27741118",
     "14922976",
     "28291403",
@@ -1897,10 +1904,10 @@
     "39004498",
     "34850031",
     "30700900",
-    "20752400"
+    "20752400",
+    "33032826"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "DIWALI 🪔",
@@ -1939,7 +1946,8 @@
     "SILENT POWER 🤫",
     "KEEP GROWING 🌱",
     "INNER POWER 🔥",
-    "NEW BEGINNING 🌅"
+    "NEW BEGINNING 🌅",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
