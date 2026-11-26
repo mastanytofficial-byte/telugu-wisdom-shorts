@@ -1,7 +1,7 @@
 {
-  "runCount": 288,
-  "lastTitle": "ఇరవై నిమిషాల నిద్ర",
-  "lastDate": "2026-11-25T14:47:52.005Z",
+  "runCount": 289,
+  "lastTitle": "భవిష్యత్తులో నువ్వు",
+  "lastDate": "2026-11-26T10:20:47.095Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1863,10 +1863,17 @@
       "topLabel": "STAY CALM 🍃",
       "hook": "మధ్యాహ్నం నిద్ర వస్తే ఏం చేయాలి?",
       "concept": null
+    },
+    {
+      "title": "భవిష్యత్తులో నువ్వు",
+      "screen": "వాయిదా వేసినప్పుడు మన మెదడు ఆ పని చేసే భవిష్యత్తు వ్యక్తిని ఎవరో అపరిచితుడిలా చూస్తుంది, కాబట్టి ఈరోజే కొంచెం చేసి నీ రేపటి నిన్ను కాపాడుకో.",
+      "image": "a wooden swing under a big tree in golden evening light, cinematic vertical photography",
+      "topLabel": "MINDSET 🧠",
+      "hook": "రేపటి నువ్వు ఎవరు?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "27741118",
     "14922976",
     "28291403",
     "30762715",
@@ -1905,10 +1912,10 @@
     "34850031",
     "30700900",
     "20752400",
-    "33032826"
+    "33032826",
+    "19593873"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "DIWALI 🪔",
     "DIWALI 🪔",
@@ -1947,7 +1954,8 @@
     "KEEP GROWING 🌱",
     "INNER POWER 🔥",
     "NEW BEGINNING 🌅",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "MINDSET 🧠"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
