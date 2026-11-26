@@ -1,7 +1,7 @@
 {
-  "runCount": 289,
-  "lastTitle": "భవిష్యత్తులో నువ్వు",
-  "lastDate": "2026-11-26T10:20:47.095Z",
+  "runCount": 290,
+  "lastTitle": "ఎవరూ రాకపోయినా",
+  "lastDate": "2026-11-26T14:11:48.082Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1871,10 +1871,17 @@
       "topLabel": "MINDSET 🧠",
       "hook": "రేపటి నువ్వు ఎవరు?",
       "concept": null
+    },
+    {
+      "title": "ఎవరూ రాకపోయినా",
+      "screen": "నువ్వు మొదలుపెట్టిన పనిలో ఎవరూ నీతో కలవకపోయినా ఆగిపోకు, ఎందుకంటే చాలా గొప్ప పనులు ఒంటరిగానే మొదలవుతాయి, నువ్వు ముందు నడిచిన తర్వాతే ఇతరులు నీ వెనుక వస్తారు.",
+      "image": "a tall waterfall with golden mist at sunrise, cinematic vertical photography",
+      "topLabel": "BE BRAVE 🦁",
+      "hook": "ఎవరూ రాకపోతే నువ్వు ఆగిపోతావా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "14922976",
     "28291403",
     "30762715",
     "39065299",
@@ -1913,10 +1920,10 @@
     "30700900",
     "20752400",
     "33032826",
-    "19593873"
+    "19593873",
+    "34854276"
   ],
   "themeHistory": [
-    "MIND SECRET 🧠",
     "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
@@ -1955,7 +1962,8 @@
     "INNER POWER 🔥",
     "NEW BEGINNING 🌅",
     "STAY CALM 🍃",
-    "MINDSET 🧠"
+    "MINDSET 🧠",
+    "BE BRAVE 🦁"
   ],
-  "lastBgm": "bgm-2.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
