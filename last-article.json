@@ -1,7 +1,7 @@
 {
-  "runCount": 291,
-  "lastTitle": "కౌగిలి మందు",
-  "lastDate": "2026-11-27T10:26:13.463Z",
+  "runCount": 292,
+  "lastTitle": "ఇప్పటి సుఖం",
+  "lastDate": "2026-11-27T14:08:54.957Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1887,10 +1887,17 @@
       "topLabel": "TRUE WORDS ⏳",
       "hook": "ఒత్తిడికి సులభమైన మందు ఏది?",
       "concept": null
+    },
+    {
+      "title": "ఇప్పటి సుఖం",
+      "screen": "మనం ఇప్పుడు వచ్చే చిన్న సుఖాన్ని భవిష్యత్తులో వచ్చే పెద్ద లాభం కంటే ఎక్కువగా కోరుకుంటాం, కాబట్టి ఖర్చు చేసే ముందు ఇది భవిష్యత్తులో నాకు ఏమిస్తుంది అని ఆలోచించు.",
+      "image": "a mossy forest with sunbeams and ferns, cinematic vertical photography",
+      "topLabel": "REALITY OF LIFE 💯",
+      "hook": "ఇప్పుడు కావాలనిపించేది రేపు ఉపయోగపడుతుందా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "30762715",
     "39065299",
     "37469479",
     "35879035",
@@ -1929,10 +1936,10 @@
     "33032826",
     "19593873",
     "34854276",
-    "29886727"
+    "29886727",
+    "27223232"
   ],
   "themeHistory": [
-    "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
     "MIND SECRET 🧠",
@@ -1971,7 +1978,8 @@
     "STAY CALM 🍃",
     "MINDSET 🧠",
     "BE BRAVE 🦁",
-    "TRUE WORDS ⏳"
+    "TRUE WORDS ⏳",
+    "REALITY OF LIFE 💯"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-3.mp3"
 }
