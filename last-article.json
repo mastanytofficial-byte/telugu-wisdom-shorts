@@ -1,7 +1,7 @@
 {
-  "runCount": 290,
-  "lastTitle": "ఎవరూ రాకపోయినా",
-  "lastDate": "2026-11-26T14:11:48.082Z",
+  "runCount": 291,
+  "lastTitle": "కౌగిలి మందు",
+  "lastDate": "2026-11-27T10:26:13.463Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1879,10 +1879,17 @@
       "topLabel": "BE BRAVE 🦁",
       "hook": "ఎవరూ రాకపోతే నువ్వు ఆగిపోతావా?",
       "concept": null
+    },
+    {
+      "title": "కౌగిలి మందు",
+      "screen": "ప్రేమగా కౌగిలించుకున్నప్పుడు మనసు ప్రశాంతమై ఒత్తిడి తగ్గుతుందని చాలామంది అనుభవం, కాబట్టి నీకు ఇష్టమైనవాళ్లను ఈరోజు ఒక్కసారైనా దగ్గరకు తీసుకో.",
+      "image": "a temple bell hanging in golden morning light, cinematic vertical photography",
+      "topLabel": "TRUE WORDS ⏳",
+      "hook": "ఒత్తిడికి సులభమైన మందు ఏది?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "28291403",
     "30762715",
     "39065299",
     "37469479",
@@ -1921,10 +1928,10 @@
     "20752400",
     "33032826",
     "19593873",
-    "34854276"
+    "34854276",
+    "29886727"
   ],
   "themeHistory": [
-    "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
     "DIWALI 🪔",
@@ -1963,7 +1970,8 @@
     "NEW BEGINNING 🌅",
     "STAY CALM 🍃",
     "MINDSET 🧠",
-    "BE BRAVE 🦁"
+    "BE BRAVE 🦁",
+    "TRUE WORDS ⏳"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
