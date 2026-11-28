@@ -1,7 +1,7 @@
 {
-  "runCount": 293,
-  "lastTitle": "పది నిమిషాల నడక",
-  "lastDate": "2026-11-28T09:43:15.296Z",
+  "runCount": 294,
+  "lastTitle": "చెప్పి నేర్చుకో",
+  "lastDate": "2026-11-28T13:26:07.248Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1903,10 +1903,17 @@
       "topLabel": "STAY CALM 🍃",
       "hook": "మనసు బాగోకపోతే ఏం చేయాలి?",
       "concept": null
+    },
+    {
+      "title": "చెప్పి నేర్చుకో",
+      "screen": "ఒక విషయం ఇతరులకు వివరించడానికి ప్రయత్నిస్తే మనకు ఎక్కడ తెలియదో వెంటనే తెలుస్తుంది, కాబట్టి నేర్చుకున్నది రోజూ ఒకరికి చెప్పి చూడు.",
+      "image": "a row of colorful lanterns glowing at night, cinematic vertical photography",
+      "topLabel": "KEEP GROWING 🌱",
+      "hook": "నేర్చుకున్నది గుర్తుండాలంటే ఎలా?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "37469479",
     "35879035",
     "36798463",
     "36131592",
@@ -1945,10 +1952,10 @@
     "34854276",
     "29886727",
     "27223232",
-    "39477088"
+    "39477088",
+    "15365452"
   ],
   "themeHistory": [
-    "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1987,7 +1994,8 @@
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
     "REALITY OF LIFE 💯",
-    "STAY CALM 🍃"
+    "STAY CALM 🍃",
+    "KEEP GROWING 🌱"
   ],
-  "lastBgm": "bgm-motivation.mp3"
+  "lastBgm": "bgm-2.mp3"
 }
