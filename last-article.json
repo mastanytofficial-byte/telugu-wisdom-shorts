@@ -1,7 +1,7 @@
 {
-  "runCount": 292,
-  "lastTitle": "ఇప్పటి సుఖం",
-  "lastDate": "2026-11-27T14:08:54.957Z",
+  "runCount": 293,
+  "lastTitle": "పది నిమిషాల నడక",
+  "lastDate": "2026-11-28T09:43:15.296Z",
   "used": [
     {
       "title": "చిన్న ప్రయత్నం, పెద్ద ఫలం",
@@ -1895,10 +1895,17 @@
       "topLabel": "REALITY OF LIFE 💯",
       "hook": "ఇప్పుడు కావాలనిపించేది రేపు ఉపయోగపడుతుందా?",
       "concept": null
+    },
+    {
+      "title": "పది నిమిషాల నడక",
+      "screen": "కేవలం పది నిమిషాలు నడిచినా మనసు ప్రశాంతంగా మారుతుందని చాలామంది అనుభవం, కాబట్టి దిగులుగా లేదా చికాకుగా ఉన్నప్పుడు కూర్చునే బదులు లేచి నడిచి చూడు.",
+      "image": "a long empty train track disappearing into a golden sunset, cinematic vertical photography",
+      "topLabel": "STAY CALM 🍃",
+      "hook": "మనసు బాగోకపోతే ఏం చేయాలి?",
+      "concept": null
     }
   ],
   "usedBg": [
-    "39065299",
     "37469479",
     "35879035",
     "36798463",
@@ -1937,10 +1944,10 @@
     "19593873",
     "34854276",
     "29886727",
-    "27223232"
+    "27223232",
+    "39477088"
   ],
   "themeHistory": [
-    "DIWALI 🪔",
     "DIWALI 🪔",
     "MIND SECRET 🧠",
     "MIND SECRET 🧠",
@@ -1979,7 +1986,8 @@
     "MINDSET 🧠",
     "BE BRAVE 🦁",
     "TRUE WORDS ⏳",
-    "REALITY OF LIFE 💯"
+    "REALITY OF LIFE 💯",
+    "STAY CALM 🍃"
   ],
-  "lastBgm": "bgm-3.mp3"
+  "lastBgm": "bgm-motivation.mp3"
 }
